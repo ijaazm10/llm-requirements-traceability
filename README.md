@@ -55,10 +55,20 @@ All models are evaluated on the exact same 1:3 test pairs (`splits/final_pairs_t
 
 All values are macro-averaged over the 8 projects (clean scoring) and reproduce exactly from the committed prediction files.
 
+<p align="center">
+  <img src="docs/figures/pr_scatter_f2_isocurves.png" alt="All evaluated methods in macro precision-recall space with F2 iso-curves" width="640">
+</p>
+<p align="center"><em>All methods in precision&ndash;recall space with F2 iso-curves. The all-positive baseline marks the degenerate corner of the 1:3 protocol; methods on the same curve score the same F2 with different error profiles &mdash; RAG sits on the recall side, LoRA on the precision side, the combined method pushes precision furthest.</em></p>
+
 ### Main Takeaways:
 1. **Open-weight vs. proprietary cloud (zero-shot, like-for-like):** local zero-shot Gemma 4 31B ($F_2 = 0.6938$) performs at the level of OpenAI GPT-5.4 ($F_2 = 0.6991$); Claude Sonnet 4.6 is the strongest zero-shot model ($F_2 = 0.7511$). The cloud models were evaluated **zero-shot only** — the adapted local results below are *not* a ranking against them, since applying the same adaptation to cloud models could be expected to improve them as well. The open-weight model is used for the adaptation study because it offers weight access for fine-tuning, no per-request cost at experiment scale, and full data locality.
 2. **Adaptation pays:** RAG with balanced retrieved demonstrations lifts the open-weight model to $F_2 = 0.7878$ and the combined LoRA+RAG configuration to $F_2 = 0.7947$ — although the combined method's advantage over RAG alone is **not statistically robust** across the 8 projects (Wilcoxon $p = 1.0$).
 3. **Latency vs. context trade-off:** RAG roughly doubles prompt length (~373 → ~1,488 tokens) and pushes P95 latency to ~3.3 s/pair, while LoRA V4 keeps a tight 1.6 s P95 with the strongest precision (0.687) — the better fit when review effort and latency dominate.
+
+<p align="center">
+  <img src="docs/figures/per_project_f2_heatmap.png" alt="Per-project F2 scores for the main methods" width="720">
+</p>
+<p align="center"><em>Per-project F2 for the main methods: the ordering holds across all eight projects rather than being carried by one repository &mdash; CB and JBIDE are consistently easiest, KEYCLOAK and KOGITO hardest.</em></p>
 
 ---
 
