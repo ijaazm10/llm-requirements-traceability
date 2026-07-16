@@ -1,0 +1,143 @@
+{
+  "experiment_info": {
+    "model": "bert-base-uncased",
+    "evaluation_strategy": "fixed_1to3_pairs",
+    "max_sequence_length": 64,
+    "batch_size": 16,
+    "learning_rate": 0.001,
+    "seed": 42,
+    "early_stopping_metric": "validation_loss",
+    "threshold_tuning_metric": "validation_f2"
+  },
+  "project_statistics": {
+    "AAH": {
+      "train_pairs": 804,
+      "val_pairs": 104,
+      "test_pairs": 344,
+      "test_positives": 86,
+      "test_negatives": 258
+    },
+    "BEAM": {
+      "train_pairs": 2528,
+      "val_pairs": 360,
+      "test_pairs": 1256,
+      "test_positives": 314,
+      "test_negatives": 942
+    },
+    "CB": {
+      "train_pairs": 3936,
+      "val_pairs": 548,
+      "test_pairs": 1680,
+      "test_positives": 420,
+      "test_negatives": 1260
+    },
+    "FH": {
+      "train_pairs": 2344,
+      "val_pairs": 432,
+      "test_pairs": 884,
+      "test_positives": 221,
+      "test_negatives": 663
+    },
+    "JBIDE": {
+      "train_pairs": 7880,
+      "val_pairs": 1272,
+      "test_pairs": 2664,
+      "test_positives": 666,
+      "test_negatives": 1998
+    },
+    "KEYCLOAK": {
+      "train_pairs": 4680,
+      "val_pairs": 648,
+      "test_pairs": 1940,
+      "test_positives": 485,
+      "test_negatives": 1455
+    },
+    "KOGITO": {
+      "train_pairs": 4068,
+      "val_pairs": 608,
+      "test_pairs": 1448,
+      "test_positives": 362,
+      "test_negatives": 1086
+    },
+    "PROJQUAY": {
+      "train_pairs": 1068,
+      "val_pairs": 64,
+      "test_pairs": 452,
+      "test_positives": 113,
+      "test_negatives": 339
+    }
+  },
+  "results": {
+    "AAH": {
+      "precision": 0.25384615384615383,
+      "recall": 0.7674418604651163,
+      "f1": 0.3815028901734104,
+      "f2": 0.5463576158940397,
+      "threshold": 0.45,
+      "training_time_seconds": 64.04317140579224
+    },
+    "BEAM": {
+      "precision": 0.25,
+      "recall": 1.0,
+      "f1": 0.4,
+      "f2": 0.625,
+      "threshold": 0.05,
+      "training_time_seconds": 92.01067924499512
+    },
+    "CB": {
+      "precision": 0.39775051124744376,
+      "recall": 0.9261904761904762,
+      "f1": 0.5565092989985694,
+      "f2": 0.7317531978931527,
+      "threshold": 0.5,
+      "training_time_seconds": 172.10294127464294
+    },
+    "FH": {
+      "precision": 0.25,
+      "recall": 1.0,
+      "f1": 0.4,
+      "f2": 0.625,
+      "threshold": 0.05,
+      "training_time_seconds": 93.34812211990356
+    },
+    "JBIDE": {
+      "precision": 0.2941853770869315,
+      "recall": 0.7672672672672672,
+      "f1": 0.4253017062005826,
+      "f2": 0.5805498750284027,
+      "threshold": 0.4,
+      "training_time_seconds": 534.213819026947
+    },
+    "KEYCLOAK": {
+      "precision": 0.25,
+      "recall": 1.0,
+      "f1": 0.4,
+      "f2": 0.625,
+      "threshold": 0.05,
+      "training_time_seconds": 202.4404218196869
+    },
+    "KOGITO": {
+      "precision": 0.25,
+      "recall": 1.0,
+      "f1": 0.4,
+      "f2": 0.625,
+      "threshold": 0.05,
+      "training_time_seconds": 173.58970046043396
+    },
+    "PROJQUAY": {
+      "precision": 0.2605633802816901,
+      "recall": 0.9823008849557522,
+      "f1": 0.41187384044526903,
+      "f2": 0.6321184510250569,
+      "threshold": 0.4,
+      "training_time_seconds": 66.8125786781311
+    }
+  },
+  "summary": {
+    "avg_precision": 0.2757931778077774,
+    "avg_recall": 0.9304000611098264,
+    "avg_f1": 0.42189846697722894,
+    "avg_f2": 0.6238473924800816,
+    "num_projects_completed": 8
+  }
+}

@@ -1,0 +1,6413 @@
+{
+  "created_at": "2026-06-18T10:56:34.851401",
+  "script": "9d_zero_shot_openai_batch_matched.py",
+  "model": "gpt-5.4",
+  "endpoint": "/v1/chat/completions",
+  "prompt_mode": "matched_single_user_prompt_v1_batch",
+  "prompt_template_hash": "209a9beb289a5172",
+  "max_completion_tokens": 20,
+  "temperature": 0.0,
+  "seed": 42,
+  "message_format": "single user-role message; no system prompt; no JSON mode; OpenAI Batch Chat Completions",
+  "negative_protocol": "Qwen3 top-K hard negatives, 1:3 positive:negative test pairs",
+  "projects": [
+    "KOGITO"
+  ],
+  "start_index": 650,
+  "max_pairs": 800,
+  "run_suffix": "shard_13_kogito_0650_end",
+  "requests": {
+    "KOGITO_00000": {
+      "project": "KOGITO",
+      "index": 0,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3707",
+      "label": 0,
+      "prompt_chars": 909
+    },
+    "KOGITO_00001": {
+      "project": "KOGITO",
+      "index": 1,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5024",
+      "label": 0,
+      "prompt_chars": 919
+    },
+    "KOGITO_00002": {
+      "project": "KOGITO",
+      "index": 2,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2894",
+      "label": 1,
+      "prompt_chars": 600
+    },
+    "KOGITO_00003": {
+      "project": "KOGITO",
+      "index": 3,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-318",
+      "label": 0,
+      "prompt_chars": 1452
+    },
+    "KOGITO_00004": {
+      "project": "KOGITO",
+      "index": 4,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4632",
+      "label": 0,
+      "prompt_chars": 831
+    },
+    "KOGITO_00005": {
+      "project": "KOGITO",
+      "index": 5,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4647",
+      "label": 0,
+      "prompt_chars": 1082
+    },
+    "KOGITO_00006": {
+      "project": "KOGITO",
+      "index": 6,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2910",
+      "label": 1,
+      "prompt_chars": 624
+    },
+    "KOGITO_00007": {
+      "project": "KOGITO",
+      "index": 7,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1490",
+      "label": 0,
+      "prompt_chars": 733
+    },
+    "KOGITO_00008": {
+      "project": "KOGITO",
+      "index": 8,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5032",
+      "label": 0,
+      "prompt_chars": 762
+    },
+    "KOGITO_00009": {
+      "project": "KOGITO",
+      "index": 9,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-524",
+      "label": 0,
+      "prompt_chars": 1011
+    },
+    "KOGITO_00010": {
+      "project": "KOGITO",
+      "index": 10,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3006",
+      "label": 1,
+      "prompt_chars": 887
+    },
+    "KOGITO_00011": {
+      "project": "KOGITO",
+      "index": 11,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4860",
+      "label": 0,
+      "prompt_chars": 1805
+    },
+    "KOGITO_00012": {
+      "project": "KOGITO",
+      "index": 12,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5989",
+      "label": 0,
+      "prompt_chars": 788
+    },
+    "KOGITO_00013": {
+      "project": "KOGITO",
+      "index": 13,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4230",
+      "label": 0,
+      "prompt_chars": 1128
+    },
+    "KOGITO_00014": {
+      "project": "KOGITO",
+      "index": 14,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3135",
+      "label": 1,
+      "prompt_chars": 690
+    },
+    "KOGITO_00015": {
+      "project": "KOGITO",
+      "index": 15,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4413",
+      "label": 0,
+      "prompt_chars": 1044
+    },
+    "KOGITO_00016": {
+      "project": "KOGITO",
+      "index": 16,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2723",
+      "label": 0,
+      "prompt_chars": 614
+    },
+    "KOGITO_00017": {
+      "project": "KOGITO",
+      "index": 17,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-385",
+      "label": 0,
+      "prompt_chars": 847
+    },
+    "KOGITO_00018": {
+      "project": "KOGITO",
+      "index": 18,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3464",
+      "label": 1,
+      "prompt_chars": 551
+    },
+    "KOGITO_00019": {
+      "project": "KOGITO",
+      "index": 19,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-25",
+      "label": 0,
+      "prompt_chars": 1082
+    },
+    "KOGITO_00020": {
+      "project": "KOGITO",
+      "index": 20,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1834",
+      "label": 0,
+      "prompt_chars": 769
+    },
+    "KOGITO_00021": {
+      "project": "KOGITO",
+      "index": 21,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2367",
+      "label": 0,
+      "prompt_chars": 1953
+    },
+    "KOGITO_00022": {
+      "project": "KOGITO",
+      "index": 22,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3509",
+      "label": 1,
+      "prompt_chars": 584
+    },
+    "KOGITO_00023": {
+      "project": "KOGITO",
+      "index": 23,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2696",
+      "label": 0,
+      "prompt_chars": 834
+    },
+    "KOGITO_00024": {
+      "project": "KOGITO",
+      "index": 24,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2584",
+      "label": 0,
+      "prompt_chars": 581
+    },
+    "KOGITO_00025": {
+      "project": "KOGITO",
+      "index": 25,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1214",
+      "label": 0,
+      "prompt_chars": 741
+    },
+    "KOGITO_00026": {
+      "project": "KOGITO",
+      "index": 26,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3588",
+      "label": 1,
+      "prompt_chars": 759
+    },
+    "KOGITO_00027": {
+      "project": "KOGITO",
+      "index": 27,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2136",
+      "label": 0,
+      "prompt_chars": 679
+    },
+    "KOGITO_00028": {
+      "project": "KOGITO",
+      "index": 28,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2628",
+      "label": 0,
+      "prompt_chars": 719
+    },
+    "KOGITO_00029": {
+      "project": "KOGITO",
+      "index": 29,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4427",
+      "label": 0,
+      "prompt_chars": 1214
+    },
+    "KOGITO_00030": {
+      "project": "KOGITO",
+      "index": 30,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3589",
+      "label": 1,
+      "prompt_chars": 696
+    },
+    "KOGITO_00031": {
+      "project": "KOGITO",
+      "index": 31,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3510",
+      "label": 0,
+      "prompt_chars": 862
+    },
+    "KOGITO_00032": {
+      "project": "KOGITO",
+      "index": 32,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3127",
+      "label": 0,
+      "prompt_chars": 1484
+    },
+    "KOGITO_00033": {
+      "project": "KOGITO",
+      "index": 33,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3658",
+      "label": 0,
+      "prompt_chars": 577
+    },
+    "KOGITO_00034": {
+      "project": "KOGITO",
+      "index": 34,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3608",
+      "label": 1,
+      "prompt_chars": 1058
+    },
+    "KOGITO_00035": {
+      "project": "KOGITO",
+      "index": 35,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-24",
+      "label": 0,
+      "prompt_chars": 1156
+    },
+    "KOGITO_00036": {
+      "project": "KOGITO",
+      "index": 36,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2576",
+      "label": 0,
+      "prompt_chars": 1278
+    },
+    "KOGITO_00037": {
+      "project": "KOGITO",
+      "index": 37,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1435",
+      "label": 0,
+      "prompt_chars": 636
+    },
+    "KOGITO_00038": {
+      "project": "KOGITO",
+      "index": 38,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3648",
+      "label": 1,
+      "prompt_chars": 766
+    },
+    "KOGITO_00039": {
+      "project": "KOGITO",
+      "index": 39,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3695",
+      "label": 0,
+      "prompt_chars": 882
+    },
+    "KOGITO_00040": {
+      "project": "KOGITO",
+      "index": 40,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5028",
+      "label": 0,
+      "prompt_chars": 722
+    },
+    "KOGITO_00041": {
+      "project": "KOGITO",
+      "index": 41,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-519",
+      "label": 0,
+      "prompt_chars": 1002
+    },
+    "KOGITO_00042": {
+      "project": "KOGITO",
+      "index": 42,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3704",
+      "label": 1,
+      "prompt_chars": 565
+    },
+    "KOGITO_00043": {
+      "project": "KOGITO",
+      "index": 43,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5386",
+      "label": 0,
+      "prompt_chars": 614
+    },
+    "KOGITO_00044": {
+      "project": "KOGITO",
+      "index": 44,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-731",
+      "label": 0,
+      "prompt_chars": 884
+    },
+    "KOGITO_00045": {
+      "project": "KOGITO",
+      "index": 45,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2722",
+      "label": 0,
+      "prompt_chars": 639
+    },
+    "KOGITO_00046": {
+      "project": "KOGITO",
+      "index": 46,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3843",
+      "label": 1,
+      "prompt_chars": 896
+    },
+    "KOGITO_00047": {
+      "project": "KOGITO",
+      "index": 47,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5033",
+      "label": 0,
+      "prompt_chars": 1002
+    },
+    "KOGITO_00048": {
+      "project": "KOGITO",
+      "index": 48,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4366",
+      "label": 0,
+      "prompt_chars": 750
+    },
+    "KOGITO_00049": {
+      "project": "KOGITO",
+      "index": 49,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5161",
+      "label": 0,
+      "prompt_chars": 2038
+    },
+    "KOGITO_00050": {
+      "project": "KOGITO",
+      "index": 50,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3863",
+      "label": 1,
+      "prompt_chars": 623
+    },
+    "KOGITO_00051": {
+      "project": "KOGITO",
+      "index": 51,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-6502",
+      "label": 0,
+      "prompt_chars": 649
+    },
+    "KOGITO_00052": {
+      "project": "KOGITO",
+      "index": 52,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-853",
+      "label": 0,
+      "prompt_chars": 1111
+    },
+    "KOGITO_00053": {
+      "project": "KOGITO",
+      "index": 53,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5403",
+      "label": 0,
+      "prompt_chars": 974
+    },
+    "KOGITO_00054": {
+      "project": "KOGITO",
+      "index": 54,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3878",
+      "label": 1,
+      "prompt_chars": 883
+    },
+    "KOGITO_00055": {
+      "project": "KOGITO",
+      "index": 55,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2496",
+      "label": 0,
+      "prompt_chars": 809
+    },
+    "KOGITO_00056": {
+      "project": "KOGITO",
+      "index": 56,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3742",
+      "label": 0,
+      "prompt_chars": 730
+    },
+    "KOGITO_00057": {
+      "project": "KOGITO",
+      "index": 57,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2321",
+      "label": 0,
+      "prompt_chars": 1057
+    },
+    "KOGITO_00058": {
+      "project": "KOGITO",
+      "index": 58,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3892",
+      "label": 1,
+      "prompt_chars": 594
+    },
+    "KOGITO_00059": {
+      "project": "KOGITO",
+      "index": 59,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-228",
+      "label": 0,
+      "prompt_chars": 1272
+    },
+    "KOGITO_00060": {
+      "project": "KOGITO",
+      "index": 60,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-316",
+      "label": 0,
+      "prompt_chars": 1140
+    },
+    "KOGITO_00061": {
+      "project": "KOGITO",
+      "index": 61,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2467",
+      "label": 0,
+      "prompt_chars": 948
+    },
+    "KOGITO_00062": {
+      "project": "KOGITO",
+      "index": 62,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3976",
+      "label": 1,
+      "prompt_chars": 910
+    },
+    "KOGITO_00063": {
+      "project": "KOGITO",
+      "index": 63,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1959",
+      "label": 0,
+      "prompt_chars": 685
+    },
+    "KOGITO_00064": {
+      "project": "KOGITO",
+      "index": 64,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-543",
+      "label": 0,
+      "prompt_chars": 640
+    },
+    "KOGITO_00065": {
+      "project": "KOGITO",
+      "index": 65,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2908",
+      "label": 0,
+      "prompt_chars": 657
+    },
+    "KOGITO_00066": {
+      "project": "KOGITO",
+      "index": 66,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3977",
+      "label": 1,
+      "prompt_chars": 593
+    },
+    "KOGITO_00067": {
+      "project": "KOGITO",
+      "index": 67,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3001",
+      "label": 0,
+      "prompt_chars": 628
+    },
+    "KOGITO_00068": {
+      "project": "KOGITO",
+      "index": 68,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1137",
+      "label": 0,
+      "prompt_chars": 639
+    },
+    "KOGITO_00069": {
+      "project": "KOGITO",
+      "index": 69,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5995",
+      "label": 0,
+      "prompt_chars": 615
+    },
+    "KOGITO_00070": {
+      "project": "KOGITO",
+      "index": 70,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3978",
+      "label": 1,
+      "prompt_chars": 739
+    },
+    "KOGITO_00071": {
+      "project": "KOGITO",
+      "index": 71,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5994",
+      "label": 0,
+      "prompt_chars": 615
+    },
+    "KOGITO_00072": {
+      "project": "KOGITO",
+      "index": 72,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4069",
+      "label": 0,
+      "prompt_chars": 906
+    },
+    "KOGITO_00073": {
+      "project": "KOGITO",
+      "index": 73,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4239",
+      "label": 0,
+      "prompt_chars": 703
+    },
+    "KOGITO_00074": {
+      "project": "KOGITO",
+      "index": 74,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4094",
+      "label": 1,
+      "prompt_chars": 643
+    },
+    "KOGITO_00075": {
+      "project": "KOGITO",
+      "index": 75,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2160",
+      "label": 0,
+      "prompt_chars": 666
+    },
+    "KOGITO_00076": {
+      "project": "KOGITO",
+      "index": 76,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1648",
+      "label": 0,
+      "prompt_chars": 904
+    },
+    "KOGITO_00077": {
+      "project": "KOGITO",
+      "index": 77,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-513",
+      "label": 0,
+      "prompt_chars": 1247
+    },
+    "KOGITO_00078": {
+      "project": "KOGITO",
+      "index": 78,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4113",
+      "label": 1,
+      "prompt_chars": 731
+    },
+    "KOGITO_00079": {
+      "project": "KOGITO",
+      "index": 79,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2569",
+      "label": 0,
+      "prompt_chars": 643
+    },
+    "KOGITO_00080": {
+      "project": "KOGITO",
+      "index": 80,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3662",
+      "label": 0,
+      "prompt_chars": 809
+    },
+    "KOGITO_00081": {
+      "project": "KOGITO",
+      "index": 81,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5099",
+      "label": 0,
+      "prompt_chars": 707
+    },
+    "KOGITO_00082": {
+      "project": "KOGITO",
+      "index": 82,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4158",
+      "label": 1,
+      "prompt_chars": 658
+    },
+    "KOGITO_00083": {
+      "project": "KOGITO",
+      "index": 83,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1127",
+      "label": 0,
+      "prompt_chars": 679
+    },
+    "KOGITO_00084": {
+      "project": "KOGITO",
+      "index": 84,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3379",
+      "label": 0,
+      "prompt_chars": 930
+    },
+    "KOGITO_00085": {
+      "project": "KOGITO",
+      "index": 85,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2526",
+      "label": 0,
+      "prompt_chars": 1311
+    },
+    "KOGITO_00086": {
+      "project": "KOGITO",
+      "index": 86,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4159",
+      "label": 1,
+      "prompt_chars": 726
+    },
+    "KOGITO_00087": {
+      "project": "KOGITO",
+      "index": 87,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5915",
+      "label": 0,
+      "prompt_chars": 1343
+    },
+    "KOGITO_00088": {
+      "project": "KOGITO",
+      "index": 88,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4934",
+      "label": 0,
+      "prompt_chars": 579
+    },
+    "KOGITO_00089": {
+      "project": "KOGITO",
+      "index": 89,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5089",
+      "label": 0,
+      "prompt_chars": 1133
+    },
+    "KOGITO_00090": {
+      "project": "KOGITO",
+      "index": 90,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4166",
+      "label": 1,
+      "prompt_chars": 701
+    },
+    "KOGITO_00091": {
+      "project": "KOGITO",
+      "index": 91,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1973",
+      "label": 0,
+      "prompt_chars": 789
+    },
+    "KOGITO_00092": {
+      "project": "KOGITO",
+      "index": 92,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-742",
+      "label": 0,
+      "prompt_chars": 744
+    },
+    "KOGITO_00093": {
+      "project": "KOGITO",
+      "index": 93,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-6341",
+      "label": 0,
+      "prompt_chars": 2714
+    },
+    "KOGITO_00094": {
+      "project": "KOGITO",
+      "index": 94,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4167",
+      "label": 1,
+      "prompt_chars": 667
+    },
+    "KOGITO_00095": {
+      "project": "KOGITO",
+      "index": 95,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-26",
+      "label": 0,
+      "prompt_chars": 1519
+    },
+    "KOGITO_00096": {
+      "project": "KOGITO",
+      "index": 96,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-945",
+      "label": 0,
+      "prompt_chars": 726
+    },
+    "KOGITO_00097": {
+      "project": "KOGITO",
+      "index": 97,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4064",
+      "label": 0,
+      "prompt_chars": 953
+    },
+    "KOGITO_00098": {
+      "project": "KOGITO",
+      "index": 98,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4452",
+      "label": 1,
+      "prompt_chars": 634
+    },
+    "KOGITO_00099": {
+      "project": "KOGITO",
+      "index": 99,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5231",
+      "label": 0,
+      "prompt_chars": 557
+    },
+    "KOGITO_00100": {
+      "project": "KOGITO",
+      "index": 100,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1975",
+      "label": 0,
+      "prompt_chars": 1140
+    },
+    "KOGITO_00101": {
+      "project": "KOGITO",
+      "index": 101,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2817",
+      "label": 0,
+      "prompt_chars": 831
+    },
+    "KOGITO_00102": {
+      "project": "KOGITO",
+      "index": 102,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4485",
+      "label": 1,
+      "prompt_chars": 1027
+    },
+    "KOGITO_00103": {
+      "project": "KOGITO",
+      "index": 103,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-687",
+      "label": 0,
+      "prompt_chars": 784
+    },
+    "KOGITO_00104": {
+      "project": "KOGITO",
+      "index": 104,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1901",
+      "label": 0,
+      "prompt_chars": 1161
+    },
+    "KOGITO_00105": {
+      "project": "KOGITO",
+      "index": 105,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4931",
+      "label": 0,
+      "prompt_chars": 1056
+    },
+    "KOGITO_00106": {
+      "project": "KOGITO",
+      "index": 106,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4486",
+      "label": 1,
+      "prompt_chars": 784
+    },
+    "KOGITO_00107": {
+      "project": "KOGITO",
+      "index": 107,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2315",
+      "label": 0,
+      "prompt_chars": 1428
+    },
+    "KOGITO_00108": {
+      "project": "KOGITO",
+      "index": 108,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2018",
+      "label": 0,
+      "prompt_chars": 1419
+    },
+    "KOGITO_00109": {
+      "project": "KOGITO",
+      "index": 109,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1257",
+      "label": 0,
+      "prompt_chars": 791
+    },
+    "KOGITO_00110": {
+      "project": "KOGITO",
+      "index": 110,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4487",
+      "label": 1,
+      "prompt_chars": 674
+    },
+    "KOGITO_00111": {
+      "project": "KOGITO",
+      "index": 111,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-555",
+      "label": 0,
+      "prompt_chars": 593
+    },
+    "KOGITO_00112": {
+      "project": "KOGITO",
+      "index": 112,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-806",
+      "label": 0,
+      "prompt_chars": 914
+    },
+    "KOGITO_00113": {
+      "project": "KOGITO",
+      "index": 113,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1017",
+      "label": 0,
+      "prompt_chars": 923
+    },
+    "KOGITO_00114": {
+      "project": "KOGITO",
+      "index": 114,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4617",
+      "label": 1,
+      "prompt_chars": 665
+    },
+    "KOGITO_00115": {
+      "project": "KOGITO",
+      "index": 115,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-685",
+      "label": 0,
+      "prompt_chars": 986
+    },
+    "KOGITO_00116": {
+      "project": "KOGITO",
+      "index": 116,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-6351",
+      "label": 0,
+      "prompt_chars": 962
+    },
+    "KOGITO_00117": {
+      "project": "KOGITO",
+      "index": 117,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1700",
+      "label": 0,
+      "prompt_chars": 650
+    },
+    "KOGITO_00118": {
+      "project": "KOGITO",
+      "index": 118,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4635",
+      "label": 1,
+      "prompt_chars": 617
+    },
+    "KOGITO_00119": {
+      "project": "KOGITO",
+      "index": 119,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2045",
+      "label": 0,
+      "prompt_chars": 851
+    },
+    "KOGITO_00120": {
+      "project": "KOGITO",
+      "index": 120,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4933",
+      "label": 0,
+      "prompt_chars": 575
+    },
+    "KOGITO_00121": {
+      "project": "KOGITO",
+      "index": 121,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1440",
+      "label": 0,
+      "prompt_chars": 828
+    },
+    "KOGITO_00122": {
+      "project": "KOGITO",
+      "index": 122,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4694",
+      "label": 1,
+      "prompt_chars": 1029
+    },
+    "KOGITO_00123": {
+      "project": "KOGITO",
+      "index": 123,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-545",
+      "label": 0,
+      "prompt_chars": 693
+    },
+    "KOGITO_00124": {
+      "project": "KOGITO",
+      "index": 124,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4297",
+      "label": 0,
+      "prompt_chars": 657
+    },
+    "KOGITO_00125": {
+      "project": "KOGITO",
+      "index": 125,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-652",
+      "label": 0,
+      "prompt_chars": 846
+    },
+    "KOGITO_00126": {
+      "project": "KOGITO",
+      "index": 126,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4705",
+      "label": 1,
+      "prompt_chars": 752
+    },
+    "KOGITO_00127": {
+      "project": "KOGITO",
+      "index": 127,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5070",
+      "label": 0,
+      "prompt_chars": 582
+    },
+    "KOGITO_00128": {
+      "project": "KOGITO",
+      "index": 128,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5551",
+      "label": 0,
+      "prompt_chars": 1039
+    },
+    "KOGITO_00129": {
+      "project": "KOGITO",
+      "index": 129,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4264",
+      "label": 0,
+      "prompt_chars": 2603
+    },
+    "KOGITO_00130": {
+      "project": "KOGITO",
+      "index": 130,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4990",
+      "label": 1,
+      "prompt_chars": 653
+    },
+    "KOGITO_00131": {
+      "project": "KOGITO",
+      "index": 131,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-29",
+      "label": 0,
+      "prompt_chars": 1693
+    },
+    "KOGITO_00132": {
+      "project": "KOGITO",
+      "index": 132,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1876",
+      "label": 0,
+      "prompt_chars": 848
+    },
+    "KOGITO_00133": {
+      "project": "KOGITO",
+      "index": 133,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1654",
+      "label": 0,
+      "prompt_chars": 688
+    },
+    "KOGITO_00134": {
+      "project": "KOGITO",
+      "index": 134,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5171",
+      "label": 1,
+      "prompt_chars": 568
+    },
+    "KOGITO_00135": {
+      "project": "KOGITO",
+      "index": 135,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2732",
+      "label": 0,
+      "prompt_chars": 562
+    },
+    "KOGITO_00136": {
+      "project": "KOGITO",
+      "index": 136,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3273",
+      "label": 0,
+      "prompt_chars": 1147
+    },
+    "KOGITO_00137": {
+      "project": "KOGITO",
+      "index": 137,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2308",
+      "label": 0,
+      "prompt_chars": 783
+    },
+    "KOGITO_00138": {
+      "project": "KOGITO",
+      "index": 138,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5183",
+      "label": 1,
+      "prompt_chars": 600
+    },
+    "KOGITO_00139": {
+      "project": "KOGITO",
+      "index": 139,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5395",
+      "label": 0,
+      "prompt_chars": 602
+    },
+    "KOGITO_00140": {
+      "project": "KOGITO",
+      "index": 140,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1583",
+      "label": 0,
+      "prompt_chars": 756
+    },
+    "KOGITO_00141": {
+      "project": "KOGITO",
+      "index": 141,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4930",
+      "label": 0,
+      "prompt_chars": 1052
+    },
+    "KOGITO_00142": {
+      "project": "KOGITO",
+      "index": 142,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5184",
+      "label": 1,
+      "prompt_chars": 598
+    },
+    "KOGITO_00143": {
+      "project": "KOGITO",
+      "index": 143,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-6541",
+      "label": 0,
+      "prompt_chars": 565
+    },
+    "KOGITO_00144": {
+      "project": "KOGITO",
+      "index": 144,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4065",
+      "label": 0,
+      "prompt_chars": 587
+    },
+    "KOGITO_00145": {
+      "project": "KOGITO",
+      "index": 145,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3776",
+      "label": 0,
+      "prompt_chars": 691
+    },
+    "KOGITO_00146": {
+      "project": "KOGITO",
+      "index": 146,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5211",
+      "label": 1,
+      "prompt_chars": 694
+    },
+    "KOGITO_00147": {
+      "project": "KOGITO",
+      "index": 147,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2677",
+      "label": 0,
+      "prompt_chars": 883
+    },
+    "KOGITO_00148": {
+      "project": "KOGITO",
+      "index": 148,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4932",
+      "label": 0,
+      "prompt_chars": 579
+    },
+    "KOGITO_00149": {
+      "project": "KOGITO",
+      "index": 149,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-693",
+      "label": 0,
+      "prompt_chars": 1397
+    },
+    "KOGITO_00150": {
+      "project": "KOGITO",
+      "index": 150,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5239",
+      "label": 1,
+      "prompt_chars": 573
+    },
+    "KOGITO_00151": {
+      "project": "KOGITO",
+      "index": 151,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1078",
+      "label": 0,
+      "prompt_chars": 568
+    },
+    "KOGITO_00152": {
+      "project": "KOGITO",
+      "index": 152,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1080",
+      "label": 0,
+      "prompt_chars": 568
+    },
+    "KOGITO_00153": {
+      "project": "KOGITO",
+      "index": 153,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4760",
+      "label": 0,
+      "prompt_chars": 774
+    },
+    "KOGITO_00154": {
+      "project": "KOGITO",
+      "index": 154,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5240",
+      "label": 1,
+      "prompt_chars": 1131
+    },
+    "KOGITO_00155": {
+      "project": "KOGITO",
+      "index": 155,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3913",
+      "label": 0,
+      "prompt_chars": 862
+    },
+    "KOGITO_00156": {
+      "project": "KOGITO",
+      "index": 156,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3531",
+      "label": 0,
+      "prompt_chars": 837
+    },
+    "KOGITO_00157": {
+      "project": "KOGITO",
+      "index": 157,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3920",
+      "label": 0,
+      "prompt_chars": 771
+    },
+    "KOGITO_00158": {
+      "project": "KOGITO",
+      "index": 158,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5280",
+      "label": 1,
+      "prompt_chars": 787
+    },
+    "KOGITO_00159": {
+      "project": "KOGITO",
+      "index": 159,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1104",
+      "label": 0,
+      "prompt_chars": 536
+    },
+    "KOGITO_00160": {
+      "project": "KOGITO",
+      "index": 160,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3242",
+      "label": 0,
+      "prompt_chars": 558
+    },
+    "KOGITO_00161": {
+      "project": "KOGITO",
+      "index": 161,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3245",
+      "label": 0,
+      "prompt_chars": 556
+    },
+    "KOGITO_00162": {
+      "project": "KOGITO",
+      "index": 162,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5307",
+      "label": 1,
+      "prompt_chars": 613
+    },
+    "KOGITO_00163": {
+      "project": "KOGITO",
+      "index": 163,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4889",
+      "label": 0,
+      "prompt_chars": 1068
+    },
+    "KOGITO_00164": {
+      "project": "KOGITO",
+      "index": 164,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2615",
+      "label": 0,
+      "prompt_chars": 714
+    },
+    "KOGITO_00165": {
+      "project": "KOGITO",
+      "index": 165,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1699",
+      "label": 0,
+      "prompt_chars": 780
+    },
+    "KOGITO_00166": {
+      "project": "KOGITO",
+      "index": 166,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5326",
+      "label": 1,
+      "prompt_chars": 1040
+    },
+    "KOGITO_00167": {
+      "project": "KOGITO",
+      "index": 167,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5212",
+      "label": 0,
+      "prompt_chars": 1547
+    },
+    "KOGITO_00168": {
+      "project": "KOGITO",
+      "index": 168,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3293",
+      "label": 0,
+      "prompt_chars": 539
+    },
+    "KOGITO_00169": {
+      "project": "KOGITO",
+      "index": 169,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3535",
+      "label": 0,
+      "prompt_chars": 853
+    },
+    "KOGITO_00170": {
+      "project": "KOGITO",
+      "index": 170,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5408",
+      "label": 1,
+      "prompt_chars": 803
+    },
+    "KOGITO_00171": {
+      "project": "KOGITO",
+      "index": 171,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4872",
+      "label": 0,
+      "prompt_chars": 714
+    },
+    "KOGITO_00172": {
+      "project": "KOGITO",
+      "index": 172,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3468",
+      "label": 0,
+      "prompt_chars": 626
+    },
+    "KOGITO_00173": {
+      "project": "KOGITO",
+      "index": 173,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3680",
+      "label": 0,
+      "prompt_chars": 815
+    },
+    "KOGITO_00174": {
+      "project": "KOGITO",
+      "index": 174,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5480",
+      "label": 1,
+      "prompt_chars": 774
+    },
+    "KOGITO_00175": {
+      "project": "KOGITO",
+      "index": 175,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2795",
+      "label": 0,
+      "prompt_chars": 645
+    },
+    "KOGITO_00176": {
+      "project": "KOGITO",
+      "index": 176,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4804",
+      "label": 0,
+      "prompt_chars": 702
+    },
+    "KOGITO_00177": {
+      "project": "KOGITO",
+      "index": 177,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2204",
+      "label": 0,
+      "prompt_chars": 998
+    },
+    "KOGITO_00178": {
+      "project": "KOGITO",
+      "index": 178,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5485",
+      "label": 1,
+      "prompt_chars": 690
+    },
+    "KOGITO_00179": {
+      "project": "KOGITO",
+      "index": 179,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-855",
+      "label": 0,
+      "prompt_chars": 788
+    },
+    "KOGITO_00180": {
+      "project": "KOGITO",
+      "index": 180,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5300",
+      "label": 0,
+      "prompt_chars": 983
+    },
+    "KOGITO_00181": {
+      "project": "KOGITO",
+      "index": 181,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1499",
+      "label": 0,
+      "prompt_chars": 706
+    },
+    "KOGITO_00182": {
+      "project": "KOGITO",
+      "index": 182,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5486",
+      "label": 1,
+      "prompt_chars": 898
+    },
+    "KOGITO_00183": {
+      "project": "KOGITO",
+      "index": 183,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-540",
+      "label": 0,
+      "prompt_chars": 1082
+    },
+    "KOGITO_00184": {
+      "project": "KOGITO",
+      "index": 184,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2262",
+      "label": 0,
+      "prompt_chars": 1037
+    },
+    "KOGITO_00185": {
+      "project": "KOGITO",
+      "index": 185,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-904",
+      "label": 0,
+      "prompt_chars": 677
+    },
+    "KOGITO_00186": {
+      "project": "KOGITO",
+      "index": 186,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5487",
+      "label": 1,
+      "prompt_chars": 559
+    },
+    "KOGITO_00187": {
+      "project": "KOGITO",
+      "index": 187,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-129",
+      "label": 0,
+      "prompt_chars": 874
+    },
+    "KOGITO_00188": {
+      "project": "KOGITO",
+      "index": 188,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-6092",
+      "label": 0,
+      "prompt_chars": 1696
+    },
+    "KOGITO_00189": {
+      "project": "KOGITO",
+      "index": 189,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5964",
+      "label": 0,
+      "prompt_chars": 941
+    },
+    "KOGITO_00190": {
+      "project": "KOGITO",
+      "index": 190,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5494",
+      "label": 1,
+      "prompt_chars": 575
+    },
+    "KOGITO_00191": {
+      "project": "KOGITO",
+      "index": 191,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2209",
+      "label": 0,
+      "prompt_chars": 814
+    },
+    "KOGITO_00192": {
+      "project": "KOGITO",
+      "index": 192,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1447",
+      "label": 0,
+      "prompt_chars": 911
+    },
+    "KOGITO_00193": {
+      "project": "KOGITO",
+      "index": 193,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5847",
+      "label": 0,
+      "prompt_chars": 563
+    },
+    "KOGITO_00194": {
+      "project": "KOGITO",
+      "index": 194,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5497",
+      "label": 1,
+      "prompt_chars": 675
+    },
+    "KOGITO_00195": {
+      "project": "KOGITO",
+      "index": 195,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5894",
+      "label": 0,
+      "prompt_chars": 590
+    },
+    "KOGITO_00196": {
+      "project": "KOGITO",
+      "index": 196,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2585",
+      "label": 0,
+      "prompt_chars": 741
+    },
+    "KOGITO_00197": {
+      "project": "KOGITO",
+      "index": 197,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2264",
+      "label": 0,
+      "prompt_chars": 866
+    },
+    "KOGITO_00198": {
+      "project": "KOGITO",
+      "index": 198,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5531",
+      "label": 1,
+      "prompt_chars": 538
+    },
+    "KOGITO_00199": {
+      "project": "KOGITO",
+      "index": 199,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-6724",
+      "label": 0,
+      "prompt_chars": 564
+    },
+    "KOGITO_00200": {
+      "project": "KOGITO",
+      "index": 200,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1729",
+      "label": 0,
+      "prompt_chars": 836
+    },
+    "KOGITO_00201": {
+      "project": "KOGITO",
+      "index": 201,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-607",
+      "label": 0,
+      "prompt_chars": 1002
+    },
+    "KOGITO_00202": {
+      "project": "KOGITO",
+      "index": 202,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5540",
+      "label": 1,
+      "prompt_chars": 554
+    },
+    "KOGITO_00203": {
+      "project": "KOGITO",
+      "index": 203,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2790",
+      "label": 0,
+      "prompt_chars": 647
+    },
+    "KOGITO_00204": {
+      "project": "KOGITO",
+      "index": 204,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2871",
+      "label": 0,
+      "prompt_chars": 730
+    },
+    "KOGITO_00205": {
+      "project": "KOGITO",
+      "index": 205,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-520",
+      "label": 0,
+      "prompt_chars": 826
+    },
+    "KOGITO_00206": {
+      "project": "KOGITO",
+      "index": 206,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5584",
+      "label": 1,
+      "prompt_chars": 550
+    },
+    "KOGITO_00207": {
+      "project": "KOGITO",
+      "index": 207,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-395",
+      "label": 0,
+      "prompt_chars": 2359
+    },
+    "KOGITO_00208": {
+      "project": "KOGITO",
+      "index": 208,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-585",
+      "label": 0,
+      "prompt_chars": 750
+    },
+    "KOGITO_00209": {
+      "project": "KOGITO",
+      "index": 209,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3403",
+      "label": 0,
+      "prompt_chars": 881
+    },
+    "KOGITO_00210": {
+      "project": "KOGITO",
+      "index": 210,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5597",
+      "label": 1,
+      "prompt_chars": 611
+    },
+    "KOGITO_00211": {
+      "project": "KOGITO",
+      "index": 211,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2454",
+      "label": 0,
+      "prompt_chars": 680
+    },
+    "KOGITO_00212": {
+      "project": "KOGITO",
+      "index": 212,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-6262",
+      "label": 0,
+      "prompt_chars": 1127
+    },
+    "KOGITO_00213": {
+      "project": "KOGITO",
+      "index": 213,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1212",
+      "label": 0,
+      "prompt_chars": 847
+    },
+    "KOGITO_00214": {
+      "project": "KOGITO",
+      "index": 214,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5730",
+      "label": 1,
+      "prompt_chars": 782
+    },
+    "KOGITO_00215": {
+      "project": "KOGITO",
+      "index": 215,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2640",
+      "label": 0,
+      "prompt_chars": 587
+    },
+    "KOGITO_00216": {
+      "project": "KOGITO",
+      "index": 216,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1503",
+      "label": 0,
+      "prompt_chars": 999
+    },
+    "KOGITO_00217": {
+      "project": "KOGITO",
+      "index": 217,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3923",
+      "label": 0,
+      "prompt_chars": 697
+    },
+    "KOGITO_00218": {
+      "project": "KOGITO",
+      "index": 218,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5780",
+      "label": 1,
+      "prompt_chars": 588
+    },
+    "KOGITO_00219": {
+      "project": "KOGITO",
+      "index": 219,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3144",
+      "label": 0,
+      "prompt_chars": 1050
+    },
+    "KOGITO_00220": {
+      "project": "KOGITO",
+      "index": 220,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1614",
+      "label": 0,
+      "prompt_chars": 582
+    },
+    "KOGITO_00221": {
+      "project": "KOGITO",
+      "index": 221,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-6261",
+      "label": 0,
+      "prompt_chars": 1416
+    },
+    "KOGITO_00222": {
+      "project": "KOGITO",
+      "index": 222,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-6096",
+      "label": 1,
+      "prompt_chars": 1105
+    },
+    "KOGITO_00223": {
+      "project": "KOGITO",
+      "index": 223,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-602",
+      "label": 0,
+      "prompt_chars": 940
+    },
+    "KOGITO_00224": {
+      "project": "KOGITO",
+      "index": 224,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1055",
+      "label": 0,
+      "prompt_chars": 585
+    },
+    "KOGITO_00225": {
+      "project": "KOGITO",
+      "index": 225,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3246",
+      "label": 0,
+      "prompt_chars": 555
+    },
+    "KOGITO_00226": {
+      "project": "KOGITO",
+      "index": 226,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-6099",
+      "label": 1,
+      "prompt_chars": 575
+    },
+    "KOGITO_00227": {
+      "project": "KOGITO",
+      "index": 227,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-836",
+      "label": 0,
+      "prompt_chars": 874
+    },
+    "KOGITO_00228": {
+      "project": "KOGITO",
+      "index": 228,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-404",
+      "label": 0,
+      "prompt_chars": 780
+    },
+    "KOGITO_00229": {
+      "project": "KOGITO",
+      "index": 229,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5784",
+      "label": 0,
+      "prompt_chars": 1101
+    },
+    "KOGITO_00230": {
+      "project": "KOGITO",
+      "index": 230,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-6107",
+      "label": 1,
+      "prompt_chars": 561
+    },
+    "KOGITO_00231": {
+      "project": "KOGITO",
+      "index": 231,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3200",
+      "label": 0,
+      "prompt_chars": 565
+    },
+    "KOGITO_00232": {
+      "project": "KOGITO",
+      "index": 232,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3655",
+      "label": 0,
+      "prompt_chars": 2768
+    },
+    "KOGITO_00233": {
+      "project": "KOGITO",
+      "index": 233,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1439",
+      "label": 0,
+      "prompt_chars": 1109
+    },
+    "KOGITO_00234": {
+      "project": "KOGITO",
+      "index": 234,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-6220",
+      "label": 1,
+      "prompt_chars": 542
+    },
+    "KOGITO_00235": {
+      "project": "KOGITO",
+      "index": 235,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4654",
+      "label": 0,
+      "prompt_chars": 1521
+    },
+    "KOGITO_00236": {
+      "project": "KOGITO",
+      "index": 236,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3614",
+      "label": 0,
+      "prompt_chars": 928
+    },
+    "KOGITO_00237": {
+      "project": "KOGITO",
+      "index": 237,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5075",
+      "label": 0,
+      "prompt_chars": 545
+    },
+    "KOGITO_00238": {
+      "project": "KOGITO",
+      "index": 238,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-6241",
+      "label": 1,
+      "prompt_chars": 633
+    },
+    "KOGITO_00239": {
+      "project": "KOGITO",
+      "index": 239,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5073",
+      "label": 0,
+      "prompt_chars": 545
+    },
+    "KOGITO_00240": {
+      "project": "KOGITO",
+      "index": 240,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2152",
+      "label": 0,
+      "prompt_chars": 545
+    },
+    "KOGITO_00241": {
+      "project": "KOGITO",
+      "index": 241,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5997",
+      "label": 0,
+      "prompt_chars": 545
+    },
+    "KOGITO_00242": {
+      "project": "KOGITO",
+      "index": 242,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-6408",
+      "label": 1,
+      "prompt_chars": 549
+    },
+    "KOGITO_00243": {
+      "project": "KOGITO",
+      "index": 243,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2151",
+      "label": 0,
+      "prompt_chars": 545
+    },
+    "KOGITO_00244": {
+      "project": "KOGITO",
+      "index": 244,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3633",
+      "label": 0,
+      "prompt_chars": 1085
+    },
+    "KOGITO_00245": {
+      "project": "KOGITO",
+      "index": 245,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-2798",
+      "label": 0,
+      "prompt_chars": 575
+    },
+    "KOGITO_00246": {
+      "project": "KOGITO",
+      "index": 246,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-6409",
+      "label": 1,
+      "prompt_chars": 575
+    },
+    "KOGITO_00247": {
+      "project": "KOGITO",
+      "index": 247,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1361",
+      "label": 0,
+      "prompt_chars": 1212
+    },
+    "KOGITO_00248": {
+      "project": "KOGITO",
+      "index": 248,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-5481",
+      "label": 0,
+      "prompt_chars": 634
+    },
+    "KOGITO_00249": {
+      "project": "KOGITO",
+      "index": 249,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-1123",
+      "label": 0,
+      "prompt_chars": 791
+    },
+    "KOGITO_00250": {
+      "project": "KOGITO",
+      "index": 250,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-6475",
+      "label": 1,
+      "prompt_chars": 683
+    },
+    "KOGITO_00251": {
+      "project": "KOGITO",
+      "index": 251,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3801",
+      "label": 0,
+      "prompt_chars": 826
+    },
+    "KOGITO_00252": {
+      "project": "KOGITO",
+      "index": 252,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-968",
+      "label": 0,
+      "prompt_chars": 755
+    },
+    "KOGITO_00253": {
+      "project": "KOGITO",
+      "index": 253,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-3536",
+      "label": 0,
+      "prompt_chars": 621
+    },
+    "KOGITO_00254": {
+      "project": "KOGITO",
+      "index": 254,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-6494",
+      "label": 1,
+      "prompt_chars": 621
+    },
+    "KOGITO_00255": {
+      "project": "KOGITO",
+      "index": 255,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-6007",
+      "label": 0,
+      "prompt_chars": 720
+    },
+    "KOGITO_00256": {
+      "project": "KOGITO",
+      "index": 256,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-6676",
+      "label": 0,
+      "prompt_chars": 688
+    },
+    "KOGITO_00257": {
+      "project": "KOGITO",
+      "index": 257,
+      "source_id": "KOGITO-3592",
+      "target_id": "KOGITO-4818",
+      "label": 0,
+      "prompt_chars": 575
+    },
+    "KOGITO_00258": {
+      "project": "KOGITO",
+      "index": 258,
+      "source_id": "KOGITO-3720",
+      "target_id": "KOGITO-3624",
+      "label": 1,
+      "prompt_chars": 1059
+    },
+    "KOGITO_00259": {
+      "project": "KOGITO",
+      "index": 259,
+      "source_id": "KOGITO-3720",
+      "target_id": "KOGITO-3622",
+      "label": 0,
+      "prompt_chars": 1086
+    },
+    "KOGITO_00260": {
+      "project": "KOGITO",
+      "index": 260,
+      "source_id": "KOGITO-3720",
+      "target_id": "KOGITO-2913",
+      "label": 0,
+      "prompt_chars": 1148
+    },
+    "KOGITO_00261": {
+      "project": "KOGITO",
+      "index": 261,
+      "source_id": "KOGITO-3720",
+      "target_id": "KOGITO-3084",
+      "label": 0,
+      "prompt_chars": 1042
+    },
+    "KOGITO_00262": {
+      "project": "KOGITO",
+      "index": 262,
+      "source_id": "KOGITO-4064",
+      "target_id": "KOGITO-4250",
+      "label": 1,
+      "prompt_chars": 1016
+    },
+    "KOGITO_00263": {
+      "project": "KOGITO",
+      "index": 263,
+      "source_id": "KOGITO-4064",
+      "target_id": "KOGITO-4837",
+      "label": 0,
+      "prompt_chars": 1065
+    },
+    "KOGITO_00264": {
+      "project": "KOGITO",
+      "index": 264,
+      "source_id": "KOGITO-4064",
+      "target_id": "KOGITO-6690",
+      "label": 0,
+      "prompt_chars": 971
+    },
+    "KOGITO_00265": {
+      "project": "KOGITO",
+      "index": 265,
+      "source_id": "KOGITO-4064",
+      "target_id": "KOGITO-6692",
+      "label": 0,
+      "prompt_chars": 971
+    },
+    "KOGITO_00266": {
+      "project": "KOGITO",
+      "index": 266,
+      "source_id": "KOGITO-4064",
+      "target_id": "KOGITO-4251",
+      "label": 1,
+      "prompt_chars": 1160
+    },
+    "KOGITO_00267": {
+      "project": "KOGITO",
+      "index": 267,
+      "source_id": "KOGITO-4064",
+      "target_id": "KOGITO-6689",
+      "label": 0,
+      "prompt_chars": 955
+    },
+    "KOGITO_00268": {
+      "project": "KOGITO",
+      "index": 268,
+      "source_id": "KOGITO-4064",
+      "target_id": "KOGITO-3481",
+      "label": 0,
+      "prompt_chars": 1330
+    },
+    "KOGITO_00269": {
+      "project": "KOGITO",
+      "index": 269,
+      "source_id": "KOGITO-4064",
+      "target_id": "KOGITO-3289",
+      "label": 0,
+      "prompt_chars": 1499
+    },
+    "KOGITO_00270": {
+      "project": "KOGITO",
+      "index": 270,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-3657",
+      "label": 1,
+      "prompt_chars": 692
+    },
+    "KOGITO_00271": {
+      "project": "KOGITO",
+      "index": 271,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-5646",
+      "label": 0,
+      "prompt_chars": 831
+    },
+    "KOGITO_00272": {
+      "project": "KOGITO",
+      "index": 272,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-3654",
+      "label": 0,
+      "prompt_chars": 715
+    },
+    "KOGITO_00273": {
+      "project": "KOGITO",
+      "index": 273,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-5225",
+      "label": 0,
+      "prompt_chars": 824
+    },
+    "KOGITO_00274": {
+      "project": "KOGITO",
+      "index": 274,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-3658",
+      "label": 1,
+      "prompt_chars": 687
+    },
+    "KOGITO_00275": {
+      "project": "KOGITO",
+      "index": 275,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-4264",
+      "label": 0,
+      "prompt_chars": 2713
+    },
+    "KOGITO_00276": {
+      "project": "KOGITO",
+      "index": 276,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-4976",
+      "label": 0,
+      "prompt_chars": 778
+    },
+    "KOGITO_00277": {
+      "project": "KOGITO",
+      "index": 277,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-5557",
+      "label": 0,
+      "prompt_chars": 782
+    },
+    "KOGITO_00278": {
+      "project": "KOGITO",
+      "index": 278,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-3673",
+      "label": 1,
+      "prompt_chars": 665
+    },
+    "KOGITO_00279": {
+      "project": "KOGITO",
+      "index": 279,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-3653",
+      "label": 0,
+      "prompt_chars": 690
+    },
+    "KOGITO_00280": {
+      "project": "KOGITO",
+      "index": 280,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-6341",
+      "label": 0,
+      "prompt_chars": 2824
+    },
+    "KOGITO_00281": {
+      "project": "KOGITO",
+      "index": 281,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-5213",
+      "label": 0,
+      "prompt_chars": 776
+    },
+    "KOGITO_00282": {
+      "project": "KOGITO",
+      "index": 282,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-4217",
+      "label": 1,
+      "prompt_chars": 993
+    },
+    "KOGITO_00283": {
+      "project": "KOGITO",
+      "index": 283,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-3672",
+      "label": 0,
+      "prompt_chars": 661
+    },
+    "KOGITO_00284": {
+      "project": "KOGITO",
+      "index": 284,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-6536",
+      "label": 0,
+      "prompt_chars": 802
+    },
+    "KOGITO_00285": {
+      "project": "KOGITO",
+      "index": 285,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-3661",
+      "label": 0,
+      "prompt_chars": 894
+    },
+    "KOGITO_00286": {
+      "project": "KOGITO",
+      "index": 286,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-4218",
+      "label": 1,
+      "prompt_chars": 1089
+    },
+    "KOGITO_00287": {
+      "project": "KOGITO",
+      "index": 287,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-5649",
+      "label": 0,
+      "prompt_chars": 1254
+    },
+    "KOGITO_00288": {
+      "project": "KOGITO",
+      "index": 288,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-5728",
+      "label": 0,
+      "prompt_chars": 787
+    },
+    "KOGITO_00289": {
+      "project": "KOGITO",
+      "index": 289,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-4195",
+      "label": 0,
+      "prompt_chars": 885
+    },
+    "KOGITO_00290": {
+      "project": "KOGITO",
+      "index": 290,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-4280",
+      "label": 1,
+      "prompt_chars": 1082
+    },
+    "KOGITO_00291": {
+      "project": "KOGITO",
+      "index": 291,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-6421",
+      "label": 0,
+      "prompt_chars": 971
+    },
+    "KOGITO_00292": {
+      "project": "KOGITO",
+      "index": 292,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-6126",
+      "label": 0,
+      "prompt_chars": 815
+    },
+    "KOGITO_00293": {
+      "project": "KOGITO",
+      "index": 293,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-5933",
+      "label": 0,
+      "prompt_chars": 796
+    },
+    "KOGITO_00294": {
+      "project": "KOGITO",
+      "index": 294,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-4587",
+      "label": 1,
+      "prompt_chars": 881
+    },
+    "KOGITO_00295": {
+      "project": "KOGITO",
+      "index": 295,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-964",
+      "label": 0,
+      "prompt_chars": 1296
+    },
+    "KOGITO_00296": {
+      "project": "KOGITO",
+      "index": 296,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-4237",
+      "label": 0,
+      "prompt_chars": 891
+    },
+    "KOGITO_00297": {
+      "project": "KOGITO",
+      "index": 297,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-4238",
+      "label": 0,
+      "prompt_chars": 748
+    },
+    "KOGITO_00298": {
+      "project": "KOGITO",
+      "index": 298,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-4658",
+      "label": 1,
+      "prompt_chars": 777
+    },
+    "KOGITO_00299": {
+      "project": "KOGITO",
+      "index": 299,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-3660",
+      "label": 0,
+      "prompt_chars": 1908
+    },
+    "KOGITO_00300": {
+      "project": "KOGITO",
+      "index": 300,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-1204",
+      "label": 0,
+      "prompt_chars": 1534
+    },
+    "KOGITO_00301": {
+      "project": "KOGITO",
+      "index": 301,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-4230",
+      "label": 0,
+      "prompt_chars": 1238
+    },
+    "KOGITO_00302": {
+      "project": "KOGITO",
+      "index": 302,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-4659",
+      "label": 1,
+      "prompt_chars": 743
+    },
+    "KOGITO_00303": {
+      "project": "KOGITO",
+      "index": 303,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-543",
+      "label": 0,
+      "prompt_chars": 750
+    },
+    "KOGITO_00304": {
+      "project": "KOGITO",
+      "index": 304,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-2676",
+      "label": 0,
+      "prompt_chars": 841
+    },
+    "KOGITO_00305": {
+      "project": "KOGITO",
+      "index": 305,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-4799",
+      "label": 0,
+      "prompt_chars": 1137
+    },
+    "KOGITO_00306": {
+      "project": "KOGITO",
+      "index": 306,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-4660",
+      "label": 1,
+      "prompt_chars": 808
+    },
+    "KOGITO_00307": {
+      "project": "KOGITO",
+      "index": 307,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-4239",
+      "label": 0,
+      "prompt_chars": 813
+    },
+    "KOGITO_00308": {
+      "project": "KOGITO",
+      "index": 308,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-5442",
+      "label": 0,
+      "prompt_chars": 1007
+    },
+    "KOGITO_00309": {
+      "project": "KOGITO",
+      "index": 309,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-4652",
+      "label": 0,
+      "prompt_chars": 841
+    },
+    "KOGITO_00310": {
+      "project": "KOGITO",
+      "index": 310,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-5006",
+      "label": 1,
+      "prompt_chars": 843
+    },
+    "KOGITO_00311": {
+      "project": "KOGITO",
+      "index": 311,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-1975",
+      "label": 0,
+      "prompt_chars": 1250
+    },
+    "KOGITO_00312": {
+      "project": "KOGITO",
+      "index": 312,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-5212",
+      "label": 0,
+      "prompt_chars": 1657
+    },
+    "KOGITO_00313": {
+      "project": "KOGITO",
+      "index": 313,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-864",
+      "label": 0,
+      "prompt_chars": 1092
+    },
+    "KOGITO_00314": {
+      "project": "KOGITO",
+      "index": 314,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-5131",
+      "label": 1,
+      "prompt_chars": 901
+    },
+    "KOGITO_00315": {
+      "project": "KOGITO",
+      "index": 315,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-3662",
+      "label": 0,
+      "prompt_chars": 919
+    },
+    "KOGITO_00316": {
+      "project": "KOGITO",
+      "index": 316,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-2615",
+      "label": 0,
+      "prompt_chars": 824
+    },
+    "KOGITO_00317": {
+      "project": "KOGITO",
+      "index": 317,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-6169",
+      "label": 0,
+      "prompt_chars": 769
+    },
+    "KOGITO_00318": {
+      "project": "KOGITO",
+      "index": 318,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-5598",
+      "label": 1,
+      "prompt_chars": 1047
+    },
+    "KOGITO_00319": {
+      "project": "KOGITO",
+      "index": 319,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-4824",
+      "label": 0,
+      "prompt_chars": 1049
+    },
+    "KOGITO_00320": {
+      "project": "KOGITO",
+      "index": 320,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-5403",
+      "label": 0,
+      "prompt_chars": 1084
+    },
+    "KOGITO_00321": {
+      "project": "KOGITO",
+      "index": 321,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-2991",
+      "label": 0,
+      "prompt_chars": 924
+    },
+    "KOGITO_00322": {
+      "project": "KOGITO",
+      "index": 322,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-6351",
+      "label": 1,
+      "prompt_chars": 1072
+    },
+    "KOGITO_00323": {
+      "project": "KOGITO",
+      "index": 323,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-4234",
+      "label": 0,
+      "prompt_chars": 891
+    },
+    "KOGITO_00324": {
+      "project": "KOGITO",
+      "index": 324,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-2670",
+      "label": 0,
+      "prompt_chars": 837
+    },
+    "KOGITO_00325": {
+      "project": "KOGITO",
+      "index": 325,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-4235",
+      "label": 0,
+      "prompt_chars": 911
+    },
+    "KOGITO_00326": {
+      "project": "KOGITO",
+      "index": 326,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-6415",
+      "label": 1,
+      "prompt_chars": 1085
+    },
+    "KOGITO_00327": {
+      "project": "KOGITO",
+      "index": 327,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-3455",
+      "label": 0,
+      "prompt_chars": 758
+    },
+    "KOGITO_00328": {
+      "project": "KOGITO",
+      "index": 328,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-5161",
+      "label": 0,
+      "prompt_chars": 2148
+    },
+    "KOGITO_00329": {
+      "project": "KOGITO",
+      "index": 329,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-5214",
+      "label": 0,
+      "prompt_chars": 774
+    },
+    "KOGITO_00330": {
+      "project": "KOGITO",
+      "index": 330,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-6545",
+      "label": 1,
+      "prompt_chars": 967
+    },
+    "KOGITO_00331": {
+      "project": "KOGITO",
+      "index": 331,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-4101",
+      "label": 0,
+      "prompt_chars": 742
+    },
+    "KOGITO_00332": {
+      "project": "KOGITO",
+      "index": 332,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-215",
+      "label": 0,
+      "prompt_chars": 826
+    },
+    "KOGITO_00333": {
+      "project": "KOGITO",
+      "index": 333,
+      "source_id": "KOGITO-4168",
+      "target_id": "KOGITO-2418",
+      "label": 0,
+      "prompt_chars": 1019
+    },
+    "KOGITO_00334": {
+      "project": "KOGITO",
+      "index": 334,
+      "source_id": "KOGITO-4493",
+      "target_id": "KOGITO-4865",
+      "label": 1,
+      "prompt_chars": 796
+    },
+    "KOGITO_00335": {
+      "project": "KOGITO",
+      "index": 335,
+      "source_id": "KOGITO-4493",
+      "target_id": "KOGITO-3184",
+      "label": 0,
+      "prompt_chars": 1003
+    },
+    "KOGITO_00336": {
+      "project": "KOGITO",
+      "index": 336,
+      "source_id": "KOGITO-4493",
+      "target_id": "KOGITO-1757",
+      "label": 0,
+      "prompt_chars": 1038
+    },
+    "KOGITO_00337": {
+      "project": "KOGITO",
+      "index": 337,
+      "source_id": "KOGITO-4493",
+      "target_id": "KOGITO-1758",
+      "label": 0,
+      "prompt_chars": 879
+    },
+    "KOGITO_00338": {
+      "project": "KOGITO",
+      "index": 338,
+      "source_id": "KOGITO-4493",
+      "target_id": "KOGITO-4866",
+      "label": 1,
+      "prompt_chars": 790
+    },
+    "KOGITO_00339": {
+      "project": "KOGITO",
+      "index": 339,
+      "source_id": "KOGITO-4493",
+      "target_id": "KOGITO-3169",
+      "label": 0,
+      "prompt_chars": 909
+    },
+    "KOGITO_00340": {
+      "project": "KOGITO",
+      "index": 340,
+      "source_id": "KOGITO-4493",
+      "target_id": "KOGITO-3287",
+      "label": 0,
+      "prompt_chars": 782
+    },
+    "KOGITO_00341": {
+      "project": "KOGITO",
+      "index": 341,
+      "source_id": "KOGITO-4493",
+      "target_id": "KOGITO-3168",
+      "label": 0,
+      "prompt_chars": 905
+    },
+    "KOGITO_00342": {
+      "project": "KOGITO",
+      "index": 342,
+      "source_id": "KOGITO-50",
+      "target_id": "KOGITO-24",
+      "label": 1,
+      "prompt_chars": 1324
+    },
+    "KOGITO_00343": {
+      "project": "KOGITO",
+      "index": 343,
+      "source_id": "KOGITO-50",
+      "target_id": "KOGITO-5960",
+      "label": 0,
+      "prompt_chars": 782
+    },
+    "KOGITO_00344": {
+      "project": "KOGITO",
+      "index": 344,
+      "source_id": "KOGITO-50",
+      "target_id": "KOGITO-788",
+      "label": 0,
+      "prompt_chars": 1296
+    },
+    "KOGITO_00345": {
+      "project": "KOGITO",
+      "index": 345,
+      "source_id": "KOGITO-50",
+      "target_id": "KOGITO-3455",
+      "label": 0,
+      "prompt_chars": 816
+    },
+    "KOGITO_00346": {
+      "project": "KOGITO",
+      "index": 346,
+      "source_id": "KOGITO-5274",
+      "target_id": "KOGITO-5275",
+      "label": 1,
+      "prompt_chars": 2333
+    },
+    "KOGITO_00347": {
+      "project": "KOGITO",
+      "index": 347,
+      "source_id": "KOGITO-5274",
+      "target_id": "KOGITO-5980",
+      "label": 0,
+      "prompt_chars": 2520
+    },
+    "KOGITO_00348": {
+      "project": "KOGITO",
+      "index": 348,
+      "source_id": "KOGITO-5274",
+      "target_id": "KOGITO-3174",
+      "label": 0,
+      "prompt_chars": 2712
+    },
+    "KOGITO_00349": {
+      "project": "KOGITO",
+      "index": 349,
+      "source_id": "KOGITO-5274",
+      "target_id": "KOGITO-2190",
+      "label": 0,
+      "prompt_chars": 3152
+    },
+    "KOGITO_00350": {
+      "project": "KOGITO",
+      "index": 350,
+      "source_id": "KOGITO-5327",
+      "target_id": "KOGITO-5771",
+      "label": 1,
+      "prompt_chars": 895
+    },
+    "KOGITO_00351": {
+      "project": "KOGITO",
+      "index": 351,
+      "source_id": "KOGITO-5327",
+      "target_id": "KOGITO-6138",
+      "label": 0,
+      "prompt_chars": 1097
+    },
+    "KOGITO_00352": {
+      "project": "KOGITO",
+      "index": 352,
+      "source_id": "KOGITO-5327",
+      "target_id": "KOGITO-2523",
+      "label": 0,
+      "prompt_chars": 866
+    },
+    "KOGITO_00353": {
+      "project": "KOGITO",
+      "index": 353,
+      "source_id": "KOGITO-5327",
+      "target_id": "KOGITO-128",
+      "label": 0,
+      "prompt_chars": 1510
+    },
+    "KOGITO_00354": {
+      "project": "KOGITO",
+      "index": 354,
+      "source_id": "KOGITO-5327",
+      "target_id": "KOGITO-5772",
+      "label": 1,
+      "prompt_chars": 1094
+    },
+    "KOGITO_00355": {
+      "project": "KOGITO",
+      "index": 355,
+      "source_id": "KOGITO-5327",
+      "target_id": "KOGITO-2636",
+      "label": 0,
+      "prompt_chars": 868
+    },
+    "KOGITO_00356": {
+      "project": "KOGITO",
+      "index": 356,
+      "source_id": "KOGITO-5327",
+      "target_id": "KOGITO-952",
+      "label": 0,
+      "prompt_chars": 1318
+    },
+    "KOGITO_00357": {
+      "project": "KOGITO",
+      "index": 357,
+      "source_id": "KOGITO-5327",
+      "target_id": "KOGITO-6532",
+      "label": 0,
+      "prompt_chars": 958
+    },
+    "KOGITO_00358": {
+      "project": "KOGITO",
+      "index": 358,
+      "source_id": "KOGITO-5327",
+      "target_id": "KOGITO-5773",
+      "label": 1,
+      "prompt_chars": 1303
+    },
+    "KOGITO_00359": {
+      "project": "KOGITO",
+      "index": 359,
+      "source_id": "KOGITO-5327",
+      "target_id": "KOGITO-6056",
+      "label": 0,
+      "prompt_chars": 1089
+    },
+    "KOGITO_00360": {
+      "project": "KOGITO",
+      "index": 360,
+      "source_id": "KOGITO-5327",
+      "target_id": "KOGITO-2269",
+      "label": 0,
+      "prompt_chars": 905
+    },
+    "KOGITO_00361": {
+      "project": "KOGITO",
+      "index": 361,
+      "source_id": "KOGITO-5327",
+      "target_id": "KOGITO-2064",
+      "label": 0,
+      "prompt_chars": 4391
+    },
+    "KOGITO_00362": {
+      "project": "KOGITO",
+      "index": 362,
+      "source_id": "KOGITO-5327",
+      "target_id": "KOGITO-6266",
+      "label": 1,
+      "prompt_chars": 1170
+    },
+    "KOGITO_00363": {
+      "project": "KOGITO",
+      "index": 363,
+      "source_id": "KOGITO-5327",
+      "target_id": "KOGITO-3013",
+      "label": 0,
+      "prompt_chars": 952
+    },
+    "KOGITO_00364": {
+      "project": "KOGITO",
+      "index": 364,
+      "source_id": "KOGITO-5327",
+      "target_id": "KOGITO-256",
+      "label": 0,
+      "prompt_chars": 2059
+    },
+    "KOGITO_00365": {
+      "project": "KOGITO",
+      "index": 365,
+      "source_id": "KOGITO-5327",
+      "target_id": "KOGITO-85",
+      "label": 0,
+      "prompt_chars": 1196
+    },
+    "KOGITO_00366": {
+      "project": "KOGITO",
+      "index": 366,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-2748",
+      "label": 1,
+      "prompt_chars": 885
+    },
+    "KOGITO_00367": {
+      "project": "KOGITO",
+      "index": 367,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-5395",
+      "label": 0,
+      "prompt_chars": 649
+    },
+    "KOGITO_00368": {
+      "project": "KOGITO",
+      "index": 368,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-347",
+      "label": 0,
+      "prompt_chars": 684
+    },
+    "KOGITO_00369": {
+      "project": "KOGITO",
+      "index": 369,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-28",
+      "label": 0,
+      "prompt_chars": 1573
+    },
+    "KOGITO_00370": {
+      "project": "KOGITO",
+      "index": 370,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-5422",
+      "label": 1,
+      "prompt_chars": 1144
+    },
+    "KOGITO_00371": {
+      "project": "KOGITO",
+      "index": 371,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-26",
+      "label": 0,
+      "prompt_chars": 1566
+    },
+    "KOGITO_00372": {
+      "project": "KOGITO",
+      "index": 372,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-24",
+      "label": 0,
+      "prompt_chars": 1203
+    },
+    "KOGITO_00373": {
+      "project": "KOGITO",
+      "index": 373,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-30",
+      "label": 0,
+      "prompt_chars": 763
+    },
+    "KOGITO_00374": {
+      "project": "KOGITO",
+      "index": 374,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-5960",
+      "label": 1,
+      "prompt_chars": 661
+    },
+    "KOGITO_00375": {
+      "project": "KOGITO",
+      "index": 375,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-157",
+      "label": 0,
+      "prompt_chars": 680
+    },
+    "KOGITO_00376": {
+      "project": "KOGITO",
+      "index": 376,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-25",
+      "label": 0,
+      "prompt_chars": 1129
+    },
+    "KOGITO_00377": {
+      "project": "KOGITO",
+      "index": 377,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-3817",
+      "label": 0,
+      "prompt_chars": 643
+    },
+    "KOGITO_00378": {
+      "project": "KOGITO",
+      "index": 378,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-5961",
+      "label": 1,
+      "prompt_chars": 806
+    },
+    "KOGITO_00379": {
+      "project": "KOGITO",
+      "index": 379,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-2964",
+      "label": 0,
+      "prompt_chars": 893
+    },
+    "KOGITO_00380": {
+      "project": "KOGITO",
+      "index": 380,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-389",
+      "label": 0,
+      "prompt_chars": 837
+    },
+    "KOGITO_00381": {
+      "project": "KOGITO",
+      "index": 381,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-4886",
+      "label": 0,
+      "prompt_chars": 700
+    },
+    "KOGITO_00382": {
+      "project": "KOGITO",
+      "index": 382,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6092",
+      "label": 1,
+      "prompt_chars": 1743
+    },
+    "KOGITO_00383": {
+      "project": "KOGITO",
+      "index": 383,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-5974",
+      "label": 0,
+      "prompt_chars": 899
+    },
+    "KOGITO_00384": {
+      "project": "KOGITO",
+      "index": 384,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-395",
+      "label": 0,
+      "prompt_chars": 2406
+    },
+    "KOGITO_00385": {
+      "project": "KOGITO",
+      "index": 385,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-295",
+      "label": 0,
+      "prompt_chars": 735
+    },
+    "KOGITO_00386": {
+      "project": "KOGITO",
+      "index": 386,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6261",
+      "label": 1,
+      "prompt_chars": 1463
+    },
+    "KOGITO_00387": {
+      "project": "KOGITO",
+      "index": 387,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-404",
+      "label": 0,
+      "prompt_chars": 827
+    },
+    "KOGITO_00388": {
+      "project": "KOGITO",
+      "index": 388,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-5973",
+      "label": 0,
+      "prompt_chars": 1066
+    },
+    "KOGITO_00389": {
+      "project": "KOGITO",
+      "index": 389,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-4933",
+      "label": 0,
+      "prompt_chars": 622
+    },
+    "KOGITO_00390": {
+      "project": "KOGITO",
+      "index": 390,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6263",
+      "label": 1,
+      "prompt_chars": 704
+    },
+    "KOGITO_00391": {
+      "project": "KOGITO",
+      "index": 391,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-3923",
+      "label": 0,
+      "prompt_chars": 744
+    },
+    "KOGITO_00392": {
+      "project": "KOGITO",
+      "index": 392,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-406",
+      "label": 0,
+      "prompt_chars": 686
+    },
+    "KOGITO_00393": {
+      "project": "KOGITO",
+      "index": 393,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-4934",
+      "label": 0,
+      "prompt_chars": 626
+    },
+    "KOGITO_00394": {
+      "project": "KOGITO",
+      "index": 394,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6264",
+      "label": 1,
+      "prompt_chars": 721
+    },
+    "KOGITO_00395": {
+      "project": "KOGITO",
+      "index": 395,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-2584",
+      "label": 0,
+      "prompt_chars": 628
+    },
+    "KOGITO_00396": {
+      "project": "KOGITO",
+      "index": 396,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-4932",
+      "label": 0,
+      "prompt_chars": 626
+    },
+    "KOGITO_00397": {
+      "project": "KOGITO",
+      "index": 397,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6666",
+      "label": 0,
+      "prompt_chars": 607
+    },
+    "KOGITO_00398": {
+      "project": "KOGITO",
+      "index": 398,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6334",
+      "label": 1,
+      "prompt_chars": 1581
+    },
+    "KOGITO_00399": {
+      "project": "KOGITO",
+      "index": 399,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-2266",
+      "label": 0,
+      "prompt_chars": 785
+    },
+    "KOGITO_00400": {
+      "project": "KOGITO",
+      "index": 400,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-1838",
+      "label": 0,
+      "prompt_chars": 610
+    },
+    "KOGITO_00401": {
+      "project": "KOGITO",
+      "index": 401,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-2367",
+      "label": 0,
+      "prompt_chars": 2000
+    },
+    "KOGITO_00402": {
+      "project": "KOGITO",
+      "index": 402,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6335",
+      "label": 1,
+      "prompt_chars": 1637
+    },
+    "KOGITO_00403": {
+      "project": "KOGITO",
+      "index": 403,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-1803",
+      "label": 0,
+      "prompt_chars": 1248
+    },
+    "KOGITO_00404": {
+      "project": "KOGITO",
+      "index": 404,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6814",
+      "label": 0,
+      "prompt_chars": 601
+    },
+    "KOGITO_00405": {
+      "project": "KOGITO",
+      "index": 405,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-1089",
+      "label": 0,
+      "prompt_chars": 654
+    },
+    "KOGITO_00406": {
+      "project": "KOGITO",
+      "index": 406,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6410",
+      "label": 1,
+      "prompt_chars": 2054
+    },
+    "KOGITO_00407": {
+      "project": "KOGITO",
+      "index": 407,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-4239",
+      "label": 0,
+      "prompt_chars": 750
+    },
+    "KOGITO_00408": {
+      "project": "KOGITO",
+      "index": 408,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-4234",
+      "label": 0,
+      "prompt_chars": 828
+    },
+    "KOGITO_00409": {
+      "project": "KOGITO",
+      "index": 409,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-2069",
+      "label": 0,
+      "prompt_chars": 986
+    },
+    "KOGITO_00410": {
+      "project": "KOGITO",
+      "index": 410,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6500",
+      "label": 1,
+      "prompt_chars": 648
+    },
+    "KOGITO_00411": {
+      "project": "KOGITO",
+      "index": 411,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6241",
+      "label": 0,
+      "prompt_chars": 680
+    },
+    "KOGITO_00412": {
+      "project": "KOGITO",
+      "index": 412,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6662",
+      "label": 0,
+      "prompt_chars": 612
+    },
+    "KOGITO_00413": {
+      "project": "KOGITO",
+      "index": 413,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-904",
+      "label": 0,
+      "prompt_chars": 724
+    },
+    "KOGITO_00414": {
+      "project": "KOGITO",
+      "index": 414,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6502",
+      "label": 1,
+      "prompt_chars": 696
+    },
+    "KOGITO_00415": {
+      "project": "KOGITO",
+      "index": 415,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-156",
+      "label": 0,
+      "prompt_chars": 605
+    },
+    "KOGITO_00416": {
+      "project": "KOGITO",
+      "index": 416,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-5551",
+      "label": 0,
+      "prompt_chars": 1086
+    },
+    "KOGITO_00417": {
+      "project": "KOGITO",
+      "index": 417,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-29",
+      "label": 0,
+      "prompt_chars": 1740
+    },
+    "KOGITO_00418": {
+      "project": "KOGITO",
+      "index": 418,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6528",
+      "label": 1,
+      "prompt_chars": 608
+    },
+    "KOGITO_00419": {
+      "project": "KOGITO",
+      "index": 419,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6724",
+      "label": 0,
+      "prompt_chars": 611
+    },
+    "KOGITO_00420": {
+      "project": "KOGITO",
+      "index": 420,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6496",
+      "label": 0,
+      "prompt_chars": 628
+    },
+    "KOGITO_00421": {
+      "project": "KOGITO",
+      "index": 421,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-4647",
+      "label": 0,
+      "prompt_chars": 1129
+    },
+    "KOGITO_00422": {
+      "project": "KOGITO",
+      "index": 422,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6600",
+      "label": 1,
+      "prompt_chars": 609
+    },
+    "KOGITO_00423": {
+      "project": "KOGITO",
+      "index": 423,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-3458",
+      "label": 0,
+      "prompt_chars": 588
+    },
+    "KOGITO_00424": {
+      "project": "KOGITO",
+      "index": 424,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-2615",
+      "label": 0,
+      "prompt_chars": 761
+    },
+    "KOGITO_00425": {
+      "project": "KOGITO",
+      "index": 425,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-545",
+      "label": 0,
+      "prompt_chars": 740
+    },
+    "KOGITO_00426": {
+      "project": "KOGITO",
+      "index": 426,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6617",
+      "label": 1,
+      "prompt_chars": 769
+    },
+    "KOGITO_00427": {
+      "project": "KOGITO",
+      "index": 427,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-5225",
+      "label": 0,
+      "prompt_chars": 761
+    },
+    "KOGITO_00428": {
+      "project": "KOGITO",
+      "index": 428,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-3319",
+      "label": 0,
+      "prompt_chars": 658
+    },
+    "KOGITO_00429": {
+      "project": "KOGITO",
+      "index": 429,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-1993",
+      "label": 0,
+      "prompt_chars": 613
+    },
+    "KOGITO_00430": {
+      "project": "KOGITO",
+      "index": 430,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6618",
+      "label": 1,
+      "prompt_chars": 772
+    },
+    "KOGITO_00431": {
+      "project": "KOGITO",
+      "index": 431,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-2418",
+      "label": 0,
+      "prompt_chars": 956
+    },
+    "KOGITO_00432": {
+      "project": "KOGITO",
+      "index": 432,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6667",
+      "label": 0,
+      "prompt_chars": 605
+    },
+    "KOGITO_00433": {
+      "project": "KOGITO",
+      "index": 433,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-5274",
+      "label": 0,
+      "prompt_chars": 2385
+    },
+    "KOGITO_00434": {
+      "project": "KOGITO",
+      "index": 434,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6619",
+      "label": 1,
+      "prompt_chars": 723
+    },
+    "KOGITO_00435": {
+      "project": "KOGITO",
+      "index": 435,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6761",
+      "label": 0,
+      "prompt_chars": 603
+    },
+    "KOGITO_00436": {
+      "project": "KOGITO",
+      "index": 436,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-1104",
+      "label": 0,
+      "prompt_chars": 583
+    },
+    "KOGITO_00437": {
+      "project": "KOGITO",
+      "index": 437,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-1436",
+      "label": 0,
+      "prompt_chars": 833
+    },
+    "KOGITO_00438": {
+      "project": "KOGITO",
+      "index": 438,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6620",
+      "label": 1,
+      "prompt_chars": 671
+    },
+    "KOGITO_00439": {
+      "project": "KOGITO",
+      "index": 439,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-3455",
+      "label": 0,
+      "prompt_chars": 695
+    },
+    "KOGITO_00440": {
+      "project": "KOGITO",
+      "index": 440,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-5119",
+      "label": 0,
+      "prompt_chars": 1079
+    },
+    "KOGITO_00441": {
+      "project": "KOGITO",
+      "index": 441,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-3240",
+      "label": 0,
+      "prompt_chars": 761
+    },
+    "KOGITO_00442": {
+      "project": "KOGITO",
+      "index": 442,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6621",
+      "label": 1,
+      "prompt_chars": 660
+    },
+    "KOGITO_00443": {
+      "project": "KOGITO",
+      "index": 443,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-5995",
+      "label": 0,
+      "prompt_chars": 662
+    },
+    "KOGITO_00444": {
+      "project": "KOGITO",
+      "index": 444,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-5994",
+      "label": 0,
+      "prompt_chars": 662
+    },
+    "KOGITO_00445": {
+      "project": "KOGITO",
+      "index": 445,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-788",
+      "label": 0,
+      "prompt_chars": 1175
+    },
+    "KOGITO_00446": {
+      "project": "KOGITO",
+      "index": 446,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6622",
+      "label": 1,
+      "prompt_chars": 671
+    },
+    "KOGITO_00447": {
+      "project": "KOGITO",
+      "index": 447,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-3522",
+      "label": 0,
+      "prompt_chars": 727
+    },
+    "KOGITO_00448": {
+      "project": "KOGITO",
+      "index": 448,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-4065",
+      "label": 0,
+      "prompt_chars": 634
+    },
+    "KOGITO_00449": {
+      "project": "KOGITO",
+      "index": 449,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-1637",
+      "label": 0,
+      "prompt_chars": 599
+    },
+    "KOGITO_00450": {
+      "project": "KOGITO",
+      "index": 450,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6623",
+      "label": 1,
+      "prompt_chars": 683
+    },
+    "KOGITO_00451": {
+      "project": "KOGITO",
+      "index": 451,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-4230",
+      "label": 0,
+      "prompt_chars": 1175
+    },
+    "KOGITO_00452": {
+      "project": "KOGITO",
+      "index": 452,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-3661",
+      "label": 0,
+      "prompt_chars": 831
+    },
+    "KOGITO_00453": {
+      "project": "KOGITO",
+      "index": 453,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-2746",
+      "label": 0,
+      "prompt_chars": 736
+    },
+    "KOGITO_00454": {
+      "project": "KOGITO",
+      "index": 454,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6624",
+      "label": 1,
+      "prompt_chars": 713
+    },
+    "KOGITO_00455": {
+      "project": "KOGITO",
+      "index": 455,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-4238",
+      "label": 0,
+      "prompt_chars": 685
+    },
+    "KOGITO_00456": {
+      "project": "KOGITO",
+      "index": 456,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-1756",
+      "label": 0,
+      "prompt_chars": 588
+    },
+    "KOGITO_00457": {
+      "project": "KOGITO",
+      "index": 457,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-3744",
+      "label": 0,
+      "prompt_chars": 874
+    },
+    "KOGITO_00458": {
+      "project": "KOGITO",
+      "index": 458,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6625",
+      "label": 1,
+      "prompt_chars": 647
+    },
+    "KOGITO_00459": {
+      "project": "KOGITO",
+      "index": 459,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-3925",
+      "label": 0,
+      "prompt_chars": 601
+    },
+    "KOGITO_00460": {
+      "project": "KOGITO",
+      "index": 460,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6760",
+      "label": 0,
+      "prompt_chars": 608
+    },
+    "KOGITO_00461": {
+      "project": "KOGITO",
+      "index": 461,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-1538",
+      "label": 0,
+      "prompt_chars": 656
+    },
+    "KOGITO_00462": {
+      "project": "KOGITO",
+      "index": 462,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6626",
+      "label": 1,
+      "prompt_chars": 604
+    },
+    "KOGITO_00463": {
+      "project": "KOGITO",
+      "index": 463,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-778",
+      "label": 0,
+      "prompt_chars": 3114
+    },
+    "KOGITO_00464": {
+      "project": "KOGITO",
+      "index": 464,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-1547",
+      "label": 0,
+      "prompt_chars": 611
+    },
+    "KOGITO_00465": {
+      "project": "KOGITO",
+      "index": 465,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-3202",
+      "label": 0,
+      "prompt_chars": 605
+    },
+    "KOGITO_00466": {
+      "project": "KOGITO",
+      "index": 466,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6627",
+      "label": 1,
+      "prompt_chars": 582
+    },
+    "KOGITO_00467": {
+      "project": "KOGITO",
+      "index": 467,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-810",
+      "label": 0,
+      "prompt_chars": 790
+    },
+    "KOGITO_00468": {
+      "project": "KOGITO",
+      "index": 468,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-5468",
+      "label": 0,
+      "prompt_chars": 612
+    },
+    "KOGITO_00469": {
+      "project": "KOGITO",
+      "index": 469,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-524",
+      "label": 0,
+      "prompt_chars": 1058
+    },
+    "KOGITO_00470": {
+      "project": "KOGITO",
+      "index": 470,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6628",
+      "label": 1,
+      "prompt_chars": 618
+    },
+    "KOGITO_00471": {
+      "project": "KOGITO",
+      "index": 471,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6844",
+      "label": 0,
+      "prompt_chars": 1304
+    },
+    "KOGITO_00472": {
+      "project": "KOGITO",
+      "index": 472,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-1975",
+      "label": 0,
+      "prompt_chars": 1187
+    },
+    "KOGITO_00473": {
+      "project": "KOGITO",
+      "index": 473,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-986",
+      "label": 0,
+      "prompt_chars": 1304
+    },
+    "KOGITO_00474": {
+      "project": "KOGITO",
+      "index": 474,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6629",
+      "label": 1,
+      "prompt_chars": 618
+    },
+    "KOGITO_00475": {
+      "project": "KOGITO",
+      "index": 475,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-4939",
+      "label": 0,
+      "prompt_chars": 934
+    },
+    "KOGITO_00476": {
+      "project": "KOGITO",
+      "index": 476,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-1204",
+      "label": 0,
+      "prompt_chars": 1471
+    },
+    "KOGITO_00477": {
+      "project": "KOGITO",
+      "index": 477,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-5326",
+      "label": 0,
+      "prompt_chars": 1087
+    },
+    "KOGITO_00478": {
+      "project": "KOGITO",
+      "index": 478,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6630",
+      "label": 1,
+      "prompt_chars": 612
+    },
+    "KOGITO_00479": {
+      "project": "KOGITO",
+      "index": 479,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-4938",
+      "label": 0,
+      "prompt_chars": 877
+    },
+    "KOGITO_00480": {
+      "project": "KOGITO",
+      "index": 480,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-1591",
+      "label": 0,
+      "prompt_chars": 715
+    },
+    "KOGITO_00481": {
+      "project": "KOGITO",
+      "index": 481,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-3242",
+      "label": 0,
+      "prompt_chars": 605
+    },
+    "KOGITO_00482": {
+      "project": "KOGITO",
+      "index": 482,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6631",
+      "label": 1,
+      "prompt_chars": 614
+    },
+    "KOGITO_00483": {
+      "project": "KOGITO",
+      "index": 483,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-519",
+      "label": 0,
+      "prompt_chars": 1049
+    },
+    "KOGITO_00484": {
+      "project": "KOGITO",
+      "index": 484,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-812",
+      "label": 0,
+      "prompt_chars": 786
+    },
+    "KOGITO_00485": {
+      "project": "KOGITO",
+      "index": 485,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-1154",
+      "label": 0,
+      "prompt_chars": 629
+    },
+    "KOGITO_00486": {
+      "project": "KOGITO",
+      "index": 486,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6632",
+      "label": 1,
+      "prompt_chars": 606
+    },
+    "KOGITO_00487": {
+      "project": "KOGITO",
+      "index": 487,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-989",
+      "label": 0,
+      "prompt_chars": 756
+    },
+    "KOGITO_00488": {
+      "project": "KOGITO",
+      "index": 488,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-2778",
+      "label": 0,
+      "prompt_chars": 1015
+    },
+    "KOGITO_00489": {
+      "project": "KOGITO",
+      "index": 489,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-3672",
+      "label": 0,
+      "prompt_chars": 598
+    },
+    "KOGITO_00490": {
+      "project": "KOGITO",
+      "index": 490,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-6860",
+      "label": 1,
+      "prompt_chars": 729
+    },
+    "KOGITO_00491": {
+      "project": "KOGITO",
+      "index": 491,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-882",
+      "label": 0,
+      "prompt_chars": 601
+    },
+    "KOGITO_00492": {
+      "project": "KOGITO",
+      "index": 492,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-318",
+      "label": 0,
+      "prompt_chars": 1499
+    },
+    "KOGITO_00493": {
+      "project": "KOGITO",
+      "index": 493,
+      "source_id": "KOGITO-5421",
+      "target_id": "KOGITO-3316",
+      "label": 0,
+      "prompt_chars": 879
+    },
+    "KOGITO_00494": {
+      "project": "KOGITO",
+      "index": 494,
+      "source_id": "KOGITO-555",
+      "target_id": "KOGITO-584",
+      "label": 1,
+      "prompt_chars": 922
+    },
+    "KOGITO_00495": {
+      "project": "KOGITO",
+      "index": 495,
+      "source_id": "KOGITO-555",
+      "target_id": "KOGITO-6296",
+      "label": 0,
+      "prompt_chars": 580
+    },
+    "KOGITO_00496": {
+      "project": "KOGITO",
+      "index": 496,
+      "source_id": "KOGITO-555",
+      "target_id": "KOGITO-1758",
+      "label": 0,
+      "prompt_chars": 687
+    },
+    "KOGITO_00497": {
+      "project": "KOGITO",
+      "index": 497,
+      "source_id": "KOGITO-555",
+      "target_id": "KOGITO-2777",
+      "label": 0,
+      "prompt_chars": 596
+    },
+    "KOGITO_00498": {
+      "project": "KOGITO",
+      "index": 498,
+      "source_id": "KOGITO-5627",
+      "target_id": "KOGITO-5635",
+      "label": 1,
+      "prompt_chars": 1265
+    },
+    "KOGITO_00499": {
+      "project": "KOGITO",
+      "index": 499,
+      "source_id": "KOGITO-5627",
+      "target_id": "KOGITO-6690",
+      "label": 0,
+      "prompt_chars": 1276
+    },
+    "KOGITO_00500": {
+      "project": "KOGITO",
+      "index": 500,
+      "source_id": "KOGITO-5627",
+      "target_id": "KOGITO-4837",
+      "label": 0,
+      "prompt_chars": 1370
+    },
+    "KOGITO_00501": {
+      "project": "KOGITO",
+      "index": 501,
+      "source_id": "KOGITO-5627",
+      "target_id": "KOGITO-6692",
+      "label": 0,
+      "prompt_chars": 1276
+    },
+    "KOGITO_00502": {
+      "project": "KOGITO",
+      "index": 502,
+      "source_id": "KOGITO-5627",
+      "target_id": "KOGITO-5636",
+      "label": 1,
+      "prompt_chars": 1285
+    },
+    "KOGITO_00503": {
+      "project": "KOGITO",
+      "index": 503,
+      "source_id": "KOGITO-5627",
+      "target_id": "KOGITO-3180",
+      "label": 0,
+      "prompt_chars": 1299
+    },
+    "KOGITO_00504": {
+      "project": "KOGITO",
+      "index": 504,
+      "source_id": "KOGITO-5627",
+      "target_id": "KOGITO-4141",
+      "label": 0,
+      "prompt_chars": 1285
+    },
+    "KOGITO_00505": {
+      "project": "KOGITO",
+      "index": 505,
+      "source_id": "KOGITO-5627",
+      "target_id": "KOGITO-3120",
+      "label": 0,
+      "prompt_chars": 1251
+    },
+    "KOGITO_00506": {
+      "project": "KOGITO",
+      "index": 506,
+      "source_id": "KOGITO-5627",
+      "target_id": "KOGITO-5637",
+      "label": 1,
+      "prompt_chars": 1261
+    },
+    "KOGITO_00507": {
+      "project": "KOGITO",
+      "index": 507,
+      "source_id": "KOGITO-5627",
+      "target_id": "KOGITO-3049",
+      "label": 0,
+      "prompt_chars": 1490
+    },
+    "KOGITO_00508": {
+      "project": "KOGITO",
+      "index": 508,
+      "source_id": "KOGITO-5627",
+      "target_id": "KOGITO-6689",
+      "label": 0,
+      "prompt_chars": 1260
+    },
+    "KOGITO_00509": {
+      "project": "KOGITO",
+      "index": 509,
+      "source_id": "KOGITO-5627",
+      "target_id": "KOGITO-2913",
+      "label": 0,
+      "prompt_chars": 1461
+    },
+    "KOGITO_00510": {
+      "project": "KOGITO",
+      "index": 510,
+      "source_id": "KOGITO-5843",
+      "target_id": "KOGITO-5586",
+      "label": 1,
+      "prompt_chars": 797
+    },
+    "KOGITO_00511": {
+      "project": "KOGITO",
+      "index": 511,
+      "source_id": "KOGITO-5843",
+      "target_id": "KOGITO-2616",
+      "label": 0,
+      "prompt_chars": 626
+    },
+    "KOGITO_00512": {
+      "project": "KOGITO",
+      "index": 512,
+      "source_id": "KOGITO-5843",
+      "target_id": "KOGITO-6216",
+      "label": 0,
+      "prompt_chars": 596
+    },
+    "KOGITO_00513": {
+      "project": "KOGITO",
+      "index": 513,
+      "source_id": "KOGITO-5843",
+      "target_id": "KOGITO-4552",
+      "label": 0,
+      "prompt_chars": 735
+    },
+    "KOGITO_00514": {
+      "project": "KOGITO",
+      "index": 514,
+      "source_id": "KOGITO-5846",
+      "target_id": "KOGITO-5642",
+      "label": 1,
+      "prompt_chars": 832
+    },
+    "KOGITO_00515": {
+      "project": "KOGITO",
+      "index": 515,
+      "source_id": "KOGITO-5846",
+      "target_id": "KOGITO-4656",
+      "label": 0,
+      "prompt_chars": 1016
+    },
+    "KOGITO_00516": {
+      "project": "KOGITO",
+      "index": 516,
+      "source_id": "KOGITO-5846",
+      "target_id": "KOGITO-978",
+      "label": 0,
+      "prompt_chars": 729
+    },
+    "KOGITO_00517": {
+      "project": "KOGITO",
+      "index": 517,
+      "source_id": "KOGITO-5846",
+      "target_id": "KOGITO-1648",
+      "label": 0,
+      "prompt_chars": 1023
+    },
+    "KOGITO_00518": {
+      "project": "KOGITO",
+      "index": 518,
+      "source_id": "KOGITO-5846",
+      "target_id": "KOGITO-5847",
+      "label": 1,
+      "prompt_chars": 682
+    },
+    "KOGITO_00519": {
+      "project": "KOGITO",
+      "index": 519,
+      "source_id": "KOGITO-5846",
+      "target_id": "KOGITO-2296",
+      "label": 0,
+      "prompt_chars": 866
+    },
+    "KOGITO_00520": {
+      "project": "KOGITO",
+      "index": 520,
+      "source_id": "KOGITO-5846",
+      "target_id": "KOGITO-5040",
+      "label": 0,
+      "prompt_chars": 795
+    },
+    "KOGITO_00521": {
+      "project": "KOGITO",
+      "index": 521,
+      "source_id": "KOGITO-5846",
+      "target_id": "KOGITO-4235",
+      "label": 0,
+      "prompt_chars": 920
+    },
+    "KOGITO_00522": {
+      "project": "KOGITO",
+      "index": 522,
+      "source_id": "KOGITO-5846",
+      "target_id": "KOGITO-5848",
+      "label": 1,
+      "prompt_chars": 798
+    },
+    "KOGITO_00523": {
+      "project": "KOGITO",
+      "index": 523,
+      "source_id": "KOGITO-5846",
+      "target_id": "KOGITO-3240",
+      "label": 0,
+      "prompt_chars": 833
+    },
+    "KOGITO_00524": {
+      "project": "KOGITO",
+      "index": 524,
+      "source_id": "KOGITO-5846",
+      "target_id": "KOGITO-4803",
+      "label": 0,
+      "prompt_chars": 840
+    },
+    "KOGITO_00525": {
+      "project": "KOGITO",
+      "index": 525,
+      "source_id": "KOGITO-5846",
+      "target_id": "KOGITO-4820",
+      "label": 0,
+      "prompt_chars": 755
+    },
+    "KOGITO_00526": {
+      "project": "KOGITO",
+      "index": 526,
+      "source_id": "KOGITO-5846",
+      "target_id": "KOGITO-5849",
+      "label": 1,
+      "prompt_chars": 959
+    },
+    "KOGITO_00527": {
+      "project": "KOGITO",
+      "index": 527,
+      "source_id": "KOGITO-5846",
+      "target_id": "KOGITO-1155",
+      "label": 0,
+      "prompt_chars": 853
+    },
+    "KOGITO_00528": {
+      "project": "KOGITO",
+      "index": 528,
+      "source_id": "KOGITO-5846",
+      "target_id": "KOGITO-4654",
+      "label": 0,
+      "prompt_chars": 1640
+    },
+    "KOGITO_00529": {
+      "project": "KOGITO",
+      "index": 529,
+      "source_id": "KOGITO-5846",
+      "target_id": "KOGITO-475",
+      "label": 0,
+      "prompt_chars": 916
+    },
+    "KOGITO_00530": {
+      "project": "KOGITO",
+      "index": 530,
+      "source_id": "KOGITO-5846",
+      "target_id": "KOGITO-5894",
+      "label": 1,
+      "prompt_chars": 709
+    },
+    "KOGITO_00531": {
+      "project": "KOGITO",
+      "index": 531,
+      "source_id": "KOGITO-5846",
+      "target_id": "KOGITO-2254",
+      "label": 0,
+      "prompt_chars": 868
+    },
+    "KOGITO_00532": {
+      "project": "KOGITO",
+      "index": 532,
+      "source_id": "KOGITO-5846",
+      "target_id": "KOGITO-24",
+      "label": 0,
+      "prompt_chars": 1275
+    },
+    "KOGITO_00533": {
+      "project": "KOGITO",
+      "index": 533,
+      "source_id": "KOGITO-5846",
+      "target_id": "KOGITO-392",
+      "label": 0,
+      "prompt_chars": 920
+    },
+    "KOGITO_00534": {
+      "project": "KOGITO",
+      "index": 534,
+      "source_id": "KOGITO-5846",
+      "target_id": "KOGITO-6058",
+      "label": 1,
+      "prompt_chars": 777
+    },
+    "KOGITO_00535": {
+      "project": "KOGITO",
+      "index": 535,
+      "source_id": "KOGITO-5846",
+      "target_id": "KOGITO-6566",
+      "label": 0,
+      "prompt_chars": 830
+    },
+    "KOGITO_00536": {
+      "project": "KOGITO",
+      "index": 536,
+      "source_id": "KOGITO-5846",
+      "target_id": "KOGITO-1228",
+      "label": 0,
+      "prompt_chars": 671
+    },
+    "KOGITO_00537": {
+      "project": "KOGITO",
+      "index": 537,
+      "source_id": "KOGITO-5846",
+      "target_id": "KOGITO-6421",
+      "label": 0,
+      "prompt_chars": 980
+    },
+    "KOGITO_00538": {
+      "project": "KOGITO",
+      "index": 538,
+      "source_id": "KOGITO-5992",
+      "target_id": "KOGITO-5993",
+      "label": 1,
+      "prompt_chars": 804
+    },
+    "KOGITO_00539": {
+      "project": "KOGITO",
+      "index": 539,
+      "source_id": "KOGITO-5992",
+      "target_id": "KOGITO-6015",
+      "label": 0,
+      "prompt_chars": 866
+    },
+    "KOGITO_00540": {
+      "project": "KOGITO",
+      "index": 540,
+      "source_id": "KOGITO-5992",
+      "target_id": "KOGITO-5989",
+      "label": 0,
+      "prompt_chars": 946
+    },
+    "KOGITO_00541": {
+      "project": "KOGITO",
+      "index": 541,
+      "source_id": "KOGITO-5992",
+      "target_id": "KOGITO-3535",
+      "label": 0,
+      "prompt_chars": 1011
+    },
+    "KOGITO_00542": {
+      "project": "KOGITO",
+      "index": 542,
+      "source_id": "KOGITO-5992",
+      "target_id": "KOGITO-5994",
+      "label": 1,
+      "prompt_chars": 773
+    },
+    "KOGITO_00543": {
+      "project": "KOGITO",
+      "index": 543,
+      "source_id": "KOGITO-5992",
+      "target_id": "KOGITO-6007",
+      "label": 0,
+      "prompt_chars": 878
+    },
+    "KOGITO_00544": {
+      "project": "KOGITO",
+      "index": 544,
+      "source_id": "KOGITO-5992",
+      "target_id": "KOGITO-3316",
+      "label": 0,
+      "prompt_chars": 990
+    },
+    "KOGITO_00545": {
+      "project": "KOGITO",
+      "index": 545,
+      "source_id": "KOGITO-5992",
+      "target_id": "KOGITO-1054",
+      "label": 0,
+      "prompt_chars": 749
+    },
+    "KOGITO_00546": {
+      "project": "KOGITO",
+      "index": 546,
+      "source_id": "KOGITO-5992",
+      "target_id": "KOGITO-5995",
+      "label": 1,
+      "prompt_chars": 773
+    },
+    "KOGITO_00547": {
+      "project": "KOGITO",
+      "index": 547,
+      "source_id": "KOGITO-5992",
+      "target_id": "KOGITO-5988",
+      "label": 0,
+      "prompt_chars": 2161
+    },
+    "KOGITO_00548": {
+      "project": "KOGITO",
+      "index": 548,
+      "source_id": "KOGITO-5992",
+      "target_id": "KOGITO-5563",
+      "label": 0,
+      "prompt_chars": 896
+    },
+    "KOGITO_00549": {
+      "project": "KOGITO",
+      "index": 549,
+      "source_id": "KOGITO-5992",
+      "target_id": "KOGITO-207",
+      "label": 0,
+      "prompt_chars": 853
+    },
+    "KOGITO_00550": {
+      "project": "KOGITO",
+      "index": 550,
+      "source_id": "KOGITO-6246",
+      "target_id": "KOGITO-6249",
+      "label": 1,
+      "prompt_chars": 625
+    },
+    "KOGITO_00551": {
+      "project": "KOGITO",
+      "index": 551,
+      "source_id": "KOGITO-6246",
+      "target_id": "KOGITO-762",
+      "label": 0,
+      "prompt_chars": 546
+    },
+    "KOGITO_00552": {
+      "project": "KOGITO",
+      "index": 552,
+      "source_id": "KOGITO-6246",
+      "target_id": "KOGITO-3316",
+      "label": 0,
+      "prompt_chars": 826
+    },
+    "KOGITO_00553": {
+      "project": "KOGITO",
+      "index": 553,
+      "source_id": "KOGITO-6246",
+      "target_id": "KOGITO-4934",
+      "label": 0,
+      "prompt_chars": 573
+    },
+    "KOGITO_00554": {
+      "project": "KOGITO",
+      "index": 554,
+      "source_id": "KOGITO-6377",
+      "target_id": "KOGITO-6378",
+      "label": 1,
+      "prompt_chars": 992
+    },
+    "KOGITO_00555": {
+      "project": "KOGITO",
+      "index": 555,
+      "source_id": "KOGITO-6377",
+      "target_id": "KOGITO-6325",
+      "label": 0,
+      "prompt_chars": 1090
+    },
+    "KOGITO_00556": {
+      "project": "KOGITO",
+      "index": 556,
+      "source_id": "KOGITO-6377",
+      "target_id": "KOGITO-4803",
+      "label": 0,
+      "prompt_chars": 1059
+    },
+    "KOGITO_00557": {
+      "project": "KOGITO",
+      "index": 557,
+      "source_id": "KOGITO-6377",
+      "target_id": "KOGITO-2820",
+      "label": 0,
+      "prompt_chars": 1191
+    },
+    "KOGITO_00558": {
+      "project": "KOGITO",
+      "index": 558,
+      "source_id": "KOGITO-6377",
+      "target_id": "KOGITO-6379",
+      "label": 1,
+      "prompt_chars": 1151
+    },
+    "KOGITO_00559": {
+      "project": "KOGITO",
+      "index": 559,
+      "source_id": "KOGITO-6377",
+      "target_id": "KOGITO-2981",
+      "label": 0,
+      "prompt_chars": 1057
+    },
+    "KOGITO_00560": {
+      "project": "KOGITO",
+      "index": 560,
+      "source_id": "KOGITO-6377",
+      "target_id": "KOGITO-1023",
+      "label": 0,
+      "prompt_chars": 1056
+    },
+    "KOGITO_00561": {
+      "project": "KOGITO",
+      "index": 561,
+      "source_id": "KOGITO-6377",
+      "target_id": "KOGITO-3240",
+      "label": 0,
+      "prompt_chars": 1052
+    },
+    "KOGITO_00562": {
+      "project": "KOGITO",
+      "index": 562,
+      "source_id": "KOGITO-6377",
+      "target_id": "KOGITO-6496",
+      "label": 1,
+      "prompt_chars": 919
+    },
+    "KOGITO_00563": {
+      "project": "KOGITO",
+      "index": 563,
+      "source_id": "KOGITO-6377",
+      "target_id": "KOGITO-5642",
+      "label": 0,
+      "prompt_chars": 1051
+    },
+    "KOGITO_00564": {
+      "project": "KOGITO",
+      "index": 564,
+      "source_id": "KOGITO-6377",
+      "target_id": "KOGITO-392",
+      "label": 0,
+      "prompt_chars": 1139
+    },
+    "KOGITO_00565": {
+      "project": "KOGITO",
+      "index": 565,
+      "source_id": "KOGITO-6377",
+      "target_id": "KOGITO-4860",
+      "label": 0,
+      "prompt_chars": 2143
+    },
+    "KOGITO_00566": {
+      "project": "KOGITO",
+      "index": 566,
+      "source_id": "KOGITO-6377",
+      "target_id": "KOGITO-6830",
+      "label": 1,
+      "prompt_chars": 912
+    },
+    "KOGITO_00567": {
+      "project": "KOGITO",
+      "index": 567,
+      "source_id": "KOGITO-6377",
+      "target_id": "KOGITO-1648",
+      "label": 0,
+      "prompt_chars": 1242
+    },
+    "KOGITO_00568": {
+      "project": "KOGITO",
+      "index": 568,
+      "source_id": "KOGITO-6377",
+      "target_id": "KOGITO-5040",
+      "label": 0,
+      "prompt_chars": 1014
+    },
+    "KOGITO_00569": {
+      "project": "KOGITO",
+      "index": 569,
+      "source_id": "KOGITO-6377",
+      "target_id": "KOGITO-1155",
+      "label": 0,
+      "prompt_chars": 1072
+    },
+    "KOGITO_00570": {
+      "project": "KOGITO",
+      "index": 570,
+      "source_id": "KOGITO-6377",
+      "target_id": "KOGITO-6841",
+      "label": 1,
+      "prompt_chars": 981
+    },
+    "KOGITO_00571": {
+      "project": "KOGITO",
+      "index": 571,
+      "source_id": "KOGITO-6377",
+      "target_id": "KOGITO-4820",
+      "label": 0,
+      "prompt_chars": 974
+    },
+    "KOGITO_00572": {
+      "project": "KOGITO",
+      "index": 572,
+      "source_id": "KOGITO-6377",
+      "target_id": "KOGITO-475",
+      "label": 0,
+      "prompt_chars": 1135
+    },
+    "KOGITO_00573": {
+      "project": "KOGITO",
+      "index": 573,
+      "source_id": "KOGITO-6377",
+      "target_id": "KOGITO-24",
+      "label": 0,
+      "prompt_chars": 1494
+    },
+    "KOGITO_00574": {
+      "project": "KOGITO",
+      "index": 574,
+      "source_id": "KOGITO-6562",
+      "target_id": "KOGITO-6649",
+      "label": 1,
+      "prompt_chars": 764
+    },
+    "KOGITO_00575": {
+      "project": "KOGITO",
+      "index": 575,
+      "source_id": "KOGITO-6562",
+      "target_id": "KOGITO-6748",
+      "label": 0,
+      "prompt_chars": 1194
+    },
+    "KOGITO_00576": {
+      "project": "KOGITO",
+      "index": 576,
+      "source_id": "KOGITO-6562",
+      "target_id": "KOGITO-6681",
+      "label": 0,
+      "prompt_chars": 850
+    },
+    "KOGITO_00577": {
+      "project": "KOGITO",
+      "index": 577,
+      "source_id": "KOGITO-6562",
+      "target_id": "KOGITO-6766",
+      "label": 0,
+      "prompt_chars": 825
+    },
+    "KOGITO_00578": {
+      "project": "KOGITO",
+      "index": 578,
+      "source_id": "KOGITO-6562",
+      "target_id": "KOGITO-6650",
+      "label": 1,
+      "prompt_chars": 877
+    },
+    "KOGITO_00579": {
+      "project": "KOGITO",
+      "index": 579,
+      "source_id": "KOGITO-6562",
+      "target_id": "KOGITO-6549",
+      "label": 0,
+      "prompt_chars": 1207
+    },
+    "KOGITO_00580": {
+      "project": "KOGITO",
+      "index": 580,
+      "source_id": "KOGITO-6562",
+      "target_id": "KOGITO-6808",
+      "label": 0,
+      "prompt_chars": 918
+    },
+    "KOGITO_00581": {
+      "project": "KOGITO",
+      "index": 581,
+      "source_id": "KOGITO-6562",
+      "target_id": "KOGITO-6747",
+      "label": 0,
+      "prompt_chars": 1026
+    },
+    "KOGITO_00582": {
+      "project": "KOGITO",
+      "index": 582,
+      "source_id": "KOGITO-6562",
+      "target_id": "KOGITO-6745",
+      "label": 1,
+      "prompt_chars": 1323
+    },
+    "KOGITO_00583": {
+      "project": "KOGITO",
+      "index": 583,
+      "source_id": "KOGITO-6562",
+      "target_id": "KOGITO-6664",
+      "label": 0,
+      "prompt_chars": 955
+    },
+    "KOGITO_00584": {
+      "project": "KOGITO",
+      "index": 584,
+      "source_id": "KOGITO-6562",
+      "target_id": "KOGITO-1213",
+      "label": 0,
+      "prompt_chars": 756
+    },
+    "KOGITO_00585": {
+      "project": "KOGITO",
+      "index": 585,
+      "source_id": "KOGITO-6562",
+      "target_id": "KOGITO-3100",
+      "label": 0,
+      "prompt_chars": 791
+    },
+    "KOGITO_00586": {
+      "project": "KOGITO",
+      "index": 586,
+      "source_id": "KOGITO-6562",
+      "target_id": "KOGITO-6746",
+      "label": 1,
+      "prompt_chars": 1025
+    },
+    "KOGITO_00587": {
+      "project": "KOGITO",
+      "index": 587,
+      "source_id": "KOGITO-6562",
+      "target_id": "KOGITO-3915",
+      "label": 0,
+      "prompt_chars": 1203
+    },
+    "KOGITO_00588": {
+      "project": "KOGITO",
+      "index": 588,
+      "source_id": "KOGITO-6562",
+      "target_id": "KOGITO-6826",
+      "label": 0,
+      "prompt_chars": 860
+    },
+    "KOGITO_00589": {
+      "project": "KOGITO",
+      "index": 589,
+      "source_id": "KOGITO-6562",
+      "target_id": "KOGITO-3968",
+      "label": 0,
+      "prompt_chars": 975
+    },
+    "KOGITO_00590": {
+      "project": "KOGITO",
+      "index": 590,
+      "source_id": "KOGITO-6562",
+      "target_id": "KOGITO-6824",
+      "label": 1,
+      "prompt_chars": 1207
+    },
+    "KOGITO_00591": {
+      "project": "KOGITO",
+      "index": 591,
+      "source_id": "KOGITO-6562",
+      "target_id": "KOGITO-6816",
+      "label": 0,
+      "prompt_chars": 789
+    },
+    "KOGITO_00592": {
+      "project": "KOGITO",
+      "index": 592,
+      "source_id": "KOGITO-6562",
+      "target_id": "KOGITO-6786",
+      "label": 0,
+      "prompt_chars": 1188
+    },
+    "KOGITO_00593": {
+      "project": "KOGITO",
+      "index": 593,
+      "source_id": "KOGITO-6562",
+      "target_id": "KOGITO-1776",
+      "label": 0,
+      "prompt_chars": 1036
+    },
+    "KOGITO_00594": {
+      "project": "KOGITO",
+      "index": 594,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-1107",
+      "label": 1,
+      "prompt_chars": 924
+    },
+    "KOGITO_00595": {
+      "project": "KOGITO",
+      "index": 595,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-4101",
+      "label": 0,
+      "prompt_chars": 835
+    },
+    "KOGITO_00596": {
+      "project": "KOGITO",
+      "index": 596,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-2964",
+      "label": 0,
+      "prompt_chars": 1049
+    },
+    "KOGITO_00597": {
+      "project": "KOGITO",
+      "index": 597,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-1552",
+      "label": 0,
+      "prompt_chars": 933
+    },
+    "KOGITO_00598": {
+      "project": "KOGITO",
+      "index": 598,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-1458",
+      "label": 1,
+      "prompt_chars": 860
+    },
+    "KOGITO_00599": {
+      "project": "KOGITO",
+      "index": 599,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-2670",
+      "label": 0,
+      "prompt_chars": 930
+    },
+    "KOGITO_00600": {
+      "project": "KOGITO",
+      "index": 600,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-5225",
+      "label": 0,
+      "prompt_chars": 917
+    },
+    "KOGITO_00601": {
+      "project": "KOGITO",
+      "index": 601,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-809",
+      "label": 0,
+      "prompt_chars": 861
+    },
+    "KOGITO_00602": {
+      "project": "KOGITO",
+      "index": 602,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-295",
+      "label": 1,
+      "prompt_chars": 891
+    },
+    "KOGITO_00603": {
+      "project": "KOGITO",
+      "index": 603,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-3455",
+      "label": 0,
+      "prompt_chars": 851
+    },
+    "KOGITO_00604": {
+      "project": "KOGITO",
+      "index": 604,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-6421",
+      "label": 0,
+      "prompt_chars": 1064
+    },
+    "KOGITO_00605": {
+      "project": "KOGITO",
+      "index": 605,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-5162",
+      "label": 0,
+      "prompt_chars": 965
+    },
+    "KOGITO_00606": {
+      "project": "KOGITO",
+      "index": 606,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-389",
+      "label": 1,
+      "prompt_chars": 993
+    },
+    "KOGITO_00607": {
+      "project": "KOGITO",
+      "index": 607,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-4239",
+      "label": 0,
+      "prompt_chars": 906
+    },
+    "KOGITO_00608": {
+      "project": "KOGITO",
+      "index": 608,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-4230",
+      "label": 0,
+      "prompt_chars": 1331
+    },
+    "KOGITO_00609": {
+      "project": "KOGITO",
+      "index": 609,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-2965",
+      "label": 0,
+      "prompt_chars": 845
+    },
+    "KOGITO_00610": {
+      "project": "KOGITO",
+      "index": 610,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-402",
+      "label": 1,
+      "prompt_chars": 823
+    },
+    "KOGITO_00611": {
+      "project": "KOGITO",
+      "index": 611,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-763",
+      "label": 0,
+      "prompt_chars": 827
+    },
+    "KOGITO_00612": {
+      "project": "KOGITO",
+      "index": 612,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-4238",
+      "label": 0,
+      "prompt_chars": 841
+    },
+    "KOGITO_00613": {
+      "project": "KOGITO",
+      "index": 613,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-5158",
+      "label": 0,
+      "prompt_chars": 966
+    },
+    "KOGITO_00614": {
+      "project": "KOGITO",
+      "index": 614,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-403",
+      "label": 1,
+      "prompt_chars": 976
+    },
+    "KOGITO_00615": {
+      "project": "KOGITO",
+      "index": 615,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-4938",
+      "label": 0,
+      "prompt_chars": 1033
+    },
+    "KOGITO_00616": {
+      "project": "KOGITO",
+      "index": 616,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-5213",
+      "label": 0,
+      "prompt_chars": 869
+    },
+    "KOGITO_00617": {
+      "project": "KOGITO",
+      "index": 617,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-964",
+      "label": 0,
+      "prompt_chars": 1389
+    },
+    "KOGITO_00618": {
+      "project": "KOGITO",
+      "index": 618,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-404",
+      "label": 1,
+      "prompt_chars": 983
+    },
+    "KOGITO_00619": {
+      "project": "KOGITO",
+      "index": 619,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-2669",
+      "label": 0,
+      "prompt_chars": 1012
+    },
+    "KOGITO_00620": {
+      "project": "KOGITO",
+      "index": 620,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-1553",
+      "label": 0,
+      "prompt_chars": 1527
+    },
+    "KOGITO_00621": {
+      "project": "KOGITO",
+      "index": 621,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-2676",
+      "label": 0,
+      "prompt_chars": 934
+    },
+    "KOGITO_00622": {
+      "project": "KOGITO",
+      "index": 622,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-405",
+      "label": 1,
+      "prompt_chars": 843
+    },
+    "KOGITO_00623": {
+      "project": "KOGITO",
+      "index": 623,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-3319",
+      "label": 0,
+      "prompt_chars": 814
+    },
+    "KOGITO_00624": {
+      "project": "KOGITO",
+      "index": 624,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-1817",
+      "label": 0,
+      "prompt_chars": 1030
+    },
+    "KOGITO_00625": {
+      "project": "KOGITO",
+      "index": 625,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-3653",
+      "label": 0,
+      "prompt_chars": 783
+    },
+    "KOGITO_00626": {
+      "project": "KOGITO",
+      "index": 626,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-406",
+      "label": 1,
+      "prompt_chars": 842
+    },
+    "KOGITO_00627": {
+      "project": "KOGITO",
+      "index": 627,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-2991",
+      "label": 0,
+      "prompt_chars": 1017
+    },
+    "KOGITO_00628": {
+      "project": "KOGITO",
+      "index": 628,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-5214",
+      "label": 0,
+      "prompt_chars": 867
+    },
+    "KOGITO_00629": {
+      "project": "KOGITO",
+      "index": 629,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-6021",
+      "label": 0,
+      "prompt_chars": 879
+    },
+    "KOGITO_00630": {
+      "project": "KOGITO",
+      "index": 630,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-407",
+      "label": 1,
+      "prompt_chars": 845
+    },
+    "KOGITO_00631": {
+      "project": "KOGITO",
+      "index": 631,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-3453",
+      "label": 0,
+      "prompt_chars": 804
+    },
+    "KOGITO_00632": {
+      "project": "KOGITO",
+      "index": 632,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-2668",
+      "label": 0,
+      "prompt_chars": 968
+    },
+    "KOGITO_00633": {
+      "project": "KOGITO",
+      "index": 633,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-24",
+      "label": 0,
+      "prompt_chars": 1359
+    },
+    "KOGITO_00634": {
+      "project": "KOGITO",
+      "index": 634,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-408",
+      "label": 1,
+      "prompt_chars": 845
+    },
+    "KOGITO_00635": {
+      "project": "KOGITO",
+      "index": 635,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-1154",
+      "label": 0,
+      "prompt_chars": 785
+    },
+    "KOGITO_00636": {
+      "project": "KOGITO",
+      "index": 636,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-3817",
+      "label": 0,
+      "prompt_chars": 799
+    },
+    "KOGITO_00637": {
+      "project": "KOGITO",
+      "index": 637,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-2666",
+      "label": 0,
+      "prompt_chars": 1187
+    },
+    "KOGITO_00638": {
+      "project": "KOGITO",
+      "index": 638,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-474",
+      "label": 1,
+      "prompt_chars": 1076
+    },
+    "KOGITO_00639": {
+      "project": "KOGITO",
+      "index": 639,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-986",
+      "label": 0,
+      "prompt_chars": 1460
+    },
+    "KOGITO_00640": {
+      "project": "KOGITO",
+      "index": 640,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-2746",
+      "label": 0,
+      "prompt_chars": 892
+    },
+    "KOGITO_00641": {
+      "project": "KOGITO",
+      "index": 641,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-2665",
+      "label": 0,
+      "prompt_chars": 1228
+    },
+    "KOGITO_00642": {
+      "project": "KOGITO",
+      "index": 642,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-475",
+      "label": 1,
+      "prompt_chars": 1000
+    },
+    "KOGITO_00643": {
+      "project": "KOGITO",
+      "index": 643,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-4264",
+      "label": 0,
+      "prompt_chars": 2806
+    },
+    "KOGITO_00644": {
+      "project": "KOGITO",
+      "index": 644,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-3519",
+      "label": 0,
+      "prompt_chars": 887
+    },
+    "KOGITO_00645": {
+      "project": "KOGITO",
+      "index": 645,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-3547",
+      "label": 0,
+      "prompt_chars": 841
+    },
+    "KOGITO_00646": {
+      "project": "KOGITO",
+      "index": 646,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-658",
+      "label": 1,
+      "prompt_chars": 820
+    },
+    "KOGITO_00647": {
+      "project": "KOGITO",
+      "index": 647,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-1975",
+      "label": 0,
+      "prompt_chars": 1343
+    },
+    "KOGITO_00648": {
+      "project": "KOGITO",
+      "index": 648,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-543",
+      "label": 0,
+      "prompt_chars": 843
+    },
+    "KOGITO_00649": {
+      "project": "KOGITO",
+      "index": 649,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-4235",
+      "label": 0,
+      "prompt_chars": 1004
+    },
+    "KOGITO_00650": {
+      "project": "KOGITO",
+      "index": 650,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-778",
+      "label": 1,
+      "prompt_chars": 3270
+    },
+    "KOGITO_00651": {
+      "project": "KOGITO",
+      "index": 651,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-4824",
+      "label": 0,
+      "prompt_chars": 1142
+    },
+    "KOGITO_00652": {
+      "project": "KOGITO",
+      "index": 652,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-5160",
+      "label": 0,
+      "prompt_chars": 766
+    },
+    "KOGITO_00653": {
+      "project": "KOGITO",
+      "index": 653,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-2671",
+      "label": 0,
+      "prompt_chars": 1113
+    },
+    "KOGITO_00654": {
+      "project": "KOGITO",
+      "index": 654,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-780",
+      "label": 1,
+      "prompt_chars": 991
+    },
+    "KOGITO_00655": {
+      "project": "KOGITO",
+      "index": 655,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-788",
+      "label": 0,
+      "prompt_chars": 1331
+    },
+    "KOGITO_00656": {
+      "project": "KOGITO",
+      "index": 656,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-1156",
+      "label": 0,
+      "prompt_chars": 1003
+    },
+    "KOGITO_00657": {
+      "project": "KOGITO",
+      "index": 657,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-5119",
+      "label": 0,
+      "prompt_chars": 1235
+    },
+    "KOGITO_00658": {
+      "project": "KOGITO",
+      "index": 658,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-840",
+      "label": 1,
+      "prompt_chars": 2156
+    },
+    "KOGITO_00659": {
+      "project": "KOGITO",
+      "index": 659,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-4939",
+      "label": 0,
+      "prompt_chars": 1090
+    },
+    "KOGITO_00660": {
+      "project": "KOGITO",
+      "index": 660,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-5159",
+      "label": 0,
+      "prompt_chars": 770
+    },
+    "KOGITO_00661": {
+      "project": "KOGITO",
+      "index": 661,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-3518",
+      "label": 0,
+      "prompt_chars": 932
+    },
+    "KOGITO_00662": {
+      "project": "KOGITO",
+      "index": 662,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-864",
+      "label": 1,
+      "prompt_chars": 1185
+    },
+    "KOGITO_00663": {
+      "project": "KOGITO",
+      "index": 663,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-5161",
+      "label": 0,
+      "prompt_chars": 2241
+    },
+    "KOGITO_00664": {
+      "project": "KOGITO",
+      "index": 664,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-1454",
+      "label": 0,
+      "prompt_chars": 865
+    },
+    "KOGITO_00665": {
+      "project": "KOGITO",
+      "index": 665,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-157",
+      "label": 0,
+      "prompt_chars": 836
+    },
+    "KOGITO_00666": {
+      "project": "KOGITO",
+      "index": 666,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-937",
+      "label": 1,
+      "prompt_chars": 961
+    },
+    "KOGITO_00667": {
+      "project": "KOGITO",
+      "index": 667,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-6859",
+      "label": 0,
+      "prompt_chars": 762
+    },
+    "KOGITO_00668": {
+      "project": "KOGITO",
+      "index": 668,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-3654",
+      "label": 0,
+      "prompt_chars": 808
+    },
+    "KOGITO_00669": {
+      "project": "KOGITO",
+      "index": 669,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-3430",
+      "label": 0,
+      "prompt_chars": 737
+    },
+    "KOGITO_00670": {
+      "project": "KOGITO",
+      "index": 670,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-962",
+      "label": 1,
+      "prompt_chars": 1369
+    },
+    "KOGITO_00671": {
+      "project": "KOGITO",
+      "index": 671,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-5985",
+      "label": 0,
+      "prompt_chars": 1107
+    },
+    "KOGITO_00672": {
+      "project": "KOGITO",
+      "index": 672,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-5646",
+      "label": 0,
+      "prompt_chars": 924
+    },
+    "KOGITO_00673": {
+      "project": "KOGITO",
+      "index": 673,
+      "source_id": "KOGITO-666",
+      "target_id": "KOGITO-1112",
+      "label": 0,
+      "prompt_chars": 761
+    },
+    "KOGITO_00674": {
+      "project": "KOGITO",
+      "index": 674,
+      "source_id": "KOGITO-6795",
+      "target_id": "KOGITO-6807",
+      "label": 1,
+      "prompt_chars": 566
+    },
+    "KOGITO_00675": {
+      "project": "KOGITO",
+      "index": 675,
+      "source_id": "KOGITO-6795",
+      "target_id": "KOGITO-1213",
+      "label": 0,
+      "prompt_chars": 590
+    },
+    "KOGITO_00676": {
+      "project": "KOGITO",
+      "index": 676,
+      "source_id": "KOGITO-6795",
+      "target_id": "KOGITO-1821",
+      "label": 0,
+      "prompt_chars": 588
+    },
+    "KOGITO_00677": {
+      "project": "KOGITO",
+      "index": 677,
+      "source_id": "KOGITO-6795",
+      "target_id": "KOGITO-6785",
+      "label": 0,
+      "prompt_chars": 736
+    },
+    "KOGITO_00678": {
+      "project": "KOGITO",
+      "index": 678,
+      "source_id": "KOGITO-697",
+      "target_id": "KOGITO-1552",
+      "label": 1,
+      "prompt_chars": 1610
+    },
+    "KOGITO_00679": {
+      "project": "KOGITO",
+      "index": 679,
+      "source_id": "KOGITO-697",
+      "target_id": "KOGITO-5158",
+      "label": 0,
+      "prompt_chars": 1643
+    },
+    "KOGITO_00680": {
+      "project": "KOGITO",
+      "index": 680,
+      "source_id": "KOGITO-697",
+      "target_id": "KOGITO-5162",
+      "label": 0,
+      "prompt_chars": 1642
+    },
+    "KOGITO_00681": {
+      "project": "KOGITO",
+      "index": 681,
+      "source_id": "KOGITO-697",
+      "target_id": "KOGITO-2671",
+      "label": 0,
+      "prompt_chars": 1790
+    },
+    "KOGITO_00682": {
+      "project": "KOGITO",
+      "index": 682,
+      "source_id": "KOGITO-697",
+      "target_id": "KOGITO-1553",
+      "label": 1,
+      "prompt_chars": 2204
+    },
+    "KOGITO_00683": {
+      "project": "KOGITO",
+      "index": 683,
+      "source_id": "KOGITO-697",
+      "target_id": "KOGITO-3519",
+      "label": 0,
+      "prompt_chars": 1564
+    },
+    "KOGITO_00684": {
+      "project": "KOGITO",
+      "index": 684,
+      "source_id": "KOGITO-697",
+      "target_id": "KOGITO-3547",
+      "label": 0,
+      "prompt_chars": 1518
+    },
+    "KOGITO_00685": {
+      "project": "KOGITO",
+      "index": 685,
+      "source_id": "KOGITO-697",
+      "target_id": "KOGITO-2676",
+      "label": 0,
+      "prompt_chars": 1611
+    },
+    "KOGITO_00686": {
+      "project": "KOGITO",
+      "index": 686,
+      "source_id": "KOGITO-697",
+      "target_id": "KOGITO-1776",
+      "label": 1,
+      "prompt_chars": 1724
+    },
+    "KOGITO_00687": {
+      "project": "KOGITO",
+      "index": 687,
+      "source_id": "KOGITO-697",
+      "target_id": "KOGITO-2965",
+      "label": 0,
+      "prompt_chars": 1522
+    },
+    "KOGITO_00688": {
+      "project": "KOGITO",
+      "index": 688,
+      "source_id": "KOGITO-697",
+      "target_id": "KOGITO-2991",
+      "label": 0,
+      "prompt_chars": 1694
+    },
+    "KOGITO_00689": {
+      "project": "KOGITO",
+      "index": 689,
+      "source_id": "KOGITO-697",
+      "target_id": "KOGITO-964",
+      "label": 0,
+      "prompt_chars": 2066
+    },
+    "KOGITO_00690": {
+      "project": "KOGITO",
+      "index": 690,
+      "source_id": "KOGITO-733",
+      "target_id": "KOGITO-737",
+      "label": 1,
+      "prompt_chars": 867
+    },
+    "KOGITO_00691": {
+      "project": "KOGITO",
+      "index": 691,
+      "source_id": "KOGITO-733",
+      "target_id": "KOGITO-4803",
+      "label": 0,
+      "prompt_chars": 764
+    },
+    "KOGITO_00692": {
+      "project": "KOGITO",
+      "index": 692,
+      "source_id": "KOGITO-733",
+      "target_id": "KOGITO-932",
+      "label": 0,
+      "prompt_chars": 665
+    },
+    "KOGITO_00693": {
+      "project": "KOGITO",
+      "index": 693,
+      "source_id": "KOGITO-733",
+      "target_id": "KOGITO-2820",
+      "label": 0,
+      "prompt_chars": 896
+    },
+    "KOGITO_00694": {
+      "project": "KOGITO",
+      "index": 694,
+      "source_id": "KOGITO-733",
+      "target_id": "KOGITO-742",
+      "label": 1,
+      "prompt_chars": 787
+    },
+    "KOGITO_00695": {
+      "project": "KOGITO",
+      "index": 695,
+      "source_id": "KOGITO-733",
+      "target_id": "KOGITO-2981",
+      "label": 0,
+      "prompt_chars": 762
+    },
+    "KOGITO_00696": {
+      "project": "KOGITO",
+      "index": 696,
+      "source_id": "KOGITO-733",
+      "target_id": "KOGITO-24",
+      "label": 0,
+      "prompt_chars": 1199
+    },
+    "KOGITO_00697": {
+      "project": "KOGITO",
+      "index": 697,
+      "source_id": "KOGITO-733",
+      "target_id": "KOGITO-4235",
+      "label": 0,
+      "prompt_chars": 844
+    },
+    "KOGITO_00698": {
+      "project": "KOGITO",
+      "index": 698,
+      "source_id": "KOGITO-733",
+      "target_id": "KOGITO-763",
+      "label": 1,
+      "prompt_chars": 667
+    },
+    "KOGITO_00699": {
+      "project": "KOGITO",
+      "index": 699,
+      "source_id": "KOGITO-733",
+      "target_id": "KOGITO-5214",
+      "label": 0,
+      "prompt_chars": 707
+    },
+    "KOGITO_00700": {
+      "project": "KOGITO",
+      "index": 700,
+      "source_id": "KOGITO-733",
+      "target_id": "KOGITO-392",
+      "label": 0,
+      "prompt_chars": 844
+    },
+    "KOGITO_00701": {
+      "project": "KOGITO",
+      "index": 701,
+      "source_id": "KOGITO-733",
+      "target_id": "KOGITO-5642",
+      "label": 0,
+      "prompt_chars": 756
+    },
+    "KOGITO_00702": {
+      "project": "KOGITO",
+      "index": 702,
+      "source_id": "KOGITO-733",
+      "target_id": "KOGITO-788",
+      "label": 1,
+      "prompt_chars": 1171
+    },
+    "KOGITO_00703": {
+      "project": "KOGITO",
+      "index": 703,
+      "source_id": "KOGITO-733",
+      "target_id": "KOGITO-1228",
+      "label": 0,
+      "prompt_chars": 595
+    },
+    "KOGITO_00704": {
+      "project": "KOGITO",
+      "index": 704,
+      "source_id": "KOGITO-733",
+      "target_id": "KOGITO-6138",
+      "label": 0,
+      "prompt_chars": 921
+    },
+    "KOGITO_00705": {
+      "project": "KOGITO",
+      "index": 705,
+      "source_id": "KOGITO-733",
+      "target_id": "KOGITO-4140",
+      "label": 0,
+      "prompt_chars": 704
+    },
+    "KOGITO_00706": {
+      "project": "KOGITO",
+      "index": 706,
+      "source_id": "KOGITO-759",
+      "target_id": "KOGITO-738",
+      "label": 1,
+      "prompt_chars": 844
+    },
+    "KOGITO_00707": {
+      "project": "KOGITO",
+      "index": 707,
+      "source_id": "KOGITO-759",
+      "target_id": "KOGITO-4803",
+      "label": 0,
+      "prompt_chars": 993
+    },
+    "KOGITO_00708": {
+      "project": "KOGITO",
+      "index": 708,
+      "source_id": "KOGITO-759",
+      "target_id": "KOGITO-2820",
+      "label": 0,
+      "prompt_chars": 1125
+    },
+    "KOGITO_00709": {
+      "project": "KOGITO",
+      "index": 709,
+      "source_id": "KOGITO-759",
+      "target_id": "KOGITO-1803",
+      "label": 0,
+      "prompt_chars": 1473
+    },
+    "KOGITO_00710": {
+      "project": "KOGITO",
+      "index": 710,
+      "source_id": "KOGITO-759",
+      "target_id": "KOGITO-739",
+      "label": 1,
+      "prompt_chars": 831
+    },
+    "KOGITO_00711": {
+      "project": "KOGITO",
+      "index": 711,
+      "source_id": "KOGITO-759",
+      "target_id": "KOGITO-392",
+      "label": 0,
+      "prompt_chars": 1073
+    },
+    "KOGITO_00712": {
+      "project": "KOGITO",
+      "index": 712,
+      "source_id": "KOGITO-759",
+      "target_id": "KOGITO-5040",
+      "label": 0,
+      "prompt_chars": 948
+    },
+    "KOGITO_00713": {
+      "project": "KOGITO",
+      "index": 713,
+      "source_id": "KOGITO-759",
+      "target_id": "KOGITO-4819",
+      "label": 0,
+      "prompt_chars": 844
+    },
+    "KOGITO_00714": {
+      "project": "KOGITO",
+      "index": 714,
+      "source_id": "KOGITO-759",
+      "target_id": "KOGITO-779",
+      "label": 1,
+      "prompt_chars": 1071
+    },
+    "KOGITO_00715": {
+      "project": "KOGITO",
+      "index": 715,
+      "source_id": "KOGITO-759",
+      "target_id": "KOGITO-24",
+      "label": 0,
+      "prompt_chars": 1428
+    },
+    "KOGITO_00716": {
+      "project": "KOGITO",
+      "index": 716,
+      "source_id": "KOGITO-759",
+      "target_id": "KOGITO-966",
+      "label": 0,
+      "prompt_chars": 901
+    },
+    "KOGITO_00717": {
+      "project": "KOGITO",
+      "index": 717,
+      "source_id": "KOGITO-759",
+      "target_id": "KOGITO-2981",
+      "label": 0,
+      "prompt_chars": 991
+    },
+    "KOGITO_00718": {
+      "project": "KOGITO",
+      "index": 718,
+      "source_id": "KOGITO-759",
+      "target_id": "KOGITO-781",
+      "label": 1,
+      "prompt_chars": 1139
+    },
+    "KOGITO_00719": {
+      "project": "KOGITO",
+      "index": 719,
+      "source_id": "KOGITO-759",
+      "target_id": "KOGITO-5642",
+      "label": 0,
+      "prompt_chars": 985
+    },
+    "KOGITO_00720": {
+      "project": "KOGITO",
+      "index": 720,
+      "source_id": "KOGITO-759",
+      "target_id": "KOGITO-5214",
+      "label": 0,
+      "prompt_chars": 936
+    },
+    "KOGITO_00721": {
+      "project": "KOGITO",
+      "index": 721,
+      "source_id": "KOGITO-759",
+      "target_id": "KOGITO-6138",
+      "label": 0,
+      "prompt_chars": 1150
+    },
+    "KOGITO_00722": {
+      "project": "KOGITO",
+      "index": 722,
+      "source_id": "KOGITO-760",
+      "target_id": "KOGITO-762",
+      "label": 1,
+      "prompt_chars": 635
+    },
+    "KOGITO_00723": {
+      "project": "KOGITO",
+      "index": 723,
+      "source_id": "KOGITO-760",
+      "target_id": "KOGITO-6824",
+      "label": 0,
+      "prompt_chars": 1098
+    },
+    "KOGITO_00724": {
+      "project": "KOGITO",
+      "index": 724,
+      "source_id": "KOGITO-760",
+      "target_id": "KOGITO-2473",
+      "label": 0,
+      "prompt_chars": 812
+    },
+    "KOGITO_00725": {
+      "project": "KOGITO",
+      "index": 725,
+      "source_id": "KOGITO-760",
+      "target_id": "KOGITO-2987",
+      "label": 0,
+      "prompt_chars": 935
+    },
+    "KOGITO_00726": {
+      "project": "KOGITO",
+      "index": 726,
+      "source_id": "KOGITO-83",
+      "target_id": "KOGITO-74",
+      "label": 1,
+      "prompt_chars": 1188
+    },
+    "KOGITO_00727": {
+      "project": "KOGITO",
+      "index": 727,
+      "source_id": "KOGITO-83",
+      "target_id": "KOGITO-6760",
+      "label": 0,
+      "prompt_chars": 545
+    },
+    "KOGITO_00728": {
+      "project": "KOGITO",
+      "index": 728,
+      "source_id": "KOGITO-83",
+      "target_id": "KOGITO-6761",
+      "label": 0,
+      "prompt_chars": 540
+    },
+    "KOGITO_00729": {
+      "project": "KOGITO",
+      "index": 729,
+      "source_id": "KOGITO-83",
+      "target_id": "KOGITO-6533",
+      "label": 0,
+      "prompt_chars": 543
+    },
+    "KOGITO_00730": {
+      "project": "KOGITO",
+      "index": 730,
+      "source_id": "KOGITO-83",
+      "target_id": "KOGITO-84",
+      "label": 1,
+      "prompt_chars": 929
+    },
+    "KOGITO_00731": {
+      "project": "KOGITO",
+      "index": 731,
+      "source_id": "KOGITO-83",
+      "target_id": "KOGITO-6762",
+      "label": 0,
+      "prompt_chars": 549
+    },
+    "KOGITO_00732": {
+      "project": "KOGITO",
+      "index": 732,
+      "source_id": "KOGITO-83",
+      "target_id": "KOGITO-1110",
+      "label": 0,
+      "prompt_chars": 532
+    },
+    "KOGITO_00733": {
+      "project": "KOGITO",
+      "index": 733,
+      "source_id": "KOGITO-83",
+      "target_id": "KOGITO-1087",
+      "label": 0,
+      "prompt_chars": 536
+    },
+    "KOGITO_00734": {
+      "project": "KOGITO",
+      "index": 734,
+      "source_id": "KOGITO-83",
+      "target_id": "KOGITO-85",
+      "label": 1,
+      "prompt_chars": 961
+    },
+    "KOGITO_00735": {
+      "project": "KOGITO",
+      "index": 735,
+      "source_id": "KOGITO-83",
+      "target_id": "KOGITO-905",
+      "label": 0,
+      "prompt_chars": 619
+    },
+    "KOGITO_00736": {
+      "project": "KOGITO",
+      "index": 736,
+      "source_id": "KOGITO-83",
+      "target_id": "KOGITO-1228",
+      "label": 0,
+      "prompt_chars": 536
+    },
+    "KOGITO_00737": {
+      "project": "KOGITO",
+      "index": 737,
+      "source_id": "KOGITO-83",
+      "target_id": "KOGITO-1821",
+      "label": 0,
+      "prompt_chars": 546
+    },
+    "KOGITO_00738": {
+      "project": "KOGITO",
+      "index": 738,
+      "source_id": "KOGITO-83",
+      "target_id": "KOGITO-86",
+      "label": 1,
+      "prompt_chars": 1306
+    },
+    "KOGITO_00739": {
+      "project": "KOGITO",
+      "index": 739,
+      "source_id": "KOGITO-83",
+      "target_id": "KOGITO-1388",
+      "label": 0,
+      "prompt_chars": 528
+    },
+    "KOGITO_00740": {
+      "project": "KOGITO",
+      "index": 740,
+      "source_id": "KOGITO-83",
+      "target_id": "KOGITO-1121",
+      "label": 0,
+      "prompt_chars": 558
+    },
+    "KOGITO_00741": {
+      "project": "KOGITO",
+      "index": 741,
+      "source_id": "KOGITO-83",
+      "target_id": "KOGITO-3356",
+      "label": 0,
+      "prompt_chars": 578
+    },
+    "KOGITO_00742": {
+      "project": "KOGITO",
+      "index": 742,
+      "source_id": "KOGITO-83",
+      "target_id": "KOGITO-89",
+      "label": 1,
+      "prompt_chars": 665
+    },
+    "KOGITO_00743": {
+      "project": "KOGITO",
+      "index": 743,
+      "source_id": "KOGITO-83",
+      "target_id": "KOGITO-1213",
+      "label": 0,
+      "prompt_chars": 548
+    },
+    "KOGITO_00744": {
+      "project": "KOGITO",
+      "index": 744,
+      "source_id": "KOGITO-83",
+      "target_id": "KOGITO-912",
+      "label": 0,
+      "prompt_chars": 669
+    },
+    "KOGITO_00745": {
+      "project": "KOGITO",
+      "index": 745,
+      "source_id": "KOGITO-83",
+      "target_id": "KOGITO-6256",
+      "label": 0,
+      "prompt_chars": 548
+    },
+    "KOGITO_00746": {
+      "project": "KOGITO",
+      "index": 746,
+      "source_id": "KOGITO-83",
+      "target_id": "KOGITO-95",
+      "label": 1,
+      "prompt_chars": 1809
+    },
+    "KOGITO_00747": {
+      "project": "KOGITO",
+      "index": 747,
+      "source_id": "KOGITO-83",
+      "target_id": "KOGITO-2691",
+      "label": 0,
+      "prompt_chars": 587
+    },
+    "KOGITO_00748": {
+      "project": "KOGITO",
+      "index": 748,
+      "source_id": "KOGITO-83",
+      "target_id": "KOGITO-1089",
+      "label": 0,
+      "prompt_chars": 591
+    },
+    "KOGITO_00749": {
+      "project": "KOGITO",
+      "index": 749,
+      "source_id": "KOGITO-83",
+      "target_id": "KOGITO-1468",
+      "label": 0,
+      "prompt_chars": 538
+    },
+    "KOGITO_00750": {
+      "project": "KOGITO",
+      "index": 750,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-2153",
+      "label": 1,
+      "prompt_chars": 1772
+    },
+    "KOGITO_00751": {
+      "project": "KOGITO",
+      "index": 751,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-4860",
+      "label": 0,
+      "prompt_chars": 3032
+    },
+    "KOGITO_00752": {
+      "project": "KOGITO",
+      "index": 752,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-686",
+      "label": 0,
+      "prompt_chars": 2251
+    },
+    "KOGITO_00753": {
+      "project": "KOGITO",
+      "index": 753,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-1874",
+      "label": 0,
+      "prompt_chars": 1876
+    },
+    "KOGITO_00754": {
+      "project": "KOGITO",
+      "index": 754,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-2224",
+      "label": 1,
+      "prompt_chars": 2120
+    },
+    "KOGITO_00755": {
+      "project": "KOGITO",
+      "index": 755,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-4803",
+      "label": 0,
+      "prompt_chars": 1948
+    },
+    "KOGITO_00756": {
+      "project": "KOGITO",
+      "index": 756,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-316",
+      "label": 0,
+      "prompt_chars": 2367
+    },
+    "KOGITO_00757": {
+      "project": "KOGITO",
+      "index": 757,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-2981",
+      "label": 0,
+      "prompt_chars": 1946
+    },
+    "KOGITO_00758": {
+      "project": "KOGITO",
+      "index": 758,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-2234",
+      "label": 1,
+      "prompt_chars": 1976
+    },
+    "KOGITO_00759": {
+      "project": "KOGITO",
+      "index": 759,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-3144",
+      "label": 0,
+      "prompt_chars": 2277
+    },
+    "KOGITO_00760": {
+      "project": "KOGITO",
+      "index": 760,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-1803",
+      "label": 0,
+      "prompt_chars": 2428
+    },
+    "KOGITO_00761": {
+      "project": "KOGITO",
+      "index": 761,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-5040",
+      "label": 0,
+      "prompt_chars": 1903
+    },
+    "KOGITO_00762": {
+      "project": "KOGITO",
+      "index": 762,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-2235",
+      "label": 1,
+      "prompt_chars": 1884
+    },
+    "KOGITO_00763": {
+      "project": "KOGITO",
+      "index": 763,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-1964",
+      "label": 0,
+      "prompt_chars": 1819
+    },
+    "KOGITO_00764": {
+      "project": "KOGITO",
+      "index": 764,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-4819",
+      "label": 0,
+      "prompt_chars": 1799
+    },
+    "KOGITO_00765": {
+      "project": "KOGITO",
+      "index": 765,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-4485",
+      "label": 0,
+      "prompt_chars": 2254
+    },
+    "KOGITO_00766": {
+      "project": "KOGITO",
+      "index": 766,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-2834",
+      "label": 1,
+      "prompt_chars": 1770
+    },
+    "KOGITO_00767": {
+      "project": "KOGITO",
+      "index": 767,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-6241",
+      "label": 0,
+      "prompt_chars": 1860
+    },
+    "KOGITO_00768": {
+      "project": "KOGITO",
+      "index": 768,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-2254",
+      "label": 0,
+      "prompt_chars": 1976
+    },
+    "KOGITO_00769": {
+      "project": "KOGITO",
+      "index": 769,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-1227",
+      "label": 0,
+      "prompt_chars": 1954
+    },
+    "KOGITO_00770": {
+      "project": "KOGITO",
+      "index": 770,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-2841",
+      "label": 1,
+      "prompt_chars": 1869
+    },
+    "KOGITO_00771": {
+      "project": "KOGITO",
+      "index": 771,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-5784",
+      "label": 0,
+      "prompt_chars": 2328
+    },
+    "KOGITO_00772": {
+      "project": "KOGITO",
+      "index": 772,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-4654",
+      "label": 0,
+      "prompt_chars": 2748
+    },
+    "KOGITO_00773": {
+      "project": "KOGITO",
+      "index": 773,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-3471",
+      "label": 0,
+      "prompt_chars": 1905
+    },
+    "KOGITO_00774": {
+      "project": "KOGITO",
+      "index": 774,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-2900",
+      "label": 1,
+      "prompt_chars": 1898
+    },
+    "KOGITO_00775": {
+      "project": "KOGITO",
+      "index": 775,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-6096",
+      "label": 0,
+      "prompt_chars": 2332
+    },
+    "KOGITO_00776": {
+      "project": "KOGITO",
+      "index": 776,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-1654",
+      "label": 0,
+      "prompt_chars": 1915
+    },
+    "KOGITO_00777": {
+      "project": "KOGITO",
+      "index": 777,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-5585",
+      "label": 0,
+      "prompt_chars": 1933
+    },
+    "KOGITO_00778": {
+      "project": "KOGITO",
+      "index": 778,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-2969",
+      "label": 1,
+      "prompt_chars": 1793
+    },
+    "KOGITO_00779": {
+      "project": "KOGITO",
+      "index": 779,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-256",
+      "label": 0,
+      "prompt_chars": 3067
+    },
+    "KOGITO_00780": {
+      "project": "KOGITO",
+      "index": 780,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-2399",
+      "label": 0,
+      "prompt_chars": 1946
+    },
+    "KOGITO_00781": {
+      "project": "KOGITO",
+      "index": 781,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-6138",
+      "label": 0,
+      "prompt_chars": 2105
+    },
+    "KOGITO_00782": {
+      "project": "KOGITO",
+      "index": 782,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-735",
+      "label": 1,
+      "prompt_chars": 1826
+    },
+    "KOGITO_00783": {
+      "project": "KOGITO",
+      "index": 783,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-3970",
+      "label": 0,
+      "prompt_chars": 2435
+    },
+    "KOGITO_00784": {
+      "project": "KOGITO",
+      "index": 784,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-3589",
+      "label": 0,
+      "prompt_chars": 1923
+    },
+    "KOGITO_00785": {
+      "project": "KOGITO",
+      "index": 785,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-3648",
+      "label": 0,
+      "prompt_chars": 1993
+    },
+    "KOGITO_00786": {
+      "project": "KOGITO",
+      "index": 786,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-925",
+      "label": 1,
+      "prompt_chars": 1926
+    },
+    "KOGITO_00787": {
+      "project": "KOGITO",
+      "index": 787,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-1876",
+      "label": 0,
+      "prompt_chars": 2075
+    },
+    "KOGITO_00788": {
+      "project": "KOGITO",
+      "index": 788,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-2820",
+      "label": 0,
+      "prompt_chars": 2080
+    },
+    "KOGITO_00789": {
+      "project": "KOGITO",
+      "index": 789,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-5915",
+      "label": 0,
+      "prompt_chars": 2570
+    },
+    "KOGITO_00790": {
+      "project": "KOGITO",
+      "index": 790,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-926",
+      "label": 1,
+      "prompt_chars": 2067
+    },
+    "KOGITO_00791": {
+      "project": "KOGITO",
+      "index": 791,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-5184",
+      "label": 0,
+      "prompt_chars": 1825
+    },
+    "KOGITO_00792": {
+      "project": "KOGITO",
+      "index": 792,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-945",
+      "label": 0,
+      "prompt_chars": 1953
+    },
+    "KOGITO_00793": {
+      "project": "KOGITO",
+      "index": 793,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-24",
+      "label": 0,
+      "prompt_chars": 2383
+    },
+    "KOGITO_00794": {
+      "project": "KOGITO",
+      "index": 794,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-927",
+      "label": 1,
+      "prompt_chars": 1782
+    },
+    "KOGITO_00795": {
+      "project": "KOGITO",
+      "index": 795,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-1508",
+      "label": 0,
+      "prompt_chars": 2411
+    },
+    "KOGITO_00796": {
+      "project": "KOGITO",
+      "index": 796,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-1107",
+      "label": 0,
+      "prompt_chars": 1948
+    },
+    "KOGITO_00797": {
+      "project": "KOGITO",
+      "index": 797,
+      "source_id": "KOGITO-924",
+      "target_id": "KOGITO-3473",
+      "label": 0,
+      "prompt_chars": 1973
+    }
+  },
+  "estimated_prompt_tokens": 228732,
+  "estimated_completion_tokens_upper": 15960,
+  "estimated_batch_cost_usd_upper": 0.4056,
+  "cost_estimate_basis": "tiktoken/o200k_base if available, else char/3.7; max output token cap",
+  "pricing_per_1M_batch": {
+    "input": 1.25,
+    "output": 7.5
+  }
+}

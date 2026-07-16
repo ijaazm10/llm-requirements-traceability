@@ -1,0 +1,76 @@
+{
+  "timestamp": "2026-06-16 14:00:47",
+  "model": "unsloth/gemma-4-31B-it",
+  "test_set": "final_pairs_test (Qwen3 top-K hard negatives)",
+  "configurations": {
+    "V4_EFFICIENCY_RAG_B_8192": {
+      "label": "V4 Efficiency (attention-only, LR=1e-4, R=32, A=64) + RAG-B Qwen3 2+2",
+      "macro_clean": {
+        "precision": 0.717,
+        "recall": 0.8212,
+        "f1": 0.7612,
+        "f2": 0.7947,
+        "accuracy": 0.867
+      },
+      "macro_conservative": {
+        "precision": 0.717,
+        "recall": 0.8108,
+        "f1": 0.7566,
+        "f2": 0.7868,
+        "accuracy": 0.8651
+      },
+      "deployment_rollup": {
+        "avg_time_per_pair_ms": 1766.85,
+        "avg_vram_at_load_gb": 18.168,
+        "avg_vram_peak_inference_gb": 21.116,
+        "avg_vram_growth_gb": 2.95,
+        "avg_input_tokens_per_pair": 1427.062,
+        "avg_gen_tokens_per_pair": 8.137,
+        "avg_tokens_per_second_generated": 4.688,
+        "macro_truncation_rate_pct": 1.214,
+        "macro_format_failure_rate_pct": 1.185,
+        "avg_retrieval_total_ms": 3.194,
+        "avg_dense_search_ms": 3.087,
+        "avg_generation_ms": 1752.225,
+        "total_test_query_embed_seconds": 518.75
+      },
+      "n_projects": 8,
+      "total_failed_parses": 201,
+      "total_pairs": 10668
+    },
+    "LORA_V4_ALONE": {
+      "label": "V4 Efficiency (attention-only, LR=1e-4, R=32, A=64) (alone)",
+      "macro_clean": {
+        "precision": 0.6872,
+        "recall": 0.7757,
+        "f1": 0.7253,
+        "f2": 0.7537,
+        "accuracy": 0.8514
+      },
+      "macro_conservative": {
+        "precision": 0.6872,
+        "recall": 0.7736,
+        "f1": 0.7244,
+        "f2": 0.7522,
+        "accuracy": 0.8511
+      }
+    },
+    "RAG_B_ALONE": {
+      "label": "RAG-B Qwen3 2+2 (alone)",
+      "macro_clean": {
+        "precision": 0.6202,
+        "recall": 0.8491,
+        "f1": 0.7135,
+        "f2": 0.7878,
+        "accuracy": 0.8242
+      },
+      "macro_conservative": {
+        "precision": 0.6202,
+        "recall": 0.8382,
+        "f1": 0.7093,
+        "f2": 0.78,
+        "accuracy": 0.8224
+      }
+    }
+  }
+}

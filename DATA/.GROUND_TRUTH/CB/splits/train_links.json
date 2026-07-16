@@ -1,0 +1,6890 @@
+[
+  {
+    "source_id": "CB-1013",
+    "target_id": "CB-1035",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1013",
+    "target_id": "CB-1036",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1013",
+    "target_id": "CB-1037",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1013",
+    "target_id": "CB-1038",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1013",
+    "target_id": "CB-1039",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1013",
+    "target_id": "CB-1043",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1049",
+    "target_id": "CB-1050",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1049",
+    "target_id": "CB-1051",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1053",
+    "target_id": "CB-1054",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1053",
+    "target_id": "CB-1055",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1053",
+    "target_id": "CB-1056",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1053",
+    "target_id": "CB-1057",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1053",
+    "target_id": "CB-1058",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1053",
+    "target_id": "CB-1059",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-10833",
+    "target_id": "CB-11138",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-10833",
+    "target_id": "CB-11139",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-10833",
+    "target_id": "CB-11161",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-10839",
+    "target_id": "CB-10749",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-10839",
+    "target_id": "CB-10838",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-10839",
+    "target_id": "CB-10840",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1197",
+    "target_id": "CB-1198",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1197",
+    "target_id": "CB-1201",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1197",
+    "target_id": "CB-1202",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1197",
+    "target_id": "CB-1203",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-12175",
+    "target_id": "CB-12176",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-12175",
+    "target_id": "CB-12177",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-12175",
+    "target_id": "CB-12178",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-12175",
+    "target_id": "CB-12179",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-12175",
+    "target_id": "CB-12180",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-12175",
+    "target_id": "CB-12181",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13052",
+    "target_id": "CB-13053",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13052",
+    "target_id": "CB-13054",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13052",
+    "target_id": "CB-13116",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13052",
+    "target_id": "CB-13117",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13052",
+    "target_id": "CB-13118",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13052",
+    "target_id": "CB-13119",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13052",
+    "target_id": "CB-13120",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13052",
+    "target_id": "CB-13121",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13052",
+    "target_id": "CB-13122",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13056",
+    "target_id": "CB-13023",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13061",
+    "target_id": "CB-13062",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13061",
+    "target_id": "CB-13063",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13061",
+    "target_id": "CB-13064",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13061",
+    "target_id": "CB-13065",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13061",
+    "target_id": "CB-13066",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13061",
+    "target_id": "CB-13067",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13061",
+    "target_id": "CB-13102",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13068",
+    "target_id": "CB-13069",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13068",
+    "target_id": "CB-13070",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13068",
+    "target_id": "CB-13071",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13068",
+    "target_id": "CB-13072",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13068",
+    "target_id": "CB-13073",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13068",
+    "target_id": "CB-13074",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13068",
+    "target_id": "CB-13075",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13068",
+    "target_id": "CB-13135",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13076",
+    "target_id": "CB-12728",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13076",
+    "target_id": "CB-13077",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13076",
+    "target_id": "CB-13078",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13076",
+    "target_id": "CB-13079",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13076",
+    "target_id": "CB-13080",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13076",
+    "target_id": "CB-13081",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13076",
+    "target_id": "CB-13082",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13076",
+    "target_id": "CB-13083",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13076",
+    "target_id": "CB-13134",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13095",
+    "target_id": "CB-13096",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13095",
+    "target_id": "CB-13097",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13095",
+    "target_id": "CB-13098",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13095",
+    "target_id": "CB-13099",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13095",
+    "target_id": "CB-13100",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13095",
+    "target_id": "CB-13101",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13095",
+    "target_id": "CB-13103",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13095",
+    "target_id": "CB-13133",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13147",
+    "target_id": "CB-13164",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13147",
+    "target_id": "CB-13165",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13147",
+    "target_id": "CB-13166",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13147",
+    "target_id": "CB-13167",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13147",
+    "target_id": "CB-13168",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13147",
+    "target_id": "CB-13169",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13147",
+    "target_id": "CB-13170",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-13258",
+    "target_id": "CB-13168",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-14063",
+    "target_id": "CB-14064",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-14063",
+    "target_id": "CB-14065",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-14063",
+    "target_id": "CB-14066",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-14063",
+    "target_id": "CB-14067",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-14063",
+    "target_id": "CB-14068",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-14063",
+    "target_id": "CB-14069",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-14063",
+    "target_id": "CB-14070",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-14063",
+    "target_id": "CB-14071",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-14063",
+    "target_id": "CB-14072",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-14063",
+    "target_id": "CB-14073",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-14063",
+    "target_id": "CB-14074",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-14063",
+    "target_id": "CB-14075",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-14158",
+    "target_id": "CB-14159",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-14158",
+    "target_id": "CB-14164",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1477",
+    "target_id": "CB-1485",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1477",
+    "target_id": "CB-1486",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1477",
+    "target_id": "CB-1487",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1477",
+    "target_id": "CB-1488",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1477",
+    "target_id": "CB-1489",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1477",
+    "target_id": "CB-1490",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1477",
+    "target_id": "CB-1491",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1477",
+    "target_id": "CB-1492",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1477",
+    "target_id": "CB-1493",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1623",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1624",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1625",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1626",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1627",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1628",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1629",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1630",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1631",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1632",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1634",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1635",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1636",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1637",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1638",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1639",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1640",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1641",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1642",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1644",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1645",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1646",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1647",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1648",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1649",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1650",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1651",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1652",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1654",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1655",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1656",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1622",
+    "target_id": "CB-1657",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1761",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1762",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1763",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1764",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1765",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1766",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1767",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1768",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1769",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1770",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1771",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1772",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1773",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1774",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1775",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1776",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1777",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1778",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1779",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1780",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1781",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1782",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1783",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1784",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1785",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1786",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1787",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1788",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1789",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1790",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1791",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1760",
+    "target_id": "CB-1792",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-179",
+    "target_id": "CB-245",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1850",
+    "target_id": "CB-1851",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1850",
+    "target_id": "CB-1852",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1850",
+    "target_id": "CB-1853",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1850",
+    "target_id": "CB-1854",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1850",
+    "target_id": "CB-1855",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1850",
+    "target_id": "CB-1942",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1880",
+    "target_id": "CB-2454",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1880",
+    "target_id": "CB-2492",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1880",
+    "target_id": "CB-2493",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1880",
+    "target_id": "CB-2496",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1896",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1897",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1898",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1899",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1900",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1901",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1902",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1903",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1904",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1905",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1906",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1907",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1908",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1909",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1910",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1911",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1912",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1913",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1914",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1915",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1916",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1917",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1918",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1919",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1920",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1921",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1922",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1923",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1924",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1925",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1926",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1895",
+    "target_id": "CB-1927",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1933",
+    "target_id": "CB-2541",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-1933",
+    "target_id": "CB-2542",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2103",
+    "target_id": "CB-2331",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2103",
+    "target_id": "CB-2332",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2103",
+    "target_id": "CB-2333",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2103",
+    "target_id": "CB-2334",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2103",
+    "target_id": "CB-2335",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2103",
+    "target_id": "CB-2336",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2103",
+    "target_id": "CB-2337",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2103",
+    "target_id": "CB-2338",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2103",
+    "target_id": "CB-2340",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2116",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2117",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2118",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2119",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2120",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2121",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2122",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2123",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2124",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2125",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2126",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2127",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2128",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2129",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2130",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2131",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2132",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2133",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2134",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2135",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2136",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2137",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2138",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2139",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2140",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2141",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2142",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2143",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2144",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2145",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2146",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2147",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2148",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2149",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2150",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2151",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2152",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2115",
+    "target_id": "CB-2153",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-216",
+    "target_id": "CB-224",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-216",
+    "target_id": "CB-225",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-216",
+    "target_id": "CB-226",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-216",
+    "target_id": "CB-227",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-216",
+    "target_id": "CB-228",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-216",
+    "target_id": "CB-229",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-216",
+    "target_id": "CB-230",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-216",
+    "target_id": "CB-231",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-216",
+    "target_id": "CB-232",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-216",
+    "target_id": "CB-233",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2200",
+    "target_id": "CB-3540",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2200",
+    "target_id": "CB-3541",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2241",
+    "target_id": "CB-2242",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2241",
+    "target_id": "CB-2243",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2241",
+    "target_id": "CB-2244",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2241",
+    "target_id": "CB-2245",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2241",
+    "target_id": "CB-2246",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2241",
+    "target_id": "CB-2247",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2241",
+    "target_id": "CB-2248",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2241",
+    "target_id": "CB-2249",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2241",
+    "target_id": "CB-2250",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2241",
+    "target_id": "CB-2251",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2241",
+    "target_id": "CB-2252",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2241",
+    "target_id": "CB-2253",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2241",
+    "target_id": "CB-2254",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2241",
+    "target_id": "CB-2255",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2241",
+    "target_id": "CB-2256",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2241",
+    "target_id": "CB-2257",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2241",
+    "target_id": "CB-2258",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2241",
+    "target_id": "CB-2259",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2241",
+    "target_id": "CB-2260",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2241",
+    "target_id": "CB-2261",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2241",
+    "target_id": "CB-2262",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2241",
+    "target_id": "CB-2263",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2241",
+    "target_id": "CB-2264",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2241",
+    "target_id": "CB-2265",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2241",
+    "target_id": "CB-2266",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2241",
+    "target_id": "CB-2267",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2241",
+    "target_id": "CB-2268",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2308",
+    "target_id": "CB-2730",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2323",
+    "target_id": "CB-2324",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2323",
+    "target_id": "CB-2325",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2323",
+    "target_id": "CB-2326",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2323",
+    "target_id": "CB-2327",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2323",
+    "target_id": "CB-2328",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2323",
+    "target_id": "CB-2329",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2323",
+    "target_id": "CB-2330",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2349",
+    "target_id": "CB-2350",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2349",
+    "target_id": "CB-2351",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2349",
+    "target_id": "CB-2352",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2349",
+    "target_id": "CB-2353",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2349",
+    "target_id": "CB-2354",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2349",
+    "target_id": "CB-2355",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2349",
+    "target_id": "CB-2356",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2349",
+    "target_id": "CB-2357",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2349",
+    "target_id": "CB-2358",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2349",
+    "target_id": "CB-2359",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2349",
+    "target_id": "CB-2360",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2349",
+    "target_id": "CB-2361",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2349",
+    "target_id": "CB-2362",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2349",
+    "target_id": "CB-2363",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2349",
+    "target_id": "CB-2364",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2349",
+    "target_id": "CB-2365",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2349",
+    "target_id": "CB-2366",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2349",
+    "target_id": "CB-2367",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2349",
+    "target_id": "CB-2368",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2349",
+    "target_id": "CB-2369",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2349",
+    "target_id": "CB-2370",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2349",
+    "target_id": "CB-2371",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2349",
+    "target_id": "CB-2372",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2349",
+    "target_id": "CB-2373",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2349",
+    "target_id": "CB-2374",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2349",
+    "target_id": "CB-2375",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2349",
+    "target_id": "CB-2376",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2507",
+    "target_id": "CB-2508",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2507",
+    "target_id": "CB-2509",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2507",
+    "target_id": "CB-2510",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2507",
+    "target_id": "CB-2511",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2507",
+    "target_id": "CB-2512",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2507",
+    "target_id": "CB-2513",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2507",
+    "target_id": "CB-2514",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-251",
+    "target_id": "CB-224",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2550",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2551",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2552",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2553",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2554",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2555",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2556",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2557",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2558",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2559",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2560",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2561",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2562",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2563",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2564",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2565",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2566",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2567",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2568",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2569",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2570",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2571",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2572",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2573",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2574",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2575",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2576",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2577",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2578",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2579",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2580",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2581",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2582",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2583",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2584",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2585",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2549",
+    "target_id": "CB-2586",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-26",
+    "target_id": "CB-27",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-26",
+    "target_id": "CB-29",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-26",
+    "target_id": "CB-32",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-26",
+    "target_id": "CB-36",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-26",
+    "target_id": "CB-67",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-26",
+    "target_id": "CB-70",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-26",
+    "target_id": "CB-71",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-26",
+    "target_id": "CB-73",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2939",
+    "target_id": "CB-2940",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2939",
+    "target_id": "CB-2941",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2939",
+    "target_id": "CB-2942",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2939",
+    "target_id": "CB-2943",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-2939",
+    "target_id": "CB-2944",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3022",
+    "target_id": "CB-3310",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3022",
+    "target_id": "CB-3311",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3022",
+    "target_id": "CB-3312",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3022",
+    "target_id": "CB-3330",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3073",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3074",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3075",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3076",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3077",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3078",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3079",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3080",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3081",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3082",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3083",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3084",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3085",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3086",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3087",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3088",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3089",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3090",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3091",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3092",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3093",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3094",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3095",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3096",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3097",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3098",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3099",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3100",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3101",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3102",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3103",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3104",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3105",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3106",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3107",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3108",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3109",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3110",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3111",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3112",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3113",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3072",
+    "target_id": "CB-3114",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3236",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3237",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3238",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3239",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3240",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3241",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3243",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3244",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3245",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3246",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3247",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3248",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3249",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3250",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3251",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3252",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3253",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3254",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3255",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3256",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3257",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3258",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3259",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3260",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3261",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3262",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3263",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3264",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3265",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3266",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3267",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3268",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3270",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3271",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3272",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3273",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3274",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3275",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3276",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3235",
+    "target_id": "CB-3277",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3305",
+    "target_id": "CB-3506",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3307",
+    "target_id": "CB-3442",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3307",
+    "target_id": "CB-3443",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3307",
+    "target_id": "CB-3444",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3307",
+    "target_id": "CB-3446",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3307",
+    "target_id": "CB-3447",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3420",
+    "target_id": "CB-3421",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3420",
+    "target_id": "CB-3422",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3420",
+    "target_id": "CB-3423",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3420",
+    "target_id": "CB-3424",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3420",
+    "target_id": "CB-3610",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3464",
+    "target_id": "CB-3466",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3464",
+    "target_id": "CB-3467",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3464",
+    "target_id": "CB-3468",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3464",
+    "target_id": "CB-3469",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3464",
+    "target_id": "CB-3470",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3464",
+    "target_id": "CB-3471",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3464",
+    "target_id": "CB-3472",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3464",
+    "target_id": "CB-3473",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3464",
+    "target_id": "CB-3474",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3464",
+    "target_id": "CB-3475",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3464",
+    "target_id": "CB-3476",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3464",
+    "target_id": "CB-3477",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3464",
+    "target_id": "CB-3479",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3464",
+    "target_id": "CB-3527",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3464",
+    "target_id": "CB-3535",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3464",
+    "target_id": "CB-3536",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3464",
+    "target_id": "CB-3537",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3464",
+    "target_id": "CB-3538",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3464",
+    "target_id": "CB-3539",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3604",
+    "target_id": "CB-2952",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3647",
+    "target_id": "CB-3630",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3659",
+    "target_id": "CB-3631",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3661",
+    "target_id": "CB-3631",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3662",
+    "target_id": "CB-3631",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3663",
+    "target_id": "CB-3631",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3664",
+    "target_id": "CB-3632",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3665",
+    "target_id": "CB-3632",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3666",
+    "target_id": "CB-3632",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3667",
+    "target_id": "CB-3632",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3668",
+    "target_id": "CB-3632",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3670",
+    "target_id": "CB-3633",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3671",
+    "target_id": "CB-3633",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3675",
+    "target_id": "CB-3634",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3676",
+    "target_id": "CB-3634",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3679",
+    "target_id": "CB-3634",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3680",
+    "target_id": "CB-3635",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3681",
+    "target_id": "CB-3635",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3684",
+    "target_id": "CB-3635",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3685",
+    "target_id": "CB-3636",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3686",
+    "target_id": "CB-3636",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3687",
+    "target_id": "CB-3636",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3688",
+    "target_id": "CB-3636",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3689",
+    "target_id": "CB-3636",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3690",
+    "target_id": "CB-3637",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3691",
+    "target_id": "CB-3637",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3692",
+    "target_id": "CB-3637",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3695",
+    "target_id": "CB-3639",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3696",
+    "target_id": "CB-3639",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3697",
+    "target_id": "CB-3639",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3698",
+    "target_id": "CB-3639",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3699",
+    "target_id": "CB-3639",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3701",
+    "target_id": "CB-3640",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3702",
+    "target_id": "CB-3640",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3704",
+    "target_id": "CB-3640",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3705",
+    "target_id": "CB-3641",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3706",
+    "target_id": "CB-3641",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3707",
+    "target_id": "CB-3641",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3708",
+    "target_id": "CB-3641",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3709",
+    "target_id": "CB-3641",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3710",
+    "target_id": "CB-3642",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3711",
+    "target_id": "CB-3642",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3712",
+    "target_id": "CB-3642",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3713",
+    "target_id": "CB-3642",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3714",
+    "target_id": "CB-3642",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3716",
+    "target_id": "CB-3643",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3717",
+    "target_id": "CB-3643",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3718",
+    "target_id": "CB-3643",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3719",
+    "target_id": "CB-3643",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3720",
+    "target_id": "CB-3644",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3721",
+    "target_id": "CB-3644",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3722",
+    "target_id": "CB-3644",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3724",
+    "target_id": "CB-3644",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3726",
+    "target_id": "CB-3645",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3728",
+    "target_id": "CB-3645",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3730",
+    "target_id": "CB-3638",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3731",
+    "target_id": "CB-3638",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3732",
+    "target_id": "CB-3638",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3733",
+    "target_id": "CB-3638",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3734",
+    "target_id": "CB-3638",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3818",
+    "target_id": "CB-2332",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-3971",
+    "target_id": "CB-3631",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4043",
+    "target_id": "CB-4044",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4043",
+    "target_id": "CB-4045",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4043",
+    "target_id": "CB-4048",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4043",
+    "target_id": "CB-4049",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4208",
+    "target_id": "CB-4209",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4208",
+    "target_id": "CB-4210",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4208",
+    "target_id": "CB-4211",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4208",
+    "target_id": "CB-4212",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4208",
+    "target_id": "CB-4213",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4208",
+    "target_id": "CB-4214",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4208",
+    "target_id": "CB-4215",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4208",
+    "target_id": "CB-4216",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4208",
+    "target_id": "CB-4217",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4208",
+    "target_id": "CB-4218",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4208",
+    "target_id": "CB-4219",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4208",
+    "target_id": "CB-4220",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4208",
+    "target_id": "CB-4221",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4208",
+    "target_id": "CB-4222",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4208",
+    "target_id": "CB-4223",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4208",
+    "target_id": "CB-4224",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4208",
+    "target_id": "CB-4225",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4208",
+    "target_id": "CB-4226",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4208",
+    "target_id": "CB-4227",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4208",
+    "target_id": "CB-4276",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4294",
+    "target_id": "CB-4295",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4294",
+    "target_id": "CB-4296",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4294",
+    "target_id": "CB-4297",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4294",
+    "target_id": "CB-4298",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4294",
+    "target_id": "CB-4299",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4294",
+    "target_id": "CB-4300",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4294",
+    "target_id": "CB-4301",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4294",
+    "target_id": "CB-4302",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4294",
+    "target_id": "CB-4303",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4294",
+    "target_id": "CB-4304",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4294",
+    "target_id": "CB-4305",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4294",
+    "target_id": "CB-4306",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4294",
+    "target_id": "CB-4307",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4294",
+    "target_id": "CB-4308",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4294",
+    "target_id": "CB-4309",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4294",
+    "target_id": "CB-4310",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4294",
+    "target_id": "CB-4311",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4294",
+    "target_id": "CB-4312",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4294",
+    "target_id": "CB-4313",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4294",
+    "target_id": "CB-4314",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4294",
+    "target_id": "CB-4315",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4294",
+    "target_id": "CB-5528",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-458",
+    "target_id": "CB-424",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-462",
+    "target_id": "CB-463",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-462",
+    "target_id": "CB-464",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-462",
+    "target_id": "CB-465",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-462",
+    "target_id": "CB-466",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-462",
+    "target_id": "CB-763",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-462",
+    "target_id": "CB-875",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4650",
+    "target_id": "CB-4651",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4650",
+    "target_id": "CB-4652",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4650",
+    "target_id": "CB-4653",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4650",
+    "target_id": "CB-4654",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4650",
+    "target_id": "CB-4655",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4650",
+    "target_id": "CB-7333",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4827",
+    "target_id": "CB-4537",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4830",
+    "target_id": "CB-4831",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4830",
+    "target_id": "CB-4832",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4830",
+    "target_id": "CB-4833",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4830",
+    "target_id": "CB-4834",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4830",
+    "target_id": "CB-4835",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4830",
+    "target_id": "CB-4837",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4830",
+    "target_id": "CB-4838",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4830",
+    "target_id": "CB-4839",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4830",
+    "target_id": "CB-4840",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4830",
+    "target_id": "CB-4841",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4830",
+    "target_id": "CB-4843",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4830",
+    "target_id": "CB-4844",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4830",
+    "target_id": "CB-4845",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4830",
+    "target_id": "CB-4854",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4830",
+    "target_id": "CB-4855",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4830",
+    "target_id": "CB-4859",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4830",
+    "target_id": "CB-4860",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4830",
+    "target_id": "CB-4867",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4830",
+    "target_id": "CB-4962",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-4830",
+    "target_id": "CB-4963",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5130",
+    "target_id": "CB-5784",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5130",
+    "target_id": "CB-5804",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5130",
+    "target_id": "CB-5835",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5130",
+    "target_id": "CB-5836",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5130",
+    "target_id": "CB-5837",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5130",
+    "target_id": "CB-5881",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5130",
+    "target_id": "CB-5911",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5130",
+    "target_id": "CB-6280",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5130",
+    "target_id": "CB-6281",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5130",
+    "target_id": "CB-6282",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5130",
+    "target_id": "CB-6283",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5130",
+    "target_id": "CB-6285",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5130",
+    "target_id": "CB-6353",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5130",
+    "target_id": "CB-6354",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5130",
+    "target_id": "CB-6355",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5130",
+    "target_id": "CB-6356",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5130",
+    "target_id": "CB-6470",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5130",
+    "target_id": "CB-6471",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5130",
+    "target_id": "CB-6847",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5130",
+    "target_id": "CB-7246",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5155",
+    "target_id": "CB-5156",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5155",
+    "target_id": "CB-5157",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5155",
+    "target_id": "CB-5158",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5155",
+    "target_id": "CB-5159",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5155",
+    "target_id": "CB-5160",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5155",
+    "target_id": "CB-5161",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5155",
+    "target_id": "CB-5162",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5155",
+    "target_id": "CB-5164",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5155",
+    "target_id": "CB-5165",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5155",
+    "target_id": "CB-5166",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5155",
+    "target_id": "CB-5167",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5155",
+    "target_id": "CB-5168",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5155",
+    "target_id": "CB-5169",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5155",
+    "target_id": "CB-5170",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5155",
+    "target_id": "CB-5172",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5155",
+    "target_id": "CB-5173",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5155",
+    "target_id": "CB-5174",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5155",
+    "target_id": "CB-5176",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5155",
+    "target_id": "CB-5177",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5155",
+    "target_id": "CB-5178",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5155",
+    "target_id": "CB-5179",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5459",
+    "target_id": "CB-5460",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5459",
+    "target_id": "CB-5461",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5459",
+    "target_id": "CB-5462",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5459",
+    "target_id": "CB-6912",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5459",
+    "target_id": "CB-6913",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5459",
+    "target_id": "CB-6914",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5459",
+    "target_id": "CB-6915",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5459",
+    "target_id": "CB-6916",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5459",
+    "target_id": "CB-7138",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5459",
+    "target_id": "CB-7216",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5459",
+    "target_id": "CB-7218",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5538",
+    "target_id": "CB-5539",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5538",
+    "target_id": "CB-5540",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5538",
+    "target_id": "CB-5541",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5538",
+    "target_id": "CB-5542",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5538",
+    "target_id": "CB-5543",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5538",
+    "target_id": "CB-5544",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5538",
+    "target_id": "CB-5545",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5538",
+    "target_id": "CB-5546",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5538",
+    "target_id": "CB-5547",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5538",
+    "target_id": "CB-5548",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5538",
+    "target_id": "CB-5549",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5538",
+    "target_id": "CB-5550",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5538",
+    "target_id": "CB-5551",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5538",
+    "target_id": "CB-5552",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5538",
+    "target_id": "CB-5553",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5538",
+    "target_id": "CB-5554",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5538",
+    "target_id": "CB-5555",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5538",
+    "target_id": "CB-5556",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5538",
+    "target_id": "CB-5557",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5538",
+    "target_id": "CB-5558",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5538",
+    "target_id": "CB-5559",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5538",
+    "target_id": "CB-5560",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5538",
+    "target_id": "CB-5561",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5538",
+    "target_id": "CB-5562",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5538",
+    "target_id": "CB-5563",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5650",
+    "target_id": "CB-5651",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5650",
+    "target_id": "CB-5652",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5650",
+    "target_id": "CB-5653",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5650",
+    "target_id": "CB-5654",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5650",
+    "target_id": "CB-5655",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5854",
+    "target_id": "CB-5855",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5854",
+    "target_id": "CB-5856",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5854",
+    "target_id": "CB-5857",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5854",
+    "target_id": "CB-5858",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5854",
+    "target_id": "CB-5859",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5854",
+    "target_id": "CB-5860",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5854",
+    "target_id": "CB-5861",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5854",
+    "target_id": "CB-5862",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5854",
+    "target_id": "CB-5863",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5854",
+    "target_id": "CB-5864",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5854",
+    "target_id": "CB-5865",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5854",
+    "target_id": "CB-5867",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5854",
+    "target_id": "CB-5868",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5854",
+    "target_id": "CB-5869",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5854",
+    "target_id": "CB-5870",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5854",
+    "target_id": "CB-5871",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5854",
+    "target_id": "CB-5872",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5854",
+    "target_id": "CB-5873",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5854",
+    "target_id": "CB-5874",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5854",
+    "target_id": "CB-5875",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5854",
+    "target_id": "CB-5876",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5854",
+    "target_id": "CB-5877",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5854",
+    "target_id": "CB-5878",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-5854",
+    "target_id": "CB-5879",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-606",
+    "target_id": "CB-630",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-608",
+    "target_id": "CB-631",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-608",
+    "target_id": "CB-664",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-608",
+    "target_id": "CB-666",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-608",
+    "target_id": "CB-667",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6147",
+    "target_id": "CB-6156",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6147",
+    "target_id": "CB-6157",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-637",
+    "target_id": "CB-630",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6389",
+    "target_id": "CB-3617",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-639",
+    "target_id": "CB-640",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-639",
+    "target_id": "CB-641",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-639",
+    "target_id": "CB-642",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-639",
+    "target_id": "CB-643",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-639",
+    "target_id": "CB-644",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-639",
+    "target_id": "CB-645",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6452",
+    "target_id": "CB-6460",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6452",
+    "target_id": "CB-6465",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6453",
+    "target_id": "CB-6454",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6453",
+    "target_id": "CB-6455",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6453",
+    "target_id": "CB-6456",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6453",
+    "target_id": "CB-6457",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6453",
+    "target_id": "CB-6879",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6453",
+    "target_id": "CB-6937",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6586",
+    "target_id": "CB-6587",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6586",
+    "target_id": "CB-6588",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6586",
+    "target_id": "CB-6589",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6586",
+    "target_id": "CB-6590",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6586",
+    "target_id": "CB-6591",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6586",
+    "target_id": "CB-6592",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6586",
+    "target_id": "CB-6593",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6586",
+    "target_id": "CB-6594",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6586",
+    "target_id": "CB-6595",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6586",
+    "target_id": "CB-6596",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6586",
+    "target_id": "CB-6597",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6586",
+    "target_id": "CB-6599",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6586",
+    "target_id": "CB-6600",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6586",
+    "target_id": "CB-6601",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6586",
+    "target_id": "CB-6602",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6586",
+    "target_id": "CB-6603",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6586",
+    "target_id": "CB-6604",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6586",
+    "target_id": "CB-6605",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6586",
+    "target_id": "CB-6606",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6586",
+    "target_id": "CB-6607",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6586",
+    "target_id": "CB-6608",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6586",
+    "target_id": "CB-6609",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6586",
+    "target_id": "CB-6610",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6586",
+    "target_id": "CB-6611",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-1026",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-687",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-688",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-689",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-690",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-691",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-692",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-693",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-694",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-695",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-696",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-697",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-698",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-699",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-700",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-701",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-702",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-703",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-704",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-705",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-706",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-707",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-708",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-709",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-710",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-711",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-712",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-713",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-714",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-715",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-716",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-717",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-718",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-719",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-720",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-721",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-722",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-723",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-724",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-725",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-726",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-727",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-728",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-729",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-730",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-731",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-732",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-733",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-734",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-735",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-736",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-737",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-738",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-739",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-740",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-741",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-742",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-743",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-744",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-745",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-746",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-750",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-676",
+    "target_id": "CB-932",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6784",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6785",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6786",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6787",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6788",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6789",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6790",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6791",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6792",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6793",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6794",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6795",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6796",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6797",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6798",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6799",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6800",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6801",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6802",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6803",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6804",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6805",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6806",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6807",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6808",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6809",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6810",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6811",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6812",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6813",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6814",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6815",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6816",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6817",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6824",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6825",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6826",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6827",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6828",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6829",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6830",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6831",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6832",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6833",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6834",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6835",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6836",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6840",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6841",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-6818",
+    "target_id": "CB-6842",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-7221",
+    "target_id": "CB-7208",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-7221",
+    "target_id": "CB-7219",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-7221",
+    "target_id": "CB-7224",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-7221",
+    "target_id": "CB-7225",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-7221",
+    "target_id": "CB-7226",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-7221",
+    "target_id": "CB-7351",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-7221",
+    "target_id": "CB-7352",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-7221",
+    "target_id": "CB-7353",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-7221",
+    "target_id": "CB-7359",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-7221",
+    "target_id": "CB-7365",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-7747",
+    "target_id": "CB-7897",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-7747",
+    "target_id": "CB-7912",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-7747",
+    "target_id": "CB-7913",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-7803",
+    "target_id": "CB-7804",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-7803",
+    "target_id": "CB-7805",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-7803",
+    "target_id": "CB-7806",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-7803",
+    "target_id": "CB-7807",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8483",
+    "target_id": "CB-8484",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8483",
+    "target_id": "CB-8485",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8483",
+    "target_id": "CB-8486",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8557",
+    "target_id": "CB-8558",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8557",
+    "target_id": "CB-8559",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8557",
+    "target_id": "CB-8560",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8557",
+    "target_id": "CB-8561",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8557",
+    "target_id": "CB-8562",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8557",
+    "target_id": "CB-8563",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8557",
+    "target_id": "CB-8564",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8557",
+    "target_id": "CB-8565",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8557",
+    "target_id": "CB-8566",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8557",
+    "target_id": "CB-8567",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8557",
+    "target_id": "CB-8568",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8557",
+    "target_id": "CB-8569",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8557",
+    "target_id": "CB-8570",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8557",
+    "target_id": "CB-8571",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8557",
+    "target_id": "CB-8572",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8557",
+    "target_id": "CB-8573",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8557",
+    "target_id": "CB-8574",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8557",
+    "target_id": "CB-8575",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8557",
+    "target_id": "CB-8576",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-861",
+    "target_id": "CB-2662",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-861",
+    "target_id": "CB-2663",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-861",
+    "target_id": "CB-2664",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-861",
+    "target_id": "CB-2687",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-862",
+    "target_id": "CB-1069",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-862",
+    "target_id": "CB-1070",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-862",
+    "target_id": "CB-1071",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-862",
+    "target_id": "CB-1072",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-862",
+    "target_id": "CB-1073",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-862",
+    "target_id": "CB-1074",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8743",
+    "target_id": "CB-8416",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8743",
+    "target_id": "CB-8529",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8743",
+    "target_id": "CB-8538",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8743",
+    "target_id": "CB-8551",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8743",
+    "target_id": "CB-8653",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8743",
+    "target_id": "CB-8683",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8743",
+    "target_id": "CB-8744",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8743",
+    "target_id": "CB-8745",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8743",
+    "target_id": "CB-8746",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8743",
+    "target_id": "CB-8747",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-8743",
+    "target_id": "CB-8775",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-876",
+    "target_id": "CB-979",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-9528",
+    "target_id": "CB-8047",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-9528",
+    "target_id": "CB-9529",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-9528",
+    "target_id": "CB-9531",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-9528",
+    "target_id": "CB-9532",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-9528",
+    "target_id": "CB-9533",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-9528",
+    "target_id": "CB-9534",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-9528",
+    "target_id": "CB-9535",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "CB-9744",
+    "target_id": "CB-9745",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  }
+]

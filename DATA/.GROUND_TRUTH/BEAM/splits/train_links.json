@@ -1,0 +1,4426 @@
+[
+  {
+    "source_id": "BEAM-10035",
+    "target_id": "BEAM-10036",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-10035",
+    "target_id": "BEAM-10063",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-10035",
+    "target_id": "BEAM-10894",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-10035",
+    "target_id": "BEAM-11361",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-10162",
+    "target_id": "BEAM-10163",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-10179",
+    "target_id": "BEAM-4276",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-1025",
+    "target_id": "BEAM-1665",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-1025",
+    "target_id": "BEAM-1666",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-1025",
+    "target_id": "BEAM-1667",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-1025",
+    "target_id": "BEAM-1668",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-1025",
+    "target_id": "BEAM-1669",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-1025",
+    "target_id": "BEAM-1670",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-1025",
+    "target_id": "BEAM-2622",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-1025",
+    "target_id": "BEAM-2634",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-1025",
+    "target_id": "BEAM-2635",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-10402",
+    "target_id": "BEAM-10496",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-10402",
+    "target_id": "BEAM-10497",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-10402",
+    "target_id": "BEAM-10498",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-10402",
+    "target_id": "BEAM-10502",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-10402",
+    "target_id": "BEAM-10518",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-10402",
+    "target_id": "BEAM-10531",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-10402",
+    "target_id": "BEAM-10555",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-10402",
+    "target_id": "BEAM-10560",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-10402",
+    "target_id": "BEAM-10561",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-10402",
+    "target_id": "BEAM-10562",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-10402",
+    "target_id": "BEAM-10563",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-10402",
+    "target_id": "BEAM-10572",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-10402",
+    "target_id": "BEAM-10580",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-10402",
+    "target_id": "BEAM-10608",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-10402",
+    "target_id": "BEAM-10609",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-10402",
+    "target_id": "BEAM-10614",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-10402",
+    "target_id": "BEAM-10615",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-10402",
+    "target_id": "BEAM-10620",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-10402",
+    "target_id": "BEAM-13147",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-10909",
+    "target_id": "BEAM-10908",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-10909",
+    "target_id": "BEAM-10911",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-10909",
+    "target_id": "BEAM-10912",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-10909",
+    "target_id": "BEAM-10913",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-11084",
+    "target_id": "BEAM-11085",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-11084",
+    "target_id": "BEAM-11086",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-11084",
+    "target_id": "BEAM-11087",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-11289",
+    "target_id": "BEAM-11290",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-11289",
+    "target_id": "BEAM-11291",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-11289",
+    "target_id": "BEAM-11292",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-11289",
+    "target_id": "BEAM-11293",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-11289",
+    "target_id": "BEAM-11294",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-11289",
+    "target_id": "BEAM-11295",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-11289",
+    "target_id": "BEAM-11296",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-11289",
+    "target_id": "BEAM-11297",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-11289",
+    "target_id": "BEAM-11298",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-11289",
+    "target_id": "BEAM-11299",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-11388",
+    "target_id": "BEAM-11389",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-11388",
+    "target_id": "BEAM-11390",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-1148",
+    "target_id": "BEAM-775",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-11483",
+    "target_id": "BEAM-11484",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-11483",
+    "target_id": "BEAM-11485",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-11483",
+    "target_id": "BEAM-11486",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-11483",
+    "target_id": "BEAM-11487",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-11483",
+    "target_id": "BEAM-11488",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-11483",
+    "target_id": "BEAM-11489",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-11483",
+    "target_id": "BEAM-11490",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-11483",
+    "target_id": "BEAM-11491",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-11483",
+    "target_id": "BEAM-11492",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-11483",
+    "target_id": "BEAM-11493",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-115",
+    "target_id": "BEAM-742",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-11590",
+    "target_id": "BEAM-11519",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-11590",
+    "target_id": "BEAM-11520",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-11590",
+    "target_id": "BEAM-11591",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-11590",
+    "target_id": "BEAM-11592",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-11674",
+    "target_id": "BEAM-11654",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-12000",
+    "target_id": "BEAM-12914",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-12000",
+    "target_id": "BEAM-12920",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-12000",
+    "target_id": "BEAM-13272",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-12000",
+    "target_id": "BEAM-13843",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-12000",
+    "target_id": "BEAM-13845",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-12000",
+    "target_id": "BEAM-13864",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-12240",
+    "target_id": "BEAM-12313",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-12240",
+    "target_id": "BEAM-12314",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-12240",
+    "target_id": "BEAM-12620",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-12812",
+    "target_id": "BEAM-13762",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13093",
+    "target_id": "BEAM-13090",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13093",
+    "target_id": "BEAM-13091",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13093",
+    "target_id": "BEAM-13092",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13255",
+    "target_id": "BEAM-13315",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13255",
+    "target_id": "BEAM-13359",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13255",
+    "target_id": "BEAM-13361",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13255",
+    "target_id": "BEAM-13395",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13255",
+    "target_id": "BEAM-13471",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13279",
+    "target_id": "BEAM-13280",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13302",
+    "target_id": "BEAM-13298",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13317",
+    "target_id": "BEAM-13543",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13317",
+    "target_id": "BEAM-13545",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13317",
+    "target_id": "BEAM-13547",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13350",
+    "target_id": "BEAM-13378",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13364",
+    "target_id": "BEAM-13365",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13364",
+    "target_id": "BEAM-13366",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13392",
+    "target_id": "BEAM-13405",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13392",
+    "target_id": "BEAM-13406",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13392",
+    "target_id": "BEAM-13407",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13392",
+    "target_id": "BEAM-13489",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13411",
+    "target_id": "BEAM-13427",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13430",
+    "target_id": "BEAM-12830",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13430",
+    "target_id": "BEAM-13504",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13430",
+    "target_id": "BEAM-13507",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13430",
+    "target_id": "BEAM-13508",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13430",
+    "target_id": "BEAM-13540",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13430",
+    "target_id": "BEAM-13569",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13430",
+    "target_id": "BEAM-13597",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13511",
+    "target_id": "BEAM-13512",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13511",
+    "target_id": "BEAM-13513",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13550",
+    "target_id": "BEAM-13632",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13553",
+    "target_id": "BEAM-13641",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13553",
+    "target_id": "BEAM-13642",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13561",
+    "target_id": "BEAM-13692",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13561",
+    "target_id": "BEAM-13712",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13561",
+    "target_id": "BEAM-13713",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13561",
+    "target_id": "BEAM-13722",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13561",
+    "target_id": "BEAM-13725",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13561",
+    "target_id": "BEAM-13837",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13562",
+    "target_id": "BEAM-13643",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13562",
+    "target_id": "BEAM-13701",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13562",
+    "target_id": "BEAM-13785",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13564",
+    "target_id": "BEAM-13565",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13564",
+    "target_id": "BEAM-13566",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13564",
+    "target_id": "BEAM-13567",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13620",
+    "target_id": "BEAM-13633",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13620",
+    "target_id": "BEAM-13636",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13620",
+    "target_id": "BEAM-13661",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13620",
+    "target_id": "BEAM-13724",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13621",
+    "target_id": "BEAM-13622",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13649",
+    "target_id": "BEAM-13679",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13649",
+    "target_id": "BEAM-13704",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13703",
+    "target_id": "BEAM-13743",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13703",
+    "target_id": "BEAM-13744",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-13703",
+    "target_id": "BEAM-13755",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-1672",
+    "target_id": "BEAM-1617",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-1680",
+    "target_id": "BEAM-1681",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-1680",
+    "target_id": "BEAM-1682",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-1680",
+    "target_id": "BEAM-1683",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-1680",
+    "target_id": "BEAM-1684",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-1680",
+    "target_id": "BEAM-1685",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-1757",
+    "target_id": "BEAM-1975",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-1757",
+    "target_id": "BEAM-1976",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-1764",
+    "target_id": "BEAM-775",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-1765",
+    "target_id": "BEAM-775",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-1766",
+    "target_id": "BEAM-775",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-1871",
+    "target_id": "BEAM-1722",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-193",
+    "target_id": "BEAM-1011",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-193",
+    "target_id": "BEAM-274",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-193",
+    "target_id": "BEAM-275",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-193",
+    "target_id": "BEAM-276",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-193",
+    "target_id": "BEAM-277",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-193",
+    "target_id": "BEAM-278",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2085",
+    "target_id": "BEAM-12082",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2160",
+    "target_id": "BEAM-2384",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2160",
+    "target_id": "BEAM-2480",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2160",
+    "target_id": "BEAM-2585",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2191",
+    "target_id": "BEAM-2325",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2283",
+    "target_id": "BEAM-1045",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-239",
+    "target_id": "BEAM-879",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2421",
+    "target_id": "BEAM-2949",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2421",
+    "target_id": "BEAM-3758",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2530",
+    "target_id": "BEAM-10568",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2530",
+    "target_id": "BEAM-3422",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2530",
+    "target_id": "BEAM-4329",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2530",
+    "target_id": "BEAM-5061",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2530",
+    "target_id": "BEAM-6007",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2530",
+    "target_id": "BEAM-6096",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2530",
+    "target_id": "BEAM-6703",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2530",
+    "target_id": "BEAM-6936",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2530",
+    "target_id": "BEAM-8021",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2530",
+    "target_id": "BEAM-8024",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2530",
+    "target_id": "BEAM-8106",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2530",
+    "target_id": "BEAM-8319",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2530",
+    "target_id": "BEAM-9066",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2530",
+    "target_id": "BEAM-9985",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2559",
+    "target_id": "BEAM-2560",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2559",
+    "target_id": "BEAM-2561",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2559",
+    "target_id": "BEAM-2562",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2559",
+    "target_id": "BEAM-2563",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2559",
+    "target_id": "BEAM-2564",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2559",
+    "target_id": "BEAM-2565",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2559",
+    "target_id": "BEAM-2613",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2602",
+    "target_id": "BEAM-2603",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2602",
+    "target_id": "BEAM-2604",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2651",
+    "target_id": "BEAM-2652",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2679",
+    "target_id": "BEAM-2722",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2679",
+    "target_id": "BEAM-2725",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2679",
+    "target_id": "BEAM-2730",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2679",
+    "target_id": "BEAM-2733",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2679",
+    "target_id": "BEAM-2739",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2679",
+    "target_id": "BEAM-2740",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2679",
+    "target_id": "BEAM-2741",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2679",
+    "target_id": "BEAM-2742",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2679",
+    "target_id": "BEAM-2743",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2679",
+    "target_id": "BEAM-2744",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2679",
+    "target_id": "BEAM-2745",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2679",
+    "target_id": "BEAM-2746",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2679",
+    "target_id": "BEAM-2748",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2679",
+    "target_id": "BEAM-2749",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2679",
+    "target_id": "BEAM-2798",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2679",
+    "target_id": "BEAM-2799",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2679",
+    "target_id": "BEAM-2809",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-273",
+    "target_id": "BEAM-100",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-273",
+    "target_id": "BEAM-616",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2784",
+    "target_id": "BEAM-2821",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2784",
+    "target_id": "BEAM-2836",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2784",
+    "target_id": "BEAM-3058",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2784",
+    "target_id": "BEAM-3141",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2784",
+    "target_id": "BEAM-3142",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2784",
+    "target_id": "BEAM-3143",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2784",
+    "target_id": "BEAM-3444",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2784",
+    "target_id": "BEAM-3981",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2784",
+    "target_id": "BEAM-3998",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2784",
+    "target_id": "BEAM-3999",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2784",
+    "target_id": "BEAM-4000",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2784",
+    "target_id": "BEAM-4001",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2784",
+    "target_id": "BEAM-4002",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2784",
+    "target_id": "BEAM-4003",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2784",
+    "target_id": "BEAM-4004",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2784",
+    "target_id": "BEAM-4005",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2784",
+    "target_id": "BEAM-4006",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2784",
+    "target_id": "BEAM-4007",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2784",
+    "target_id": "BEAM-4008",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2784",
+    "target_id": "BEAM-4009",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2784",
+    "target_id": "BEAM-4299",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2784",
+    "target_id": "BEAM-4730",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2884",
+    "target_id": "BEAM-2876",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2884",
+    "target_id": "BEAM-2963",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2884",
+    "target_id": "BEAM-3074",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2884",
+    "target_id": "BEAM-3448",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2884",
+    "target_id": "BEAM-3513",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2884",
+    "target_id": "BEAM-3515",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2887",
+    "target_id": "BEAM-2591",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2887",
+    "target_id": "BEAM-2592",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2887",
+    "target_id": "BEAM-2593",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2887",
+    "target_id": "BEAM-2594",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2887",
+    "target_id": "BEAM-2600",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2887",
+    "target_id": "BEAM-2694",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2887",
+    "target_id": "BEAM-3883",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2887",
+    "target_id": "BEAM-3884",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2887",
+    "target_id": "BEAM-3885",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2887",
+    "target_id": "BEAM-3886",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2887",
+    "target_id": "BEAM-3887",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2887",
+    "target_id": "BEAM-3888",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2890",
+    "target_id": "BEAM-2589",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2890",
+    "target_id": "BEAM-2599",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2891",
+    "target_id": "BEAM-2590",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2891",
+    "target_id": "BEAM-2598",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2892",
+    "target_id": "BEAM-2695",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2925",
+    "target_id": "BEAM-4653",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2925",
+    "target_id": "BEAM-4654",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2925",
+    "target_id": "BEAM-4655",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2925",
+    "target_id": "BEAM-4657",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2925",
+    "target_id": "BEAM-4658",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2925",
+    "target_id": "BEAM-4659",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2925",
+    "target_id": "BEAM-4660",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2925",
+    "target_id": "BEAM-4661",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2925",
+    "target_id": "BEAM-4680",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2925",
+    "target_id": "BEAM-4681",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2925",
+    "target_id": "BEAM-4682",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2925",
+    "target_id": "BEAM-4683",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2937",
+    "target_id": "BEAM-10266",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2937",
+    "target_id": "BEAM-11478",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2937",
+    "target_id": "BEAM-3706",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2937",
+    "target_id": "BEAM-3707",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2937",
+    "target_id": "BEAM-3708",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2937",
+    "target_id": "BEAM-3709",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2937",
+    "target_id": "BEAM-3710",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2937",
+    "target_id": "BEAM-3711",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2937",
+    "target_id": "BEAM-4158",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2937",
+    "target_id": "BEAM-4276",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2937",
+    "target_id": "BEAM-4678",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2937",
+    "target_id": "BEAM-4679",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2937",
+    "target_id": "BEAM-6199",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2939",
+    "target_id": "BEAM-3741",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2939",
+    "target_id": "BEAM-3742",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2939",
+    "target_id": "BEAM-3743",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2939",
+    "target_id": "BEAM-3832",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2939",
+    "target_id": "BEAM-3833",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2939",
+    "target_id": "BEAM-3834",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2939",
+    "target_id": "BEAM-3835",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2939",
+    "target_id": "BEAM-3836",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2939",
+    "target_id": "BEAM-3837",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2939",
+    "target_id": "BEAM-6978",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2939",
+    "target_id": "BEAM-6979",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2939",
+    "target_id": "BEAM-8871",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2939",
+    "target_id": "BEAM-9430",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-2939",
+    "target_id": "BEAM-9458",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3124",
+    "target_id": "BEAM-3125",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3124",
+    "target_id": "BEAM-3126",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3124",
+    "target_id": "BEAM-3127",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3221",
+    "target_id": "BEAM-3204",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3221",
+    "target_id": "BEAM-3223",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3221",
+    "target_id": "BEAM-3227",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3221",
+    "target_id": "BEAM-3576",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3221",
+    "target_id": "BEAM-3577",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3221",
+    "target_id": "BEAM-4180",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3221",
+    "target_id": "BEAM-5391",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3221",
+    "target_id": "BEAM-7850",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3221",
+    "target_id": "BEAM-8313",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3221",
+    "target_id": "BEAM-8315",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3221",
+    "target_id": "BEAM-9262",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-3250",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-3251",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-3252",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-3254",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-3255",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-3256",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-3257",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-3457",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-3459",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-3460",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-3461",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-3520",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-3521",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-3522",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-3804",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-3903",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-3938",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-3939",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-3940",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-3941",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-3942",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-3943",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-3944",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-3951",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-3987",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-3989",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-3993",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-4014",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-4021",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-4057",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-4059",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-4060",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-4075",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-4108",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-4120",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-4122",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-4170",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-4330",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-4396",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-4418",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3249",
+    "target_id": "BEAM-4673",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3301",
+    "target_id": "BEAM-10289",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3301",
+    "target_id": "BEAM-10310",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3301",
+    "target_id": "BEAM-10311",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3301",
+    "target_id": "BEAM-10312",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3301",
+    "target_id": "BEAM-11019",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3301",
+    "target_id": "BEAM-11020",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3301",
+    "target_id": "BEAM-9642",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3301",
+    "target_id": "BEAM-9643",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3301",
+    "target_id": "BEAM-9644",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3301",
+    "target_id": "BEAM-9775",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3339",
+    "target_id": "BEAM-3822",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3514",
+    "target_id": "BEAM-3513",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3606",
+    "target_id": "BEAM-3607",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3645",
+    "target_id": "BEAM-7580",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3645",
+    "target_id": "BEAM-7581",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3645",
+    "target_id": "BEAM-7861",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3650",
+    "target_id": "BEAM-3159",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3650",
+    "target_id": "BEAM-3651",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3650",
+    "target_id": "BEAM-3652",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3650",
+    "target_id": "BEAM-3653",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3650",
+    "target_id": "BEAM-3654",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3650",
+    "target_id": "BEAM-3655",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3650",
+    "target_id": "BEAM-3656",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3650",
+    "target_id": "BEAM-3657",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3650",
+    "target_id": "BEAM-3658",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3650",
+    "target_id": "BEAM-3659",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3650",
+    "target_id": "BEAM-3660",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3650",
+    "target_id": "BEAM-3661",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3650",
+    "target_id": "BEAM-3662",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3650",
+    "target_id": "BEAM-3663",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3650",
+    "target_id": "BEAM-3664",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3650",
+    "target_id": "BEAM-3665",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3650",
+    "target_id": "BEAM-3666",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3650",
+    "target_id": "BEAM-3674",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3650",
+    "target_id": "BEAM-7690",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3860",
+    "target_id": "BEAM-3286",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-3914",
+    "target_id": "BEAM-2898",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-12198",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-4077",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-4078",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-4079",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-4080",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-4081",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-4082",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-4083",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-4084",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-4085",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-4412",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-4450",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-4451",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-4452",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-4453",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-4454",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-4455",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-4456",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-4457",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-4458",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-4459",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-4460",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-4461",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-4613",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-4793",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-4794",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-5027",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-6240",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-6293",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-6300",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-6428",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-6452",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-6536",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-6602",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-6673",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-6674",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-6675",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-6700",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-6701",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-6753",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-6756",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-6772",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-7116",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-7168",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-7174",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-7189",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-7274",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-7301",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-7333",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-7334",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-7335",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-7336",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-7337",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-7345",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-7356",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-7485",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-7592",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-7816",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-7817",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-9331",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-9353",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-9393",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-9442",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-9569",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4076",
+    "target_id": "BEAM-9800",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4117",
+    "target_id": "BEAM-3521",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4225",
+    "target_id": "BEAM-4283",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4225",
+    "target_id": "BEAM-4690",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4476",
+    "target_id": "BEAM-4537",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4476",
+    "target_id": "BEAM-4547",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4476",
+    "target_id": "BEAM-4602",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4476",
+    "target_id": "BEAM-4663",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4493",
+    "target_id": "BEAM-4445",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4493",
+    "target_id": "BEAM-4494",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4493",
+    "target_id": "BEAM-4495",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4493",
+    "target_id": "BEAM-4496",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4493",
+    "target_id": "BEAM-4498",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4493",
+    "target_id": "BEAM-4499",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4493",
+    "target_id": "BEAM-4500",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4493",
+    "target_id": "BEAM-4501",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4493",
+    "target_id": "BEAM-4502",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4493",
+    "target_id": "BEAM-4503",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4493",
+    "target_id": "BEAM-4504",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4493",
+    "target_id": "BEAM-4505",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4493",
+    "target_id": "BEAM-4568",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4493",
+    "target_id": "BEAM-5368",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4508",
+    "target_id": "BEAM-4398",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4508",
+    "target_id": "BEAM-4399",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4508",
+    "target_id": "BEAM-4416",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4559",
+    "target_id": "BEAM-5240",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4573",
+    "target_id": "BEAM-4598",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4573",
+    "target_id": "BEAM-4599",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4573",
+    "target_id": "BEAM-4600",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4573",
+    "target_id": "BEAM-4624",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4573",
+    "target_id": "BEAM-4625",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4573",
+    "target_id": "BEAM-4757",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4573",
+    "target_id": "BEAM-5100",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4573",
+    "target_id": "BEAM-5101",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4573",
+    "target_id": "BEAM-5102",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4573",
+    "target_id": "BEAM-5103",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4573",
+    "target_id": "BEAM-5106",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4577",
+    "target_id": "BEAM-4579",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4577",
+    "target_id": "BEAM-4583",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4725",
+    "target_id": "BEAM-4726",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4725",
+    "target_id": "BEAM-4727",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4725",
+    "target_id": "BEAM-4765",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4725",
+    "target_id": "BEAM-5030",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4725",
+    "target_id": "BEAM-6498",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4725",
+    "target_id": "BEAM-6541",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4725",
+    "target_id": "BEAM-6738",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4725",
+    "target_id": "BEAM-9167",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4735",
+    "target_id": "BEAM-4287",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-4812",
+    "target_id": "BEAM-4454",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-5119",
+    "target_id": "BEAM-5733",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-5158",
+    "target_id": "BEAM-5157",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-5158",
+    "target_id": "BEAM-5159",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-5217",
+    "target_id": "BEAM-2930",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-5310",
+    "target_id": "BEAM-3912",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-5310",
+    "target_id": "BEAM-5309",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-5310",
+    "target_id": "BEAM-6200",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-5310",
+    "target_id": "BEAM-6246",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-5310",
+    "target_id": "BEAM-6568",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-5311",
+    "target_id": "BEAM-3954",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-5326",
+    "target_id": "BEAM-5327",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-5326",
+    "target_id": "BEAM-5636",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-5326",
+    "target_id": "BEAM-5637",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-5698",
+    "target_id": "BEAM-5699",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-5698",
+    "target_id": "BEAM-5703",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-5698",
+    "target_id": "BEAM-5730",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-5735",
+    "target_id": "BEAM-5736",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-5735",
+    "target_id": "BEAM-5737",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-5735",
+    "target_id": "BEAM-5738",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-5735",
+    "target_id": "BEAM-5739",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-5735",
+    "target_id": "BEAM-5740",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-5735",
+    "target_id": "BEAM-5741",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-5735",
+    "target_id": "BEAM-5742",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-5735",
+    "target_id": "BEAM-5743",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-5735",
+    "target_id": "BEAM-5756",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-5871",
+    "target_id": "BEAM-5876",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-6397",
+    "target_id": "BEAM-6201",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-6397",
+    "target_id": "BEAM-6335",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-664",
+    "target_id": "BEAM-665",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-664",
+    "target_id": "BEAM-666",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-664",
+    "target_id": "BEAM-667",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-6686",
+    "target_id": "BEAM-2590",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-6687",
+    "target_id": "BEAM-2590",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-6688",
+    "target_id": "BEAM-2590",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-6689",
+    "target_id": "BEAM-2590",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-6691",
+    "target_id": "BEAM-2590",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-6958",
+    "target_id": "BEAM-6959",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-6958",
+    "target_id": "BEAM-6960",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-6958",
+    "target_id": "BEAM-6961",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-6983",
+    "target_id": "BEAM-5663",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-6983",
+    "target_id": "BEAM-6429",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-6983",
+    "target_id": "BEAM-6877",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-6983",
+    "target_id": "BEAM-6878",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-6983",
+    "target_id": "BEAM-6881",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-6983",
+    "target_id": "BEAM-7181",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-6983",
+    "target_id": "BEAM-7182",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-6983",
+    "target_id": "BEAM-7183",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-6983",
+    "target_id": "BEAM-7377",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-6983",
+    "target_id": "BEAM-8093",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-7037",
+    "target_id": "BEAM-2590",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-719",
+    "target_id": "BEAM-658",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-7278",
+    "target_id": "BEAM-7292",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-7278",
+    "target_id": "BEAM-7294",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-7558",
+    "target_id": "BEAM-7557",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-7559",
+    "target_id": "BEAM-7557",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-7726",
+    "target_id": "BEAM-9039",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-7734",
+    "target_id": "BEAM-7735",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-7734",
+    "target_id": "BEAM-8179",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-7734",
+    "target_id": "BEAM-9314",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-7772",
+    "target_id": "BEAM-7773",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-7772",
+    "target_id": "BEAM-7774",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-7772",
+    "target_id": "BEAM-7775",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-7772",
+    "target_id": "BEAM-7776",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-7772",
+    "target_id": "BEAM-8003",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-7887",
+    "target_id": "BEAM-6441",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-7887",
+    "target_id": "BEAM-6595",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-7887",
+    "target_id": "BEAM-6598",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-7887",
+    "target_id": "BEAM-6613",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-7887",
+    "target_id": "BEAM-6614",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-7887",
+    "target_id": "BEAM-6795",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-7887",
+    "target_id": "BEAM-7889",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-7887",
+    "target_id": "BEAM-8079",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-7887",
+    "target_id": "BEAM-8144",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-7887",
+    "target_id": "BEAM-8185",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-7887",
+    "target_id": "BEAM-8339",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-7887",
+    "target_id": "BEAM-8345",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-7887",
+    "target_id": "BEAM-8346",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-7887",
+    "target_id": "BEAM-8349",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-7887",
+    "target_id": "BEAM-8780",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-8116",
+    "target_id": "BEAM-8097",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-8116",
+    "target_id": "BEAM-8117",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-8116",
+    "target_id": "BEAM-8118",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-8116",
+    "target_id": "BEAM-8119",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-8116",
+    "target_id": "BEAM-8120",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-8124",
+    "target_id": "BEAM-7842",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-8130",
+    "target_id": "BEAM-8131",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-8130",
+    "target_id": "BEAM-8132",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-8130",
+    "target_id": "BEAM-8133",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-8130",
+    "target_id": "BEAM-8134",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-8130",
+    "target_id": "BEAM-8135",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-8130",
+    "target_id": "BEAM-8136",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-8130",
+    "target_id": "BEAM-8163",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-8130",
+    "target_id": "BEAM-8308",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-8130",
+    "target_id": "BEAM-8789",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-8130",
+    "target_id": "BEAM-8790",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-8130",
+    "target_id": "BEAM-9889",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-8130",
+    "target_id": "BEAM-9892",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-8137",
+    "target_id": "BEAM-12503",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-818",
+    "target_id": "BEAM-826",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-818",
+    "target_id": "BEAM-827",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-8251",
+    "target_id": "BEAM-8252",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-8251",
+    "target_id": "BEAM-8253",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-8251",
+    "target_id": "BEAM-8254",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-8335",
+    "target_id": "BEAM-9687",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-8398",
+    "target_id": "BEAM-8254",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-8508",
+    "target_id": "BEAM-5733",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-8618",
+    "target_id": "BEAM-8325",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-8619",
+    "target_id": "BEAM-8325",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-8840",
+    "target_id": "BEAM-8653",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-8848",
+    "target_id": "BEAM-8849",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-8848",
+    "target_id": "BEAM-8850",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-9121",
+    "target_id": "BEAM-8331",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-9236",
+    "target_id": "BEAM-4078",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-9238",
+    "target_id": "BEAM-9056",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-9238",
+    "target_id": "BEAM-9229",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-9238",
+    "target_id": "BEAM-9237",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-9238",
+    "target_id": "BEAM-9383",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-9238",
+    "target_id": "BEAM-9455",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-9379",
+    "target_id": "BEAM-5505",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-9676",
+    "target_id": "BEAM-10091",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-9676",
+    "target_id": "BEAM-10428",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-9676",
+    "target_id": "BEAM-9678",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-9676",
+    "target_id": "BEAM-9679",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-9676",
+    "target_id": "BEAM-9680",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-9676",
+    "target_id": "BEAM-9681",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-9676",
+    "target_id": "BEAM-9682",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-9676",
+    "target_id": "BEAM-9683",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-9676",
+    "target_id": "BEAM-9684",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-9676",
+    "target_id": "BEAM-9782",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-9676",
+    "target_id": "BEAM-9928",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-9882",
+    "target_id": "BEAM-10290",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-9882",
+    "target_id": "BEAM-9883",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-9882",
+    "target_id": "BEAM-9951",
+    "source_type": "Improvement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-9901",
+    "target_id": "BEAM-9902",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-9901",
+    "target_id": "BEAM-9903",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-9901",
+    "target_id": "BEAM-9904",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-9901",
+    "target_id": "BEAM-9905",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "BEAM-9901",
+    "target_id": "BEAM-9906",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  }
+]

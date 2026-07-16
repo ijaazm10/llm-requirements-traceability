@@ -1,0 +1,597 @@
+{
+  "created_at": "2026-06-18T12:10:38.517269",
+  "script": "9d_zero_shot_openai_batch_matched.py",
+  "model": "gpt-5.4",
+  "endpoint": "/v1/chat/completions",
+  "prompt_mode": "matched_single_user_prompt_v1_batch",
+  "prompt_template_hash": "209a9beb289a5172",
+  "max_completion_tokens": 20,
+  "temperature": 0.0,
+  "seed": 42,
+  "message_format": "single user-role message; no system prompt; no JSON mode; OpenAI Batch Chat Completions",
+  "negative_protocol": "Qwen3 top-K hard negatives, 1:3 positive:negative test pairs",
+  "projects": [
+    "JBIDE"
+  ],
+  "start_index": 2600,
+  "max_pairs": 100,
+  "run_suffix": "shard_18_jbide_2600_end",
+  "requests": {
+    "JBIDE_00000": {
+      "project": "JBIDE",
+      "index": 0,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-27702",
+      "label": 1,
+      "prompt_chars": 737
+    },
+    "JBIDE_00001": {
+      "project": "JBIDE",
+      "index": 1,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-18888",
+      "label": 0,
+      "prompt_chars": 1569
+    },
+    "JBIDE_00002": {
+      "project": "JBIDE",
+      "index": 2,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-22795",
+      "label": 0,
+      "prompt_chars": 682
+    },
+    "JBIDE_00003": {
+      "project": "JBIDE",
+      "index": 3,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-20616",
+      "label": 0,
+      "prompt_chars": 1614
+    },
+    "JBIDE_00004": {
+      "project": "JBIDE",
+      "index": 4,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-27703",
+      "label": 1,
+      "prompt_chars": 734
+    },
+    "JBIDE_00005": {
+      "project": "JBIDE",
+      "index": 5,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-16746",
+      "label": 0,
+      "prompt_chars": 774
+    },
+    "JBIDE_00006": {
+      "project": "JBIDE",
+      "index": 6,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-23194",
+      "label": 0,
+      "prompt_chars": 2025
+    },
+    "JBIDE_00007": {
+      "project": "JBIDE",
+      "index": 7,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-20203",
+      "label": 0,
+      "prompt_chars": 1107
+    },
+    "JBIDE_00008": {
+      "project": "JBIDE",
+      "index": 8,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-27704",
+      "label": 1,
+      "prompt_chars": 741
+    },
+    "JBIDE_00009": {
+      "project": "JBIDE",
+      "index": 9,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-20621",
+      "label": 0,
+      "prompt_chars": 1590
+    },
+    "JBIDE_00010": {
+      "project": "JBIDE",
+      "index": 10,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-22789",
+      "label": 0,
+      "prompt_chars": 676
+    },
+    "JBIDE_00011": {
+      "project": "JBIDE",
+      "index": 11,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-22797",
+      "label": 0,
+      "prompt_chars": 689
+    },
+    "JBIDE_00012": {
+      "project": "JBIDE",
+      "index": 12,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-27705",
+      "label": 1,
+      "prompt_chars": 740
+    },
+    "JBIDE_00013": {
+      "project": "JBIDE",
+      "index": 13,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-20810",
+      "label": 0,
+      "prompt_chars": 1849
+    },
+    "JBIDE_00014": {
+      "project": "JBIDE",
+      "index": 14,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-15447",
+      "label": 0,
+      "prompt_chars": 1255
+    },
+    "JBIDE_00015": {
+      "project": "JBIDE",
+      "index": 15,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-22012",
+      "label": 0,
+      "prompt_chars": 2112
+    },
+    "JBIDE_00016": {
+      "project": "JBIDE",
+      "index": 16,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-27706",
+      "label": 1,
+      "prompt_chars": 738
+    },
+    "JBIDE_00017": {
+      "project": "JBIDE",
+      "index": 17,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-20509",
+      "label": 0,
+      "prompt_chars": 1121
+    },
+    "JBIDE_00018": {
+      "project": "JBIDE",
+      "index": 18,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-19488",
+      "label": 0,
+      "prompt_chars": 1535
+    },
+    "JBIDE_00019": {
+      "project": "JBIDE",
+      "index": 19,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-20629",
+      "label": 0,
+      "prompt_chars": 1593
+    },
+    "JBIDE_00020": {
+      "project": "JBIDE",
+      "index": 20,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-27707",
+      "label": 1,
+      "prompt_chars": 737
+    },
+    "JBIDE_00021": {
+      "project": "JBIDE",
+      "index": 21,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-26782",
+      "label": 0,
+      "prompt_chars": 769
+    },
+    "JBIDE_00022": {
+      "project": "JBIDE",
+      "index": 22,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-22014",
+      "label": 0,
+      "prompt_chars": 2112
+    },
+    "JBIDE_00023": {
+      "project": "JBIDE",
+      "index": 23,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-26784",
+      "label": 0,
+      "prompt_chars": 768
+    },
+    "JBIDE_00024": {
+      "project": "JBIDE",
+      "index": 24,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-27708",
+      "label": 1,
+      "prompt_chars": 734
+    },
+    "JBIDE_00025": {
+      "project": "JBIDE",
+      "index": 25,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-20622",
+      "label": 0,
+      "prompt_chars": 1593
+    },
+    "JBIDE_00026": {
+      "project": "JBIDE",
+      "index": 26,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-26779",
+      "label": 0,
+      "prompt_chars": 765
+    },
+    "JBIDE_00027": {
+      "project": "JBIDE",
+      "index": 27,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-23190",
+      "label": 0,
+      "prompt_chars": 2226
+    },
+    "JBIDE_00028": {
+      "project": "JBIDE",
+      "index": 28,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-27709",
+      "label": 1,
+      "prompt_chars": 745
+    },
+    "JBIDE_00029": {
+      "project": "JBIDE",
+      "index": 29,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-26762",
+      "label": 0,
+      "prompt_chars": 761
+    },
+    "JBIDE_00030": {
+      "project": "JBIDE",
+      "index": 30,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-26776",
+      "label": 0,
+      "prompt_chars": 764
+    },
+    "JBIDE_00031": {
+      "project": "JBIDE",
+      "index": 31,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-24566",
+      "label": 0,
+      "prompt_chars": 870
+    },
+    "JBIDE_00032": {
+      "project": "JBIDE",
+      "index": 32,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-27768",
+      "label": 1,
+      "prompt_chars": 772
+    },
+    "JBIDE_00033": {
+      "project": "JBIDE",
+      "index": 33,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-26769",
+      "label": 0,
+      "prompt_chars": 767
+    },
+    "JBIDE_00034": {
+      "project": "JBIDE",
+      "index": 34,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-26951",
+      "label": 0,
+      "prompt_chars": 792
+    },
+    "JBIDE_00035": {
+      "project": "JBIDE",
+      "index": 35,
+      "source_id": "JBIDE-27665",
+      "target_id": "JBIDE-22557",
+      "label": 0,
+      "prompt_chars": 2010
+    },
+    "JBIDE_00036": {
+      "project": "JBIDE",
+      "index": 36,
+      "source_id": "JBIDE-3098",
+      "target_id": "JBIDE-3190",
+      "label": 1,
+      "prompt_chars": 1601
+    },
+    "JBIDE_00037": {
+      "project": "JBIDE",
+      "index": 37,
+      "source_id": "JBIDE-3098",
+      "target_id": "JBIDE-13307",
+      "label": 0,
+      "prompt_chars": 731
+    },
+    "JBIDE_00038": {
+      "project": "JBIDE",
+      "index": 38,
+      "source_id": "JBIDE-3098",
+      "target_id": "JBIDE-12294",
+      "label": 0,
+      "prompt_chars": 1055
+    },
+    "JBIDE_00039": {
+      "project": "JBIDE",
+      "index": 39,
+      "source_id": "JBIDE-3098",
+      "target_id": "JBIDE-13511",
+      "label": 0,
+      "prompt_chars": 734
+    },
+    "JBIDE_00040": {
+      "project": "JBIDE",
+      "index": 40,
+      "source_id": "JBIDE-6956",
+      "target_id": "JBIDE-6968",
+      "label": 1,
+      "prompt_chars": 1885
+    },
+    "JBIDE_00041": {
+      "project": "JBIDE",
+      "index": 41,
+      "source_id": "JBIDE-6956",
+      "target_id": "JBIDE-21496",
+      "label": 0,
+      "prompt_chars": 4601
+    },
+    "JBIDE_00042": {
+      "project": "JBIDE",
+      "index": 42,
+      "source_id": "JBIDE-6956",
+      "target_id": "JBIDE-21267",
+      "label": 0,
+      "prompt_chars": 4521
+    },
+    "JBIDE_00043": {
+      "project": "JBIDE",
+      "index": 43,
+      "source_id": "JBIDE-6956",
+      "target_id": "JBIDE-22015",
+      "label": 0,
+      "prompt_chars": 3277
+    },
+    "JBIDE_00044": {
+      "project": "JBIDE",
+      "index": 44,
+      "source_id": "JBIDE-6956",
+      "target_id": "JBIDE-6969",
+      "label": 1,
+      "prompt_chars": 1907
+    },
+    "JBIDE_00045": {
+      "project": "JBIDE",
+      "index": 45,
+      "source_id": "JBIDE-6956",
+      "target_id": "JBIDE-20617",
+      "label": 0,
+      "prompt_chars": 2779
+    },
+    "JBIDE_00046": {
+      "project": "JBIDE",
+      "index": 46,
+      "source_id": "JBIDE-6956",
+      "target_id": "JBIDE-12828",
+      "label": 0,
+      "prompt_chars": 2839
+    },
+    "JBIDE_00047": {
+      "project": "JBIDE",
+      "index": 47,
+      "source_id": "JBIDE-6956",
+      "target_id": "JBIDE-20952",
+      "label": 0,
+      "prompt_chars": 3674
+    },
+    "JBIDE_00048": {
+      "project": "JBIDE",
+      "index": 48,
+      "source_id": "JBIDE-6958",
+      "target_id": "JBIDE-7444",
+      "label": 1,
+      "prompt_chars": 1228
+    },
+    "JBIDE_00049": {
+      "project": "JBIDE",
+      "index": 49,
+      "source_id": "JBIDE-6958",
+      "target_id": "JBIDE-19950",
+      "label": 0,
+      "prompt_chars": 1066
+    },
+    "JBIDE_00050": {
+      "project": "JBIDE",
+      "index": 50,
+      "source_id": "JBIDE-6958",
+      "target_id": "JBIDE-12848",
+      "label": 0,
+      "prompt_chars": 1431
+    },
+    "JBIDE_00051": {
+      "project": "JBIDE",
+      "index": 51,
+      "source_id": "JBIDE-6958",
+      "target_id": "JBIDE-15483",
+      "label": 0,
+      "prompt_chars": 2148
+    },
+    "JBIDE_00052": {
+      "project": "JBIDE",
+      "index": 52,
+      "source_id": "JBIDE-7290",
+      "target_id": "JBIDE-8047",
+      "label": 1,
+      "prompt_chars": 3952
+    },
+    "JBIDE_00053": {
+      "project": "JBIDE",
+      "index": 53,
+      "source_id": "JBIDE-7290",
+      "target_id": "JBIDE-2155",
+      "label": 0,
+      "prompt_chars": 620
+    },
+    "JBIDE_00054": {
+      "project": "JBIDE",
+      "index": 54,
+      "source_id": "JBIDE-7290",
+      "target_id": "JBIDE-3393",
+      "label": 0,
+      "prompt_chars": 573
+    },
+    "JBIDE_00055": {
+      "project": "JBIDE",
+      "index": 55,
+      "source_id": "JBIDE-7290",
+      "target_id": "JBIDE-2157",
+      "label": 0,
+      "prompt_chars": 622
+    },
+    "JBIDE_00056": {
+      "project": "JBIDE",
+      "index": 56,
+      "source_id": "JBIDE-8935",
+      "target_id": "JBIDE-8983",
+      "label": 1,
+      "prompt_chars": 1111
+    },
+    "JBIDE_00057": {
+      "project": "JBIDE",
+      "index": 57,
+      "source_id": "JBIDE-8935",
+      "target_id": "JBIDE-3862",
+      "label": 0,
+      "prompt_chars": 698
+    },
+    "JBIDE_00058": {
+      "project": "JBIDE",
+      "index": 58,
+      "source_id": "JBIDE-8935",
+      "target_id": "JBIDE-3793",
+      "label": 0,
+      "prompt_chars": 756
+    },
+    "JBIDE_00059": {
+      "project": "JBIDE",
+      "index": 59,
+      "source_id": "JBIDE-8935",
+      "target_id": "JBIDE-7719",
+      "label": 0,
+      "prompt_chars": 1074
+    },
+    "JBIDE_00060": {
+      "project": "JBIDE",
+      "index": 60,
+      "source_id": "JBIDE-9691",
+      "target_id": "JBIDE-9591",
+      "label": 1,
+      "prompt_chars": 1744
+    },
+    "JBIDE_00061": {
+      "project": "JBIDE",
+      "index": 61,
+      "source_id": "JBIDE-9691",
+      "target_id": "JBIDE-10860",
+      "label": 0,
+      "prompt_chars": 1162
+    },
+    "JBIDE_00062": {
+      "project": "JBIDE",
+      "index": 62,
+      "source_id": "JBIDE-9691",
+      "target_id": "JBIDE-12978",
+      "label": 0,
+      "prompt_chars": 1140
+    },
+    "JBIDE_00063": {
+      "project": "JBIDE",
+      "index": 63,
+      "source_id": "JBIDE-9691",
+      "target_id": "JBIDE-18946",
+      "label": 0,
+      "prompt_chars": 1359
+    }
+  },
+  "estimated_prompt_tokens": 25430,
+  "estimated_completion_tokens_upper": 1280,
+  "estimated_batch_cost_usd_upper": 0.0414,
+  "cost_estimate_basis": "tiktoken/o200k_base if available, else char/3.7; max output token cap",
+  "pricing_per_1M_batch": {
+    "input": 1.25,
+    "output": 7.5
+  },
+  "input_file_id": "file-Q67MmrvptcjtH63qJHS9GJ",
+  "input_file": {
+    "id": "file-Q67MmrvptcjtH63qJHS9GJ",
+    "bytes": 107021,
+    "created_at": 1781784639,
+    "filename": "batch_requests.jsonl",
+    "object": "file",
+    "purpose": "batch",
+    "status": "processed",
+    "expires_at": 1784376639,
+    "status_details": null
+  },
+  "batch": {
+    "id": "batch_6a33e040a6f48190b6a61afa14f7ea15",
+    "completion_window": "24h",
+    "created_at": 1781784640,
+    "endpoint": "/v1/chat/completions",
+    "input_file_id": "file-Q67MmrvptcjtH63qJHS9GJ",
+    "object": "batch",
+    "status": "validating",
+    "cancelled_at": null,
+    "cancelling_at": null,
+    "completed_at": null,
+    "error_file_id": null,
+    "errors": null,
+    "expired_at": null,
+    "expires_at": 1781871040,
+    "failed_at": null,
+    "finalizing_at": null,
+    "in_progress_at": null,
+    "metadata": {
+      "experiment": "thesis_zero_shot_gpt54_matched",
+      "prompt_hash": "209a9beb289a5172",
+      "method": "zero_shot_batch"
+    },
+    "model": null,
+    "output_file_id": null,
+    "request_counts": {
+      "completed": 0,
+      "failed": 0,
+      "total": 0
+    },
+    "usage": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 0
+    }
+  },
+  "batch_id": "batch_6a33e040a6f48190b6a61afa14f7ea15",
+  "submitted_at": "2026-06-18T12:10:41.443060"
+}

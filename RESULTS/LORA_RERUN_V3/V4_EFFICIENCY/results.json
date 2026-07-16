@@ -1,0 +1,385 @@
+{
+  "timestamp": "2026-06-14 05:57:45",
+  "version": "V4_EFFICIENCY",
+  "version_label": "V4 Efficiency (rank halved)",
+  "model": "unsloth/gemma-4-31B-it",
+  "config": {
+    "version": "V4_EFFICIENCY",
+    "label": "V4 Efficiency (rank halved)",
+    "learning_rate": 0.0001,
+    "lora_r": 32,
+    "lora_alpha": 64,
+    "upsample": 3,
+    "finetune_mlp_modules": false,
+    "desc": "Halve rank with original LR. Tests capacity reduction.",
+    "target_modules": [
+      "q_proj",
+      "k_proj",
+      "v_proj",
+      "o_proj"
+    ]
+  },
+  "n_projects_evaluated": 8,
+  "macro_clean": {
+    "precision": 0.6872,
+    "recall": 0.7757,
+    "f1": 0.7253,
+    "f2": 0.7537,
+    "accuracy": 0.8514
+  },
+  "macro_conservative": {
+    "precision": 0.6872,
+    "recall": 0.7736,
+    "f1": 0.7244,
+    "f2": 0.7522,
+    "accuracy": 0.8511
+  },
+  "total_failed_parses": 27,
+  "total_pairs": 10668,
+  "per_project": [
+    {
+      "version": "V4_EFFICIENCY",
+      "project": "AAH",
+      "n_pairs": 344,
+      "n_pos": 86,
+      "n_neg": 258,
+      "failed_parses": 0,
+      "metrics_clean": {
+        "precision": 0.6622,
+        "recall": 0.5698,
+        "f1": 0.6125,
+        "f2": 0.5861,
+        "accuracy": 0.8198,
+        "tp": 49,
+        "fp": 25,
+        "fn": 37,
+        "tn": 233
+      },
+      "metrics_conservative": {
+        "precision": 0.6622,
+        "recall": 0.5698,
+        "f1": 0.6125,
+        "f2": 0.5861,
+        "accuracy": 0.8198,
+        "tp": 49,
+        "fp": 25,
+        "fn": 37,
+        "tn": 233
+      },
+      "deployment": {
+        "from_cache": false,
+        "elapsed_seconds": 530.6,
+        "time_per_pair_ms": 1542.5,
+        "peak_vram_gb": 19.34,
+        "total_input_tokens": 125346,
+        "total_gen_tokens": 2752,
+        "avg_input_tokens": 364.4,
+        "avg_gen_tokens": 8.0,
+        "tokens_per_second_generated": 5.2,
+        "truncated_pairs": 0,
+        "adapter_path": "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/RESULTS/LORA_RERUN_V3/V4_EFFICIENCY/ADAPTERS/AAH/best_adapter"
+      }
+    },
+    {
+      "version": "V4_EFFICIENCY",
+      "project": "BEAM",
+      "n_pairs": 1256,
+      "n_pos": 314,
+      "n_neg": 942,
+      "failed_parses": 13,
+      "metrics_clean": {
+        "precision": 0.6848,
+        "recall": 0.8548,
+        "f1": 0.7604,
+        "f2": 0.8144,
+        "accuracy": 0.8656,
+        "tp": 265,
+        "fp": 122,
+        "fn": 45,
+        "tn": 811
+      },
+      "metrics_conservative": {
+        "precision": 0.6848,
+        "recall": 0.8439,
+        "f1": 0.7561,
+        "f2": 0.8065,
+        "accuracy": 0.8639,
+        "tp": 265,
+        "fp": 122,
+        "fn": 49,
+        "tn": 820
+      },
+      "deployment": {
+        "from_cache": false,
+        "elapsed_seconds": 1975.3,
+        "time_per_pair_ms": 1572.7,
+        "peak_vram_gb": 20.12,
+        "total_input_tokens": 541231,
+        "total_gen_tokens": 10204,
+        "avg_input_tokens": 430.9,
+        "avg_gen_tokens": 8.1,
+        "tokens_per_second_generated": 5.2,
+        "truncated_pairs": 13,
+        "adapter_path": "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/RESULTS/LORA_RERUN_V3/V4_EFFICIENCY/ADAPTERS/BEAM/best_adapter"
+      }
+    },
+    {
+      "version": "V4_EFFICIENCY",
+      "project": "CB",
+      "n_pairs": 1680,
+      "n_pos": 420,
+      "n_neg": 1260,
+      "failed_parses": 0,
+      "metrics_clean": {
+        "precision": 0.8966,
+        "recall": 0.95,
+        "f1": 0.9225,
+        "f2": 0.9388,
+        "accuracy": 0.9601,
+        "tp": 399,
+        "fp": 46,
+        "fn": 21,
+        "tn": 1214
+      },
+      "metrics_conservative": {
+        "precision": 0.8966,
+        "recall": 0.95,
+        "f1": 0.9225,
+        "f2": 0.9388,
+        "accuracy": 0.9601,
+        "tp": 399,
+        "fp": 46,
+        "fn": 21,
+        "tn": 1214
+      },
+      "deployment": {
+        "from_cache": false,
+        "elapsed_seconds": 2590.4,
+        "time_per_pair_ms": 1541.9,
+        "peak_vram_gb": 20.03,
+        "total_input_tokens": 340787,
+        "total_gen_tokens": 13440,
+        "avg_input_tokens": 202.8,
+        "avg_gen_tokens": 8.0,
+        "tokens_per_second_generated": 5.2,
+        "truncated_pairs": 0,
+        "adapter_path": "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/RESULTS/LORA_RERUN_V3/V4_EFFICIENCY/ADAPTERS/CB/best_adapter"
+      }
+    },
+    {
+      "version": "V4_EFFICIENCY",
+      "project": "FH",
+      "n_pairs": 884,
+      "n_pos": 221,
+      "n_neg": 663,
+      "failed_parses": 0,
+      "metrics_clean": {
+        "precision": 0.5679,
+        "recall": 0.7376,
+        "f1": 0.6417,
+        "f2": 0.696,
+        "accuracy": 0.7941,
+        "tp": 163,
+        "fp": 124,
+        "fn": 58,
+        "tn": 539
+      },
+      "metrics_conservative": {
+        "precision": 0.5679,
+        "recall": 0.7376,
+        "f1": 0.6417,
+        "f2": 0.696,
+        "accuracy": 0.7941,
+        "tp": 163,
+        "fp": 124,
+        "fn": 58,
+        "tn": 539
+      },
+      "deployment": {
+        "from_cache": false,
+        "elapsed_seconds": 1359.7,
+        "time_per_pair_ms": 1538.1,
+        "peak_vram_gb": 19.15,
+        "total_input_tokens": 241429,
+        "total_gen_tokens": 7072,
+        "avg_input_tokens": 273.1,
+        "avg_gen_tokens": 8.0,
+        "tokens_per_second_generated": 5.2,
+        "truncated_pairs": 0,
+        "adapter_path": "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/RESULTS/LORA_RERUN_V3/V4_EFFICIENCY/ADAPTERS/FH/best_adapter"
+      }
+    },
+    {
+      "version": "V4_EFFICIENCY",
+      "project": "JBIDE",
+      "n_pairs": 2664,
+      "n_pos": 666,
+      "n_neg": 1998,
+      "failed_parses": 8,
+      "metrics_clean": {
+        "precision": 0.9078,
+        "recall": 0.9337,
+        "f1": 0.9206,
+        "f2": 0.9284,
+        "accuracy": 0.9597,
+        "tp": 620,
+        "fp": 63,
+        "fn": 44,
+        "tn": 1929
+      },
+      "metrics_conservative": {
+        "precision": 0.9078,
+        "recall": 0.9309,
+        "f1": 0.9192,
+        "f2": 0.9262,
+        "accuracy": 0.9591,
+        "tp": 620,
+        "fp": 63,
+        "fn": 46,
+        "tn": 1935
+      },
+      "deployment": {
+        "from_cache": false,
+        "elapsed_seconds": 4246.4,
+        "time_per_pair_ms": 1594.0,
+        "peak_vram_gb": 20.12,
+        "total_input_tokens": 1617303,
+        "total_gen_tokens": 21408,
+        "avg_input_tokens": 607.1,
+        "avg_gen_tokens": 8.0,
+        "tokens_per_second_generated": 5.1,
+        "truncated_pairs": 8,
+        "adapter_path": "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/RESULTS/LORA_RERUN_V3/V4_EFFICIENCY/ADAPTERS/JBIDE/best_adapter"
+      }
+    },
+    {
+      "version": "V4_EFFICIENCY",
+      "project": "KEYCLOAK",
+      "n_pairs": 1940,
+      "n_pos": 485,
+      "n_neg": 1455,
+      "failed_parses": 6,
+      "metrics_clean": {
+        "precision": 0.6068,
+        "recall": 0.6646,
+        "f1": 0.6344,
+        "f2": 0.6522,
+        "accuracy": 0.8087,
+        "tp": 321,
+        "fp": 208,
+        "fn": 162,
+        "tn": 1243
+      },
+      "metrics_conservative": {
+        "precision": 0.6068,
+        "recall": 0.6619,
+        "f1": 0.6331,
+        "f2": 0.6501,
+        "accuracy": 0.8082,
+        "tp": 321,
+        "fp": 208,
+        "fn": 164,
+        "tn": 1247
+      },
+      "deployment": {
+        "from_cache": false,
+        "elapsed_seconds": 3003.8,
+        "time_per_pair_ms": 1548.3,
+        "peak_vram_gb": 20.12,
+        "total_input_tokens": 487700,
+        "total_gen_tokens": 15592,
+        "avg_input_tokens": 251.4,
+        "avg_gen_tokens": 8.0,
+        "tokens_per_second_generated": 5.2,
+        "truncated_pairs": 6,
+        "adapter_path": "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/RESULTS/LORA_RERUN_V3/V4_EFFICIENCY/ADAPTERS/KEYCLOAK/best_adapter"
+      }
+    },
+    {
+      "version": "V4_EFFICIENCY",
+      "project": "KOGITO",
+      "n_pairs": 1448,
+      "n_pos": 362,
+      "n_neg": 1086,
+      "failed_parses": 0,
+      "metrics_clean": {
+        "precision": 0.5302,
+        "recall": 0.7514,
+        "f1": 0.6217,
+        "f2": 0.6935,
+        "accuracy": 0.7714,
+        "tp": 272,
+        "fp": 241,
+        "fn": 90,
+        "tn": 845
+      },
+      "metrics_conservative": {
+        "precision": 0.5302,
+        "recall": 0.7514,
+        "f1": 0.6217,
+        "f2": 0.6935,
+        "accuracy": 0.7714,
+        "tp": 272,
+        "fp": 241,
+        "fn": 90,
+        "tn": 845
+      },
+      "deployment": {
+        "from_cache": false,
+        "elapsed_seconds": 2234.9,
+        "time_per_pair_ms": 1543.5,
+        "peak_vram_gb": 19.53,
+        "total_input_tokens": 362843,
+        "total_gen_tokens": 11584,
+        "avg_input_tokens": 250.6,
+        "avg_gen_tokens": 8.0,
+        "tokens_per_second_generated": 5.2,
+        "truncated_pairs": 0,
+        "adapter_path": "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/RESULTS/LORA_RERUN_V3/V4_EFFICIENCY/ADAPTERS/KOGITO/best_adapter"
+      }
+    },
+    {
+      "version": "V4_EFFICIENCY",
+      "project": "PROJQUAY",
+      "n_pairs": 452,
+      "n_pos": 113,
+      "n_neg": 339,
+      "failed_parses": 0,
+      "metrics_clean": {
+        "precision": 0.6412,
+        "recall": 0.7434,
+        "f1": 0.6885,
+        "f2": 0.7204,
+        "accuracy": 0.8319,
+        "tp": 84,
+        "fp": 47,
+        "fn": 29,
+        "tn": 292
+      },
+      "metrics_conservative": {
+        "precision": 0.6412,
+        "recall": 0.7434,
+        "f1": 0.6885,
+        "f2": 0.7204,
+        "accuracy": 0.8319,
+        "tp": 84,
+        "fp": 47,
+        "fn": 29,
+        "tn": 292
+      },
+      "deployment": {
+        "from_cache": false,
+        "elapsed_seconds": 696.6,
+        "time_per_pair_ms": 1541.3,
+        "peak_vram_gb": 19.34,
+        "total_input_tokens": 133320,
+        "total_gen_tokens": 3616,
+        "avg_input_tokens": 295.0,
+        "avg_gen_tokens": 8.0,
+        "tokens_per_second_generated": 5.2,
+        "truncated_pairs": 0,
+        "adapter_path": "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/RESULTS/LORA_RERUN_V3/V4_EFFICIENCY/ADAPTERS/PROJQUAY/best_adapter"
+      }
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "timestamp": "2026-06-18T08:43:04.542842",
+  "completed_at": "2026-06-18T08:47:48.222207",
+  "model": "gpt-5.4",
+  "experiment": "openai_gpt54_zero_shot_matched_prompt_batch_v3",
+  "batch_id": "batch_6a33af9ae0a8819094dab10cbd6e06a0",
+  "matched_against": [
+    "5.zero_shot_h100.py (Gemma 4 31B local H100)",
+    "9a_zero_shot_openai_matched.py (GPT-5.4-mini synchronous OpenAI API)",
+    "9c_zero_shot_claude_batch_matched.py (Claude Sonnet 4.6 Anthropic Batch)"
+  ],
+  "prompt_mode": "matched_single_user_prompt_v1_batch",
+  "prompt_template_hash": "209a9beb289a5172",
+  "message_format": "single user-role message; no system prompt; no JSON mode; OpenAI native Batch Chat Completions",
+  "execution_mode": "OpenAI Batch API",
+  "latency_comparability": "Not comparable to single-stream synchronous runs; use only for classification metrics and batch token cost.",
+  "pricing_per_1M_batch": {
+    "input": 1.25,
+    "output": 7.5
+  },
+  "generation": {
+    "max_completion_tokens": 20,
+    "temperature": 0.0,
+    "seed": 42
+  },
+  "macro_clean": {
+    "precision": 0.5597,
+    "recall": 0.8503,
+    "f1": 0.6751,
+    "f2": 0.7703,
+    "accuracy": 0.7954
+  },
+  "macro_conservative": {
+    "precision": 0.5597,
+    "recall": 0.8503,
+    "f1": 0.6751,
+    "f2": 0.7703
+  },
+  "total_pairs": 1256,
+  "total_api_failures": 0,
+  "total_parse_failures": 0,
+  "total_prompt_tokens": 631439,
+  "total_completion_tokens": 12560,
+  "estimated_batch_cost_usd": 0.8835,
+  "per_project": [
+    {
+      "project": "BEAM",
+      "n_pairs": 1256,
+      "n_pairs_total_expected": 1256,
+      "n_pos": 314,
+      "n_neg": 942,
+      "api_successes": 1256,
+      "api_failures": 0,
+      "parse_failures": 0,
+      "metrics_clean": {
+        "precision": 0.5597,
+        "recall": 0.8503,
+        "f1": 0.6751,
+        "f2": 0.7703,
+        "accuracy": 0.7954,
+        "tp": 267,
+        "fp": 210,
+        "fn": 47,
+        "tn": 732
+      },
+      "metrics_conservative": {
+        "precision": 0.5597,
+        "recall": 0.8503,
+        "f1": 0.6751,
+        "f2": 0.7703,
+        "accuracy": 0.7954,
+        "tp": 267,
+        "fp": 210,
+        "fn": 47,
+        "tn": 732
+      },
+      "total_prompt_tokens": 631439,
+      "total_completion_tokens": 12560,
+      "avg_latency_ms": null
+    }
+  ],
+  "batch": {
+    "id": "batch_6a33af9ae0a8819094dab10cbd6e06a0",
+    "completion_window": "24h",
+    "created_at": 1781772186,
+    "endpoint": "/v1/chat/completions",
+    "input_file_id": "file-NtqQLwnGFufbrshT94Be9A",
+    "object": "batch",
+    "status": "completed",
+    "cancelled_at": null,
+    "cancelling_at": null,
+    "completed_at": 1781772413,
+    "error_file_id": null,
+    "errors": null,
+    "expired_at": null,
+    "expires_at": 1781858586,
+    "failed_at": null,
+    "finalizing_at": 1781772318,
+    "in_progress_at": 1781772188,
+    "metadata": {
+      "experiment": "thesis_zero_shot_gpt54_matched",
+      "prompt_hash": "209a9beb289a5172",
+      "method": "zero_shot_batch"
+    },
+    "model": "gpt-5.4-2026-03-05",
+    "output_file_id": "file-BLqNFEhmqjaNSNkrWUJqy7",
+    "request_counts": {
+      "completed": 1256,
+      "failed": 0,
+      "total": 1256
+    },
+    "usage": {
+      "input_tokens": 631439,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 12560,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 643999
+    }
+  }
+}

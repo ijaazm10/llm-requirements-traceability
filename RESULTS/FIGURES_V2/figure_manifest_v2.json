@@ -1,0 +1,91 @@
+{
+  "output_dir": "C:\\ground_truth_v3_clean_pipeline\\RESULTS\\FIGURES_V2",
+  "source_files": {
+    "vsm": "C:\\ground_truth_v3_clean_pipeline\\RESULTS\\vsm_final_pairs_results (1).json",
+    "sbert": "C:\\ground_truth_v3_clean_pipeline\\RESULTS\\sbert_final_pairs_results (1).json",
+    "frozen": "C:\\ground_truth_v3_clean_pipeline\\RESULTS\\frozen_bert_final_pairs_results (1).json",
+    "zero": "C:\\ground_truth_v3_clean_pipeline\\RESULTS\\ZERO_SHOT_QWEN_HARD\\zero_shot_qwen_hard_results.json",
+    "gpt": "C:\\ground_truth_v3_clean_pipeline\\RESULTS\\OPENAI_ZERO_SHOT_BATCH_V3\\gpt-5_4_merged_matched_single_user_prompt_v1_batch\\results.json",
+    "claude": "C:\\ground_truth_v3_clean_pipeline\\RESULTS\\CLAUDE_ZERO_SHOT_BATCH_V3\\claude-sonnet-4-6_matched_single_user_prompt_v1_batch\\results.json",
+    "rag": "C:\\ground_truth_v3_clean_pipeline\\RESULTS\\RAG_STAGE2_HYBRID_V3_8192\\MASTER_RAG_ABCD_COMPARISON.json",
+    "lora": "C:\\ground_truth_v3_clean_pipeline\\RESULTS\\LORA_RERUN_V3\\MASTER_COMPARISON.json",
+    "lora_v4": "C:\\ground_truth_v3_clean_pipeline\\RESULTS\\LORA_RERUN_V3\\V4_EFFICIENCY\\results.json",
+    "combined": "C:\\ground_truth_v3_clean_pipeline\\RESULTS\\COMBINED_RERUN_V3\\MASTER_COMBINED_COMPARISON.json",
+    "sig": "C:\\ground_truth_v3_clean_pipeline\\RESULTS\\significance_tests_clean_f2.json"
+  },
+  "macro_metrics": {
+    "VSM": {
+      "precision": 0.2984,
+      "recall": 0.6941,
+      "f1": 0.4139,
+      "f2": 0.5433
+    },
+    "SBERT": {
+      "precision": 0.2528,
+      "recall": 0.9663,
+      "f1": 0.4006,
+      "f2": 0.6174
+    },
+    "Frozen BERT": {
+      "precision": 0.2758,
+      "recall": 0.9304,
+      "f1": 0.4219,
+      "f2": 0.6238
+    },
+    "Gemma zero-shot": {
+      "precision": 0.4399,
+      "recall": 0.8148,
+      "f1": 0.5693,
+      "f2": 0.6938,
+      "accuracy": 0.6888
+    },
+    "GPT-5.4 zero-shot": {
+      "precision": 0.5157,
+      "recall": 0.7704,
+      "f1": 0.6157,
+      "f2": 0.6991,
+      "accuracy": 0.7575
+    },
+    "Claude zero-shot": {
+      "precision": 0.5255,
+      "recall": 0.8498,
+      "f1": 0.6443,
+      "f2": 0.7511,
+      "accuracy": 0.7585
+    },
+    "RAG-B": {
+      "precision": 0.6202,
+      "recall": 0.8491,
+      "f1": 0.7135,
+      "f2": 0.7878,
+      "accuracy": 0.8242
+    },
+    "LoRA V4": {
+      "precision": 0.6872,
+      "recall": 0.7757,
+      "f1": 0.7253,
+      "f2": 0.7537,
+      "accuracy": 0.8514
+    },
+    "Combined": {
+      "precision": 0.717,
+      "recall": 0.8212,
+      "f1": 0.7612,
+      "f2": 0.7947,
+      "accuracy": 0.867
+    }
+  },
+  "figures": [
+    "RQ1_baselines_vs_gemma_zero_shot",
+    "RQ1_1_zero_shot_cloud_comparison",
+    "RQ2_champion_methods",
+    "RQ2_2_rag_ablation_f2",
+    "RQ2_2_lora_ablation_f2",
+    "RQ2_3_combined_components",
+    "RQ2_statistical_robustness",
+    "RQ3_1_latency_breakdown",
+    "RQ3_3_parse_failure_rate",
+    "SUP_per_project_f2_heatmap"
+  ],
+  "note": "Figures contain no embedded captions/titles; use LaTeX captions in the thesis."
+}

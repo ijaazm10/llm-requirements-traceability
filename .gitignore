@@ -1,0 +1,59 @@
+# ============================================================
+# ground_truth_v3_clean_pipeline — .gitignore
+# Public Repository: llm-requirements-traceability
+# Ships: core scripts, 8-project ground truth, and predictions.
+# Excluded: heavy adapters, raw dumps, internal audit reports, presentations.
+# ============================================================
+
+# --- LoRA adapters & training checkpoints (131 GB, regenerable via 7.lora_rerun_unified.py, seed 42)
+RESULTS/LORA_RERUN_V3/*/ADAPTERS/
+RESULTS/**/ADAPTERS/
+checkpoints/
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.onnx
+
+# --- FAISS / BM25 retrieval indexes (~1.1 GB, regenerable via the RAG scripts; manifests document contents)
+RESULTS/*/INDEXES/
+RESULTS/**/INDEXES/
+
+# --- archives & bulk exports
+RESULTS/RESULTS.tar.gz
+*.tar.gz
+*.tar
+*.zip
+
+# --- raw Jira dumps: private redistribution NOT cleared with Tian et al.
+DATA/RAW_DATA/
+
+# --- separate git repositories & report templates
+REPORT/
+
+# --- Internal audit reports, presentations & draft folders (Excluded as requested)
+THESIS_*.md
+FINAL_CROSSCHECK_BEFORE_WRITING.md
+Ground_Truth_V3_Fix_Audit_Report.md
+PRESENTATION_BUILD/
+Thesis/
+*.pptx
+~$*.pptx
+*.inspect.ndjson
+
+# --- caches, editor junk, temp
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+tmp_results_fig_v3_render/
+SCRIPT/Untitled*
+Thumbs.db
+.DS_Store
+.agents/
+.codex/
+.cache/
+
+# --- Massive Training & Execution Logs
+*.log
+ISOLATED_TRAIN_LOGS/
+LOGS/

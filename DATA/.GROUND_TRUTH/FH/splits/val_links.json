@@ -1,0 +1,758 @@
+[
+  {
+    "source_id": "FH-2456",
+    "target_id": "FH-2457",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-2456",
+    "target_id": "FH-2458",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-2836",
+    "target_id": "FH-2839",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "FH-2836",
+    "target_id": "FH-2840",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "FH-2836",
+    "target_id": "FH-2841",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "FH-3183",
+    "target_id": "FH-3184",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "FH-3189",
+    "target_id": "FH-3190",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "FH-3189",
+    "target_id": "FH-3191",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "FH-3189",
+    "target_id": "FH-3192",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "FH-3189",
+    "target_id": "FH-3193",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3289",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3291",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3293",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3296",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3299",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3300",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3301",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3356",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3357",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3358",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3360",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3369",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3370",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3467",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3469",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3470",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3471",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3472",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3473",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3504",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3505",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3506",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3507",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3508",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3509",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3510",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3538",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3539",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3547",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3548",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3549",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3550",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3551",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3552",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3553",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3554",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3557",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3558",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3570",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3267",
+    "target_id": "FH-3574",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3755",
+    "target_id": "FH-3756",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3755",
+    "target_id": "FH-3757",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3755",
+    "target_id": "FH-3759",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3755",
+    "target_id": "FH-3763",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3755",
+    "target_id": "FH-3774",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3755",
+    "target_id": "FH-3779",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3755",
+    "target_id": "FH-3786",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3755",
+    "target_id": "FH-3796",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3855",
+    "target_id": "FH-3882",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3855",
+    "target_id": "FH-3883",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3855",
+    "target_id": "FH-3884",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3855",
+    "target_id": "FH-3885",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3855",
+    "target_id": "FH-3904",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3855",
+    "target_id": "FH-3905",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3855",
+    "target_id": "FH-3991",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3855",
+    "target_id": "FH-4003",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3855",
+    "target_id": "FH-4011",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3855",
+    "target_id": "FH-4045",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3855",
+    "target_id": "FH-4046",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3855",
+    "target_id": "FH-4047",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3855",
+    "target_id": "FH-4048",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3855",
+    "target_id": "FH-4050",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3855",
+    "target_id": "FH-4094",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3855",
+    "target_id": "FH-4241",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-3855",
+    "target_id": "FH-4310",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-4014",
+    "target_id": "FH-4015",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "FH-4014",
+    "target_id": "FH-4016",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "FH-4014",
+    "target_id": "FH-4031",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "FH-4391",
+    "target_id": "FH-4834",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "FH-4391",
+    "target_id": "FH-4835",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "FH-4391",
+    "target_id": "FH-4836",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "FH-4391",
+    "target_id": "FH-4837",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "FH-4391",
+    "target_id": "FH-4838",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "FH-4391",
+    "target_id": "FH-4839",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "FH-4391",
+    "target_id": "FH-4840",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "FH-4500",
+    "target_id": "FH-4501",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-4500",
+    "target_id": "FH-4502",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-4500",
+    "target_id": "FH-4503",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-4500",
+    "target_id": "FH-4504",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-4500",
+    "target_id": "FH-4505",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-4500",
+    "target_id": "FH-4506",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-4500",
+    "target_id": "FH-4507",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-4500",
+    "target_id": "FH-4799",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-4741",
+    "target_id": "FH-4742",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-4741",
+    "target_id": "FH-4743",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-4878",
+    "target_id": "FH-4879",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-4878",
+    "target_id": "FH-4880",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-4878",
+    "target_id": "FH-4881",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-4878",
+    "target_id": "FH-4882",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-4878",
+    "target_id": "FH-4883",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-4878",
+    "target_id": "FH-4884",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-4915",
+    "target_id": "FH-4916",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-4915",
+    "target_id": "FH-4917",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-4915",
+    "target_id": "FH-4918",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-4950",
+    "target_id": "FH-4951",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-4950",
+    "target_id": "FH-4952",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-4950",
+    "target_id": "FH-4953",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "FH-4972",
+    "target_id": "FH-4973",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  }
+]

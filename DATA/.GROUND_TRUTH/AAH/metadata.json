@@ -1,0 +1,88 @@
+{
+  "project": "AAH",
+  "timestamp": "2026-06-05T10:45:42.519319",
+  "version": "v3_text_clean",
+  "filter_strategy": "both_empty",
+  "num_raw_issues": 803,
+  "num_loaded_issues": 803,
+  "num_malformed_issues_skipped": 0,
+  "num_known_type_issues": 803,
+  "num_text_filtered_known_type_issues": 19,
+  "text_filtered_issue_ids": [
+    "AAH-1388",
+    "AAH-238",
+    "AAH-262",
+    "AAH-304",
+    "AAH-314",
+    "AAH-349",
+    "AAH-350",
+    "AAH-373",
+    "AAH-374",
+    "AAH-564",
+    "AAH-594",
+    "AAH-595",
+    "AAH-598",
+    "AAH-605",
+    "AAH-606",
+    "AAH-608",
+    "AAH-609",
+    "AAH-729",
+    "AAH-78"
+  ],
+  "num_requirements": 360,
+  "num_raw_links": 533,
+  "num_trace_links": 313,
+  "num_train_links": 201,
+  "num_val_links": 26,
+  "num_test_links": 86,
+  "link_filter_stats": {
+    "missing_issue_links": 33,
+    "non_adjacent_links": 81,
+    "valid_links": 313,
+    "text_filtered_links": 106
+  },
+  "definition": "Direct adjacent-level hierarchical links only",
+  "included_links": [
+    "Epic -> Standard (refinement)",
+    "Standard -> Sub-task (subtask)"
+  ],
+  "excluded_links": [
+    "Epic -> Sub-task transitive links",
+    "Same-level links",
+    "Links with unknown issue types",
+    "Links touching text-filtered requirements"
+  ],
+  "split_strategy": "Source-level stratified by dominant ltype",
+  "split_ratios": {
+    "train": 0.7,
+    "val": 0.1,
+    "test": 0.2
+  },
+  "class_distribution": {
+    "overall": {
+      "refinement": 280,
+      "subtask": 33,
+      "refinement_pct": 89.45686900958466,
+      "subtask_pct": 10.543130990415335
+    },
+    "train": {
+      "refinement": 181,
+      "subtask": 20,
+      "refinement_pct": 90.04975124378109,
+      "subtask_pct": 9.950248756218905
+    },
+    "val": {
+      "refinement": 22,
+      "subtask": 4,
+      "refinement_pct": 84.61538461538461,
+      "subtask_pct": 15.384615384615385
+    },
+    "test": {
+      "refinement": 77,
+      "subtask": 9,
+      "refinement_pct": 89.53488372093024,
+      "subtask_pct": 10.465116279069768
+    }
+  },
+  "random_seed": 42
+}

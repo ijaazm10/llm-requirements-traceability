@@ -1,0 +1,5342 @@
+[
+  {
+    "source_id": "PROJQUAY-1032",
+    "target_id": "PROJQUAY-1417",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1032",
+    "target_id": "PROJQUAY-447",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1032",
+    "target_id": "PROJQUAY-1491",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1032",
+    "target_id": "PROJQUAY-323",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1032",
+    "target_id": "PROJQUAY-1552",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1032",
+    "target_id": "PROJQUAY-1494",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1032",
+    "target_id": "PROJQUAY-3030",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1032",
+    "target_id": "PROJQUAY-925",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1050",
+    "target_id": "PROJQUAY-1051",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1050",
+    "target_id": "PROJQUAY-1723",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1050",
+    "target_id": "PROJQUAY-3216",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1050",
+    "target_id": "PROJQUAY-869",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1050",
+    "target_id": "PROJQUAY-1052",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1050",
+    "target_id": "PROJQUAY-205",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1050",
+    "target_id": "PROJQUAY-1469",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1050",
+    "target_id": "PROJQUAY-258",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1050",
+    "target_id": "PROJQUAY-1053",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1050",
+    "target_id": "PROJQUAY-291",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1050",
+    "target_id": "PROJQUAY-2286",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1050",
+    "target_id": "PROJQUAY-1767",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1050",
+    "target_id": "PROJQUAY-1054",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1050",
+    "target_id": "PROJQUAY-1470",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1050",
+    "target_id": "PROJQUAY-1534",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1050",
+    "target_id": "PROJQUAY-335",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-254",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-1492",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-1491",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-1493",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-305",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-1448",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-1494",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-1475",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-313",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-1908",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-3030",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-1533",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-323",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-3216",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-954",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-869",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-324",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-258",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-1767",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-321",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-70",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-1496",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-131",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-1535",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-783",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-1723",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-3029",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-2719",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1473",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-853",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1723",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-3216",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1474",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1533",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-2046",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-258",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1475",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-2877",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-901",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-869",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1476",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1451",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1767",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-273",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1477",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-925",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-909",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1479",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1478",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1610",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-131",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-3259",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1644",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-3054",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-832",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-335",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1645",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1449",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1492",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-828",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1926",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-831",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1949",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1491",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1928",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1908",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-952",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-323",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1929",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1886",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1484",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-3030",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1932",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-3056",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1485",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-3051",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-2248",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-334",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1090",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-830",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-1532",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-1448",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-3216",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-1886",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-1533",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-131",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-81",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2719",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-1534",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-332",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-869",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-1610",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-1899",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-870",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-505",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-321",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-1914",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2100",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-853",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-273",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2019",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2286",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-1484",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-1723",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2083",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-1449",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-327",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2087",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2084",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-335",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-3007",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-739",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2085",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-1473",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-531",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-258",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2086",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-3056",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-952",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2046",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2371",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-323",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-1908",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2094",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2372",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-109",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-334",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-865",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2373",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-504",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-338",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-1645",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2374",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-3259",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-1949",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-1608",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2375",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-314",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2093",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-507",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2376",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-1485",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-967",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-1477",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2377",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-101",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2877",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-1669",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2378",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-909",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-1536",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-3030",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2379",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2503",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-3055",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-1295",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2380",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-832",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-661",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-901",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2381",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-908",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-500",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-1767",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2382",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-1065",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-1353",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-100",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2383",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-966",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-829",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-1195",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2707",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2530",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2502",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2718",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1533",
+    "target_id": "PROJQUAY-1611",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1533",
+    "target_id": "PROJQUAY-339",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1533",
+    "target_id": "PROJQUAY-937",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1533",
+    "target_id": "PROJQUAY-932",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1644",
+    "target_id": "PROJQUAY-2826",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1644",
+    "target_id": "PROJQUAY-2831",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1644",
+    "target_id": "PROJQUAY-932",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1644",
+    "target_id": "PROJQUAY-2832",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1644",
+    "target_id": "PROJQUAY-2827",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1644",
+    "target_id": "PROJQUAY-937",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1644",
+    "target_id": "PROJQUAY-339",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1644",
+    "target_id": "PROJQUAY-1611",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1644",
+    "target_id": "PROJQUAY-2828",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1644",
+    "target_id": "PROJQUAY-1902",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1644",
+    "target_id": "PROJQUAY-2831",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1644",
+    "target_id": "PROJQUAY-932",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1644",
+    "target_id": "PROJQUAY-2829",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1644",
+    "target_id": "PROJQUAY-2831",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1644",
+    "target_id": "PROJQUAY-932",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1644",
+    "target_id": "PROJQUAY-2832",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1644",
+    "target_id": "PROJQUAY-2830",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1644",
+    "target_id": "PROJQUAY-2831",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1644",
+    "target_id": "PROJQUAY-932",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1644",
+    "target_id": "PROJQUAY-2832",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1724",
+    "target_id": "PROJQUAY-1618",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1724",
+    "target_id": "PROJQUAY-2528",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1724",
+    "target_id": "PROJQUAY-332",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1724",
+    "target_id": "PROJQUAY-308",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1724",
+    "target_id": "PROJQUAY-1846",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1724",
+    "target_id": "PROJQUAY-338",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1724",
+    "target_id": "PROJQUAY-1452",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1724",
+    "target_id": "PROJQUAY-81",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1724",
+    "target_id": "PROJQUAY-1847",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1724",
+    "target_id": "PROJQUAY-1448",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1724",
+    "target_id": "PROJQUAY-314",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1724",
+    "target_id": "PROJQUAY-966",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1724",
+    "target_id": "PROJQUAY-1848",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1724",
+    "target_id": "PROJQUAY-3216",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1724",
+    "target_id": "PROJQUAY-2503",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1724",
+    "target_id": "PROJQUAY-1038",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1724",
+    "target_id": "PROJQUAY-2177",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1724",
+    "target_id": "PROJQUAY-1046",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1724",
+    "target_id": "PROJQUAY-2085",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1724",
+    "target_id": "PROJQUAY-1608",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-1247",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-2046",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-1449",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-273",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-1450",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-1485",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-3216",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-869",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-1451",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-1533",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-505",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-1723",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-1479",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-1609",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-909",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-1886",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-1610",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-1484",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-334",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-2877",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-1827",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-1448",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-870",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-3056",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-924",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-258",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-2286",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-2530",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-925",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-853",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-2100",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-335",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1898",
+    "target_id": "PROJQUAY-1902",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1898",
+    "target_id": "PROJQUAY-932",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1898",
+    "target_id": "PROJQUAY-339",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1898",
+    "target_id": "PROJQUAY-1611",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1908",
+    "target_id": "PROJQUAY-2831",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1908",
+    "target_id": "PROJQUAY-937",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1908",
+    "target_id": "PROJQUAY-339",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1908",
+    "target_id": "PROJQUAY-932",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1908",
+    "target_id": "PROJQUAY-2832",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1908",
+    "target_id": "PROJQUAY-1611",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1908",
+    "target_id": "PROJQUAY-2830",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1908",
+    "target_id": "PROJQUAY-2827",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1934",
+    "target_id": "PROJQUAY-1917",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-1934",
+    "target_id": "PROJQUAY-2093",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1934",
+    "target_id": "PROJQUAY-3216",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-1934",
+    "target_id": "PROJQUAY-3007",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-207",
+    "target_id": "PROJQUAY-2093",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-207",
+    "target_id": "PROJQUAY-869",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-207",
+    "target_id": "PROJQUAY-258",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-207",
+    "target_id": "PROJQUAY-3216",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-207",
+    "target_id": "PROJQUAY-2094",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-207",
+    "target_id": "PROJQUAY-321",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-207",
+    "target_id": "PROJQUAY-2286",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-207",
+    "target_id": "PROJQUAY-1051",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-207",
+    "target_id": "PROJQUAY-2207",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-207",
+    "target_id": "PROJQUAY-323",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-207",
+    "target_id": "PROJQUAY-1533",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-207",
+    "target_id": "PROJQUAY-335",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-207",
+    "target_id": "PROJQUAY-229",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-207",
+    "target_id": "PROJQUAY-205",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-207",
+    "target_id": "PROJQUAY-1477",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-207",
+    "target_id": "PROJQUAY-131",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-207",
+    "target_id": "PROJQUAY-230",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-207",
+    "target_id": "PROJQUAY-1195",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-207",
+    "target_id": "PROJQUAY-3030",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-207",
+    "target_id": "PROJQUAY-3007",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-207",
+    "target_id": "PROJQUAY-231",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-207",
+    "target_id": "PROJQUAY-327",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-207",
+    "target_id": "PROJQUAY-273",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-207",
+    "target_id": "PROJQUAY-1469",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2110",
+    "target_id": "PROJQUAY-1696",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2110",
+    "target_id": "PROJQUAY-1608",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2110",
+    "target_id": "PROJQUAY-1610",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2110",
+    "target_id": "PROJQUAY-3055",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2110",
+    "target_id": "PROJQUAY-2363",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2110",
+    "target_id": "PROJQUAY-332",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2110",
+    "target_id": "PROJQUAY-1767",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2110",
+    "target_id": "PROJQUAY-1723",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2110",
+    "target_id": "PROJQUAY-2502",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2110",
+    "target_id": "PROJQUAY-2046",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2110",
+    "target_id": "PROJQUAY-334",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2110",
+    "target_id": "PROJQUAY-3216",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2110",
+    "target_id": "PROJQUAY-2503",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2110",
+    "target_id": "PROJQUAY-3056",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2110",
+    "target_id": "PROJQUAY-338",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2110",
+    "target_id": "PROJQUAY-909",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2110",
+    "target_id": "PROJQUAY-3254",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2110",
+    "target_id": "PROJQUAY-1484",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2110",
+    "target_id": "PROJQUAY-273",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2110",
+    "target_id": "PROJQUAY-870",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-1949",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-1473",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-335",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-1723",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-3005",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-869",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-832",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-1932",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-3079",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-273",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-853",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-1477",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-3086",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-323",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-2172",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-870",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-3149",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-1767",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-258",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-1908",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-3216",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-334",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-2046",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-1247",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-3261",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-1533",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-1475",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-831",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-226",
+    "target_id": "PROJQUAY-512",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-226",
+    "target_id": "PROJQUAY-262",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-226",
+    "target_id": "PROJQUAY-127",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-226",
+    "target_id": "PROJQUAY-205",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-1950",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-3216",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-335",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-3007",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2074",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-1886",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2286",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-869",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2075",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-327",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-1477",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-1470",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2096",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2100",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-336",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-3225",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2172",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-334",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-1195",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-330",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2217",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-81",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-323",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-1533",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2231",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-328",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-447",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2084",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2294",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-1469",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-1448",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-131",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2295",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-1723",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-231",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-258",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2296",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-1485",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-908",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-332",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2297",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-273",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-1484",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2083",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2349",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-3221",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-832",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-870",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2423",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-321",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-1908",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-1449",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2463",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-1247",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2719",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-3053",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2464",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-3056",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2094",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-1536",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2465",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-1491",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-865",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-109",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2481",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-331",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-505",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-1468",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2523",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-1482",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-3051",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2377",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2526",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2380",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-205",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-1949",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2527",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-1610",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-504",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-3319",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2528",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-1295",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-1240",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-1767",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2529",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2373",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-830",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2093",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2530",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-853",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-1492",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2046",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2567",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-3055",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-954",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-445",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2597",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-661",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-316",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-831",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-205",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-273",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-1195",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-1886",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-243",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-3216",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-231",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-2286",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-330",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-2100",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-869",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-1247",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-331",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-3007",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-1448",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-1295",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-332",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-3319",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-323",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-321",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-334",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-908",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-2172",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-967",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-335",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-661",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-3225",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-1723",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-336",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-1533",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-870",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-327",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-348",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-1477",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-2083",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-832",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-349",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-1669",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-504",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-3221",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-375",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-2084",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-3259",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-316",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-440",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-3053",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-1536",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-1240",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2504",
+    "target_id": "PROJQUAY-1723",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2504",
+    "target_id": "PROJQUAY-2046",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2504",
+    "target_id": "PROJQUAY-1533",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2504",
+    "target_id": "PROJQUAY-1886",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2504",
+    "target_id": "PROJQUAY-3055",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2504",
+    "target_id": "PROJQUAY-1767",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2504",
+    "target_id": "PROJQUAY-1449",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2504",
+    "target_id": "PROJQUAY-869",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2504",
+    "target_id": "PROJQUAY-3056",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-2504",
+    "target_id": "PROJQUAY-258",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2504",
+    "target_id": "PROJQUAY-925",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-2504",
+    "target_id": "PROJQUAY-3216",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-253",
+    "target_id": "PROJQUAY-285",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-253",
+    "target_id": "PROJQUAY-3063",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-253",
+    "target_id": "PROJQUAY-1484",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-253",
+    "target_id": "PROJQUAY-1090",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-272",
+    "target_id": "PROJQUAY-131",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-272",
+    "target_id": "PROJQUAY-1533",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-272",
+    "target_id": "PROJQUAY-3030",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-272",
+    "target_id": "PROJQUAY-3216",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-280",
+    "target_id": "PROJQUAY-1481",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-280",
+    "target_id": "PROJQUAY-2231",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-280",
+    "target_id": "PROJQUAY-1485",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-280",
+    "target_id": "PROJQUAY-1484",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-280",
+    "target_id": "PROJQUAY-1482",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-280",
+    "target_id": "PROJQUAY-3216",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-280",
+    "target_id": "PROJQUAY-335",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-280",
+    "target_id": "PROJQUAY-1723",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-280",
+    "target_id": "PROJQUAY-1483",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-280",
+    "target_id": "PROJQUAY-258",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-280",
+    "target_id": "PROJQUAY-1469",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-280",
+    "target_id": "PROJQUAY-285",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-280",
+    "target_id": "PROJQUAY-1679",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-280",
+    "target_id": "PROJQUAY-1353",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-280",
+    "target_id": "PROJQUAY-925",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-280",
+    "target_id": "PROJQUAY-869",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-287",
+    "target_id": "PROJQUAY-352",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-287",
+    "target_id": "PROJQUAY-258",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-287",
+    "target_id": "PROJQUAY-869",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-287",
+    "target_id": "PROJQUAY-447",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-288",
+    "target_id": "PROJQUAY-1484",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-288",
+    "target_id": "PROJQUAY-1483",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-288",
+    "target_id": "PROJQUAY-1481",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-288",
+    "target_id": "PROJQUAY-1482",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-288",
+    "target_id": "PROJQUAY-1485",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-288",
+    "target_id": "PROJQUAY-2530",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-288",
+    "target_id": "PROJQUAY-2046",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-288",
+    "target_id": "PROJQUAY-3216",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-288",
+    "target_id": "PROJQUAY-1674",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-288",
+    "target_id": "PROJQUAY-1609",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-288",
+    "target_id": "PROJQUAY-1449",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-288",
+    "target_id": "PROJQUAY-2231",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-288",
+    "target_id": "PROJQUAY-217",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-288",
+    "target_id": "PROJQUAY-1353",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-288",
+    "target_id": "PROJQUAY-2286",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-288",
+    "target_id": "PROJQUAY-869",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-288",
+    "target_id": "PROJQUAY-291",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-288",
+    "target_id": "PROJQUAY-1723",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-288",
+    "target_id": "PROJQUAY-1610",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-288",
+    "target_id": "PROJQUAY-285",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-290",
+    "target_id": "PROJQUAY-113",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-290",
+    "target_id": "PROJQUAY-1485",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-290",
+    "target_id": "PROJQUAY-3216",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-290",
+    "target_id": "PROJQUAY-1723",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-294",
+    "target_id": "PROJQUAY-315",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-294",
+    "target_id": "PROJQUAY-273",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-294",
+    "target_id": "PROJQUAY-1449",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-294",
+    "target_id": "PROJQUAY-1485",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-294",
+    "target_id": "PROJQUAY-316",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-294",
+    "target_id": "PROJQUAY-869",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-294",
+    "target_id": "PROJQUAY-3216",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-294",
+    "target_id": "PROJQUAY-2046",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-294",
+    "target_id": "PROJQUAY-317",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-294",
+    "target_id": "PROJQUAY-925",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-294",
+    "target_id": "PROJQUAY-2286",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-294",
+    "target_id": "PROJQUAY-335",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-295",
+    "target_id": "PROJQUAY-3050",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-295",
+    "target_id": "PROJQUAY-1533",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-295",
+    "target_id": "PROJQUAY-2877",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-295",
+    "target_id": "PROJQUAY-131",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-295",
+    "target_id": "PROJQUAY-3051",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-295",
+    "target_id": "PROJQUAY-3216",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-295",
+    "target_id": "PROJQUAY-1723",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-295",
+    "target_id": "PROJQUAY-2084",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-295",
+    "target_id": "PROJQUAY-3052",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-295",
+    "target_id": "PROJQUAY-440",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-295",
+    "target_id": "PROJQUAY-3223",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-295",
+    "target_id": "PROJQUAY-2083",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-295",
+    "target_id": "PROJQUAY-3053",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-295",
+    "target_id": "PROJQUAY-1449",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-295",
+    "target_id": "PROJQUAY-1295",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-295",
+    "target_id": "PROJQUAY-273",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-295",
+    "target_id": "PROJQUAY-3259",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-295",
+    "target_id": "PROJQUAY-952",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-295",
+    "target_id": "PROJQUAY-1908",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-295",
+    "target_id": "PROJQUAY-869",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-295",
+    "target_id": "PROJQUAY-3278",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-295",
+    "target_id": "PROJQUAY-508",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-295",
+    "target_id": "PROJQUAY-258",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-295",
+    "target_id": "PROJQUAY-323",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-302",
+    "target_id": "PROJQUAY-2936",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-302",
+    "target_id": "PROJQUAY-3063",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-302",
+    "target_id": "PROJQUAY-1090",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-302",
+    "target_id": "PROJQUAY-1484",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-302",
+    "target_id": "PROJQUAY-2937",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-302",
+    "target_id": "PROJQUAY-3029",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-302",
+    "target_id": "PROJQUAY-2877",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-302",
+    "target_id": "PROJQUAY-285",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-302",
+    "target_id": "PROJQUAY-2938",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-302",
+    "target_id": "PROJQUAY-1449",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-302",
+    "target_id": "PROJQUAY-924",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-302",
+    "target_id": "PROJQUAY-869",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-3163",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-2527",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-2526",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-2423",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-3201",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-1448",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-2177",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-1669",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-3221",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-375",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-531",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-1950",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-3222",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-1674",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-1848",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-967",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-3223",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-1195",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-966",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-330",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-3224",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-2257",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-1679",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-205",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-3225",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-1847",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-243",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-2134",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-3226",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-331",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-2096",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-101",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-3227",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-2089",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-1618",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-2349",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-3229",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-183",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-2719",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-2296",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-3230",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-1552",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-99",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-108",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-3319",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-1644",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-2368",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-1846",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-322",
+    "target_id": "PROJQUAY-258",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-322",
+    "target_id": "PROJQUAY-1475",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-322",
+    "target_id": "PROJQUAY-1908",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-322",
+    "target_id": "PROJQUAY-1491",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-446",
+    "target_id": "PROJQUAY-475",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-446",
+    "target_id": "PROJQUAY-323",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-446",
+    "target_id": "PROJQUAY-1295",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-446",
+    "target_id": "PROJQUAY-3216",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-446",
+    "target_id": "PROJQUAY-476",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-446",
+    "target_id": "PROJQUAY-447",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-446",
+    "target_id": "PROJQUAY-1470",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-446",
+    "target_id": "PROJQUAY-3030",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-446",
+    "target_id": "PROJQUAY-477",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-446",
+    "target_id": "PROJQUAY-1491",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-446",
+    "target_id": "PROJQUAY-1469",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-446",
+    "target_id": "PROJQUAY-832",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-446",
+    "target_id": "PROJQUAY-478",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-446",
+    "target_id": "PROJQUAY-869",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-446",
+    "target_id": "PROJQUAY-1533",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-446",
+    "target_id": "PROJQUAY-327",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-465",
+    "target_id": "PROJQUAY-3029",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-465",
+    "target_id": "PROJQUAY-1491",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-465",
+    "target_id": "PROJQUAY-1767",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-465",
+    "target_id": "PROJQUAY-323",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-465",
+    "target_id": "PROJQUAY-3030",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-465",
+    "target_id": "PROJQUAY-1492",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-465",
+    "target_id": "PROJQUAY-258",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-465",
+    "target_id": "PROJQUAY-3222",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-465",
+    "target_id": "PROJQUAY-3033",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-465",
+    "target_id": "PROJQUAY-1484",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-465",
+    "target_id": "PROJQUAY-869",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-465",
+    "target_id": "PROJQUAY-2083",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-465",
+    "target_id": "PROJQUAY-3034",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-465",
+    "target_id": "PROJQUAY-1494",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-465",
+    "target_id": "PROJQUAY-3216",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-465",
+    "target_id": "PROJQUAY-1533",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-465",
+    "target_id": "PROJQUAY-3063",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-465",
+    "target_id": "PROJQUAY-328",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-465",
+    "target_id": "PROJQUAY-2084",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-465",
+    "target_id": "PROJQUAY-327",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-465",
+    "target_id": "PROJQUAY-3302",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-465",
+    "target_id": "PROJQUAY-254",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-465",
+    "target_id": "PROJQUAY-1470",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-465",
+    "target_id": "PROJQUAY-1723",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-517",
+    "target_id": "PROJQUAY-518",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-517",
+    "target_id": "PROJQUAY-1914",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-517",
+    "target_id": "PROJQUAY-1899",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-517",
+    "target_id": "PROJQUAY-254",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-517",
+    "target_id": "PROJQUAY-519",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-517",
+    "target_id": "PROJQUAY-3033",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-517",
+    "target_id": "PROJQUAY-3030",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-517",
+    "target_id": "PROJQUAY-901",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-517",
+    "target_id": "PROJQUAY-520",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-517",
+    "target_id": "PROJQUAY-3034",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-517",
+    "target_id": "PROJQUAY-314",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-517",
+    "target_id": "PROJQUAY-3302",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-517",
+    "target_id": "PROJQUAY-521",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-517",
+    "target_id": "PROJQUAY-1492",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-517",
+    "target_id": "PROJQUAY-447",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-517",
+    "target_id": "PROJQUAY-1878",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-517",
+    "target_id": "PROJQUAY-522",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-517",
+    "target_id": "PROJQUAY-500",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-517",
+    "target_id": "PROJQUAY-507",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-517",
+    "target_id": "PROJQUAY-1365",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-530",
+    "target_id": "PROJQUAY-531",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-530",
+    "target_id": "PROJQUAY-2089",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-530",
+    "target_id": "PROJQUAY-1618",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-530",
+    "target_id": "PROJQUAY-131",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-116",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-2084",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-2373",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-2083",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1168",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-2371",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1886",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-2100",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1169",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-2372",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-3216",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-131",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1171",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1533",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-3259",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-2719",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-123",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-101",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-2286",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-321",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-127",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-3319",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1448",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1932",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-128",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-2085",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-507",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-531",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1295",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-100",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1908",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-2718",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-134",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-327",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-3051",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-869",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-135",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1949",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-505",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-258",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-137",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-338",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1484",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-334",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1397",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1645",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1536",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-2423",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-143",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1723",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-3278",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-332",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-164",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1473",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-273",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-323",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-169",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-331",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1038",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1046",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-183",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-901",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1475",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-314",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-262",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-909",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-3007",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-328",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-274",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1552",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-2046",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1846",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-41",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1491",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-330",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-2086",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-554",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-109",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1644",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1449",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-555",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-3030",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-2019",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1195",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-556",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1353",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-870",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-81",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-702",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-2503",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-3053",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-783",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-703",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1610",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-3201",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-925",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-704",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-379",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-335",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-500",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-739",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-504",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-2527",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-2377",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-740",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-3056",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1669",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1485",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-744",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-348",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-830",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1477",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-746",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-3055",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-2877",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1917",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-747",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-2374",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1492",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1470",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-771",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1474",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1047",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-952",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-806",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-102",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-967",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-111",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-817",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1608",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-3034",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1052",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-834",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-440",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-853",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1417",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-835",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-2481",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1847",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-447",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-85",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1569",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-545",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-315",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-96",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-113",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1090",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-2087",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-98",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-224",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1848",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1037",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-69",
+    "target_id": "PROJQUAY-1491",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-69",
+    "target_id": "PROJQUAY-1475",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-69",
+    "target_id": "PROJQUAY-1908",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-69",
+    "target_id": "PROJQUAY-323",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-69",
+    "target_id": "PROJQUAY-1492",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-69",
+    "target_id": "PROJQUAY-1723",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-69",
+    "target_id": "PROJQUAY-258",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-69",
+    "target_id": "PROJQUAY-3216",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-69",
+    "target_id": "PROJQUAY-1493",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-69",
+    "target_id": "PROJQUAY-3030",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-69",
+    "target_id": "PROJQUAY-1533",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-69",
+    "target_id": "PROJQUAY-305",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-69",
+    "target_id": "PROJQUAY-1494",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-69",
+    "target_id": "PROJQUAY-254",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-69",
+    "target_id": "PROJQUAY-313",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-69",
+    "target_id": "PROJQUAY-901",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-69",
+    "target_id": "PROJQUAY-1496",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-69",
+    "target_id": "PROJQUAY-1473",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-69",
+    "target_id": "PROJQUAY-1767",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-69",
+    "target_id": "PROJQUAY-324",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-76",
+    "target_id": "PROJQUAY-130",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-76",
+    "target_id": "PROJQUAY-1484",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-76",
+    "target_id": "PROJQUAY-314",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-76",
+    "target_id": "PROJQUAY-332",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-76",
+    "target_id": "PROJQUAY-309",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-76",
+    "target_id": "PROJQUAY-1485",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-76",
+    "target_id": "PROJQUAY-338",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-76",
+    "target_id": "PROJQUAY-81",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-76",
+    "target_id": "PROJQUAY-754",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-76",
+    "target_id": "PROJQUAY-3216",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-76",
+    "target_id": "PROJQUAY-2503",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-76",
+    "target_id": "PROJQUAY-1610",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-76",
+    "target_id": "PROJQUAY-755",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-76",
+    "target_id": "PROJQUAY-1608",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-76",
+    "target_id": "PROJQUAY-1452",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-76",
+    "target_id": "PROJQUAY-1046",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-76",
+    "target_id": "PROJQUAY-83",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-76",
+    "target_id": "PROJQUAY-2530",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-76",
+    "target_id": "PROJQUAY-217",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-76",
+    "target_id": "PROJQUAY-1483",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-76",
+    "target_id": "PROJQUAY-94",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-76",
+    "target_id": "PROJQUAY-2046",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-76",
+    "target_id": "PROJQUAY-447",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-76",
+    "target_id": "PROJQUAY-2286",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-273",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-334",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-316",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-335",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-318",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-909",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-2172",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-1767",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-319",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-3216",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-869",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-317",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-321",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-1247",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-832",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-1723",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-327",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-2046",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-1485",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-853",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-328",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-870",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-1449",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-831",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-445",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-1477",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-828",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-2237",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-661",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-1886",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-3055",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-2529",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-78",
+    "target_id": "PROJQUAY-65",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-78",
+    "target_id": "PROJQUAY-1608",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-78",
+    "target_id": "PROJQUAY-2503",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-78",
+    "target_id": "PROJQUAY-332",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-1065",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-853",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-1473",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-1723",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-1143",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-3216",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-869",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-335",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-1221",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-1449",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-1451",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-909",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-1231",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-273",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-2046",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-2172",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-828",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-1767",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-1477",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-870",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-829",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-1533",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-925",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-1247",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-830",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-1610",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-1485",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-3054",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-831",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-318",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-1932",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-2877",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-832",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-258",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-1609",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-317",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-865",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-334",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-505",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-1479",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-886",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-2237",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-2529",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-445",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-908",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-3056",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-882",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-504",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-952",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-1827",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-3051",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-1295",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-954",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-221",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-328",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-323",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-851",
+    "target_id": "PROJQUAY-759",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-851",
+    "target_id": "PROJQUAY-2739",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-851",
+    "target_id": "PROJQUAY-2877",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-851",
+    "target_id": "PROJQUAY-1353",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-851",
+    "target_id": "PROJQUAY-761",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-851",
+    "target_id": "PROJQUAY-1484",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-851",
+    "target_id": "PROJQUAY-1449",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-851",
+    "target_id": "PROJQUAY-952",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-851",
+    "target_id": "PROJQUAY-775",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-851",
+    "target_id": "PROJQUAY-1533",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-851",
+    "target_id": "PROJQUAY-1169",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-851",
+    "target_id": "PROJQUAY-1365",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-943",
+    "target_id": "PROJQUAY-2104",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-943",
+    "target_id": "PROJQUAY-1533",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-943",
+    "target_id": "PROJQUAY-3030",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-943",
+    "target_id": "PROJQUAY-3216",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-943",
+    "target_id": "PROJQUAY-3007",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-943",
+    "target_id": "PROJQUAY-2083",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-943",
+    "target_id": "PROJQUAY-273",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-943",
+    "target_id": "PROJQUAY-1449",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-943",
+    "target_id": "PROJQUAY-379",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-943",
+    "target_id": "PROJQUAY-901",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-943",
+    "target_id": "PROJQUAY-1484",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-943",
+    "target_id": "PROJQUAY-909",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-943",
+    "target_id": "PROJQUAY-447",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-943",
+    "target_id": "PROJQUAY-869",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-943",
+    "target_id": "PROJQUAY-1492",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-943",
+    "target_id": "PROJQUAY-3029",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-968",
+    "target_id": "PROJQUAY-966",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-968",
+    "target_id": "PROJQUAY-1448",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-968",
+    "target_id": "PROJQUAY-2286",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-968",
+    "target_id": "PROJQUAY-3007",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-968",
+    "target_id": "PROJQUAY-967",
+    "label": 1
+  },
+  {
+    "source_id": "PROJQUAY-968",
+    "target_id": "PROJQUAY-335",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-968",
+    "target_id": "PROJQUAY-1247",
+    "label": 0
+  },
+  {
+    "source_id": "PROJQUAY-968",
+    "target_id": "PROJQUAY-231",
+    "label": 0
+  }
+]

@@ -1,0 +1,590 @@
+{
+  "timestamp": "2026-06-06 06:02:43",
+  "config_id": "RAG_B",
+  "label": "RAG-B Qwen3 2+2",
+  "model": "unsloth/gemma-4-31B-it",
+  "config": {
+    "id": "RAG_B",
+    "label": "RAG-B Qwen3 2+2",
+    "retriever": "qwen3",
+    "k_pos": 2,
+    "k_neg": 2,
+    "desc": "Dense (Qwen3), balanced contrastive."
+  },
+  "rrf_k": null,
+  "n_projects_evaluated": 8,
+  "macro_clean": {
+    "precision": 0.6206,
+    "recall": 0.8428,
+    "f1": 0.7117,
+    "f2": 0.7837,
+    "accuracy": 0.8263
+  },
+  "macro_conservative": {
+    "precision": 0.6206,
+    "recall": 0.7717,
+    "f1": 0.6802,
+    "f2": 0.7297,
+    "accuracy": 0.8144
+  },
+  "deployment_rollup": {
+    "avg_time_per_pair_ms": 2066.562,
+    "avg_vram_at_load_gb": 18.22,
+    "avg_vram_peak_inference_gb": 20.214,
+    "avg_vram_growth_gb": 1.994,
+    "avg_input_tokens_per_pair": 1256.037,
+    "avg_gen_tokens_per_pair": 12.575,
+    "avg_tokens_per_second_generated": 6.138,
+    "macro_truncation_rate_pct": 7.3,
+    "macro_format_failure_rate_pct": 7.193,
+    "avg_retrieval_total_ms": 2.95,
+    "avg_dense_search_ms": 2.844,
+    "avg_bm25_search_ms": 0.0,
+    "avg_generation_ms": 2052.501,
+    "total_dense_index_size_mb": 296.37,
+    "total_bm25_index_size_mb_estimate": 0.0,
+    "total_dense_index_build_seconds": 2295.56,
+    "total_bm25_index_build_seconds": 0.0,
+    "total_test_query_embed_seconds": 496.76
+  },
+  "total_failed_parses": 1022,
+  "total_pairs": 10668,
+  "per_project": [
+    {
+      "config_id": "RAG_B",
+      "project": "AAH",
+      "n_pairs": 344,
+      "n_pos": 86,
+      "n_neg": 258,
+      "failed_parses": 2,
+      "metrics_clean": {
+        "precision": 0.6262,
+        "recall": 0.7791,
+        "f1": 0.6943,
+        "f2": 0.7428,
+        "accuracy": 0.8275,
+        "tp": 67,
+        "fp": 40,
+        "fn": 19,
+        "tn": 216
+      },
+      "metrics_conservative": {
+        "precision": 0.6262,
+        "recall": 0.7791,
+        "f1": 0.6943,
+        "f2": 0.7428,
+        "accuracy": 0.8285,
+        "tp": 67,
+        "fp": 40,
+        "fn": 19,
+        "tn": 218
+      },
+      "deployment": {
+        "from_cache": false,
+        "elapsed_seconds": 691.4,
+        "time_per_pair_ms": 2009.9,
+        "vram_at_load_gb": 18.22,
+        "vram_peak_inference_gb": 20.57,
+        "vram_growth_gb": 2.35,
+        "total_input_tokens": 485649,
+        "total_gen_tokens": 4144,
+        "avg_input_tokens": 1411.8,
+        "avg_gen_tokens": 12.0,
+        "tokens_per_second_generated": 6.0,
+        "truncated_pairs": 2,
+        "truncation_rate_pct": 0.58,
+        "format_failure_rate_pct": 0.58,
+        "latency_breakdown_ms": {
+          "avg_retrieval_total_ms": 0.75,
+          "avg_dense_search_ms": 0.669,
+          "avg_bm25_search_ms": 0.0,
+          "avg_prompt_build_ms": 10.22,
+          "avg_generation_ms": 1998.8
+        },
+        "test_query_embedding": {
+          "total_seconds": 11.67,
+          "avg_ms_per_query": 33.94
+        },
+        "index_stats": {
+          "dense": {
+            "from_cache": false,
+            "build_seconds": 28.94,
+            "size_mb": 8.7,
+            "n_documents": 804,
+            "embedding_dim": 2560
+          },
+          "bm25": null
+        }
+      }
+    },
+    {
+      "config_id": "RAG_B",
+      "project": "BEAM",
+      "n_pairs": 1256,
+      "n_pos": 314,
+      "n_neg": 942,
+      "failed_parses": 289,
+      "metrics_clean": {
+        "precision": 0.6667,
+        "recall": 0.8785,
+        "f1": 0.7581,
+        "f2": 0.826,
+        "accuracy": 0.8759,
+        "tp": 188,
+        "fp": 94,
+        "fn": 26,
+        "tn": 659
+      },
+      "metrics_conservative": {
+        "precision": 0.6667,
+        "recall": 0.5987,
+        "f1": 0.6309,
+        "f2": 0.6112,
+        "accuracy": 0.8248,
+        "tp": 188,
+        "fp": 94,
+        "fn": 126,
+        "tn": 848
+      },
+      "deployment": {
+        "from_cache": false,
+        "elapsed_seconds": 2985.3,
+        "time_per_pair_ms": 2376.8,
+        "vram_at_load_gb": 18.22,
+        "vram_peak_inference_gb": 20.17,
+        "vram_growth_gb": 1.95,
+        "total_input_tokens": 2224987,
+        "total_gen_tokens": 17402,
+        "avg_input_tokens": 1771.5,
+        "avg_gen_tokens": 13.9,
+        "tokens_per_second_generated": 5.9,
+        "truncated_pairs": 292,
+        "truncation_rate_pct": 23.25,
+        "format_failure_rate_pct": 23.01,
+        "latency_breakdown_ms": {
+          "avg_retrieval_total_ms": 2.11,
+          "avg_dense_search_ms": 2.007,
+          "avg_bm25_search_ms": 0.0,
+          "avg_prompt_build_ms": 15.4,
+          "avg_generation_ms": 2359.17
+        },
+        "test_query_embedding": {
+          "total_seconds": 135.51,
+          "avg_ms_per_query": 107.89
+        },
+        "index_stats": {
+          "dense": {
+            "from_cache": false,
+            "build_seconds": 1280.22,
+            "size_mb": 28.19,
+            "n_documents": 2528,
+            "embedding_dim": 2560
+          },
+          "bm25": null
+        }
+      }
+    },
+    {
+      "config_id": "RAG_B",
+      "project": "CB",
+      "n_pairs": 1680,
+      "n_pos": 420,
+      "n_neg": 1260,
+      "failed_parses": 14,
+      "metrics_clean": {
+        "precision": 0.7863,
+        "recall": 0.9928,
+        "f1": 0.8775,
+        "f2": 0.9432,
+        "accuracy": 0.931,
+        "tp": 412,
+        "fp": 112,
+        "fn": 3,
+        "tn": 1139
+      },
+      "metrics_conservative": {
+        "precision": 0.7863,
+        "recall": 0.981,
+        "f1": 0.8729,
+        "f2": 0.9347,
+        "accuracy": 0.9286,
+        "tp": 412,
+        "fp": 112,
+        "fn": 8,
+        "tn": 1148
+      },
+      "deployment": {
+        "from_cache": false,
+        "elapsed_seconds": 3151.3,
+        "time_per_pair_ms": 1875.8,
+        "vram_at_load_gb": 18.22,
+        "vram_peak_inference_gb": 20.17,
+        "vram_growth_gb": 1.95,
+        "total_input_tokens": 1092297,
+        "total_gen_tokens": 20272,
+        "avg_input_tokens": 650.2,
+        "avg_gen_tokens": 12.1,
+        "tokens_per_second_generated": 6.5,
+        "truncated_pairs": 14,
+        "truncation_rate_pct": 0.83,
+        "format_failure_rate_pct": 0.83,
+        "latency_breakdown_ms": {
+          "avg_retrieval_total_ms": 3.19,
+          "avg_dense_search_ms": 3.067,
+          "avg_bm25_search_ms": 0.0,
+          "avg_prompt_build_ms": 8.34,
+          "avg_generation_ms": 1864.11
+        },
+        "test_query_embedding": {
+          "total_seconds": 33.69,
+          "avg_ms_per_query": 20.05
+        },
+        "index_stats": {
+          "dense": {
+            "from_cache": false,
+            "build_seconds": 88.3,
+            "size_mb": 40.45,
+            "n_documents": 3936,
+            "embedding_dim": 2560
+          },
+          "bm25": null
+        }
+      }
+    },
+    {
+      "config_id": "RAG_B",
+      "project": "FH",
+      "n_pairs": 884,
+      "n_pos": 221,
+      "n_neg": 663,
+      "failed_parses": 0,
+      "metrics_clean": {
+        "precision": 0.4439,
+        "recall": 0.8235,
+        "f1": 0.5769,
+        "f2": 0.7032,
+        "accuracy": 0.698,
+        "tp": 182,
+        "fp": 228,
+        "fn": 39,
+        "tn": 435
+      },
+      "metrics_conservative": {
+        "precision": 0.4439,
+        "recall": 0.8235,
+        "f1": 0.5769,
+        "f2": 0.7032,
+        "accuracy": 0.698,
+        "tp": 182,
+        "fp": 228,
+        "fn": 39,
+        "tn": 435
+      },
+      "deployment": {
+        "from_cache": false,
+        "elapsed_seconds": 1712.7,
+        "time_per_pair_ms": 1937.4,
+        "vram_at_load_gb": 18.22,
+        "vram_peak_inference_gb": 20.12,
+        "vram_growth_gb": 1.9,
+        "total_input_tokens": 965436,
+        "total_gen_tokens": 10608,
+        "avg_input_tokens": 1092.1,
+        "avg_gen_tokens": 12.0,
+        "tokens_per_second_generated": 6.2,
+        "truncated_pairs": 0,
+        "truncation_rate_pct": 0.0,
+        "format_failure_rate_pct": 0.0,
+        "latency_breakdown_ms": {
+          "avg_retrieval_total_ms": 1.98,
+          "avg_dense_search_ms": 1.889,
+          "avg_bm25_search_ms": 0.0,
+          "avg_prompt_build_ms": 9.47,
+          "avg_generation_ms": 1925.83
+        },
+        "test_query_embedding": {
+          "total_seconds": 22.72,
+          "avg_ms_per_query": 25.71
+        },
+        "index_stats": {
+          "dense": {
+            "from_cache": false,
+            "build_seconds": 57.83,
+            "size_mb": 24.43,
+            "n_documents": 2344,
+            "embedding_dim": 2560
+          },
+          "bm25": null
+        }
+      }
+    },
+    {
+      "config_id": "RAG_B",
+      "project": "JBIDE",
+      "n_pairs": 2664,
+      "n_pos": 666,
+      "n_neg": 1998,
+      "failed_parses": 602,
+      "metrics_clean": {
+        "precision": 0.8253,
+        "recall": 0.9484,
+        "f1": 0.8826,
+        "f2": 0.921,
+        "accuracy": 0.9336,
+        "tp": 515,
+        "fp": 109,
+        "fn": 28,
+        "tn": 1410
+      },
+      "metrics_conservative": {
+        "precision": 0.8253,
+        "recall": 0.7733,
+        "f1": 0.7984,
+        "f2": 0.7832,
+        "accuracy": 0.9024,
+        "tp": 515,
+        "fp": 109,
+        "fn": 151,
+        "tn": 1889
+      },
+      "deployment": {
+        "from_cache": false,
+        "elapsed_seconds": 6296.5,
+        "time_per_pair_ms": 2363.5,
+        "vram_at_load_gb": 18.22,
+        "vram_peak_inference_gb": 20.17,
+        "vram_growth_gb": 1.95,
+        "total_input_tokens": 4622055,
+        "total_gen_tokens": 36807,
+        "avg_input_tokens": 1735.0,
+        "avg_gen_tokens": 13.8,
+        "tokens_per_second_generated": 5.9,
+        "truncated_pairs": 606,
+        "truncation_rate_pct": 22.75,
+        "format_failure_rate_pct": 22.6,
+        "latency_breakdown_ms": {
+          "avg_retrieval_total_ms": 7.09,
+          "avg_dense_search_ms": 6.954,
+          "avg_bm25_search_ms": 0.0,
+          "avg_prompt_build_ms": 13.62,
+          "avg_generation_ms": 2342.67
+        },
+        "test_query_embedding": {
+          "total_seconds": 159.75,
+          "avg_ms_per_query": 59.97
+        },
+        "index_stats": {
+          "dense": {
+            "from_cache": false,
+            "build_seconds": 475.71,
+            "size_mb": 89.1,
+            "n_documents": 7880,
+            "embedding_dim": 2560
+          },
+          "bm25": null
+        }
+      }
+    },
+    {
+      "config_id": "RAG_B",
+      "project": "KEYCLOAK",
+      "n_pairs": 1940,
+      "n_pos": 485,
+      "n_neg": 1455,
+      "failed_parses": 36,
+      "metrics_clean": {
+        "precision": 0.5149,
+        "recall": 0.7589,
+        "f1": 0.6136,
+        "f2": 0.6932,
+        "accuracy": 0.7605,
+        "tp": 362,
+        "fp": 341,
+        "fn": 115,
+        "tn": 1086
+      },
+      "metrics_conservative": {
+        "precision": 0.5149,
+        "recall": 0.7464,
+        "f1": 0.6094,
+        "f2": 0.6848,
+        "accuracy": 0.7608,
+        "tp": 362,
+        "fp": 341,
+        "fn": 123,
+        "tn": 1114
+      },
+      "deployment": {
+        "from_cache": false,
+        "elapsed_seconds": 3718.6,
+        "time_per_pair_ms": 1916.8,
+        "vram_at_load_gb": 18.22,
+        "vram_peak_inference_gb": 20.17,
+        "vram_growth_gb": 1.95,
+        "total_input_tokens": 1622887,
+        "total_gen_tokens": 23576,
+        "avg_input_tokens": 836.5,
+        "avg_gen_tokens": 12.2,
+        "tokens_per_second_generated": 6.4,
+        "truncated_pairs": 37,
+        "truncation_rate_pct": 1.91,
+        "format_failure_rate_pct": 1.86,
+        "latency_breakdown_ms": {
+          "avg_retrieval_total_ms": 4.26,
+          "avg_dense_search_ms": 4.14,
+          "avg_bm25_search_ms": 0.0,
+          "avg_prompt_build_ms": 9.93,
+          "avg_generation_ms": 1902.47
+        },
+        "test_query_embedding": {
+          "total_seconds": 84.76,
+          "avg_ms_per_query": 43.69
+        },
+        "index_stats": {
+          "dense": {
+            "from_cache": false,
+            "build_seconds": 191.7,
+            "size_mb": 49.86,
+            "n_documents": 4680,
+            "embedding_dim": 2560
+          },
+          "bm25": null
+        }
+      }
+    },
+    {
+      "config_id": "RAG_B",
+      "project": "KOGITO",
+      "n_pairs": 1448,
+      "n_pos": 362,
+      "n_neg": 1086,
+      "failed_parses": 58,
+      "metrics_clean": {
+        "precision": 0.4955,
+        "recall": 0.6549,
+        "f1": 0.5642,
+        "f2": 0.6153,
+        "accuracy": 0.7532,
+        "tp": 222,
+        "fp": 226,
+        "fn": 117,
+        "tn": 825
+      },
+      "metrics_conservative": {
+        "precision": 0.4955,
+        "recall": 0.6133,
+        "f1": 0.5481,
+        "f2": 0.5854,
+        "accuracy": 0.7472,
+        "tp": 222,
+        "fp": 226,
+        "fn": 140,
+        "tn": 860
+      },
+      "deployment": {
+        "from_cache": false,
+        "elapsed_seconds": 2882.6,
+        "time_per_pair_ms": 1990.7,
+        "vram_at_load_gb": 18.22,
+        "vram_peak_inference_gb": 20.17,
+        "vram_growth_gb": 1.95,
+        "total_input_tokens": 1580217,
+        "total_gen_tokens": 17831,
+        "avg_input_tokens": 1091.3,
+        "avg_gen_tokens": 12.3,
+        "tokens_per_second_generated": 6.2,
+        "truncated_pairs": 61,
+        "truncation_rate_pct": 4.21,
+        "format_failure_rate_pct": 4.01,
+        "latency_breakdown_ms": {
+          "avg_retrieval_total_ms": 3.28,
+          "avg_dense_search_ms": 3.17,
+          "avg_bm25_search_ms": 0.0,
+          "avg_prompt_build_ms": 10.08,
+          "avg_generation_ms": 1977.22
+        },
+        "test_query_embedding": {
+          "total_seconds": 35.73,
+          "avg_ms_per_query": 24.67
+        },
+        "index_stats": {
+          "dense": {
+            "from_cache": false,
+            "build_seconds": 120.91,
+            "size_mb": 43.38,
+            "n_documents": 4068,
+            "embedding_dim": 2560
+          },
+          "bm25": null
+        }
+      }
+    },
+    {
+      "config_id": "RAG_B",
+      "project": "PROJQUAY",
+      "n_pairs": 452,
+      "n_pos": 113,
+      "n_neg": 339,
+      "failed_parses": 21,
+      "metrics_clean": {
+        "precision": 0.6062,
+        "recall": 0.9065,
+        "f1": 0.7266,
+        "f2": 0.8248,
+        "accuracy": 0.8306,
+        "tp": 97,
+        "fp": 63,
+        "fn": 10,
+        "tn": 261
+      },
+      "metrics_conservative": {
+        "precision": 0.6062,
+        "recall": 0.8584,
+        "f1": 0.7106,
+        "f2": 0.7925,
+        "accuracy": 0.8252,
+        "tp": 97,
+        "fp": 63,
+        "fn": 16,
+        "tn": 276
+      },
+      "deployment": {
+        "from_cache": false,
+        "elapsed_seconds": 931.9,
+        "time_per_pair_ms": 2061.6,
+        "vram_at_load_gb": 18.22,
+        "vram_peak_inference_gb": 20.17,
+        "vram_growth_gb": 1.95,
+        "total_input_tokens": 659893,
+        "total_gen_tokens": 5564,
+        "avg_input_tokens": 1459.9,
+        "avg_gen_tokens": 12.3,
+        "tokens_per_second_generated": 6.0,
+        "truncated_pairs": 22,
+        "truncation_rate_pct": 4.87,
+        "format_failure_rate_pct": 4.65,
+        "latency_breakdown_ms": {
+          "avg_retrieval_total_ms": 0.94,
+          "avg_dense_search_ms": 0.855,
+          "avg_bm25_search_ms": 0.0,
+          "avg_prompt_build_ms": 10.79,
+          "avg_generation_ms": 2049.74
+        },
+        "test_query_embedding": {
+          "total_seconds": 12.93,
+          "avg_ms_per_query": 28.61
+        },
+        "index_stats": {
+          "dense": {
+            "from_cache": false,
+            "build_seconds": 51.95,
+            "size_mb": 12.26,
+            "n_documents": 1068,
+            "embedding_dim": 2560
+          },
+          "bm25": null
+        }
+      }
+    }
+  ]
+}

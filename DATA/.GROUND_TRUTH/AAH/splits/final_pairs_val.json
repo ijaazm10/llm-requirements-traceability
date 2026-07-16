@@ -1,0 +1,522 @@
+[
+  {
+    "source_id": "AAH-1028",
+    "target_id": "AAH-1034",
+    "label": 1
+  },
+  {
+    "source_id": "AAH-1028",
+    "target_id": "AAH-979",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-1028",
+    "target_id": "AAH-76",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-1028",
+    "target_id": "AAH-1352",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-1078",
+    "target_id": "AAH-1080",
+    "label": 1
+  },
+  {
+    "source_id": "AAH-1078",
+    "target_id": "AAH-1433",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-1078",
+    "target_id": "AAH-1137",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-1078",
+    "target_id": "AAH-1139",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-1078",
+    "target_id": "AAH-1099",
+    "label": 1
+  },
+  {
+    "source_id": "AAH-1078",
+    "target_id": "AAH-1231",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-1078",
+    "target_id": "AAH-1079",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-1078",
+    "target_id": "AAH-900",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-1078",
+    "target_id": "AAH-1140",
+    "label": 1
+  },
+  {
+    "source_id": "AAH-1078",
+    "target_id": "AAH-1138",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-1078",
+    "target_id": "AAH-1075",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-1078",
+    "target_id": "AAH-808",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-25",
+    "target_id": "AAH-26",
+    "label": 1
+  },
+  {
+    "source_id": "AAH-25",
+    "target_id": "AAH-96",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-25",
+    "target_id": "AAH-82",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-25",
+    "target_id": "AAH-812",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-25",
+    "target_id": "AAH-27",
+    "label": 1
+  },
+  {
+    "source_id": "AAH-25",
+    "target_id": "AAH-581",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-25",
+    "target_id": "AAH-561",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-25",
+    "target_id": "AAH-582",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-25",
+    "target_id": "AAH-28",
+    "label": 1
+  },
+  {
+    "source_id": "AAH-25",
+    "target_id": "AAH-81",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-25",
+    "target_id": "AAH-15",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-25",
+    "target_id": "AAH-683",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-25",
+    "target_id": "AAH-47",
+    "label": 1
+  },
+  {
+    "source_id": "AAH-25",
+    "target_id": "AAH-21",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-25",
+    "target_id": "AAH-809",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-25",
+    "target_id": "AAH-816",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-610",
+    "label": 1
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-1008",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-996",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-1007",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-706",
+    "label": 1
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-492",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-496",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-1006",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-707",
+    "label": 1
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-23",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-1259",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-628",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-708",
+    "label": 1
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-1261",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-493",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-1267",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-709",
+    "label": 1
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-494",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-1303",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-1020",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-710",
+    "label": 1
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-1071",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-1302",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-1011",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-711",
+    "label": 1
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-499",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-1010",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-1025",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-712",
+    "label": 1
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-1088",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-1313",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-721",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-713",
+    "label": 1
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-1089",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-604",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-25",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-714",
+    "label": 1
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-1260",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-1009",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-1264",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-715",
+    "label": 1
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-1102",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-1333",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-999",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-716",
+    "label": 1
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-1005",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-1002",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-620",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-752",
+    "label": 1
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-596",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-1053",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-1100",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-902",
+    "label": 1
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-1438",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-1186",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-1301",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-907",
+    "label": 1
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-1190",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-871",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-607",
+    "target_id": "AAH-1193",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-960",
+    "target_id": "AAH-1100",
+    "label": 1
+  },
+  {
+    "source_id": "AAH-960",
+    "target_id": "AAH-1055",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-960",
+    "target_id": "AAH-1064",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-960",
+    "target_id": "AAH-1251",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-960",
+    "target_id": "AAH-1102",
+    "label": 1
+  },
+  {
+    "source_id": "AAH-960",
+    "target_id": "AAH-1313",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-960",
+    "target_id": "AAH-1054",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-960",
+    "target_id": "AAH-1053",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-960",
+    "target_id": "AAH-1181",
+    "label": 1
+  },
+  {
+    "source_id": "AAH-960",
+    "target_id": "AAH-1438",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-960",
+    "target_id": "AAH-1352",
+    "label": 0
+  },
+  {
+    "source_id": "AAH-960",
+    "target_id": "AAH-1339",
+    "label": 0
+  }
+]

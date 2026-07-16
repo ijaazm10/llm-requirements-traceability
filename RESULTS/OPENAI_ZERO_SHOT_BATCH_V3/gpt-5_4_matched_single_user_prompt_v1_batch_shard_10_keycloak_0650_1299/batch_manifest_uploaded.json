@@ -1,0 +1,5241 @@
+{
+  "created_at": "2026-06-18T10:44:07.189404",
+  "script": "9d_zero_shot_openai_batch_matched.py",
+  "model": "gpt-5.4",
+  "endpoint": "/v1/chat/completions",
+  "prompt_mode": "matched_single_user_prompt_v1_batch",
+  "prompt_template_hash": "209a9beb289a5172",
+  "max_completion_tokens": 20,
+  "temperature": 0.0,
+  "seed": 42,
+  "message_format": "single user-role message; no system prompt; no JSON mode; OpenAI Batch Chat Completions",
+  "negative_protocol": "Qwen3 top-K hard negatives, 1:3 positive:negative test pairs",
+  "projects": [
+    "KEYCLOAK"
+  ],
+  "start_index": 650,
+  "max_pairs": 650,
+  "run_suffix": "shard_10_keycloak_0650_1299",
+  "requests": {
+    "KEYCLOAK_00000": {
+      "project": "KEYCLOAK",
+      "index": 0,
+      "source_id": "KEYCLOAK-4761",
+      "target_id": "KEYCLOAK-11757",
+      "label": 0,
+      "prompt_chars": 1538
+    },
+    "KEYCLOAK_00001": {
+      "project": "KEYCLOAK",
+      "index": 1,
+      "source_id": "KEYCLOAK-4761",
+      "target_id": "KEYCLOAK-8385",
+      "label": 0,
+      "prompt_chars": 737
+    },
+    "KEYCLOAK_00002": {
+      "project": "KEYCLOAK",
+      "index": 2,
+      "source_id": "KEYCLOAK-4816",
+      "target_id": "KEYCLOAK-4817",
+      "label": 1,
+      "prompt_chars": 575
+    },
+    "KEYCLOAK_00003": {
+      "project": "KEYCLOAK",
+      "index": 3,
+      "source_id": "KEYCLOAK-4816",
+      "target_id": "KEYCLOAK-10167",
+      "label": 0,
+      "prompt_chars": 564
+    },
+    "KEYCLOAK_00004": {
+      "project": "KEYCLOAK",
+      "index": 4,
+      "source_id": "KEYCLOAK-4816",
+      "target_id": "KEYCLOAK-16144",
+      "label": 0,
+      "prompt_chars": 557
+    },
+    "KEYCLOAK_00005": {
+      "project": "KEYCLOAK",
+      "index": 5,
+      "source_id": "KEYCLOAK-4816",
+      "target_id": "KEYCLOAK-3024",
+      "label": 0,
+      "prompt_chars": 577
+    },
+    "KEYCLOAK_00006": {
+      "project": "KEYCLOAK",
+      "index": 6,
+      "source_id": "KEYCLOAK-5005",
+      "target_id": "KEYCLOAK-4187",
+      "label": 1,
+      "prompt_chars": 1934
+    },
+    "KEYCLOAK_00007": {
+      "project": "KEYCLOAK",
+      "index": 7,
+      "source_id": "KEYCLOAK-5005",
+      "target_id": "KEYCLOAK-6552",
+      "label": 0,
+      "prompt_chars": 2279
+    },
+    "KEYCLOAK_00008": {
+      "project": "KEYCLOAK",
+      "index": 8,
+      "source_id": "KEYCLOAK-5005",
+      "target_id": "KEYCLOAK-16755",
+      "label": 0,
+      "prompt_chars": 2631
+    },
+    "KEYCLOAK_00009": {
+      "project": "KEYCLOAK",
+      "index": 9,
+      "source_id": "KEYCLOAK-5005",
+      "target_id": "KEYCLOAK-16802",
+      "label": 0,
+      "prompt_chars": 1718
+    },
+    "KEYCLOAK_00010": {
+      "project": "KEYCLOAK",
+      "index": 10,
+      "source_id": "KEYCLOAK-5229",
+      "target_id": "KEYCLOAK-4786",
+      "label": 1,
+      "prompt_chars": 896
+    },
+    "KEYCLOAK_00011": {
+      "project": "KEYCLOAK",
+      "index": 11,
+      "source_id": "KEYCLOAK-5229",
+      "target_id": "KEYCLOAK-3459",
+      "label": 0,
+      "prompt_chars": 888
+    },
+    "KEYCLOAK_00012": {
+      "project": "KEYCLOAK",
+      "index": 12,
+      "source_id": "KEYCLOAK-5229",
+      "target_id": "KEYCLOAK-11757",
+      "label": 0,
+      "prompt_chars": 1591
+    },
+    "KEYCLOAK_00013": {
+      "project": "KEYCLOAK",
+      "index": 13,
+      "source_id": "KEYCLOAK-5229",
+      "target_id": "KEYCLOAK-11613",
+      "label": 0,
+      "prompt_chars": 1268
+    },
+    "KEYCLOAK_00014": {
+      "project": "KEYCLOAK",
+      "index": 14,
+      "source_id": "KEYCLOAK-5371",
+      "target_id": "KEYCLOAK-4189",
+      "label": 1,
+      "prompt_chars": 1738
+    },
+    "KEYCLOAK_00015": {
+      "project": "KEYCLOAK",
+      "index": 15,
+      "source_id": "KEYCLOAK-5371",
+      "target_id": "KEYCLOAK-9580",
+      "label": 0,
+      "prompt_chars": 80251
+    },
+    "KEYCLOAK_00016": {
+      "project": "KEYCLOAK",
+      "index": 16,
+      "source_id": "KEYCLOAK-5371",
+      "target_id": "KEYCLOAK-6552",
+      "label": 0,
+      "prompt_chars": 2738
+    },
+    "KEYCLOAK_00017": {
+      "project": "KEYCLOAK",
+      "index": 17,
+      "source_id": "KEYCLOAK-5371",
+      "target_id": "KEYCLOAK-11866",
+      "label": 0,
+      "prompt_chars": 2249
+    },
+    "KEYCLOAK_00018": {
+      "project": "KEYCLOAK",
+      "index": 18,
+      "source_id": "KEYCLOAK-5371",
+      "target_id": "KEYCLOAK-4630",
+      "label": 1,
+      "prompt_chars": 1723
+    },
+    "KEYCLOAK_00019": {
+      "project": "KEYCLOAK",
+      "index": 19,
+      "source_id": "KEYCLOAK-5371",
+      "target_id": "KEYCLOAK-8380",
+      "label": 0,
+      "prompt_chars": 1911
+    },
+    "KEYCLOAK_00020": {
+      "project": "KEYCLOAK",
+      "index": 20,
+      "source_id": "KEYCLOAK-5371",
+      "target_id": "KEYCLOAK-4187",
+      "label": 0,
+      "prompt_chars": 2393
+    },
+    "KEYCLOAK_00021": {
+      "project": "KEYCLOAK",
+      "index": 21,
+      "source_id": "KEYCLOAK-5371",
+      "target_id": "KEYCLOAK-2697",
+      "label": 0,
+      "prompt_chars": 1846
+    },
+    "KEYCLOAK_00022": {
+      "project": "KEYCLOAK",
+      "index": 22,
+      "source_id": "KEYCLOAK-5836",
+      "target_id": "KEYCLOAK-4798",
+      "label": 1,
+      "prompt_chars": 1061
+    },
+    "KEYCLOAK_00023": {
+      "project": "KEYCLOAK",
+      "index": 23,
+      "source_id": "KEYCLOAK-5836",
+      "target_id": "KEYCLOAK-4298",
+      "label": 0,
+      "prompt_chars": 1060
+    },
+    "KEYCLOAK_00024": {
+      "project": "KEYCLOAK",
+      "index": 24,
+      "source_id": "KEYCLOAK-5836",
+      "target_id": "KEYCLOAK-4276",
+      "label": 0,
+      "prompt_chars": 2256
+    },
+    "KEYCLOAK_00025": {
+      "project": "KEYCLOAK",
+      "index": 25,
+      "source_id": "KEYCLOAK-5836",
+      "target_id": "KEYCLOAK-6525",
+      "label": 0,
+      "prompt_chars": 964
+    },
+    "KEYCLOAK_00026": {
+      "project": "KEYCLOAK",
+      "index": 26,
+      "source_id": "KEYCLOAK-6048",
+      "target_id": "KEYCLOAK-5747",
+      "label": 1,
+      "prompt_chars": 1605
+    },
+    "KEYCLOAK_00027": {
+      "project": "KEYCLOAK",
+      "index": 27,
+      "source_id": "KEYCLOAK-6048",
+      "target_id": "KEYCLOAK-6552",
+      "label": 0,
+      "prompt_chars": 1624
+    },
+    "KEYCLOAK_00028": {
+      "project": "KEYCLOAK",
+      "index": 28,
+      "source_id": "KEYCLOAK-6048",
+      "target_id": "KEYCLOAK-4187",
+      "label": 0,
+      "prompt_chars": 1279
+    },
+    "KEYCLOAK_00029": {
+      "project": "KEYCLOAK",
+      "index": 29,
+      "source_id": "KEYCLOAK-6048",
+      "target_id": "KEYCLOAK-16755",
+      "label": 0,
+      "prompt_chars": 1976
+    },
+    "KEYCLOAK_00030": {
+      "project": "KEYCLOAK",
+      "index": 30,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6178",
+      "label": 1,
+      "prompt_chars": 1108
+    },
+    "KEYCLOAK_00031": {
+      "project": "KEYCLOAK",
+      "index": 31,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-8471",
+      "label": 0,
+      "prompt_chars": 1307
+    },
+    "KEYCLOAK_00032": {
+      "project": "KEYCLOAK",
+      "index": 32,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6177",
+      "label": 0,
+      "prompt_chars": 1566
+    },
+    "KEYCLOAK_00033": {
+      "project": "KEYCLOAK",
+      "index": 33,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-8464",
+      "label": 0,
+      "prompt_chars": 2055
+    },
+    "KEYCLOAK_00034": {
+      "project": "KEYCLOAK",
+      "index": 34,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6180",
+      "label": 1,
+      "prompt_chars": 1053
+    },
+    "KEYCLOAK_00035": {
+      "project": "KEYCLOAK",
+      "index": 35,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-8465",
+      "label": 0,
+      "prompt_chars": 1628
+    },
+    "KEYCLOAK_00036": {
+      "project": "KEYCLOAK",
+      "index": 36,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-10166",
+      "label": 0,
+      "prompt_chars": 1154
+    },
+    "KEYCLOAK_00037": {
+      "project": "KEYCLOAK",
+      "index": 37,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6855",
+      "label": 0,
+      "prompt_chars": 1243
+    },
+    "KEYCLOAK_00038": {
+      "project": "KEYCLOAK",
+      "index": 38,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6181",
+      "label": 1,
+      "prompt_chars": 1072
+    },
+    "KEYCLOAK_00039": {
+      "project": "KEYCLOAK",
+      "index": 39,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-8576",
+      "label": 0,
+      "prompt_chars": 1285
+    },
+    "KEYCLOAK_00040": {
+      "project": "KEYCLOAK",
+      "index": 40,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-7771",
+      "label": 0,
+      "prompt_chars": 1340
+    },
+    "KEYCLOAK_00041": {
+      "project": "KEYCLOAK",
+      "index": 41,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-8557",
+      "label": 0,
+      "prompt_chars": 1106
+    },
+    "KEYCLOAK_00042": {
+      "project": "KEYCLOAK",
+      "index": 42,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6182",
+      "label": 1,
+      "prompt_chars": 1072
+    },
+    "KEYCLOAK_00043": {
+      "project": "KEYCLOAK",
+      "index": 43,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-9503",
+      "label": 0,
+      "prompt_chars": 1302
+    },
+    "KEYCLOAK_00044": {
+      "project": "KEYCLOAK",
+      "index": 44,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-9415",
+      "label": 0,
+      "prompt_chars": 1525
+    },
+    "KEYCLOAK_00045": {
+      "project": "KEYCLOAK",
+      "index": 45,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6779",
+      "label": 0,
+      "prompt_chars": 1102
+    },
+    "KEYCLOAK_00046": {
+      "project": "KEYCLOAK",
+      "index": 46,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6183",
+      "label": 1,
+      "prompt_chars": 1072
+    },
+    "KEYCLOAK_00047": {
+      "project": "KEYCLOAK",
+      "index": 47,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-9550",
+      "label": 0,
+      "prompt_chars": 1287
+    },
+    "KEYCLOAK_00048": {
+      "project": "KEYCLOAK",
+      "index": 48,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-12935",
+      "label": 0,
+      "prompt_chars": 1145
+    },
+    "KEYCLOAK_00049": {
+      "project": "KEYCLOAK",
+      "index": 49,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-9502",
+      "label": 0,
+      "prompt_chars": 1649
+    },
+    "KEYCLOAK_00050": {
+      "project": "KEYCLOAK",
+      "index": 50,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6184",
+      "label": 1,
+      "prompt_chars": 1098
+    },
+    "KEYCLOAK_00051": {
+      "project": "KEYCLOAK",
+      "index": 51,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-7414",
+      "label": 0,
+      "prompt_chars": 1713
+    },
+    "KEYCLOAK_00052": {
+      "project": "KEYCLOAK",
+      "index": 52,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-9416",
+      "label": 0,
+      "prompt_chars": 1433
+    },
+    "KEYCLOAK_00053": {
+      "project": "KEYCLOAK",
+      "index": 53,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-7591",
+      "label": 0,
+      "prompt_chars": 1275
+    },
+    "KEYCLOAK_00054": {
+      "project": "KEYCLOAK",
+      "index": 54,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6186",
+      "label": 1,
+      "prompt_chars": 1060
+    },
+    "KEYCLOAK_00055": {
+      "project": "KEYCLOAK",
+      "index": 55,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-8550",
+      "label": 0,
+      "prompt_chars": 1096
+    },
+    "KEYCLOAK_00056": {
+      "project": "KEYCLOAK",
+      "index": 56,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-17315",
+      "label": 0,
+      "prompt_chars": 1626
+    },
+    "KEYCLOAK_00057": {
+      "project": "KEYCLOAK",
+      "index": 57,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-8470",
+      "label": 0,
+      "prompt_chars": 1730
+    },
+    "KEYCLOAK_00058": {
+      "project": "KEYCLOAK",
+      "index": 58,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6187",
+      "label": 1,
+      "prompt_chars": 1068
+    },
+    "KEYCLOAK_00059": {
+      "project": "KEYCLOAK",
+      "index": 59,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6021",
+      "label": 0,
+      "prompt_chars": 1803
+    },
+    "KEYCLOAK_00060": {
+      "project": "KEYCLOAK",
+      "index": 60,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-9626",
+      "label": 0,
+      "prompt_chars": 1164
+    },
+    "KEYCLOAK_00061": {
+      "project": "KEYCLOAK",
+      "index": 61,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-14258",
+      "label": 0,
+      "prompt_chars": 1137
+    },
+    "KEYCLOAK_00062": {
+      "project": "KEYCLOAK",
+      "index": 62,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6188",
+      "label": 1,
+      "prompt_chars": 1070
+    },
+    "KEYCLOAK_00063": {
+      "project": "KEYCLOAK",
+      "index": 63,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-8188",
+      "label": 0,
+      "prompt_chars": 1165
+    },
+    "KEYCLOAK_00064": {
+      "project": "KEYCLOAK",
+      "index": 64,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-10301",
+      "label": 0,
+      "prompt_chars": 2145
+    },
+    "KEYCLOAK_00065": {
+      "project": "KEYCLOAK",
+      "index": 65,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-9631",
+      "label": 0,
+      "prompt_chars": 1184
+    },
+    "KEYCLOAK_00066": {
+      "project": "KEYCLOAK",
+      "index": 66,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6214",
+      "label": 1,
+      "prompt_chars": 1054
+    },
+    "KEYCLOAK_00067": {
+      "project": "KEYCLOAK",
+      "index": 67,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-7558",
+      "label": 0,
+      "prompt_chars": 1506
+    },
+    "KEYCLOAK_00068": {
+      "project": "KEYCLOAK",
+      "index": 68,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-9541",
+      "label": 0,
+      "prompt_chars": 1665
+    },
+    "KEYCLOAK_00069": {
+      "project": "KEYCLOAK",
+      "index": 69,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6192",
+      "label": 0,
+      "prompt_chars": 1539
+    },
+    "KEYCLOAK_00070": {
+      "project": "KEYCLOAK",
+      "index": 70,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6215",
+      "label": 1,
+      "prompt_chars": 1054
+    },
+    "KEYCLOAK_00071": {
+      "project": "KEYCLOAK",
+      "index": 71,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-8171",
+      "label": 0,
+      "prompt_chars": 1227
+    },
+    "KEYCLOAK_00072": {
+      "project": "KEYCLOAK",
+      "index": 72,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-9543",
+      "label": 0,
+      "prompt_chars": 1504
+    },
+    "KEYCLOAK_00073": {
+      "project": "KEYCLOAK",
+      "index": 73,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-9627",
+      "label": 0,
+      "prompt_chars": 1120
+    },
+    "KEYCLOAK_00074": {
+      "project": "KEYCLOAK",
+      "index": 74,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6217",
+      "label": 1,
+      "prompt_chars": 1068
+    },
+    "KEYCLOAK_00075": {
+      "project": "KEYCLOAK",
+      "index": 75,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6715",
+      "label": 0,
+      "prompt_chars": 1783
+    },
+    "KEYCLOAK_00076": {
+      "project": "KEYCLOAK",
+      "index": 76,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-10216",
+      "label": 0,
+      "prompt_chars": 1182
+    },
+    "KEYCLOAK_00077": {
+      "project": "KEYCLOAK",
+      "index": 77,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-9504",
+      "label": 0,
+      "prompt_chars": 1500
+    },
+    "KEYCLOAK_00078": {
+      "project": "KEYCLOAK",
+      "index": 78,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6218",
+      "label": 1,
+      "prompt_chars": 1074
+    },
+    "KEYCLOAK_00079": {
+      "project": "KEYCLOAK",
+      "index": 79,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-8457",
+      "label": 0,
+      "prompt_chars": 1186
+    },
+    "KEYCLOAK_00080": {
+      "project": "KEYCLOAK",
+      "index": 80,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-9197",
+      "label": 0,
+      "prompt_chars": 1217
+    },
+    "KEYCLOAK_00081": {
+      "project": "KEYCLOAK",
+      "index": 81,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-7554",
+      "label": 0,
+      "prompt_chars": 1420
+    },
+    "KEYCLOAK_00082": {
+      "project": "KEYCLOAK",
+      "index": 82,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6219",
+      "label": 1,
+      "prompt_chars": 1077
+    },
+    "KEYCLOAK_00083": {
+      "project": "KEYCLOAK",
+      "index": 83,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-10287",
+      "label": 0,
+      "prompt_chars": 1247
+    },
+    "KEYCLOAK_00084": {
+      "project": "KEYCLOAK",
+      "index": 84,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-9549",
+      "label": 0,
+      "prompt_chars": 1618
+    },
+    "KEYCLOAK_00085": {
+      "project": "KEYCLOAK",
+      "index": 85,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-9640",
+      "label": 0,
+      "prompt_chars": 1404
+    },
+    "KEYCLOAK_00086": {
+      "project": "KEYCLOAK",
+      "index": 86,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6220",
+      "label": 1,
+      "prompt_chars": 1103
+    },
+    "KEYCLOAK_00087": {
+      "project": "KEYCLOAK",
+      "index": 87,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-10217",
+      "label": 0,
+      "prompt_chars": 1241
+    },
+    "KEYCLOAK_00088": {
+      "project": "KEYCLOAK",
+      "index": 88,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6194",
+      "label": 0,
+      "prompt_chars": 1241
+    },
+    "KEYCLOAK_00089": {
+      "project": "KEYCLOAK",
+      "index": 89,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-10220",
+      "label": 0,
+      "prompt_chars": 1283
+    },
+    "KEYCLOAK_00090": {
+      "project": "KEYCLOAK",
+      "index": 90,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6221",
+      "label": 1,
+      "prompt_chars": 1087
+    },
+    "KEYCLOAK_00091": {
+      "project": "KEYCLOAK",
+      "index": 91,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-10219",
+      "label": 0,
+      "prompt_chars": 1246
+    },
+    "KEYCLOAK_00092": {
+      "project": "KEYCLOAK",
+      "index": 92,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-8319",
+      "label": 0,
+      "prompt_chars": 1145
+    },
+    "KEYCLOAK_00093": {
+      "project": "KEYCLOAK",
+      "index": 93,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6736",
+      "label": 0,
+      "prompt_chars": 1632
+    },
+    "KEYCLOAK_00094": {
+      "project": "KEYCLOAK",
+      "index": 94,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6475",
+      "label": 1,
+      "prompt_chars": 1081
+    },
+    "KEYCLOAK_00095": {
+      "project": "KEYCLOAK",
+      "index": 95,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-7557",
+      "label": 0,
+      "prompt_chars": 1548
+    },
+    "KEYCLOAK_00096": {
+      "project": "KEYCLOAK",
+      "index": 96,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-9801",
+      "label": 0,
+      "prompt_chars": 1175
+    },
+    "KEYCLOAK_00097": {
+      "project": "KEYCLOAK",
+      "index": 97,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-9919",
+      "label": 0,
+      "prompt_chars": 1105
+    },
+    "KEYCLOAK_00098": {
+      "project": "KEYCLOAK",
+      "index": 98,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6476",
+      "label": 1,
+      "prompt_chars": 1160
+    },
+    "KEYCLOAK_00099": {
+      "project": "KEYCLOAK",
+      "index": 99,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-8351",
+      "label": 0,
+      "prompt_chars": 1152
+    },
+    "KEYCLOAK_00100": {
+      "project": "KEYCLOAK",
+      "index": 100,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-9413",
+      "label": 0,
+      "prompt_chars": 1333
+    },
+    "KEYCLOAK_00101": {
+      "project": "KEYCLOAK",
+      "index": 101,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-9505",
+      "label": 0,
+      "prompt_chars": 1467
+    },
+    "KEYCLOAK_00102": {
+      "project": "KEYCLOAK",
+      "index": 102,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6520",
+      "label": 1,
+      "prompt_chars": 1062
+    },
+    "KEYCLOAK_00103": {
+      "project": "KEYCLOAK",
+      "index": 103,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6731",
+      "label": 0,
+      "prompt_chars": 1533
+    },
+    "KEYCLOAK_00104": {
+      "project": "KEYCLOAK",
+      "index": 104,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-8757",
+      "label": 0,
+      "prompt_chars": 1547
+    },
+    "KEYCLOAK_00105": {
+      "project": "KEYCLOAK",
+      "index": 105,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-4352",
+      "label": 0,
+      "prompt_chars": 1162
+    },
+    "KEYCLOAK_00106": {
+      "project": "KEYCLOAK",
+      "index": 106,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6532",
+      "label": 1,
+      "prompt_chars": 1080
+    },
+    "KEYCLOAK_00107": {
+      "project": "KEYCLOAK",
+      "index": 107,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-11556",
+      "label": 0,
+      "prompt_chars": 1123
+    },
+    "KEYCLOAK_00108": {
+      "project": "KEYCLOAK",
+      "index": 108,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-8618",
+      "label": 0,
+      "prompt_chars": 1451
+    },
+    "KEYCLOAK_00109": {
+      "project": "KEYCLOAK",
+      "index": 109,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-7600",
+      "label": 0,
+      "prompt_chars": 1083
+    },
+    "KEYCLOAK_00110": {
+      "project": "KEYCLOAK",
+      "index": 110,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6533",
+      "label": 1,
+      "prompt_chars": 1089
+    },
+    "KEYCLOAK_00111": {
+      "project": "KEYCLOAK",
+      "index": 111,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-9522",
+      "label": 0,
+      "prompt_chars": 1256
+    },
+    "KEYCLOAK_00112": {
+      "project": "KEYCLOAK",
+      "index": 112,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-8127",
+      "label": 0,
+      "prompt_chars": 1221
+    },
+    "KEYCLOAK_00113": {
+      "project": "KEYCLOAK",
+      "index": 113,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-7064",
+      "label": 0,
+      "prompt_chars": 1091
+    },
+    "KEYCLOAK_00114": {
+      "project": "KEYCLOAK",
+      "index": 114,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6595",
+      "label": 1,
+      "prompt_chars": 1080
+    },
+    "KEYCLOAK_00115": {
+      "project": "KEYCLOAK",
+      "index": 115,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-8236",
+      "label": 0,
+      "prompt_chars": 1205
+    },
+    "KEYCLOAK_00116": {
+      "project": "KEYCLOAK",
+      "index": 116,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6255",
+      "label": 0,
+      "prompt_chars": 1087
+    },
+    "KEYCLOAK_00117": {
+      "project": "KEYCLOAK",
+      "index": 117,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-9414",
+      "label": 0,
+      "prompt_chars": 1697
+    },
+    "KEYCLOAK_00118": {
+      "project": "KEYCLOAK",
+      "index": 118,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6667",
+      "label": 1,
+      "prompt_chars": 1067
+    },
+    "KEYCLOAK_00119": {
+      "project": "KEYCLOAK",
+      "index": 119,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6201",
+      "label": 0,
+      "prompt_chars": 1612
+    },
+    "KEYCLOAK_00120": {
+      "project": "KEYCLOAK",
+      "index": 120,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-10237",
+      "label": 0,
+      "prompt_chars": 1222
+    },
+    "KEYCLOAK_00121": {
+      "project": "KEYCLOAK",
+      "index": 121,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-10221",
+      "label": 0,
+      "prompt_chars": 1188
+    },
+    "KEYCLOAK_00122": {
+      "project": "KEYCLOAK",
+      "index": 122,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6668",
+      "label": 1,
+      "prompt_chars": 1074
+    },
+    "KEYCLOAK_00123": {
+      "project": "KEYCLOAK",
+      "index": 123,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6234",
+      "label": 0,
+      "prompt_chars": 1225
+    },
+    "KEYCLOAK_00124": {
+      "project": "KEYCLOAK",
+      "index": 124,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-15924",
+      "label": 0,
+      "prompt_chars": 1277
+    },
+    "KEYCLOAK_00125": {
+      "project": "KEYCLOAK",
+      "index": 125,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-9542",
+      "label": 0,
+      "prompt_chars": 1371
+    },
+    "KEYCLOAK_00126": {
+      "project": "KEYCLOAK",
+      "index": 126,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6669",
+      "label": 1,
+      "prompt_chars": 1105
+    },
+    "KEYCLOAK_00127": {
+      "project": "KEYCLOAK",
+      "index": 127,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-7603",
+      "label": 0,
+      "prompt_chars": 1171
+    },
+    "KEYCLOAK_00128": {
+      "project": "KEYCLOAK",
+      "index": 128,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6560",
+      "label": 0,
+      "prompt_chars": 1289
+    },
+    "KEYCLOAK_00129": {
+      "project": "KEYCLOAK",
+      "index": 129,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-3010",
+      "label": 0,
+      "prompt_chars": 1064
+    },
+    "KEYCLOAK_00130": {
+      "project": "KEYCLOAK",
+      "index": 130,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6670",
+      "label": 1,
+      "prompt_chars": 1403
+    },
+    "KEYCLOAK_00131": {
+      "project": "KEYCLOAK",
+      "index": 131,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-5589",
+      "label": 0,
+      "prompt_chars": 1289
+    },
+    "KEYCLOAK_00132": {
+      "project": "KEYCLOAK",
+      "index": 132,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-11164",
+      "label": 0,
+      "prompt_chars": 1724
+    },
+    "KEYCLOAK_00133": {
+      "project": "KEYCLOAK",
+      "index": 133,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-14431",
+      "label": 0,
+      "prompt_chars": 1137
+    },
+    "KEYCLOAK_00134": {
+      "project": "KEYCLOAK",
+      "index": 134,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6671",
+      "label": 1,
+      "prompt_chars": 1220
+    },
+    "KEYCLOAK_00135": {
+      "project": "KEYCLOAK",
+      "index": 135,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6526",
+      "label": 0,
+      "prompt_chars": 1507
+    },
+    "KEYCLOAK_00136": {
+      "project": "KEYCLOAK",
+      "index": 136,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-14184",
+      "label": 0,
+      "prompt_chars": 1183
+    },
+    "KEYCLOAK_00137": {
+      "project": "KEYCLOAK",
+      "index": 137,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-4344",
+      "label": 0,
+      "prompt_chars": 1054
+    },
+    "KEYCLOAK_00138": {
+      "project": "KEYCLOAK",
+      "index": 138,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6672",
+      "label": 1,
+      "prompt_chars": 1451
+    },
+    "KEYCLOAK_00139": {
+      "project": "KEYCLOAK",
+      "index": 139,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-7818",
+      "label": 0,
+      "prompt_chars": 1091
+    },
+    "KEYCLOAK_00140": {
+      "project": "KEYCLOAK",
+      "index": 140,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-9545",
+      "label": 0,
+      "prompt_chars": 1414
+    },
+    "KEYCLOAK_00141": {
+      "project": "KEYCLOAK",
+      "index": 141,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-11745",
+      "label": 0,
+      "prompt_chars": 1610
+    },
+    "KEYCLOAK_00142": {
+      "project": "KEYCLOAK",
+      "index": 142,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6673",
+      "label": 1,
+      "prompt_chars": 1054
+    },
+    "KEYCLOAK_00143": {
+      "project": "KEYCLOAK",
+      "index": 143,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-11614",
+      "label": 0,
+      "prompt_chars": 1464
+    },
+    "KEYCLOAK_00144": {
+      "project": "KEYCLOAK",
+      "index": 144,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-10187",
+      "label": 0,
+      "prompt_chars": 1146
+    },
+    "KEYCLOAK_00145": {
+      "project": "KEYCLOAK",
+      "index": 145,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-8521",
+      "label": 0,
+      "prompt_chars": 1074
+    },
+    "KEYCLOAK_00146": {
+      "project": "KEYCLOAK",
+      "index": 146,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6702",
+      "label": 1,
+      "prompt_chars": 1083
+    },
+    "KEYCLOAK_00147": {
+      "project": "KEYCLOAK",
+      "index": 147,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-17508",
+      "label": 0,
+      "prompt_chars": 1571
+    },
+    "KEYCLOAK_00148": {
+      "project": "KEYCLOAK",
+      "index": 148,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6888",
+      "label": 0,
+      "prompt_chars": 1100
+    },
+    "KEYCLOAK_00149": {
+      "project": "KEYCLOAK",
+      "index": 149,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6235",
+      "label": 0,
+      "prompt_chars": 1086
+    },
+    "KEYCLOAK_00150": {
+      "project": "KEYCLOAK",
+      "index": 150,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6722",
+      "label": 1,
+      "prompt_chars": 1064
+    },
+    "KEYCLOAK_00151": {
+      "project": "KEYCLOAK",
+      "index": 151,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6274",
+      "label": 0,
+      "prompt_chars": 1094
+    },
+    "KEYCLOAK_00152": {
+      "project": "KEYCLOAK",
+      "index": 152,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-7819",
+      "label": 0,
+      "prompt_chars": 1599
+    },
+    "KEYCLOAK_00153": {
+      "project": "KEYCLOAK",
+      "index": 153,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6191",
+      "label": 0,
+      "prompt_chars": 1715
+    },
+    "KEYCLOAK_00154": {
+      "project": "KEYCLOAK",
+      "index": 154,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6723",
+      "label": 1,
+      "prompt_chars": 1435
+    },
+    "KEYCLOAK_00155": {
+      "project": "KEYCLOAK",
+      "index": 155,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6716",
+      "label": 0,
+      "prompt_chars": 1401
+    },
+    "KEYCLOAK_00156": {
+      "project": "KEYCLOAK",
+      "index": 156,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-19311",
+      "label": 0,
+      "prompt_chars": 1822
+    },
+    "KEYCLOAK_00157": {
+      "project": "KEYCLOAK",
+      "index": 157,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-15650",
+      "label": 0,
+      "prompt_chars": 1931
+    },
+    "KEYCLOAK_00158": {
+      "project": "KEYCLOAK",
+      "index": 158,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6737",
+      "label": 1,
+      "prompt_chars": 1481
+    },
+    "KEYCLOAK_00159": {
+      "project": "KEYCLOAK",
+      "index": 159,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-9544",
+      "label": 0,
+      "prompt_chars": 1313
+    },
+    "KEYCLOAK_00160": {
+      "project": "KEYCLOAK",
+      "index": 160,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6193",
+      "label": 0,
+      "prompt_chars": 1318
+    },
+    "KEYCLOAK_00161": {
+      "project": "KEYCLOAK",
+      "index": 161,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-5830",
+      "label": 0,
+      "prompt_chars": 1533
+    },
+    "KEYCLOAK_00162": {
+      "project": "KEYCLOAK",
+      "index": 162,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6740",
+      "label": 1,
+      "prompt_chars": 1061
+    },
+    "KEYCLOAK_00163": {
+      "project": "KEYCLOAK",
+      "index": 163,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6542",
+      "label": 0,
+      "prompt_chars": 1063
+    },
+    "KEYCLOAK_00164": {
+      "project": "KEYCLOAK",
+      "index": 164,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6200",
+      "label": 0,
+      "prompt_chars": 1254
+    },
+    "KEYCLOAK_00165": {
+      "project": "KEYCLOAK",
+      "index": 165,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-14861",
+      "label": 0,
+      "prompt_chars": 1255
+    },
+    "KEYCLOAK_00166": {
+      "project": "KEYCLOAK",
+      "index": 166,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6755",
+      "label": 1,
+      "prompt_chars": 1074
+    },
+    "KEYCLOAK_00167": {
+      "project": "KEYCLOAK",
+      "index": 167,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6899",
+      "label": 0,
+      "prompt_chars": 1468
+    },
+    "KEYCLOAK_00168": {
+      "project": "KEYCLOAK",
+      "index": 168,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6506",
+      "label": 0,
+      "prompt_chars": 1180
+    },
+    "KEYCLOAK_00169": {
+      "project": "KEYCLOAK",
+      "index": 169,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-11291",
+      "label": 0,
+      "prompt_chars": 1301
+    },
+    "KEYCLOAK_00170": {
+      "project": "KEYCLOAK",
+      "index": 170,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6760",
+      "label": 1,
+      "prompt_chars": 1184
+    },
+    "KEYCLOAK_00171": {
+      "project": "KEYCLOAK",
+      "index": 171,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-12847",
+      "label": 0,
+      "prompt_chars": 1607
+    },
+    "KEYCLOAK_00172": {
+      "project": "KEYCLOAK",
+      "index": 172,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6892",
+      "label": 0,
+      "prompt_chars": 1171
+    },
+    "KEYCLOAK_00173": {
+      "project": "KEYCLOAK",
+      "index": 173,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-11304",
+      "label": 0,
+      "prompt_chars": 1071
+    },
+    "KEYCLOAK_00174": {
+      "project": "KEYCLOAK",
+      "index": 174,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6856",
+      "label": 1,
+      "prompt_chars": 1250
+    },
+    "KEYCLOAK_00175": {
+      "project": "KEYCLOAK",
+      "index": 175,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6714",
+      "label": 0,
+      "prompt_chars": 1185
+    },
+    "KEYCLOAK_00176": {
+      "project": "KEYCLOAK",
+      "index": 176,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-18865",
+      "label": 0,
+      "prompt_chars": 1198
+    },
+    "KEYCLOAK_00177": {
+      "project": "KEYCLOAK",
+      "index": 177,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-7407",
+      "label": 0,
+      "prompt_chars": 1082
+    },
+    "KEYCLOAK_00178": {
+      "project": "KEYCLOAK",
+      "index": 178,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6860",
+      "label": 1,
+      "prompt_chars": 1627
+    },
+    "KEYCLOAK_00179": {
+      "project": "KEYCLOAK",
+      "index": 179,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-9512",
+      "label": 0,
+      "prompt_chars": 1696
+    },
+    "KEYCLOAK_00180": {
+      "project": "KEYCLOAK",
+      "index": 180,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-17743",
+      "label": 0,
+      "prompt_chars": 1162
+    },
+    "KEYCLOAK_00181": {
+      "project": "KEYCLOAK",
+      "index": 181,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-7733",
+      "label": 0,
+      "prompt_chars": 1470
+    },
+    "KEYCLOAK_00182": {
+      "project": "KEYCLOAK",
+      "index": 182,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6862",
+      "label": 1,
+      "prompt_chars": 1707
+    },
+    "KEYCLOAK_00183": {
+      "project": "KEYCLOAK",
+      "index": 183,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6747",
+      "label": 0,
+      "prompt_chars": 1263
+    },
+    "KEYCLOAK_00184": {
+      "project": "KEYCLOAK",
+      "index": 184,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-12882",
+      "label": 0,
+      "prompt_chars": 1079
+    },
+    "KEYCLOAK_00185": {
+      "project": "KEYCLOAK",
+      "index": 185,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6514",
+      "label": 0,
+      "prompt_chars": 1723
+    },
+    "KEYCLOAK_00186": {
+      "project": "KEYCLOAK",
+      "index": 186,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6863",
+      "label": 1,
+      "prompt_chars": 1227
+    },
+    "KEYCLOAK_00187": {
+      "project": "KEYCLOAK",
+      "index": 187,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-5975",
+      "label": 0,
+      "prompt_chars": 1335
+    },
+    "KEYCLOAK_00188": {
+      "project": "KEYCLOAK",
+      "index": 188,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-16594",
+      "label": 0,
+      "prompt_chars": 6690
+    },
+    "KEYCLOAK_00189": {
+      "project": "KEYCLOAK",
+      "index": 189,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-12409",
+      "label": 0,
+      "prompt_chars": 1110
+    },
+    "KEYCLOAK_00190": {
+      "project": "KEYCLOAK",
+      "index": 190,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6864",
+      "label": 1,
+      "prompt_chars": 1280
+    },
+    "KEYCLOAK_00191": {
+      "project": "KEYCLOAK",
+      "index": 191,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-11744",
+      "label": 0,
+      "prompt_chars": 1385
+    },
+    "KEYCLOAK_00192": {
+      "project": "KEYCLOAK",
+      "index": 192,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-5079",
+      "label": 0,
+      "prompt_chars": 1297
+    },
+    "KEYCLOAK_00193": {
+      "project": "KEYCLOAK",
+      "index": 193,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-8549",
+      "label": 0,
+      "prompt_chars": 1088
+    },
+    "KEYCLOAK_00194": {
+      "project": "KEYCLOAK",
+      "index": 194,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6865",
+      "label": 1,
+      "prompt_chars": 1311
+    },
+    "KEYCLOAK_00195": {
+      "project": "KEYCLOAK",
+      "index": 195,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-7556",
+      "label": 0,
+      "prompt_chars": 1545
+    },
+    "KEYCLOAK_00196": {
+      "project": "KEYCLOAK",
+      "index": 196,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-4761",
+      "label": 0,
+      "prompt_chars": 1155
+    },
+    "KEYCLOAK_00197": {
+      "project": "KEYCLOAK",
+      "index": 197,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-8466",
+      "label": 0,
+      "prompt_chars": 1133
+    },
+    "KEYCLOAK_00198": {
+      "project": "KEYCLOAK",
+      "index": 198,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6940",
+      "label": 1,
+      "prompt_chars": 1564
+    },
+    "KEYCLOAK_00199": {
+      "project": "KEYCLOAK",
+      "index": 199,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-14622",
+      "label": 0,
+      "prompt_chars": 1511
+    },
+    "KEYCLOAK_00200": {
+      "project": "KEYCLOAK",
+      "index": 200,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6680",
+      "label": 0,
+      "prompt_chars": 1557
+    },
+    "KEYCLOAK_00201": {
+      "project": "KEYCLOAK",
+      "index": 201,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-9656",
+      "label": 0,
+      "prompt_chars": 1222
+    },
+    "KEYCLOAK_00202": {
+      "project": "KEYCLOAK",
+      "index": 202,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6941",
+      "label": 1,
+      "prompt_chars": 1335
+    },
+    "KEYCLOAK_00203": {
+      "project": "KEYCLOAK",
+      "index": 203,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-15153",
+      "label": 0,
+      "prompt_chars": 1434
+    },
+    "KEYCLOAK_00204": {
+      "project": "KEYCLOAK",
+      "index": 204,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-8355",
+      "label": 0,
+      "prompt_chars": 1162
+    },
+    "KEYCLOAK_00205": {
+      "project": "KEYCLOAK",
+      "index": 205,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-11516",
+      "label": 0,
+      "prompt_chars": 1139
+    },
+    "KEYCLOAK_00206": {
+      "project": "KEYCLOAK",
+      "index": 206,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-7086",
+      "label": 1,
+      "prompt_chars": 1162
+    },
+    "KEYCLOAK_00207": {
+      "project": "KEYCLOAK",
+      "index": 207,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-16233",
+      "label": 0,
+      "prompt_chars": 1097
+    },
+    "KEYCLOAK_00208": {
+      "project": "KEYCLOAK",
+      "index": 208,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-14071",
+      "label": 0,
+      "prompt_chars": 3077
+    },
+    "KEYCLOAK_00209": {
+      "project": "KEYCLOAK",
+      "index": 209,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-10879",
+      "label": 0,
+      "prompt_chars": 1786
+    },
+    "KEYCLOAK_00210": {
+      "project": "KEYCLOAK",
+      "index": 210,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-7107",
+      "label": 1,
+      "prompt_chars": 1203
+    },
+    "KEYCLOAK_00211": {
+      "project": "KEYCLOAK",
+      "index": 211,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-9712",
+      "label": 0,
+      "prompt_chars": 1618
+    },
+    "KEYCLOAK_00212": {
+      "project": "KEYCLOAK",
+      "index": 212,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-5229",
+      "label": 0,
+      "prompt_chars": 1208
+    },
+    "KEYCLOAK_00213": {
+      "project": "KEYCLOAK",
+      "index": 213,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-11968",
+      "label": 0,
+      "prompt_chars": 1759
+    },
+    "KEYCLOAK_00214": {
+      "project": "KEYCLOAK",
+      "index": 214,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-7116",
+      "label": 1,
+      "prompt_chars": 1076
+    },
+    "KEYCLOAK_00215": {
+      "project": "KEYCLOAK",
+      "index": 215,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-7575",
+      "label": 0,
+      "prompt_chars": 1051
+    },
+    "KEYCLOAK_00216": {
+      "project": "KEYCLOAK",
+      "index": 216,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-7498",
+      "label": 0,
+      "prompt_chars": 1220
+    },
+    "KEYCLOAK_00217": {
+      "project": "KEYCLOAK",
+      "index": 217,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-11293",
+      "label": 0,
+      "prompt_chars": 2216
+    },
+    "KEYCLOAK_00218": {
+      "project": "KEYCLOAK",
+      "index": 218,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-7143",
+      "label": 1,
+      "prompt_chars": 1091
+    },
+    "KEYCLOAK_00219": {
+      "project": "KEYCLOAK",
+      "index": 219,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-11615",
+      "label": 0,
+      "prompt_chars": 1826
+    },
+    "KEYCLOAK_00220": {
+      "project": "KEYCLOAK",
+      "index": 220,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6727",
+      "label": 0,
+      "prompt_chars": 1077
+    },
+    "KEYCLOAK_00221": {
+      "project": "KEYCLOAK",
+      "index": 221,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-2658",
+      "label": 0,
+      "prompt_chars": 1127
+    },
+    "KEYCLOAK_00222": {
+      "project": "KEYCLOAK",
+      "index": 222,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-7385",
+      "label": 1,
+      "prompt_chars": 1076
+    },
+    "KEYCLOAK_00223": {
+      "project": "KEYCLOAK",
+      "index": 223,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-12030",
+      "label": 0,
+      "prompt_chars": 1422
+    },
+    "KEYCLOAK_00224": {
+      "project": "KEYCLOAK",
+      "index": 224,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-18070",
+      "label": 0,
+      "prompt_chars": 1187
+    },
+    "KEYCLOAK_00225": {
+      "project": "KEYCLOAK",
+      "index": 225,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-10331",
+      "label": 0,
+      "prompt_chars": 1904
+    },
+    "KEYCLOAK_00226": {
+      "project": "KEYCLOAK",
+      "index": 226,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-7386",
+      "label": 1,
+      "prompt_chars": 1085
+    },
+    "KEYCLOAK_00227": {
+      "project": "KEYCLOAK",
+      "index": 227,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6978",
+      "label": 0,
+      "prompt_chars": 1298
+    },
+    "KEYCLOAK_00228": {
+      "project": "KEYCLOAK",
+      "index": 228,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-8361",
+      "label": 0,
+      "prompt_chars": 1280
+    },
+    "KEYCLOAK_00229": {
+      "project": "KEYCLOAK",
+      "index": 229,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-5690",
+      "label": 0,
+      "prompt_chars": 1626
+    },
+    "KEYCLOAK_00230": {
+      "project": "KEYCLOAK",
+      "index": 230,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-7395",
+      "label": 1,
+      "prompt_chars": 1300
+    },
+    "KEYCLOAK_00231": {
+      "project": "KEYCLOAK",
+      "index": 231,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-7550",
+      "label": 0,
+      "prompt_chars": 1101
+    },
+    "KEYCLOAK_00232": {
+      "project": "KEYCLOAK",
+      "index": 232,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6683",
+      "label": 0,
+      "prompt_chars": 1141
+    },
+    "KEYCLOAK_00233": {
+      "project": "KEYCLOAK",
+      "index": 233,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6684",
+      "label": 0,
+      "prompt_chars": 1110
+    },
+    "KEYCLOAK_00234": {
+      "project": "KEYCLOAK",
+      "index": 234,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-7419",
+      "label": 1,
+      "prompt_chars": 1469
+    },
+    "KEYCLOAK_00235": {
+      "project": "KEYCLOAK",
+      "index": 235,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-14142",
+      "label": 0,
+      "prompt_chars": 1598
+    },
+    "KEYCLOAK_00236": {
+      "project": "KEYCLOAK",
+      "index": 236,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-11201",
+      "label": 0,
+      "prompt_chars": 1600
+    },
+    "KEYCLOAK_00237": {
+      "project": "KEYCLOAK",
+      "index": 237,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-6746",
+      "label": 0,
+      "prompt_chars": 1314
+    },
+    "KEYCLOAK_00238": {
+      "project": "KEYCLOAK",
+      "index": 238,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-7452",
+      "label": 1,
+      "prompt_chars": 1088
+    },
+    "KEYCLOAK_00239": {
+      "project": "KEYCLOAK",
+      "index": 239,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-12105",
+      "label": 0,
+      "prompt_chars": 1179
+    },
+    "KEYCLOAK_00240": {
+      "project": "KEYCLOAK",
+      "index": 240,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-9555",
+      "label": 0,
+      "prompt_chars": 1273
+    },
+    "KEYCLOAK_00241": {
+      "project": "KEYCLOAK",
+      "index": 241,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-9566",
+      "label": 0,
+      "prompt_chars": 1546
+    },
+    "KEYCLOAK_00242": {
+      "project": "KEYCLOAK",
+      "index": 242,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-7453",
+      "label": 1,
+      "prompt_chars": 1089
+    },
+    "KEYCLOAK_00243": {
+      "project": "KEYCLOAK",
+      "index": 243,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-7553",
+      "label": 0,
+      "prompt_chars": 1347
+    },
+    "KEYCLOAK_00244": {
+      "project": "KEYCLOAK",
+      "index": 244,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-11270",
+      "label": 0,
+      "prompt_chars": 1186
+    },
+    "KEYCLOAK_00245": {
+      "project": "KEYCLOAK",
+      "index": 245,
+      "source_id": "KEYCLOAK-6176",
+      "target_id": "KEYCLOAK-7915",
+      "label": 0,
+      "prompt_chars": 1152
+    },
+    "KEYCLOAK_00246": {
+      "project": "KEYCLOAK",
+      "index": 246,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-10369",
+      "label": 1,
+      "prompt_chars": 911
+    },
+    "KEYCLOAK_00247": {
+      "project": "KEYCLOAK",
+      "index": 247,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-4241",
+      "label": 0,
+      "prompt_chars": 533
+    },
+    "KEYCLOAK_00248": {
+      "project": "KEYCLOAK",
+      "index": 248,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-8589",
+      "label": 0,
+      "prompt_chars": 538
+    },
+    "KEYCLOAK_00249": {
+      "project": "KEYCLOAK",
+      "index": 249,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7385",
+      "label": 0,
+      "prompt_chars": 544
+    },
+    "KEYCLOAK_00250": {
+      "project": "KEYCLOAK",
+      "index": 250,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-5469",
+      "label": 1,
+      "prompt_chars": 706
+    },
+    "KEYCLOAK_00251": {
+      "project": "KEYCLOAK",
+      "index": 251,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6187",
+      "label": 0,
+      "prompt_chars": 536
+    },
+    "KEYCLOAK_00252": {
+      "project": "KEYCLOAK",
+      "index": 252,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7386",
+      "label": 0,
+      "prompt_chars": 553
+    },
+    "KEYCLOAK_00253": {
+      "project": "KEYCLOAK",
+      "index": 253,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-10074",
+      "label": 0,
+      "prompt_chars": 596
+    },
+    "KEYCLOAK_00254": {
+      "project": "KEYCLOAK",
+      "index": 254,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-5829",
+      "label": 1,
+      "prompt_chars": 986
+    },
+    "KEYCLOAK_00255": {
+      "project": "KEYCLOAK",
+      "index": 255,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6221",
+      "label": 0,
+      "prompt_chars": 555
+    },
+    "KEYCLOAK_00256": {
+      "project": "KEYCLOAK",
+      "index": 256,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-8557",
+      "label": 0,
+      "prompt_chars": 574
+    },
+    "KEYCLOAK_00257": {
+      "project": "KEYCLOAK",
+      "index": 257,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-11879",
+      "label": 0,
+      "prompt_chars": 534
+    },
+    "KEYCLOAK_00258": {
+      "project": "KEYCLOAK",
+      "index": 258,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-5830",
+      "label": 1,
+      "prompt_chars": 1001
+    },
+    "KEYCLOAK_00259": {
+      "project": "KEYCLOAK",
+      "index": 259,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6594",
+      "label": 0,
+      "prompt_chars": 533
+    },
+    "KEYCLOAK_00260": {
+      "project": "KEYCLOAK",
+      "index": 260,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6493",
+      "label": 0,
+      "prompt_chars": 558
+    },
+    "KEYCLOAK_00261": {
+      "project": "KEYCLOAK",
+      "index": 261,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6188",
+      "label": 0,
+      "prompt_chars": 538
+    },
+    "KEYCLOAK_00262": {
+      "project": "KEYCLOAK",
+      "index": 262,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-5968",
+      "label": 1,
+      "prompt_chars": 684
+    },
+    "KEYCLOAK_00263": {
+      "project": "KEYCLOAK",
+      "index": 263,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-15852",
+      "label": 0,
+      "prompt_chars": 567
+    },
+    "KEYCLOAK_00264": {
+      "project": "KEYCLOAK",
+      "index": 264,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-8550",
+      "label": 0,
+      "prompt_chars": 564
+    },
+    "KEYCLOAK_00265": {
+      "project": "KEYCLOAK",
+      "index": 265,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7173",
+      "label": 0,
+      "prompt_chars": 537
+    },
+    "KEYCLOAK_00266": {
+      "project": "KEYCLOAK",
+      "index": 266,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-5973",
+      "label": 1,
+      "prompt_chars": 573
+    },
+    "KEYCLOAK_00267": {
+      "project": "KEYCLOAK",
+      "index": 267,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6533",
+      "label": 0,
+      "prompt_chars": 557
+    },
+    "KEYCLOAK_00268": {
+      "project": "KEYCLOAK",
+      "index": 268,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-14401",
+      "label": 0,
+      "prompt_chars": 538
+    },
+    "KEYCLOAK_00269": {
+      "project": "KEYCLOAK",
+      "index": 269,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6186",
+      "label": 0,
+      "prompt_chars": 528
+    },
+    "KEYCLOAK_00270": {
+      "project": "KEYCLOAK",
+      "index": 270,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-5975",
+      "label": 1,
+      "prompt_chars": 803
+    },
+    "KEYCLOAK_00271": {
+      "project": "KEYCLOAK",
+      "index": 271,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-9359",
+      "label": 0,
+      "prompt_chars": 542
+    },
+    "KEYCLOAK_00272": {
+      "project": "KEYCLOAK",
+      "index": 272,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6595",
+      "label": 0,
+      "prompt_chars": 548
+    },
+    "KEYCLOAK_00273": {
+      "project": "KEYCLOAK",
+      "index": 273,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-8548",
+      "label": 0,
+      "prompt_chars": 528
+    },
+    "KEYCLOAK_00274": {
+      "project": "KEYCLOAK",
+      "index": 274,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6140",
+      "label": 1,
+      "prompt_chars": 625
+    },
+    "KEYCLOAK_00275": {
+      "project": "KEYCLOAK",
+      "index": 275,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6219",
+      "label": 0,
+      "prompt_chars": 545
+    },
+    "KEYCLOAK_00276": {
+      "project": "KEYCLOAK",
+      "index": 276,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7849",
+      "label": 0,
+      "prompt_chars": 519
+    },
+    "KEYCLOAK_00277": {
+      "project": "KEYCLOAK",
+      "index": 277,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-11358",
+      "label": 0,
+      "prompt_chars": 551
+    },
+    "KEYCLOAK_00278": {
+      "project": "KEYCLOAK",
+      "index": 278,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6165",
+      "label": 1,
+      "prompt_chars": 708
+    },
+    "KEYCLOAK_00279": {
+      "project": "KEYCLOAK",
+      "index": 279,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-2860",
+      "label": 0,
+      "prompt_chars": 531
+    },
+    "KEYCLOAK_00280": {
+      "project": "KEYCLOAK",
+      "index": 280,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6214",
+      "label": 0,
+      "prompt_chars": 522
+    },
+    "KEYCLOAK_00281": {
+      "project": "KEYCLOAK",
+      "index": 281,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-11360",
+      "label": 0,
+      "prompt_chars": 540
+    },
+    "KEYCLOAK_00282": {
+      "project": "KEYCLOAK",
+      "index": 282,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6234",
+      "label": 1,
+      "prompt_chars": 693
+    },
+    "KEYCLOAK_00283": {
+      "project": "KEYCLOAK",
+      "index": 283,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-8521",
+      "label": 0,
+      "prompt_chars": 542
+    },
+    "KEYCLOAK_00284": {
+      "project": "KEYCLOAK",
+      "index": 284,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6727",
+      "label": 0,
+      "prompt_chars": 545
+    },
+    "KEYCLOAK_00285": {
+      "project": "KEYCLOAK",
+      "index": 285,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-9558",
+      "label": 0,
+      "prompt_chars": 523
+    },
+    "KEYCLOAK_00286": {
+      "project": "KEYCLOAK",
+      "index": 286,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6235",
+      "label": 1,
+      "prompt_chars": 554
+    },
+    "KEYCLOAK_00287": {
+      "project": "KEYCLOAK",
+      "index": 287,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6909",
+      "label": 0,
+      "prompt_chars": 556
+    },
+    "KEYCLOAK_00288": {
+      "project": "KEYCLOAK",
+      "index": 288,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6906",
+      "label": 0,
+      "prompt_chars": 556
+    },
+    "KEYCLOAK_00289": {
+      "project": "KEYCLOAK",
+      "index": 289,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-12572",
+      "label": 0,
+      "prompt_chars": 685
+    },
+    "KEYCLOAK_00290": {
+      "project": "KEYCLOAK",
+      "index": 290,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6288",
+      "label": 1,
+      "prompt_chars": 558
+    },
+    "KEYCLOAK_00291": {
+      "project": "KEYCLOAK",
+      "index": 291,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-13638",
+      "label": 0,
+      "prompt_chars": 574
+    },
+    "KEYCLOAK_00292": {
+      "project": "KEYCLOAK",
+      "index": 292,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-1344",
+      "label": 0,
+      "prompt_chars": 521
+    },
+    "KEYCLOAK_00293": {
+      "project": "KEYCLOAK",
+      "index": 293,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6726",
+      "label": 0,
+      "prompt_chars": 570
+    },
+    "KEYCLOAK_00294": {
+      "project": "KEYCLOAK",
+      "index": 294,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6512",
+      "label": 1,
+      "prompt_chars": 1299
+    },
+    "KEYCLOAK_00295": {
+      "project": "KEYCLOAK",
+      "index": 295,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6255",
+      "label": 0,
+      "prompt_chars": 555
+    },
+    "KEYCLOAK_00296": {
+      "project": "KEYCLOAK",
+      "index": 296,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7082",
+      "label": 0,
+      "prompt_chars": 532
+    },
+    "KEYCLOAK_00297": {
+      "project": "KEYCLOAK",
+      "index": 297,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-11694",
+      "label": 0,
+      "prompt_chars": 639
+    },
+    "KEYCLOAK_00298": {
+      "project": "KEYCLOAK",
+      "index": 298,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6514",
+      "label": 1,
+      "prompt_chars": 1191
+    },
+    "KEYCLOAK_00299": {
+      "project": "KEYCLOAK",
+      "index": 299,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-14682",
+      "label": 0,
+      "prompt_chars": 629
+    },
+    "KEYCLOAK_00300": {
+      "project": "KEYCLOAK",
+      "index": 300,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-18632",
+      "label": 0,
+      "prompt_chars": 683
+    },
+    "KEYCLOAK_00301": {
+      "project": "KEYCLOAK",
+      "index": 301,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6958",
+      "label": 0,
+      "prompt_chars": 543
+    },
+    "KEYCLOAK_00302": {
+      "project": "KEYCLOAK",
+      "index": 302,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6526",
+      "label": 1,
+      "prompt_chars": 975
+    },
+    "KEYCLOAK_00303": {
+      "project": "KEYCLOAK",
+      "index": 303,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6496",
+      "label": 0,
+      "prompt_chars": 563
+    },
+    "KEYCLOAK_00304": {
+      "project": "KEYCLOAK",
+      "index": 304,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-11306",
+      "label": 0,
+      "prompt_chars": 564
+    },
+    "KEYCLOAK_00305": {
+      "project": "KEYCLOAK",
+      "index": 305,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-13107",
+      "label": 0,
+      "prompt_chars": 523
+    },
+    "KEYCLOAK_00306": {
+      "project": "KEYCLOAK",
+      "index": 306,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6536",
+      "label": 1,
+      "prompt_chars": 809
+    },
+    "KEYCLOAK_00307": {
+      "project": "KEYCLOAK",
+      "index": 307,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7756",
+      "label": 0,
+      "prompt_chars": 547
+    },
+    "KEYCLOAK_00308": {
+      "project": "KEYCLOAK",
+      "index": 308,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6217",
+      "label": 0,
+      "prompt_chars": 536
+    },
+    "KEYCLOAK_00309": {
+      "project": "KEYCLOAK",
+      "index": 309,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-15898",
+      "label": 0,
+      "prompt_chars": 521
+    },
+    "KEYCLOAK_00310": {
+      "project": "KEYCLOAK",
+      "index": 310,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6538",
+      "label": 1,
+      "prompt_chars": 519
+    },
+    "KEYCLOAK_00311": {
+      "project": "KEYCLOAK",
+      "index": 311,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6200",
+      "label": 0,
+      "prompt_chars": 722
+    },
+    "KEYCLOAK_00312": {
+      "project": "KEYCLOAK",
+      "index": 312,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7129",
+      "label": 0,
+      "prompt_chars": 523
+    },
+    "KEYCLOAK_00313": {
+      "project": "KEYCLOAK",
+      "index": 313,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6218",
+      "label": 0,
+      "prompt_chars": 542
+    },
+    "KEYCLOAK_00314": {
+      "project": "KEYCLOAK",
+      "index": 314,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6540",
+      "label": 1,
+      "prompt_chars": 543
+    },
+    "KEYCLOAK_00315": {
+      "project": "KEYCLOAK",
+      "index": 315,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-15143",
+      "label": 0,
+      "prompt_chars": 533
+    },
+    "KEYCLOAK_00316": {
+      "project": "KEYCLOAK",
+      "index": 316,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-16169",
+      "label": 0,
+      "prompt_chars": 564
+    },
+    "KEYCLOAK_00317": {
+      "project": "KEYCLOAK",
+      "index": 317,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-11884",
+      "label": 0,
+      "prompt_chars": 527
+    },
+    "KEYCLOAK_00318": {
+      "project": "KEYCLOAK",
+      "index": 318,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6553",
+      "label": 1,
+      "prompt_chars": 978
+    },
+    "KEYCLOAK_00319": {
+      "project": "KEYCLOAK",
+      "index": 319,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-8547",
+      "label": 0,
+      "prompt_chars": 518
+    },
+    "KEYCLOAK_00320": {
+      "project": "KEYCLOAK",
+      "index": 320,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6532",
+      "label": 0,
+      "prompt_chars": 548
+    },
+    "KEYCLOAK_00321": {
+      "project": "KEYCLOAK",
+      "index": 321,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-14184",
+      "label": 0,
+      "prompt_chars": 651
+    },
+    "KEYCLOAK_00322": {
+      "project": "KEYCLOAK",
+      "index": 322,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6664",
+      "label": 1,
+      "prompt_chars": 625
+    },
+    "KEYCLOAK_00323": {
+      "project": "KEYCLOAK",
+      "index": 323,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-14026",
+      "label": 0,
+      "prompt_chars": 523
+    },
+    "KEYCLOAK_00324": {
+      "project": "KEYCLOAK",
+      "index": 324,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-9358",
+      "label": 0,
+      "prompt_chars": 545
+    },
+    "KEYCLOAK_00325": {
+      "project": "KEYCLOAK",
+      "index": 325,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-14255",
+      "label": 0,
+      "prompt_chars": 547
+    },
+    "KEYCLOAK_00326": {
+      "project": "KEYCLOAK",
+      "index": 326,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6683",
+      "label": 1,
+      "prompt_chars": 609
+    },
+    "KEYCLOAK_00327": {
+      "project": "KEYCLOAK",
+      "index": 327,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7127",
+      "label": 0,
+      "prompt_chars": 520
+    },
+    "KEYCLOAK_00328": {
+      "project": "KEYCLOAK",
+      "index": 328,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6280",
+      "label": 0,
+      "prompt_chars": 537
+    },
+    "KEYCLOAK_00329": {
+      "project": "KEYCLOAK",
+      "index": 329,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-17315",
+      "label": 0,
+      "prompt_chars": 1094
+    },
+    "KEYCLOAK_00330": {
+      "project": "KEYCLOAK",
+      "index": 330,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6684",
+      "label": 1,
+      "prompt_chars": 578
+    },
+    "KEYCLOAK_00331": {
+      "project": "KEYCLOAK",
+      "index": 331,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-10115",
+      "label": 0,
+      "prompt_chars": 521
+    },
+    "KEYCLOAK_00332": {
+      "project": "KEYCLOAK",
+      "index": 332,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-11349",
+      "label": 0,
+      "prompt_chars": 541
+    },
+    "KEYCLOAK_00333": {
+      "project": "KEYCLOAK",
+      "index": 333,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-8540",
+      "label": 0,
+      "prompt_chars": 535
+    },
+    "KEYCLOAK_00334": {
+      "project": "KEYCLOAK",
+      "index": 334,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6759",
+      "label": 1,
+      "prompt_chars": 541
+    },
+    "KEYCLOAK_00335": {
+      "project": "KEYCLOAK",
+      "index": 335,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6194",
+      "label": 0,
+      "prompt_chars": 709
+    },
+    "KEYCLOAK_00336": {
+      "project": "KEYCLOAK",
+      "index": 336,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-4916",
+      "label": 0,
+      "prompt_chars": 535
+    },
+    "KEYCLOAK_00337": {
+      "project": "KEYCLOAK",
+      "index": 337,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6274",
+      "label": 0,
+      "prompt_chars": 562
+    },
+    "KEYCLOAK_00338": {
+      "project": "KEYCLOAK",
+      "index": 338,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6779",
+      "label": 1,
+      "prompt_chars": 570
+    },
+    "KEYCLOAK_00339": {
+      "project": "KEYCLOAK",
+      "index": 339,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-11305",
+      "label": 0,
+      "prompt_chars": 629
+    },
+    "KEYCLOAK_00340": {
+      "project": "KEYCLOAK",
+      "index": 340,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-11507",
+      "label": 0,
+      "prompt_chars": 543
+    },
+    "KEYCLOAK_00341": {
+      "project": "KEYCLOAK",
+      "index": 341,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-15749",
+      "label": 0,
+      "prompt_chars": 673
+    },
+    "KEYCLOAK_00342": {
+      "project": "KEYCLOAK",
+      "index": 342,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6780",
+      "label": 1,
+      "prompt_chars": 725
+    },
+    "KEYCLOAK_00343": {
+      "project": "KEYCLOAK",
+      "index": 343,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-10166",
+      "label": 0,
+      "prompt_chars": 622
+    },
+    "KEYCLOAK_00344": {
+      "project": "KEYCLOAK",
+      "index": 344,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-11881",
+      "label": 0,
+      "prompt_chars": 531
+    },
+    "KEYCLOAK_00345": {
+      "project": "KEYCLOAK",
+      "index": 345,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-18633",
+      "label": 0,
+      "prompt_chars": 700
+    },
+    "KEYCLOAK_00346": {
+      "project": "KEYCLOAK",
+      "index": 346,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6812",
+      "label": 1,
+      "prompt_chars": 726
+    },
+    "KEYCLOAK_00347": {
+      "project": "KEYCLOAK",
+      "index": 347,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-10879",
+      "label": 0,
+      "prompt_chars": 1254
+    },
+    "KEYCLOAK_00348": {
+      "project": "KEYCLOAK",
+      "index": 348,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-13676",
+      "label": 0,
+      "prompt_chars": 539
+    },
+    "KEYCLOAK_00349": {
+      "project": "KEYCLOAK",
+      "index": 349,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-12273",
+      "label": 0,
+      "prompt_chars": 775
+    },
+    "KEYCLOAK_00350": {
+      "project": "KEYCLOAK",
+      "index": 350,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6825",
+      "label": 1,
+      "prompt_chars": 561
+    },
+    "KEYCLOAK_00351": {
+      "project": "KEYCLOAK",
+      "index": 351,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-4344",
+      "label": 0,
+      "prompt_chars": 522
+    },
+    "KEYCLOAK_00352": {
+      "project": "KEYCLOAK",
+      "index": 352,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-11880",
+      "label": 0,
+      "prompt_chars": 528
+    },
+    "KEYCLOAK_00353": {
+      "project": "KEYCLOAK",
+      "index": 353,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-16594",
+      "label": 0,
+      "prompt_chars": 6158
+    },
+    "KEYCLOAK_00354": {
+      "project": "KEYCLOAK",
+      "index": 354,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6827",
+      "label": 1,
+      "prompt_chars": 530
+    },
+    "KEYCLOAK_00355": {
+      "project": "KEYCLOAK",
+      "index": 355,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-11787",
+      "label": 0,
+      "prompt_chars": 519
+    },
+    "KEYCLOAK_00356": {
+      "project": "KEYCLOAK",
+      "index": 356,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7876",
+      "label": 0,
+      "prompt_chars": 530
+    },
+    "KEYCLOAK_00357": {
+      "project": "KEYCLOAK",
+      "index": 357,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6201",
+      "label": 0,
+      "prompt_chars": 1080
+    },
+    "KEYCLOAK_00358": {
+      "project": "KEYCLOAK",
+      "index": 358,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6833",
+      "label": 1,
+      "prompt_chars": 682
+    },
+    "KEYCLOAK_00359": {
+      "project": "KEYCLOAK",
+      "index": 359,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6180",
+      "label": 0,
+      "prompt_chars": 521
+    },
+    "KEYCLOAK_00360": {
+      "project": "KEYCLOAK",
+      "index": 360,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-11506",
+      "label": 0,
+      "prompt_chars": 526
+    },
+    "KEYCLOAK_00361": {
+      "project": "KEYCLOAK",
+      "index": 361,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7096",
+      "label": 0,
+      "prompt_chars": 593
+    },
+    "KEYCLOAK_00362": {
+      "project": "KEYCLOAK",
+      "index": 362,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6899",
+      "label": 1,
+      "prompt_chars": 936
+    },
+    "KEYCLOAK_00363": {
+      "project": "KEYCLOAK",
+      "index": 363,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6281",
+      "label": 0,
+      "prompt_chars": 535
+    },
+    "KEYCLOAK_00364": {
+      "project": "KEYCLOAK",
+      "index": 364,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-10398",
+      "label": 0,
+      "prompt_chars": 543
+    },
+    "KEYCLOAK_00365": {
+      "project": "KEYCLOAK",
+      "index": 365,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7091",
+      "label": 0,
+      "prompt_chars": 555
+    },
+    "KEYCLOAK_00366": {
+      "project": "KEYCLOAK",
+      "index": 366,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6934",
+      "label": 1,
+      "prompt_chars": 525
+    },
+    "KEYCLOAK_00367": {
+      "project": "KEYCLOAK",
+      "index": 367,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6184",
+      "label": 0,
+      "prompt_chars": 566
+    },
+    "KEYCLOAK_00368": {
+      "project": "KEYCLOAK",
+      "index": 368,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-11883",
+      "label": 0,
+      "prompt_chars": 531
+    },
+    "KEYCLOAK_00369": {
+      "project": "KEYCLOAK",
+      "index": 369,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7581",
+      "label": 0,
+      "prompt_chars": 528
+    },
+    "KEYCLOAK_00370": {
+      "project": "KEYCLOAK",
+      "index": 370,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6978",
+      "label": 1,
+      "prompt_chars": 766
+    },
+    "KEYCLOAK_00371": {
+      "project": "KEYCLOAK",
+      "index": 371,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-17805",
+      "label": 0,
+      "prompt_chars": 683
+    },
+    "KEYCLOAK_00372": {
+      "project": "KEYCLOAK",
+      "index": 372,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-15889",
+      "label": 0,
+      "prompt_chars": 526
+    },
+    "KEYCLOAK_00373": {
+      "project": "KEYCLOAK",
+      "index": 373,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-14024",
+      "label": 0,
+      "prompt_chars": 534
+    },
+    "KEYCLOAK_00374": {
+      "project": "KEYCLOAK",
+      "index": 374,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7056",
+      "label": 1,
+      "prompt_chars": 528
+    },
+    "KEYCLOAK_00375": {
+      "project": "KEYCLOAK",
+      "index": 375,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-15478",
+      "label": 0,
+      "prompt_chars": 1097
+    },
+    "KEYCLOAK_00376": {
+      "project": "KEYCLOAK",
+      "index": 376,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-13587",
+      "label": 0,
+      "prompt_chars": 531
+    },
+    "KEYCLOAK_00377": {
+      "project": "KEYCLOAK",
+      "index": 377,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-15854",
+      "label": 0,
+      "prompt_chars": 545
+    },
+    "KEYCLOAK_00378": {
+      "project": "KEYCLOAK",
+      "index": 378,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7064",
+      "label": 1,
+      "prompt_chars": 559
+    },
+    "KEYCLOAK_00379": {
+      "project": "KEYCLOAK",
+      "index": 379,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-10399",
+      "label": 0,
+      "prompt_chars": 535
+    },
+    "KEYCLOAK_00380": {
+      "project": "KEYCLOAK",
+      "index": 380,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-11535",
+      "label": 0,
+      "prompt_chars": 819
+    },
+    "KEYCLOAK_00381": {
+      "project": "KEYCLOAK",
+      "index": 381,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-12095",
+      "label": 0,
+      "prompt_chars": 533
+    },
+    "KEYCLOAK_00382": {
+      "project": "KEYCLOAK",
+      "index": 382,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7189",
+      "label": 1,
+      "prompt_chars": 543
+    },
+    "KEYCLOAK_00383": {
+      "project": "KEYCLOAK",
+      "index": 383,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-1686",
+      "label": 0,
+      "prompt_chars": 531
+    },
+    "KEYCLOAK_00384": {
+      "project": "KEYCLOAK",
+      "index": 384,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6294",
+      "label": 0,
+      "prompt_chars": 564
+    },
+    "KEYCLOAK_00385": {
+      "project": "KEYCLOAK",
+      "index": 385,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-8319",
+      "label": 0,
+      "prompt_chars": 613
+    },
+    "KEYCLOAK_00386": {
+      "project": "KEYCLOAK",
+      "index": 386,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7190",
+      "label": 1,
+      "prompt_chars": 787
+    },
+    "KEYCLOAK_00387": {
+      "project": "KEYCLOAK",
+      "index": 387,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-10881",
+      "label": 0,
+      "prompt_chars": 1153
+    },
+    "KEYCLOAK_00388": {
+      "project": "KEYCLOAK",
+      "index": 388,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7580",
+      "label": 0,
+      "prompt_chars": 529
+    },
+    "KEYCLOAK_00389": {
+      "project": "KEYCLOAK",
+      "index": 389,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6494",
+      "label": 0,
+      "prompt_chars": 543
+    },
+    "KEYCLOAK_00390": {
+      "project": "KEYCLOAK",
+      "index": 390,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7191",
+      "label": 1,
+      "prompt_chars": 544
+    },
+    "KEYCLOAK_00391": {
+      "project": "KEYCLOAK",
+      "index": 391,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-14860",
+      "label": 0,
+      "prompt_chars": 523
+    },
+    "KEYCLOAK_00392": {
+      "project": "KEYCLOAK",
+      "index": 392,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-14333",
+      "label": 0,
+      "prompt_chars": 532
+    },
+    "KEYCLOAK_00393": {
+      "project": "KEYCLOAK",
+      "index": 393,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7161",
+      "label": 0,
+      "prompt_chars": 540
+    },
+    "KEYCLOAK_00394": {
+      "project": "KEYCLOAK",
+      "index": 394,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7199",
+      "label": 1,
+      "prompt_chars": 841
+    },
+    "KEYCLOAK_00395": {
+      "project": "KEYCLOAK",
+      "index": 395,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-16421",
+      "label": 0,
+      "prompt_chars": 616
+    },
+    "KEYCLOAK_00396": {
+      "project": "KEYCLOAK",
+      "index": 396,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-13105",
+      "label": 0,
+      "prompt_chars": 533
+    },
+    "KEYCLOAK_00397": {
+      "project": "KEYCLOAK",
+      "index": 397,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-10501",
+      "label": 0,
+      "prompt_chars": 602
+    },
+    "KEYCLOAK_00398": {
+      "project": "KEYCLOAK",
+      "index": 398,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7447",
+      "label": 1,
+      "prompt_chars": 540
+    },
+    "KEYCLOAK_00399": {
+      "project": "KEYCLOAK",
+      "index": 399,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-17628",
+      "label": 0,
+      "prompt_chars": 5106
+    },
+    "KEYCLOAK_00400": {
+      "project": "KEYCLOAK",
+      "index": 400,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-14256",
+      "label": 0,
+      "prompt_chars": 536
+    },
+    "KEYCLOAK_00401": {
+      "project": "KEYCLOAK",
+      "index": 401,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-5589",
+      "label": 0,
+      "prompt_chars": 757
+    },
+    "KEYCLOAK_00402": {
+      "project": "KEYCLOAK",
+      "index": 402,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7599",
+      "label": 1,
+      "prompt_chars": 819
+    },
+    "KEYCLOAK_00403": {
+      "project": "KEYCLOAK",
+      "index": 403,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-8644",
+      "label": 0,
+      "prompt_chars": 532
+    },
+    "KEYCLOAK_00404": {
+      "project": "KEYCLOAK",
+      "index": 404,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7550",
+      "label": 0,
+      "prompt_chars": 569
+    },
+    "KEYCLOAK_00405": {
+      "project": "KEYCLOAK",
+      "index": 405,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-15695",
+      "label": 0,
+      "prompt_chars": 558
+    },
+    "KEYCLOAK_00406": {
+      "project": "KEYCLOAK",
+      "index": 406,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7620",
+      "label": 1,
+      "prompt_chars": 834
+    },
+    "KEYCLOAK_00407": {
+      "project": "KEYCLOAK",
+      "index": 407,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-12593",
+      "label": 0,
+      "prompt_chars": 529
+    },
+    "KEYCLOAK_00408": {
+      "project": "KEYCLOAK",
+      "index": 408,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7401",
+      "label": 0,
+      "prompt_chars": 564
+    },
+    "KEYCLOAK_00409": {
+      "project": "KEYCLOAK",
+      "index": 409,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7407",
+      "label": 0,
+      "prompt_chars": 550
+    },
+    "KEYCLOAK_00410": {
+      "project": "KEYCLOAK",
+      "index": 410,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7806",
+      "label": 1,
+      "prompt_chars": 532
+    },
+    "KEYCLOAK_00411": {
+      "project": "KEYCLOAK",
+      "index": 411,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-5836",
+      "label": 0,
+      "prompt_chars": 954
+    },
+    "KEYCLOAK_00412": {
+      "project": "KEYCLOAK",
+      "index": 412,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-9748",
+      "label": 0,
+      "prompt_chars": 699
+    },
+    "KEYCLOAK_00413": {
+      "project": "KEYCLOAK",
+      "index": 413,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-14025",
+      "label": 0,
+      "prompt_chars": 545
+    },
+    "KEYCLOAK_00414": {
+      "project": "KEYCLOAK",
+      "index": 414,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7807",
+      "label": 1,
+      "prompt_chars": 538
+    },
+    "KEYCLOAK_00415": {
+      "project": "KEYCLOAK",
+      "index": 415,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-14617",
+      "label": 0,
+      "prompt_chars": 551
+    },
+    "KEYCLOAK_00416": {
+      "project": "KEYCLOAK",
+      "index": 416,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-15135",
+      "label": 0,
+      "prompt_chars": 522
+    },
+    "KEYCLOAK_00417": {
+      "project": "KEYCLOAK",
+      "index": 417,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6729",
+      "label": 0,
+      "prompt_chars": 540
+    },
+    "KEYCLOAK_00418": {
+      "project": "KEYCLOAK",
+      "index": 418,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7808",
+      "label": 1,
+      "prompt_chars": 543
+    },
+    "KEYCLOAK_00419": {
+      "project": "KEYCLOAK",
+      "index": 419,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-17940",
+      "label": 0,
+      "prompt_chars": 525
+    },
+    "KEYCLOAK_00420": {
+      "project": "KEYCLOAK",
+      "index": 420,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-18123",
+      "label": 0,
+      "prompt_chars": 592
+    },
+    "KEYCLOAK_00421": {
+      "project": "KEYCLOAK",
+      "index": 421,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-18730",
+      "label": 0,
+      "prompt_chars": 853
+    },
+    "KEYCLOAK_00422": {
+      "project": "KEYCLOAK",
+      "index": 422,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7866",
+      "label": 1,
+      "prompt_chars": 845
+    },
+    "KEYCLOAK_00423": {
+      "project": "KEYCLOAK",
+      "index": 423,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-8057",
+      "label": 0,
+      "prompt_chars": 519
+    },
+    "KEYCLOAK_00424": {
+      "project": "KEYCLOAK",
+      "index": 424,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-13049",
+      "label": 0,
+      "prompt_chars": 533
+    },
+    "KEYCLOAK_00425": {
+      "project": "KEYCLOAK",
+      "index": 425,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-10331",
+      "label": 0,
+      "prompt_chars": 1372
+    },
+    "KEYCLOAK_00426": {
+      "project": "KEYCLOAK",
+      "index": 426,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-8627",
+      "label": 1,
+      "prompt_chars": 717
+    },
+    "KEYCLOAK_00427": {
+      "project": "KEYCLOAK",
+      "index": 427,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7605",
+      "label": 0,
+      "prompt_chars": 529
+    },
+    "KEYCLOAK_00428": {
+      "project": "KEYCLOAK",
+      "index": 428,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-15102",
+      "label": 0,
+      "prompt_chars": 552
+    },
+    "KEYCLOAK_00429": {
+      "project": "KEYCLOAK",
+      "index": 429,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6446",
+      "label": 0,
+      "prompt_chars": 559
+    },
+    "KEYCLOAK_00430": {
+      "project": "KEYCLOAK",
+      "index": 430,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-8869",
+      "label": 1,
+      "prompt_chars": 530
+    },
+    "KEYCLOAK_00431": {
+      "project": "KEYCLOAK",
+      "index": 431,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-4265",
+      "label": 0,
+      "prompt_chars": 526
+    },
+    "KEYCLOAK_00432": {
+      "project": "KEYCLOAK",
+      "index": 432,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6495",
+      "label": 0,
+      "prompt_chars": 553
+    },
+    "KEYCLOAK_00433": {
+      "project": "KEYCLOAK",
+      "index": 433,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-14332",
+      "label": 0,
+      "prompt_chars": 543
+    },
+    "KEYCLOAK_00434": {
+      "project": "KEYCLOAK",
+      "index": 434,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-9000",
+      "label": 1,
+      "prompt_chars": 619
+    },
+    "KEYCLOAK_00435": {
+      "project": "KEYCLOAK",
+      "index": 435,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-1688",
+      "label": 0,
+      "prompt_chars": 528
+    },
+    "KEYCLOAK_00436": {
+      "project": "KEYCLOAK",
+      "index": 436,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-11614",
+      "label": 0,
+      "prompt_chars": 932
+    },
+    "KEYCLOAK_00437": {
+      "project": "KEYCLOAK",
+      "index": 437,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6182",
+      "label": 0,
+      "prompt_chars": 540
+    },
+    "KEYCLOAK_00438": {
+      "project": "KEYCLOAK",
+      "index": 438,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-9541",
+      "label": 1,
+      "prompt_chars": 1133
+    },
+    "KEYCLOAK_00439": {
+      "project": "KEYCLOAK",
+      "index": 439,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-10385",
+      "label": 0,
+      "prompt_chars": 580
+    },
+    "KEYCLOAK_00440": {
+      "project": "KEYCLOAK",
+      "index": 440,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-4297",
+      "label": 0,
+      "prompt_chars": 699
+    },
+    "KEYCLOAK_00441": {
+      "project": "KEYCLOAK",
+      "index": 441,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-11292",
+      "label": 0,
+      "prompt_chars": 786
+    },
+    "KEYCLOAK_00442": {
+      "project": "KEYCLOAK",
+      "index": 442,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-9542",
+      "label": 1,
+      "prompt_chars": 839
+    },
+    "KEYCLOAK_00443": {
+      "project": "KEYCLOAK",
+      "index": 443,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-11913",
+      "label": 0,
+      "prompt_chars": 708
+    },
+    "KEYCLOAK_00444": {
+      "project": "KEYCLOAK",
+      "index": 444,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7575",
+      "label": 0,
+      "prompt_chars": 519
+    },
+    "KEYCLOAK_00445": {
+      "project": "KEYCLOAK",
+      "index": 445,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7596",
+      "label": 0,
+      "prompt_chars": 665
+    },
+    "KEYCLOAK_00446": {
+      "project": "KEYCLOAK",
+      "index": 446,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-9543",
+      "label": 1,
+      "prompt_chars": 972
+    },
+    "KEYCLOAK_00447": {
+      "project": "KEYCLOAK",
+      "index": 447,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7093",
+      "label": 0,
+      "prompt_chars": 552
+    },
+    "KEYCLOAK_00448": {
+      "project": "KEYCLOAK",
+      "index": 448,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-7116",
+      "label": 0,
+      "prompt_chars": 544
+    },
+    "KEYCLOAK_00449": {
+      "project": "KEYCLOAK",
+      "index": 449,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-8332",
+      "label": 0,
+      "prompt_chars": 530
+    },
+    "KEYCLOAK_00450": {
+      "project": "KEYCLOAK",
+      "index": 450,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-9544",
+      "label": 1,
+      "prompt_chars": 781
+    },
+    "KEYCLOAK_00451": {
+      "project": "KEYCLOAK",
+      "index": 451,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-11556",
+      "label": 0,
+      "prompt_chars": 591
+    },
+    "KEYCLOAK_00452": {
+      "project": "KEYCLOAK",
+      "index": 452,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-11304",
+      "label": 0,
+      "prompt_chars": 539
+    },
+    "KEYCLOAK_00453": {
+      "project": "KEYCLOAK",
+      "index": 453,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-15200",
+      "label": 0,
+      "prompt_chars": 551
+    },
+    "KEYCLOAK_00454": {
+      "project": "KEYCLOAK",
+      "index": 454,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-9545",
+      "label": 1,
+      "prompt_chars": 882
+    },
+    "KEYCLOAK_00455": {
+      "project": "KEYCLOAK",
+      "index": 455,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-15199",
+      "label": 0,
+      "prompt_chars": 551
+    },
+    "KEYCLOAK_00456": {
+      "project": "KEYCLOAK",
+      "index": 456,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-16508",
+      "label": 0,
+      "prompt_chars": 559
+    },
+    "KEYCLOAK_00457": {
+      "project": "KEYCLOAK",
+      "index": 457,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-8533",
+      "label": 0,
+      "prompt_chars": 532
+    },
+    "KEYCLOAK_00458": {
+      "project": "KEYCLOAK",
+      "index": 458,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-9991",
+      "label": 1,
+      "prompt_chars": 808
+    },
+    "KEYCLOAK_00459": {
+      "project": "KEYCLOAK",
+      "index": 459,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-6181",
+      "label": 0,
+      "prompt_chars": 540
+    },
+    "KEYCLOAK_00460": {
+      "project": "KEYCLOAK",
+      "index": 460,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-1687",
+      "label": 0,
+      "prompt_chars": 553
+    },
+    "KEYCLOAK_00461": {
+      "project": "KEYCLOAK",
+      "index": 461,
+      "source_id": "KEYCLOAK-6196",
+      "target_id": "KEYCLOAK-14027",
+      "label": 0,
+      "prompt_chars": 534
+    },
+    "KEYCLOAK_00462": {
+      "project": "KEYCLOAK",
+      "index": 462,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-1686",
+      "label": 1,
+      "prompt_chars": 532
+    },
+    "KEYCLOAK_00463": {
+      "project": "KEYCLOAK",
+      "index": 463,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-2860",
+      "label": 0,
+      "prompt_chars": 532
+    },
+    "KEYCLOAK_00464": {
+      "project": "KEYCLOAK",
+      "index": 464,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-18070",
+      "label": 0,
+      "prompt_chars": 656
+    },
+    "KEYCLOAK_00465": {
+      "project": "KEYCLOAK",
+      "index": 465,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-11270",
+      "label": 0,
+      "prompt_chars": 655
+    },
+    "KEYCLOAK_00466": {
+      "project": "KEYCLOAK",
+      "index": 466,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-1687",
+      "label": 1,
+      "prompt_chars": 554
+    },
+    "KEYCLOAK_00467": {
+      "project": "KEYCLOAK",
+      "index": 467,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-4816",
+      "label": 0,
+      "prompt_chars": 562
+    },
+    "KEYCLOAK_00468": {
+      "project": "KEYCLOAK",
+      "index": 468,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-7064",
+      "label": 0,
+      "prompt_chars": 560
+    },
+    "KEYCLOAK_00469": {
+      "project": "KEYCLOAK",
+      "index": 469,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-9919",
+      "label": 0,
+      "prompt_chars": 574
+    },
+    "KEYCLOAK_00470": {
+      "project": "KEYCLOAK",
+      "index": 470,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-1688",
+      "label": 1,
+      "prompt_chars": 529
+    },
+    "KEYCLOAK_00471": {
+      "project": "KEYCLOAK",
+      "index": 471,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-11330",
+      "label": 0,
+      "prompt_chars": 533
+    },
+    "KEYCLOAK_00472": {
+      "project": "KEYCLOAK",
+      "index": 472,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-3010",
+      "label": 0,
+      "prompt_chars": 533
+    },
+    "KEYCLOAK_00473": {
+      "project": "KEYCLOAK",
+      "index": 473,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-9835",
+      "label": 0,
+      "prompt_chars": 520
+    },
+    "KEYCLOAK_00474": {
+      "project": "KEYCLOAK",
+      "index": 474,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-2971",
+      "label": 1,
+      "prompt_chars": 713
+    },
+    "KEYCLOAK_00475": {
+      "project": "KEYCLOAK",
+      "index": 475,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-6541",
+      "label": 0,
+      "prompt_chars": 532
+    },
+    "KEYCLOAK_00476": {
+      "project": "KEYCLOAK",
+      "index": 476,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-4761",
+      "label": 0,
+      "prompt_chars": 624
+    },
+    "KEYCLOAK_00477": {
+      "project": "KEYCLOAK",
+      "index": 477,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-8471",
+      "label": 0,
+      "prompt_chars": 776
+    },
+    "KEYCLOAK_00478": {
+      "project": "KEYCLOAK",
+      "index": 478,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-4241",
+      "label": 1,
+      "prompt_chars": 534
+    },
+    "KEYCLOAK_00479": {
+      "project": "KEYCLOAK",
+      "index": 479,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-14825",
+      "label": 0,
+      "prompt_chars": 543
+    },
+    "KEYCLOAK_00480": {
+      "project": "KEYCLOAK",
+      "index": 480,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-6187",
+      "label": 0,
+      "prompt_chars": 537
+    },
+    "KEYCLOAK_00481": {
+      "project": "KEYCLOAK",
+      "index": 481,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-11271",
+      "label": 0,
+      "prompt_chars": 742
+    },
+    "KEYCLOAK_00482": {
+      "project": "KEYCLOAK",
+      "index": 482,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-4681",
+      "label": 1,
+      "prompt_chars": 647
+    },
+    "KEYCLOAK_00483": {
+      "project": "KEYCLOAK",
+      "index": 483,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-8347",
+      "label": 0,
+      "prompt_chars": 673
+    },
+    "KEYCLOAK_00484": {
+      "project": "KEYCLOAK",
+      "index": 484,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-6745",
+      "label": 0,
+      "prompt_chars": 761
+    },
+    "KEYCLOAK_00485": {
+      "project": "KEYCLOAK",
+      "index": 485,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-7550",
+      "label": 0,
+      "prompt_chars": 570
+    },
+    "KEYCLOAK_00486": {
+      "project": "KEYCLOAK",
+      "index": 486,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-4916",
+      "label": 1,
+      "prompt_chars": 536
+    },
+    "KEYCLOAK_00487": {
+      "project": "KEYCLOAK",
+      "index": 487,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-4344",
+      "label": 0,
+      "prompt_chars": 523
+    },
+    "KEYCLOAK_00488": {
+      "project": "KEYCLOAK",
+      "index": 488,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-6221",
+      "label": 0,
+      "prompt_chars": 556
+    },
+    "KEYCLOAK_00489": {
+      "project": "KEYCLOAK",
+      "index": 489,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-7385",
+      "label": 0,
+      "prompt_chars": 545
+    },
+    "KEYCLOAK_00490": {
+      "project": "KEYCLOAK",
+      "index": 490,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-8533",
+      "label": 1,
+      "prompt_chars": 533
+    },
+    "KEYCLOAK_00491": {
+      "project": "KEYCLOAK",
+      "index": 491,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-6779",
+      "label": 0,
+      "prompt_chars": 571
+    },
+    "KEYCLOAK_00492": {
+      "project": "KEYCLOAK",
+      "index": 492,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-4832",
+      "label": 0,
+      "prompt_chars": 522
+    },
+    "KEYCLOAK_00493": {
+      "project": "KEYCLOAK",
+      "index": 493,
+      "source_id": "KEYCLOAK-6345",
+      "target_id": "KEYCLOAK-6750",
+      "label": 0,
+      "prompt_chars": 551
+    },
+    "KEYCLOAK_00494": {
+      "project": "KEYCLOAK",
+      "index": 494,
+      "source_id": "KEYCLOAK-6434",
+      "target_id": "KEYCLOAK-3107",
+      "label": 1,
+      "prompt_chars": 1536
+    },
+    "KEYCLOAK_00495": {
+      "project": "KEYCLOAK",
+      "index": 495,
+      "source_id": "KEYCLOAK-6434",
+      "target_id": "KEYCLOAK-16801",
+      "label": 0,
+      "prompt_chars": 1504
+    },
+    "KEYCLOAK_00496": {
+      "project": "KEYCLOAK",
+      "index": 496,
+      "source_id": "KEYCLOAK-6434",
+      "target_id": "KEYCLOAK-16189",
+      "label": 0,
+      "prompt_chars": 1271
+    },
+    "KEYCLOAK_00497": {
+      "project": "KEYCLOAK",
+      "index": 497,
+      "source_id": "KEYCLOAK-6434",
+      "target_id": "KEYCLOAK-6552",
+      "label": 0,
+      "prompt_chars": 2145
+    },
+    "KEYCLOAK_00498": {
+      "project": "KEYCLOAK",
+      "index": 498,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-6191",
+      "label": 1,
+      "prompt_chars": 1241
+    },
+    "KEYCLOAK_00499": {
+      "project": "KEYCLOAK",
+      "index": 499,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-6890",
+      "label": 0,
+      "prompt_chars": 644
+    },
+    "KEYCLOAK_00500": {
+      "project": "KEYCLOAK",
+      "index": 500,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-9627",
+      "label": 0,
+      "prompt_chars": 646
+    },
+    "KEYCLOAK_00501": {
+      "project": "KEYCLOAK",
+      "index": 501,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-8471",
+      "label": 0,
+      "prompt_chars": 833
+    },
+    "KEYCLOAK_00502": {
+      "project": "KEYCLOAK",
+      "index": 502,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-6192",
+      "label": 1,
+      "prompt_chars": 1065
+    },
+    "KEYCLOAK_00503": {
+      "project": "KEYCLOAK",
+      "index": 503,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-6886",
+      "label": 0,
+      "prompt_chars": 584
+    },
+    "KEYCLOAK_00504": {
+      "project": "KEYCLOAK",
+      "index": 504,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-6255",
+      "label": 0,
+      "prompt_chars": 613
+    },
+    "KEYCLOAK_00505": {
+      "project": "KEYCLOAK",
+      "index": 505,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-8465",
+      "label": 0,
+      "prompt_chars": 1154
+    },
+    "KEYCLOAK_00506": {
+      "project": "KEYCLOAK",
+      "index": 506,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-6193",
+      "label": 1,
+      "prompt_chars": 844
+    },
+    "KEYCLOAK_00507": {
+      "project": "KEYCLOAK",
+      "index": 507,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-6716",
+      "label": 0,
+      "prompt_chars": 927
+    },
+    "KEYCLOAK_00508": {
+      "project": "KEYCLOAK",
+      "index": 508,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-7224",
+      "label": 0,
+      "prompt_chars": 626
+    },
+    "KEYCLOAK_00509": {
+      "project": "KEYCLOAK",
+      "index": 509,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-7080",
+      "label": 0,
+      "prompt_chars": 638
+    },
+    "KEYCLOAK_00510": {
+      "project": "KEYCLOAK",
+      "index": 510,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-6194",
+      "label": 1,
+      "prompt_chars": 767
+    },
+    "KEYCLOAK_00511": {
+      "project": "KEYCLOAK",
+      "index": 511,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-8470",
+      "label": 0,
+      "prompt_chars": 1256
+    },
+    "KEYCLOAK_00512": {
+      "project": "KEYCLOAK",
+      "index": 512,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-10216",
+      "label": 0,
+      "prompt_chars": 708
+    },
+    "KEYCLOAK_00513": {
+      "project": "KEYCLOAK",
+      "index": 513,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-6779",
+      "label": 0,
+      "prompt_chars": 628
+    },
+    "KEYCLOAK_00514": {
+      "project": "KEYCLOAK",
+      "index": 514,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-6594",
+      "label": 1,
+      "prompt_chars": 591
+    },
+    "KEYCLOAK_00515": {
+      "project": "KEYCLOAK",
+      "index": 515,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-8467",
+      "label": 0,
+      "prompt_chars": 686
+    },
+    "KEYCLOAK_00516": {
+      "project": "KEYCLOAK",
+      "index": 516,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-10166",
+      "label": 0,
+      "prompt_chars": 680
+    },
+    "KEYCLOAK_00517": {
+      "project": "KEYCLOAK",
+      "index": 517,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-8464",
+      "label": 0,
+      "prompt_chars": 1581
+    },
+    "KEYCLOAK_00518": {
+      "project": "KEYCLOAK",
+      "index": 518,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-6726",
+      "label": 1,
+      "prompt_chars": 628
+    },
+    "KEYCLOAK_00519": {
+      "project": "KEYCLOAK",
+      "index": 519,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-7064",
+      "label": 0,
+      "prompt_chars": 617
+    },
+    "KEYCLOAK_00520": {
+      "project": "KEYCLOAK",
+      "index": 520,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-9549",
+      "label": 0,
+      "prompt_chars": 1144
+    },
+    "KEYCLOAK_00521": {
+      "project": "KEYCLOAK",
+      "index": 521,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-9543",
+      "label": 0,
+      "prompt_chars": 1030
+    },
+    "KEYCLOAK_00522": {
+      "project": "KEYCLOAK",
+      "index": 522,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-6727",
+      "label": 1,
+      "prompt_chars": 603
+    },
+    "KEYCLOAK_00523": {
+      "project": "KEYCLOAK",
+      "index": 523,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-10301",
+      "label": 0,
+      "prompt_chars": 1671
+    },
+    "KEYCLOAK_00524": {
+      "project": "KEYCLOAK",
+      "index": 524,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-8468",
+      "label": 0,
+      "prompt_chars": 698
+    },
+    "KEYCLOAK_00525": {
+      "project": "KEYCLOAK",
+      "index": 525,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-7771",
+      "label": 0,
+      "prompt_chars": 866
+    },
+    "KEYCLOAK_00526": {
+      "project": "KEYCLOAK",
+      "index": 526,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-6728",
+      "label": 1,
+      "prompt_chars": 985
+    },
+    "KEYCLOAK_00527": {
+      "project": "KEYCLOAK",
+      "index": 527,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-6177",
+      "label": 0,
+      "prompt_chars": 1092
+    },
+    "KEYCLOAK_00528": {
+      "project": "KEYCLOAK",
+      "index": 528,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-8319",
+      "label": 0,
+      "prompt_chars": 671
+    },
+    "KEYCLOAK_00529": {
+      "project": "KEYCLOAK",
+      "index": 529,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-9197",
+      "label": 0,
+      "prompt_chars": 743
+    },
+    "KEYCLOAK_00530": {
+      "project": "KEYCLOAK",
+      "index": 530,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-6729",
+      "label": 1,
+      "prompt_chars": 598
+    },
+    "KEYCLOAK_00531": {
+      "project": "KEYCLOAK",
+      "index": 531,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-7550",
+      "label": 0,
+      "prompt_chars": 627
+    },
+    "KEYCLOAK_00532": {
+      "project": "KEYCLOAK",
+      "index": 532,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-9626",
+      "label": 0,
+      "prompt_chars": 690
+    },
+    "KEYCLOAK_00533": {
+      "project": "KEYCLOAK",
+      "index": 533,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-8557",
+      "label": 0,
+      "prompt_chars": 632
+    },
+    "KEYCLOAK_00534": {
+      "project": "KEYCLOAK",
+      "index": 534,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-6730",
+      "label": 1,
+      "prompt_chars": 750
+    },
+    "KEYCLOAK_00535": {
+      "project": "KEYCLOAK",
+      "index": 535,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-9545",
+      "label": 0,
+      "prompt_chars": 940
+    },
+    "KEYCLOAK_00536": {
+      "project": "KEYCLOAK",
+      "index": 536,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-7257",
+      "label": 0,
+      "prompt_chars": 737
+    },
+    "KEYCLOAK_00537": {
+      "project": "KEYCLOAK",
+      "index": 537,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-6892",
+      "label": 0,
+      "prompt_chars": 697
+    },
+    "KEYCLOAK_00538": {
+      "project": "KEYCLOAK",
+      "index": 538,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-6731",
+      "label": 1,
+      "prompt_chars": 1059
+    },
+    "KEYCLOAK_00539": {
+      "project": "KEYCLOAK",
+      "index": 539,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-3010",
+      "label": 0,
+      "prompt_chars": 590
+    },
+    "KEYCLOAK_00540": {
+      "project": "KEYCLOAK",
+      "index": 540,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-10287",
+      "label": 0,
+      "prompt_chars": 773
+    },
+    "KEYCLOAK_00541": {
+      "project": "KEYCLOAK",
+      "index": 541,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-7414",
+      "label": 0,
+      "prompt_chars": 1239
+    },
+    "KEYCLOAK_00542": {
+      "project": "KEYCLOAK",
+      "index": 542,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-7553",
+      "label": 1,
+      "prompt_chars": 873
+    },
+    "KEYCLOAK_00543": {
+      "project": "KEYCLOAK",
+      "index": 543,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-8355",
+      "label": 0,
+      "prompt_chars": 688
+    },
+    "KEYCLOAK_00544": {
+      "project": "KEYCLOAK",
+      "index": 544,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-9415",
+      "label": 0,
+      "prompt_chars": 1051
+    },
+    "KEYCLOAK_00545": {
+      "project": "KEYCLOAK",
+      "index": 545,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-6891",
+      "label": 0,
+      "prompt_chars": 643
+    },
+    "KEYCLOAK_00546": {
+      "project": "KEYCLOAK",
+      "index": 546,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-7554",
+      "label": 1,
+      "prompt_chars": 946
+    },
+    "KEYCLOAK_00547": {
+      "project": "KEYCLOAK",
+      "index": 547,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-9541",
+      "label": 0,
+      "prompt_chars": 1191
+    },
+    "KEYCLOAK_00548": {
+      "project": "KEYCLOAK",
+      "index": 548,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-8466",
+      "label": 0,
+      "prompt_chars": 659
+    },
+    "KEYCLOAK_00549": {
+      "project": "KEYCLOAK",
+      "index": 549,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-9801",
+      "label": 0,
+      "prompt_chars": 701
+    },
+    "KEYCLOAK_00550": {
+      "project": "KEYCLOAK",
+      "index": 550,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-7555",
+      "label": 1,
+      "prompt_chars": 924
+    },
+    "KEYCLOAK_00551": {
+      "project": "KEYCLOAK",
+      "index": 551,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-7385",
+      "label": 0,
+      "prompt_chars": 602
+    },
+    "KEYCLOAK_00552": {
+      "project": "KEYCLOAK",
+      "index": 552,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-6888",
+      "label": 0,
+      "prompt_chars": 626
+    },
+    "KEYCLOAK_00553": {
+      "project": "KEYCLOAK",
+      "index": 553,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-11614",
+      "label": 0,
+      "prompt_chars": 990
+    },
+    "KEYCLOAK_00554": {
+      "project": "KEYCLOAK",
+      "index": 554,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-7556",
+      "label": 1,
+      "prompt_chars": 1071
+    },
+    "KEYCLOAK_00555": {
+      "project": "KEYCLOAK",
+      "index": 555,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-6855",
+      "label": 0,
+      "prompt_chars": 769
+    },
+    "KEYCLOAK_00556": {
+      "project": "KEYCLOAK",
+      "index": 556,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-7600",
+      "label": 0,
+      "prompt_chars": 609
+    },
+    "KEYCLOAK_00557": {
+      "project": "KEYCLOAK",
+      "index": 557,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-5229",
+      "label": 0,
+      "prompt_chars": 734
+    },
+    "KEYCLOAK_00558": {
+      "project": "KEYCLOAK",
+      "index": 558,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-7557",
+      "label": 1,
+      "prompt_chars": 1074
+    },
+    "KEYCLOAK_00559": {
+      "project": "KEYCLOAK",
+      "index": 559,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-6533",
+      "label": 0,
+      "prompt_chars": 615
+    },
+    "KEYCLOAK_00560": {
+      "project": "KEYCLOAK",
+      "index": 560,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-6856",
+      "label": 0,
+      "prompt_chars": 776
+    },
+    "KEYCLOAK_00561": {
+      "project": "KEYCLOAK",
+      "index": 561,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-11556",
+      "label": 0,
+      "prompt_chars": 649
+    },
+    "KEYCLOAK_00562": {
+      "project": "KEYCLOAK",
+      "index": 562,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-7558",
+      "label": 1,
+      "prompt_chars": 1032
+    },
+    "KEYCLOAK_00563": {
+      "project": "KEYCLOAK",
+      "index": 563,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-10217",
+      "label": 0,
+      "prompt_chars": 767
+    },
+    "KEYCLOAK_00564": {
+      "project": "KEYCLOAK",
+      "index": 564,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-6221",
+      "label": 0,
+      "prompt_chars": 613
+    },
+    "KEYCLOAK_00565": {
+      "project": "KEYCLOAK",
+      "index": 565,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-9502",
+      "label": 0,
+      "prompt_chars": 1175
+    },
+    "KEYCLOAK_00566": {
+      "project": "KEYCLOAK",
+      "index": 566,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-7566",
+      "label": 1,
+      "prompt_chars": 796
+    },
+    "KEYCLOAK_00567": {
+      "project": "KEYCLOAK",
+      "index": 567,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-6188",
+      "label": 0,
+      "prompt_chars": 596
+    },
+    "KEYCLOAK_00568": {
+      "project": "KEYCLOAK",
+      "index": 568,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-6532",
+      "label": 0,
+      "prompt_chars": 606
+    },
+    "KEYCLOAK_00569": {
+      "project": "KEYCLOAK",
+      "index": 569,
+      "source_id": "KEYCLOAK-6437",
+      "target_id": "KEYCLOAK-6862",
+      "label": 0,
+      "prompt_chars": 1233
+    },
+    "KEYCLOAK_00570": {
+      "project": "KEYCLOAK",
+      "index": 570,
+      "source_id": "KEYCLOAK-6736",
+      "target_id": "KEYCLOAK-4621",
+      "label": 1,
+      "prompt_chars": 1219
+    },
+    "KEYCLOAK_00571": {
+      "project": "KEYCLOAK",
+      "index": 571,
+      "source_id": "KEYCLOAK-6736",
+      "target_id": "KEYCLOAK-11746",
+      "label": 0,
+      "prompt_chars": 1311
+    },
+    "KEYCLOAK_00572": {
+      "project": "KEYCLOAK",
+      "index": 572,
+      "source_id": "KEYCLOAK-6736",
+      "target_id": "KEYCLOAK-11750",
+      "label": 0,
+      "prompt_chars": 2170
+    },
+    "KEYCLOAK_00573": {
+      "project": "KEYCLOAK",
+      "index": 573,
+      "source_id": "KEYCLOAK-6736",
+      "target_id": "KEYCLOAK-11613",
+      "label": 0,
+      "prompt_chars": 1692
+    },
+    "KEYCLOAK_00574": {
+      "project": "KEYCLOAK",
+      "index": 574,
+      "source_id": "KEYCLOAK-6909",
+      "target_id": "KEYCLOAK-6986",
+      "label": 1,
+      "prompt_chars": 883
+    },
+    "KEYCLOAK_00575": {
+      "project": "KEYCLOAK",
+      "index": 575,
+      "source_id": "KEYCLOAK-6909",
+      "target_id": "KEYCLOAK-7927",
+      "label": 0,
+      "prompt_chars": 850
+    },
+    "KEYCLOAK_00576": {
+      "project": "KEYCLOAK",
+      "index": 576,
+      "source_id": "KEYCLOAK-6909",
+      "target_id": "KEYCLOAK-12693",
+      "label": 0,
+      "prompt_chars": 582
+    },
+    "KEYCLOAK_00577": {
+      "project": "KEYCLOAK",
+      "index": 577,
+      "source_id": "KEYCLOAK-6909",
+      "target_id": "KEYCLOAK-4655",
+      "label": 0,
+      "prompt_chars": 552
+    },
+    "KEYCLOAK_00578": {
+      "project": "KEYCLOAK",
+      "index": 578,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-11372",
+      "label": 1,
+      "prompt_chars": 2207
+    },
+    "KEYCLOAK_00579": {
+      "project": "KEYCLOAK",
+      "index": 579,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-9363",
+      "label": 0,
+      "prompt_chars": 757
+    },
+    "KEYCLOAK_00580": {
+      "project": "KEYCLOAK",
+      "index": 580,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-19892",
+      "label": 0,
+      "prompt_chars": 666
+    },
+    "KEYCLOAK_00581": {
+      "project": "KEYCLOAK",
+      "index": 581,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-12903",
+      "label": 0,
+      "prompt_chars": 1045
+    },
+    "KEYCLOAK_00582": {
+      "project": "KEYCLOAK",
+      "index": 582,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-11743",
+      "label": 1,
+      "prompt_chars": 1271
+    },
+    "KEYCLOAK_00583": {
+      "project": "KEYCLOAK",
+      "index": 583,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-19486",
+      "label": 0,
+      "prompt_chars": 947
+    },
+    "KEYCLOAK_00584": {
+      "project": "KEYCLOAK",
+      "index": 584,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-19489",
+      "label": 0,
+      "prompt_chars": 642
+    },
+    "KEYCLOAK_00585": {
+      "project": "KEYCLOAK",
+      "index": 585,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-19490",
+      "label": 0,
+      "prompt_chars": 945
+    },
+    "KEYCLOAK_00586": {
+      "project": "KEYCLOAK",
+      "index": 586,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-11745",
+      "label": 1,
+      "prompt_chars": 1187
+    },
+    "KEYCLOAK_00587": {
+      "project": "KEYCLOAK",
+      "index": 587,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-19893",
+      "label": 0,
+      "prompt_chars": 627
+    },
+    "KEYCLOAK_00588": {
+      "project": "KEYCLOAK",
+      "index": 588,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-16796",
+      "label": 0,
+      "prompt_chars": 877
+    },
+    "KEYCLOAK_00589": {
+      "project": "KEYCLOAK",
+      "index": 589,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-9692",
+      "label": 0,
+      "prompt_chars": 985
+    },
+    "KEYCLOAK_00590": {
+      "project": "KEYCLOAK",
+      "index": 590,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-11748",
+      "label": 1,
+      "prompt_chars": 802
+    },
+    "KEYCLOAK_00591": {
+      "project": "KEYCLOAK",
+      "index": 591,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-13199",
+      "label": 0,
+      "prompt_chars": 1328
+    },
+    "KEYCLOAK_00592": {
+      "project": "KEYCLOAK",
+      "index": 592,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-19492",
+      "label": 0,
+      "prompt_chars": 635
+    },
+    "KEYCLOAK_00593": {
+      "project": "KEYCLOAK",
+      "index": 593,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-19493",
+      "label": 0,
+      "prompt_chars": 637
+    },
+    "KEYCLOAK_00594": {
+      "project": "KEYCLOAK",
+      "index": 594,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-11823",
+      "label": 1,
+      "prompt_chars": 4108
+    },
+    "KEYCLOAK_00595": {
+      "project": "KEYCLOAK",
+      "index": 595,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-15698",
+      "label": 0,
+      "prompt_chars": 1918
+    },
+    "KEYCLOAK_00596": {
+      "project": "KEYCLOAK",
+      "index": 596,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-11615",
+      "label": 0,
+      "prompt_chars": 1403
+    },
+    "KEYCLOAK_00597": {
+      "project": "KEYCLOAK",
+      "index": 597,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-8230",
+      "label": 0,
+      "prompt_chars": 781
+    },
+    "KEYCLOAK_00598": {
+      "project": "KEYCLOAK",
+      "index": 598,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-11907",
+      "label": 1,
+      "prompt_chars": 1088
+    },
+    "KEYCLOAK_00599": {
+      "project": "KEYCLOAK",
+      "index": 599,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-19485",
+      "label": 0,
+      "prompt_chars": 1042
+    },
+    "KEYCLOAK_00600": {
+      "project": "KEYCLOAK",
+      "index": 600,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-12187",
+      "label": 0,
+      "prompt_chars": 2186
+    },
+    "KEYCLOAK_00601": {
+      "project": "KEYCLOAK",
+      "index": 601,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-11626",
+      "label": 0,
+      "prompt_chars": 2453
+    },
+    "KEYCLOAK_00602": {
+      "project": "KEYCLOAK",
+      "index": 602,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-11913",
+      "label": 1,
+      "prompt_chars": 817
+    },
+    "KEYCLOAK_00603": {
+      "project": "KEYCLOAK",
+      "index": 603,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-12176",
+      "label": 0,
+      "prompt_chars": 1339
+    },
+    "KEYCLOAK_00604": {
+      "project": "KEYCLOAK",
+      "index": 604,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-19488",
+      "label": 0,
+      "prompt_chars": 793
+    },
+    "KEYCLOAK_00605": {
+      "project": "KEYCLOAK",
+      "index": 605,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-11920",
+      "label": 0,
+      "prompt_chars": 972
+    },
+    "KEYCLOAK_00606": {
+      "project": "KEYCLOAK",
+      "index": 606,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-11921",
+      "label": 1,
+      "prompt_chars": 1330
+    },
+    "KEYCLOAK_00607": {
+      "project": "KEYCLOAK",
+      "index": 607,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-12859",
+      "label": 0,
+      "prompt_chars": 1458
+    },
+    "KEYCLOAK_00608": {
+      "project": "KEYCLOAK",
+      "index": 608,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-13319",
+      "label": 0,
+      "prompt_chars": 1678
+    },
+    "KEYCLOAK_00609": {
+      "project": "KEYCLOAK",
+      "index": 609,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-19487",
+      "label": 0,
+      "prompt_chars": 847
+    },
+    "KEYCLOAK_00610": {
+      "project": "KEYCLOAK",
+      "index": 610,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-11922",
+      "label": 1,
+      "prompt_chars": 1075
+    },
+    "KEYCLOAK_00611": {
+      "project": "KEYCLOAK",
+      "index": 611,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-11373",
+      "label": 0,
+      "prompt_chars": 1052
+    },
+    "KEYCLOAK_00612": {
+      "project": "KEYCLOAK",
+      "index": 612,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-13320",
+      "label": 0,
+      "prompt_chars": 1208
+    },
+    "KEYCLOAK_00613": {
+      "project": "KEYCLOAK",
+      "index": 613,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-19523",
+      "label": 0,
+      "prompt_chars": 713
+    },
+    "KEYCLOAK_00614": {
+      "project": "KEYCLOAK",
+      "index": 614,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-12009",
+      "label": 1,
+      "prompt_chars": 1026
+    },
+    "KEYCLOAK_00615": {
+      "project": "KEYCLOAK",
+      "index": 615,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-11550",
+      "label": 0,
+      "prompt_chars": 1585
+    },
+    "KEYCLOAK_00616": {
+      "project": "KEYCLOAK",
+      "index": 616,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-19882",
+      "label": 0,
+      "prompt_chars": 920
+    },
+    "KEYCLOAK_00617": {
+      "project": "KEYCLOAK",
+      "index": 617,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-11846",
+      "label": 0,
+      "prompt_chars": 1568
+    },
+    "KEYCLOAK_00618": {
+      "project": "KEYCLOAK",
+      "index": 618,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-12010",
+      "label": 1,
+      "prompt_chars": 1410
+    },
+    "KEYCLOAK_00619": {
+      "project": "KEYCLOAK",
+      "index": 619,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-17936",
+      "label": 0,
+      "prompt_chars": 935
+    },
+    "KEYCLOAK_00620": {
+      "project": "KEYCLOAK",
+      "index": 620,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-14144",
+      "label": 0,
+      "prompt_chars": 1729
+    },
+    "KEYCLOAK_00621": {
+      "project": "KEYCLOAK",
+      "index": 621,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-18594",
+      "label": 0,
+      "prompt_chars": 765
+    },
+    "KEYCLOAK_00622": {
+      "project": "KEYCLOAK",
+      "index": 622,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-12011",
+      "label": 1,
+      "prompt_chars": 896
+    },
+    "KEYCLOAK_00623": {
+      "project": "KEYCLOAK",
+      "index": 623,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-6294",
+      "label": 0,
+      "prompt_chars": 673
+    },
+    "KEYCLOAK_00624": {
+      "project": "KEYCLOAK",
+      "index": 624,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-7662",
+      "label": 0,
+      "prompt_chars": 1436
+    },
+    "KEYCLOAK_00625": {
+      "project": "KEYCLOAK",
+      "index": 625,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-11614",
+      "label": 0,
+      "prompt_chars": 1041
+    },
+    "KEYCLOAK_00626": {
+      "project": "KEYCLOAK",
+      "index": 626,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-12044",
+      "label": 1,
+      "prompt_chars": 1433
+    },
+    "KEYCLOAK_00627": {
+      "project": "KEYCLOAK",
+      "index": 627,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-12781",
+      "label": 0,
+      "prompt_chars": 1088
+    },
+    "KEYCLOAK_00628": {
+      "project": "KEYCLOAK",
+      "index": 628,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-12823",
+      "label": 0,
+      "prompt_chars": 725
+    },
+    "KEYCLOAK_00629": {
+      "project": "KEYCLOAK",
+      "index": 629,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-18452",
+      "label": 0,
+      "prompt_chars": 997
+    },
+    "KEYCLOAK_00630": {
+      "project": "KEYCLOAK",
+      "index": 630,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-12046",
+      "label": 1,
+      "prompt_chars": 1109
+    },
+    "KEYCLOAK_00631": {
+      "project": "KEYCLOAK",
+      "index": 631,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-12822",
+      "label": 0,
+      "prompt_chars": 1290
+    },
+    "KEYCLOAK_00632": {
+      "project": "KEYCLOAK",
+      "index": 632,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-18883",
+      "label": 0,
+      "prompt_chars": 1253
+    },
+    "KEYCLOAK_00633": {
+      "project": "KEYCLOAK",
+      "index": 633,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-18831",
+      "label": 0,
+      "prompt_chars": 979
+    },
+    "KEYCLOAK_00634": {
+      "project": "KEYCLOAK",
+      "index": 634,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-12120",
+      "label": 1,
+      "prompt_chars": 2665
+    },
+    "KEYCLOAK_00635": {
+      "project": "KEYCLOAK",
+      "index": 635,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-18833",
+      "label": 0,
+      "prompt_chars": 881
+    },
+    "KEYCLOAK_00636": {
+      "project": "KEYCLOAK",
+      "index": 636,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-15299",
+      "label": 0,
+      "prompt_chars": 1835
+    },
+    "KEYCLOAK_00637": {
+      "project": "KEYCLOAK",
+      "index": 637,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-19540",
+      "label": 0,
+      "prompt_chars": 1047
+    },
+    "KEYCLOAK_00638": {
+      "project": "KEYCLOAK",
+      "index": 638,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-12168",
+      "label": 1,
+      "prompt_chars": 2005
+    },
+    "KEYCLOAK_00639": {
+      "project": "KEYCLOAK",
+      "index": 639,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-19541",
+      "label": 0,
+      "prompt_chars": 1022
+    },
+    "KEYCLOAK_00640": {
+      "project": "KEYCLOAK",
+      "index": 640,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-14121",
+      "label": 0,
+      "prompt_chars": 811
+    },
+    "KEYCLOAK_00641": {
+      "project": "KEYCLOAK",
+      "index": 641,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-18634",
+      "label": 0,
+      "prompt_chars": 982
+    },
+    "KEYCLOAK_00642": {
+      "project": "KEYCLOAK",
+      "index": 642,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-12174",
+      "label": 1,
+      "prompt_chars": 3421
+    },
+    "KEYCLOAK_00643": {
+      "project": "KEYCLOAK",
+      "index": 643,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-18654",
+      "label": 0,
+      "prompt_chars": 1045
+    },
+    "KEYCLOAK_00644": {
+      "project": "KEYCLOAK",
+      "index": 644,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-3043",
+      "label": 0,
+      "prompt_chars": 2578
+    },
+    "KEYCLOAK_00645": {
+      "project": "KEYCLOAK",
+      "index": 645,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-10331",
+      "label": 0,
+      "prompt_chars": 1481
+    },
+    "KEYCLOAK_00646": {
+      "project": "KEYCLOAK",
+      "index": 646,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-12177",
+      "label": 1,
+      "prompt_chars": 1937
+    },
+    "KEYCLOAK_00647": {
+      "project": "KEYCLOAK",
+      "index": 647,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-11919",
+      "label": 0,
+      "prompt_chars": 1775
+    },
+    "KEYCLOAK_00648": {
+      "project": "KEYCLOAK",
+      "index": 648,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-12818",
+      "label": 0,
+      "prompt_chars": 893
+    },
+    "KEYCLOAK_00649": {
+      "project": "KEYCLOAK",
+      "index": 649,
+      "source_id": "KEYCLOAK-7159",
+      "target_id": "KEYCLOAK-6281",
+      "label": 0,
+      "prompt_chars": 644
+    }
+  },
+  "estimated_prompt_tokens": 208953,
+  "estimated_completion_tokens_upper": 13000,
+  "estimated_batch_cost_usd_upper": 0.3587,
+  "cost_estimate_basis": "tiktoken/o200k_base if available, else char/3.7; max output token cap",
+  "pricing_per_1M_batch": {
+    "input": 1.25,
+    "output": 7.5
+  },
+  "input_file_id": "file-TnxXBmgp4jKqQ5R6qnzvSW",
+  "input_file": {
+    "id": "file-TnxXBmgp4jKqQ5R6qnzvSW",
+    "bytes": 902891,
+    "created_at": 1781779448,
+    "filename": "batch_requests.jsonl",
+    "object": "file",
+    "purpose": "batch",
+    "status": "processed",
+    "expires_at": 1784371448,
+    "status_details": null
+  }
+}

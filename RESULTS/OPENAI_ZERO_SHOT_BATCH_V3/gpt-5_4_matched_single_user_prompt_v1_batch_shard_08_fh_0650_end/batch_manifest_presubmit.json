@@ -1,0 +1,1901 @@
+{
+  "created_at": "2026-06-18T09:10:07.253973",
+  "script": "9d_zero_shot_openai_batch_matched.py",
+  "model": "gpt-5.4",
+  "endpoint": "/v1/chat/completions",
+  "prompt_mode": "matched_single_user_prompt_v1_batch",
+  "prompt_template_hash": "209a9beb289a5172",
+  "max_completion_tokens": 20,
+  "temperature": 0.0,
+  "seed": 42,
+  "message_format": "single user-role message; no system prompt; no JSON mode; OpenAI Batch Chat Completions",
+  "negative_protocol": "Qwen3 top-K hard negatives, 1:3 positive:negative test pairs",
+  "projects": [
+    "FH"
+  ],
+  "start_index": 650,
+  "max_pairs": 300,
+  "run_suffix": "shard_08_fh_0650_end",
+  "requests": {
+    "FH_00000": {
+      "project": "FH",
+      "index": 0,
+      "source_id": "FH-4113",
+      "target_id": "FH-3400",
+      "label": 0,
+      "prompt_chars": 843
+    },
+    "FH_00001": {
+      "project": "FH",
+      "index": 1,
+      "source_id": "FH-4113",
+      "target_id": "FH-3300",
+      "label": 0,
+      "prompt_chars": 523
+    },
+    "FH_00002": {
+      "project": "FH",
+      "index": 2,
+      "source_id": "FH-4113",
+      "target_id": "FH-4355",
+      "label": 1,
+      "prompt_chars": 678
+    },
+    "FH_00003": {
+      "project": "FH",
+      "index": 3,
+      "source_id": "FH-4113",
+      "target_id": "FH-3563",
+      "label": 0,
+      "prompt_chars": 709
+    },
+    "FH_00004": {
+      "project": "FH",
+      "index": 4,
+      "source_id": "FH-4113",
+      "target_id": "FH-3873",
+      "label": 0,
+      "prompt_chars": 894
+    },
+    "FH_00005": {
+      "project": "FH",
+      "index": 5,
+      "source_id": "FH-4113",
+      "target_id": "FH-3304",
+      "label": 0,
+      "prompt_chars": 547
+    },
+    "FH_00006": {
+      "project": "FH",
+      "index": 6,
+      "source_id": "FH-4428",
+      "target_id": "FH-4429",
+      "label": 1,
+      "prompt_chars": 1768
+    },
+    "FH_00007": {
+      "project": "FH",
+      "index": 7,
+      "source_id": "FH-4428",
+      "target_id": "FH-4026",
+      "label": 0,
+      "prompt_chars": 2328
+    },
+    "FH_00008": {
+      "project": "FH",
+      "index": 8,
+      "source_id": "FH-4428",
+      "target_id": "FH-3759",
+      "label": 0,
+      "prompt_chars": 1983
+    },
+    "FH_00009": {
+      "project": "FH",
+      "index": 9,
+      "source_id": "FH-4428",
+      "target_id": "FH-4114",
+      "label": 0,
+      "prompt_chars": 3230
+    },
+    "FH_00010": {
+      "project": "FH",
+      "index": 10,
+      "source_id": "FH-4428",
+      "target_id": "FH-4430",
+      "label": 1,
+      "prompt_chars": 2537
+    },
+    "FH_00011": {
+      "project": "FH",
+      "index": 11,
+      "source_id": "FH-4428",
+      "target_id": "FH-3015",
+      "label": 0,
+      "prompt_chars": 2420
+    },
+    "FH_00012": {
+      "project": "FH",
+      "index": 12,
+      "source_id": "FH-4428",
+      "target_id": "FH-4007",
+      "label": 0,
+      "prompt_chars": 2232
+    },
+    "FH_00013": {
+      "project": "FH",
+      "index": 13,
+      "source_id": "FH-4428",
+      "target_id": "FH-3779",
+      "label": 0,
+      "prompt_chars": 2422
+    },
+    "FH_00014": {
+      "project": "FH",
+      "index": 14,
+      "source_id": "FH-4428",
+      "target_id": "FH-4431",
+      "label": 1,
+      "prompt_chars": 1919
+    },
+    "FH_00015": {
+      "project": "FH",
+      "index": 15,
+      "source_id": "FH-4428",
+      "target_id": "FH-4147",
+      "label": 0,
+      "prompt_chars": 2092
+    },
+    "FH_00016": {
+      "project": "FH",
+      "index": 16,
+      "source_id": "FH-4428",
+      "target_id": "FH-3035",
+      "label": 0,
+      "prompt_chars": 1938
+    },
+    "FH_00017": {
+      "project": "FH",
+      "index": 17,
+      "source_id": "FH-4428",
+      "target_id": "FH-4051",
+      "label": 0,
+      "prompt_chars": 2213
+    },
+    "FH_00018": {
+      "project": "FH",
+      "index": 18,
+      "source_id": "FH-4428",
+      "target_id": "FH-4432",
+      "label": 1,
+      "prompt_chars": 2004
+    },
+    "FH_00019": {
+      "project": "FH",
+      "index": 19,
+      "source_id": "FH-4428",
+      "target_id": "FH-4927",
+      "label": 0,
+      "prompt_chars": 1825
+    },
+    "FH_00020": {
+      "project": "FH",
+      "index": 20,
+      "source_id": "FH-4428",
+      "target_id": "FH-4023",
+      "label": 0,
+      "prompt_chars": 2904
+    },
+    "FH_00021": {
+      "project": "FH",
+      "index": 21,
+      "source_id": "FH-4428",
+      "target_id": "FH-3796",
+      "label": 0,
+      "prompt_chars": 2858
+    },
+    "FH_00022": {
+      "project": "FH",
+      "index": 22,
+      "source_id": "FH-4447",
+      "target_id": "FH-4020",
+      "label": 1,
+      "prompt_chars": 915
+    },
+    "FH_00023": {
+      "project": "FH",
+      "index": 23,
+      "source_id": "FH-4447",
+      "target_id": "FH-2842",
+      "label": 0,
+      "prompt_chars": 936
+    },
+    "FH_00024": {
+      "project": "FH",
+      "index": 24,
+      "source_id": "FH-4447",
+      "target_id": "FH-2691",
+      "label": 0,
+      "prompt_chars": 1086
+    },
+    "FH_00025": {
+      "project": "FH",
+      "index": 25,
+      "source_id": "FH-4447",
+      "target_id": "FH-3477",
+      "label": 0,
+      "prompt_chars": 998
+    },
+    "FH_00026": {
+      "project": "FH",
+      "index": 26,
+      "source_id": "FH-4447",
+      "target_id": "FH-4021",
+      "label": 1,
+      "prompt_chars": 1048
+    },
+    "FH_00027": {
+      "project": "FH",
+      "index": 27,
+      "source_id": "FH-4447",
+      "target_id": "FH-3658",
+      "label": 0,
+      "prompt_chars": 1282
+    },
+    "FH_00028": {
+      "project": "FH",
+      "index": 28,
+      "source_id": "FH-4447",
+      "target_id": "FH-4056",
+      "label": 0,
+      "prompt_chars": 936
+    },
+    "FH_00029": {
+      "project": "FH",
+      "index": 29,
+      "source_id": "FH-4447",
+      "target_id": "FH-3667",
+      "label": 0,
+      "prompt_chars": 882
+    },
+    "FH_00030": {
+      "project": "FH",
+      "index": 30,
+      "source_id": "FH-4549",
+      "target_id": "FH-4759",
+      "label": 1,
+      "prompt_chars": 1145
+    },
+    "FH_00031": {
+      "project": "FH",
+      "index": 31,
+      "source_id": "FH-4549",
+      "target_id": "FH-3982",
+      "label": 0,
+      "prompt_chars": 823
+    },
+    "FH_00032": {
+      "project": "FH",
+      "index": 32,
+      "source_id": "FH-4549",
+      "target_id": "FH-4016",
+      "label": 0,
+      "prompt_chars": 929
+    },
+    "FH_00033": {
+      "project": "FH",
+      "index": 33,
+      "source_id": "FH-4549",
+      "target_id": "FH-4056",
+      "label": 0,
+      "prompt_chars": 869
+    },
+    "FH_00034": {
+      "project": "FH",
+      "index": 34,
+      "source_id": "FH-4549",
+      "target_id": "FH-4760",
+      "label": 1,
+      "prompt_chars": 1381
+    },
+    "FH_00035": {
+      "project": "FH",
+      "index": 35,
+      "source_id": "FH-4549",
+      "target_id": "FH-4754",
+      "label": 0,
+      "prompt_chars": 966
+    },
+    "FH_00036": {
+      "project": "FH",
+      "index": 36,
+      "source_id": "FH-4549",
+      "target_id": "FH-4625",
+      "label": 0,
+      "prompt_chars": 1343
+    },
+    "FH_00037": {
+      "project": "FH",
+      "index": 37,
+      "source_id": "FH-4549",
+      "target_id": "FH-3812",
+      "label": 0,
+      "prompt_chars": 1356
+    },
+    "FH_00038": {
+      "project": "FH",
+      "index": 38,
+      "source_id": "FH-4554",
+      "target_id": "FH-4555",
+      "label": 1,
+      "prompt_chars": 893
+    },
+    "FH_00039": {
+      "project": "FH",
+      "index": 39,
+      "source_id": "FH-4554",
+      "target_id": "FH-4545",
+      "label": 0,
+      "prompt_chars": 1067
+    },
+    "FH_00040": {
+      "project": "FH",
+      "index": 40,
+      "source_id": "FH-4554",
+      "target_id": "FH-3986",
+      "label": 0,
+      "prompt_chars": 958
+    },
+    "FH_00041": {
+      "project": "FH",
+      "index": 41,
+      "source_id": "FH-4554",
+      "target_id": "FH-3976",
+      "label": 0,
+      "prompt_chars": 1241
+    },
+    "FH_00042": {
+      "project": "FH",
+      "index": 42,
+      "source_id": "FH-4554",
+      "target_id": "FH-4556",
+      "label": 1,
+      "prompt_chars": 911
+    },
+    "FH_00043": {
+      "project": "FH",
+      "index": 43,
+      "source_id": "FH-4554",
+      "target_id": "FH-4549",
+      "label": 0,
+      "prompt_chars": 1085
+    },
+    "FH_00044": {
+      "project": "FH",
+      "index": 44,
+      "source_id": "FH-4554",
+      "target_id": "FH-4064",
+      "label": 0,
+      "prompt_chars": 1454
+    },
+    "FH_00045": {
+      "project": "FH",
+      "index": 45,
+      "source_id": "FH-4554",
+      "target_id": "FH-4647",
+      "label": 0,
+      "prompt_chars": 852
+    },
+    "FH_00046": {
+      "project": "FH",
+      "index": 46,
+      "source_id": "FH-4560",
+      "target_id": "FH-4774",
+      "label": 1,
+      "prompt_chars": 918
+    },
+    "FH_00047": {
+      "project": "FH",
+      "index": 47,
+      "source_id": "FH-4560",
+      "target_id": "FH-4558",
+      "label": 0,
+      "prompt_chars": 751
+    },
+    "FH_00048": {
+      "project": "FH",
+      "index": 48,
+      "source_id": "FH-4560",
+      "target_id": "FH-4772",
+      "label": 0,
+      "prompt_chars": 844
+    },
+    "FH_00049": {
+      "project": "FH",
+      "index": 49,
+      "source_id": "FH-4560",
+      "target_id": "FH-4628",
+      "label": 0,
+      "prompt_chars": 773
+    },
+    "FH_00050": {
+      "project": "FH",
+      "index": 50,
+      "source_id": "FH-4560",
+      "target_id": "FH-4776",
+      "label": 1,
+      "prompt_chars": 950
+    },
+    "FH_00051": {
+      "project": "FH",
+      "index": 51,
+      "source_id": "FH-4560",
+      "target_id": "FH-4773",
+      "label": 0,
+      "prompt_chars": 826
+    },
+    "FH_00052": {
+      "project": "FH",
+      "index": 52,
+      "source_id": "FH-4560",
+      "target_id": "FH-4565",
+      "label": 0,
+      "prompt_chars": 811
+    },
+    "FH_00053": {
+      "project": "FH",
+      "index": 53,
+      "source_id": "FH-4560",
+      "target_id": "FH-4817",
+      "label": 0,
+      "prompt_chars": 1121
+    },
+    "FH_00054": {
+      "project": "FH",
+      "index": 54,
+      "source_id": "FH-4560",
+      "target_id": "FH-4777",
+      "label": 1,
+      "prompt_chars": 829
+    },
+    "FH_00055": {
+      "project": "FH",
+      "index": 55,
+      "source_id": "FH-4560",
+      "target_id": "FH-3908",
+      "label": 0,
+      "prompt_chars": 1237
+    },
+    "FH_00056": {
+      "project": "FH",
+      "index": 56,
+      "source_id": "FH-4560",
+      "target_id": "FH-4816",
+      "label": 0,
+      "prompt_chars": 1105
+    },
+    "FH_00057": {
+      "project": "FH",
+      "index": 57,
+      "source_id": "FH-4560",
+      "target_id": "FH-3319",
+      "label": 0,
+      "prompt_chars": 671
+    },
+    "FH_00058": {
+      "project": "FH",
+      "index": 58,
+      "source_id": "FH-4560",
+      "target_id": "FH-4778",
+      "label": 1,
+      "prompt_chars": 850
+    },
+    "FH_00059": {
+      "project": "FH",
+      "index": 59,
+      "source_id": "FH-4560",
+      "target_id": "FH-3256",
+      "label": 0,
+      "prompt_chars": 1248
+    },
+    "FH_00060": {
+      "project": "FH",
+      "index": 60,
+      "source_id": "FH-4560",
+      "target_id": "FH-3464",
+      "label": 0,
+      "prompt_chars": 931
+    },
+    "FH_00061": {
+      "project": "FH",
+      "index": 61,
+      "source_id": "FH-4560",
+      "target_id": "FH-3435",
+      "label": 0,
+      "prompt_chars": 1670
+    },
+    "FH_00062": {
+      "project": "FH",
+      "index": 62,
+      "source_id": "FH-4560",
+      "target_id": "FH-4779",
+      "label": 1,
+      "prompt_chars": 846
+    },
+    "FH_00063": {
+      "project": "FH",
+      "index": 63,
+      "source_id": "FH-4560",
+      "target_id": "FH-3976",
+      "label": 0,
+      "prompt_chars": 1044
+    },
+    "FH_00064": {
+      "project": "FH",
+      "index": 64,
+      "source_id": "FH-4560",
+      "target_id": "FH-4546",
+      "label": 0,
+      "prompt_chars": 753
+    },
+    "FH_00065": {
+      "project": "FH",
+      "index": 65,
+      "source_id": "FH-4560",
+      "target_id": "FH-4547",
+      "label": 0,
+      "prompt_chars": 697
+    },
+    "FH_00066": {
+      "project": "FH",
+      "index": 66,
+      "source_id": "FH-4560",
+      "target_id": "FH-4780",
+      "label": 1,
+      "prompt_chars": 833
+    },
+    "FH_00067": {
+      "project": "FH",
+      "index": 67,
+      "source_id": "FH-4560",
+      "target_id": "FH-4934",
+      "label": 0,
+      "prompt_chars": 825
+    },
+    "FH_00068": {
+      "project": "FH",
+      "index": 68,
+      "source_id": "FH-4560",
+      "target_id": "FH-4545",
+      "label": 0,
+      "prompt_chars": 870
+    },
+    "FH_00069": {
+      "project": "FH",
+      "index": 69,
+      "source_id": "FH-4560",
+      "target_id": "FH-3292",
+      "label": 0,
+      "prompt_chars": 682
+    },
+    "FH_00070": {
+      "project": "FH",
+      "index": 70,
+      "source_id": "FH-4560",
+      "target_id": "FH-4781",
+      "label": 1,
+      "prompt_chars": 722
+    },
+    "FH_00071": {
+      "project": "FH",
+      "index": 71,
+      "source_id": "FH-4560",
+      "target_id": "FH-3304",
+      "label": 0,
+      "prompt_chars": 648
+    },
+    "FH_00072": {
+      "project": "FH",
+      "index": 72,
+      "source_id": "FH-4560",
+      "target_id": "FH-3290",
+      "label": 0,
+      "prompt_chars": 682
+    },
+    "FH_00073": {
+      "project": "FH",
+      "index": 73,
+      "source_id": "FH-4560",
+      "target_id": "FH-3142",
+      "label": 0,
+      "prompt_chars": 1074
+    },
+    "FH_00074": {
+      "project": "FH",
+      "index": 74,
+      "source_id": "FH-4560",
+      "target_id": "FH-4782",
+      "label": 1,
+      "prompt_chars": 806
+    },
+    "FH_00075": {
+      "project": "FH",
+      "index": 75,
+      "source_id": "FH-4560",
+      "target_id": "FH-4815",
+      "label": 0,
+      "prompt_chars": 1109
+    },
+    "FH_00076": {
+      "project": "FH",
+      "index": 76,
+      "source_id": "FH-4560",
+      "target_id": "FH-3012",
+      "label": 0,
+      "prompt_chars": 1167
+    },
+    "FH_00077": {
+      "project": "FH",
+      "index": 77,
+      "source_id": "FH-4560",
+      "target_id": "FH-3015",
+      "label": 0,
+      "prompt_chars": 1383
+    },
+    "FH_00078": {
+      "project": "FH",
+      "index": 78,
+      "source_id": "FH-4560",
+      "target_id": "FH-4783",
+      "label": 1,
+      "prompt_chars": 846
+    },
+    "FH_00079": {
+      "project": "FH",
+      "index": 79,
+      "source_id": "FH-4560",
+      "target_id": "FH-4549",
+      "label": 0,
+      "prompt_chars": 888
+    },
+    "FH_00080": {
+      "project": "FH",
+      "index": 80,
+      "source_id": "FH-4560",
+      "target_id": "FH-2851",
+      "label": 0,
+      "prompt_chars": 1424
+    },
+    "FH_00081": {
+      "project": "FH",
+      "index": 81,
+      "source_id": "FH-4560",
+      "target_id": "FH-4814",
+      "label": 0,
+      "prompt_chars": 1115
+    },
+    "FH_00082": {
+      "project": "FH",
+      "index": 82,
+      "source_id": "FH-4565",
+      "target_id": "FH-4784",
+      "label": 1,
+      "prompt_chars": 921
+    },
+    "FH_00083": {
+      "project": "FH",
+      "index": 83,
+      "source_id": "FH-4565",
+      "target_id": "FH-4625",
+      "label": 0,
+      "prompt_chars": 1266
+    },
+    "FH_00084": {
+      "project": "FH",
+      "index": 84,
+      "source_id": "FH-4565",
+      "target_id": "FH-4760",
+      "label": 0,
+      "prompt_chars": 1304
+    },
+    "FH_00085": {
+      "project": "FH",
+      "index": 85,
+      "source_id": "FH-4565",
+      "target_id": "FH-4753",
+      "label": 0,
+      "prompt_chars": 907
+    },
+    "FH_00086": {
+      "project": "FH",
+      "index": 86,
+      "source_id": "FH-4650",
+      "target_id": "FH-4652",
+      "label": 1,
+      "prompt_chars": 518
+    },
+    "FH_00087": {
+      "project": "FH",
+      "index": 87,
+      "source_id": "FH-4650",
+      "target_id": "FH-3106",
+      "label": 0,
+      "prompt_chars": 558
+    },
+    "FH_00088": {
+      "project": "FH",
+      "index": 88,
+      "source_id": "FH-4650",
+      "target_id": "FH-3319",
+      "label": 0,
+      "prompt_chars": 578
+    },
+    "FH_00089": {
+      "project": "FH",
+      "index": 89,
+      "source_id": "FH-4650",
+      "target_id": "FH-3594",
+      "label": 0,
+      "prompt_chars": 527
+    },
+    "FH_00090": {
+      "project": "FH",
+      "index": 90,
+      "source_id": "FH-4650",
+      "target_id": "FH-4653",
+      "label": 1,
+      "prompt_chars": 520
+    },
+    "FH_00091": {
+      "project": "FH",
+      "index": 91,
+      "source_id": "FH-4650",
+      "target_id": "FH-4376",
+      "label": 0,
+      "prompt_chars": 614
+    },
+    "FH_00092": {
+      "project": "FH",
+      "index": 92,
+      "source_id": "FH-4650",
+      "target_id": "FH-3019",
+      "label": 0,
+      "prompt_chars": 583
+    },
+    "FH_00093": {
+      "project": "FH",
+      "index": 93,
+      "source_id": "FH-4650",
+      "target_id": "FH-3398",
+      "label": 0,
+      "prompt_chars": 677
+    },
+    "FH_00094": {
+      "project": "FH",
+      "index": 94,
+      "source_id": "FH-4650",
+      "target_id": "FH-4654",
+      "label": 1,
+      "prompt_chars": 519
+    },
+    "FH_00095": {
+      "project": "FH",
+      "index": 95,
+      "source_id": "FH-4650",
+      "target_id": "FH-2765",
+      "label": 0,
+      "prompt_chars": 542
+    },
+    "FH_00096": {
+      "project": "FH",
+      "index": 96,
+      "source_id": "FH-4650",
+      "target_id": "FH-3068",
+      "label": 0,
+      "prompt_chars": 559
+    },
+    "FH_00097": {
+      "project": "FH",
+      "index": 97,
+      "source_id": "FH-4650",
+      "target_id": "FH-3021",
+      "label": 0,
+      "prompt_chars": 677
+    },
+    "FH_00098": {
+      "project": "FH",
+      "index": 98,
+      "source_id": "FH-4650",
+      "target_id": "FH-4807",
+      "label": 1,
+      "prompt_chars": 1489
+    },
+    "FH_00099": {
+      "project": "FH",
+      "index": 99,
+      "source_id": "FH-4650",
+      "target_id": "FH-3464",
+      "label": 0,
+      "prompt_chars": 838
+    },
+    "FH_00100": {
+      "project": "FH",
+      "index": 100,
+      "source_id": "FH-4650",
+      "target_id": "FH-4640",
+      "label": 0,
+      "prompt_chars": 534
+    },
+    "FH_00101": {
+      "project": "FH",
+      "index": 101,
+      "source_id": "FH-4650",
+      "target_id": "FH-3399",
+      "label": 0,
+      "prompt_chars": 679
+    },
+    "FH_00102": {
+      "project": "FH",
+      "index": 102,
+      "source_id": "FH-4678",
+      "target_id": "FH-4679",
+      "label": 1,
+      "prompt_chars": 530
+    },
+    "FH_00103": {
+      "project": "FH",
+      "index": 103,
+      "source_id": "FH-4678",
+      "target_id": "FH-4696",
+      "label": 0,
+      "prompt_chars": 539
+    },
+    "FH_00104": {
+      "project": "FH",
+      "index": 104,
+      "source_id": "FH-4678",
+      "target_id": "FH-4723",
+      "label": 0,
+      "prompt_chars": 559
+    },
+    "FH_00105": {
+      "project": "FH",
+      "index": 105,
+      "source_id": "FH-4678",
+      "target_id": "FH-2842",
+      "label": 0,
+      "prompt_chars": 603
+    },
+    "FH_00106": {
+      "project": "FH",
+      "index": 106,
+      "source_id": "FH-4678",
+      "target_id": "FH-4680",
+      "label": 1,
+      "prompt_chars": 538
+    },
+    "FH_00107": {
+      "project": "FH",
+      "index": 107,
+      "source_id": "FH-4678",
+      "target_id": "FH-4722",
+      "label": 0,
+      "prompt_chars": 550
+    },
+    "FH_00108": {
+      "project": "FH",
+      "index": 108,
+      "source_id": "FH-4678",
+      "target_id": "FH-2691",
+      "label": 0,
+      "prompt_chars": 753
+    },
+    "FH_00109": {
+      "project": "FH",
+      "index": 109,
+      "source_id": "FH-4678",
+      "target_id": "FH-4056",
+      "label": 0,
+      "prompt_chars": 603
+    },
+    "FH_00110": {
+      "project": "FH",
+      "index": 110,
+      "source_id": "FH-4678",
+      "target_id": "FH-4681",
+      "label": 1,
+      "prompt_chars": 545
+    },
+    "FH_00111": {
+      "project": "FH",
+      "index": 111,
+      "source_id": "FH-4678",
+      "target_id": "FH-4757",
+      "label": 0,
+      "prompt_chars": 537
+    },
+    "FH_00112": {
+      "project": "FH",
+      "index": 112,
+      "source_id": "FH-4678",
+      "target_id": "FH-3982",
+      "label": 0,
+      "prompt_chars": 557
+    },
+    "FH_00113": {
+      "project": "FH",
+      "index": 113,
+      "source_id": "FH-4678",
+      "target_id": "FH-4700",
+      "label": 0,
+      "prompt_chars": 534
+    },
+    "FH_00114": {
+      "project": "FH",
+      "index": 114,
+      "source_id": "FH-4678",
+      "target_id": "FH-4682",
+      "label": 1,
+      "prompt_chars": 533
+    },
+    "FH_00115": {
+      "project": "FH",
+      "index": 115,
+      "source_id": "FH-4678",
+      "target_id": "FH-2970",
+      "label": 0,
+      "prompt_chars": 526
+    },
+    "FH_00116": {
+      "project": "FH",
+      "index": 116,
+      "source_id": "FH-4678",
+      "target_id": "FH-3602",
+      "label": 0,
+      "prompt_chars": 621
+    },
+    "FH_00117": {
+      "project": "FH",
+      "index": 117,
+      "source_id": "FH-4678",
+      "target_id": "FH-2841",
+      "label": 0,
+      "prompt_chars": 542
+    },
+    "FH_00118": {
+      "project": "FH",
+      "index": 118,
+      "source_id": "FH-4683",
+      "target_id": "FH-4685",
+      "label": 1,
+      "prompt_chars": 565
+    },
+    "FH_00119": {
+      "project": "FH",
+      "index": 119,
+      "source_id": "FH-4683",
+      "target_id": "FH-4918",
+      "label": 0,
+      "prompt_chars": 748
+    },
+    "FH_00120": {
+      "project": "FH",
+      "index": 120,
+      "source_id": "FH-4683",
+      "target_id": "FH-4880",
+      "label": 0,
+      "prompt_chars": 830
+    },
+    "FH_00121": {
+      "project": "FH",
+      "index": 121,
+      "source_id": "FH-4683",
+      "target_id": "FH-3557",
+      "label": 0,
+      "prompt_chars": 628
+    },
+    "FH_00122": {
+      "project": "FH",
+      "index": 122,
+      "source_id": "FH-4683",
+      "target_id": "FH-4686",
+      "label": 1,
+      "prompt_chars": 650
+    },
+    "FH_00123": {
+      "project": "FH",
+      "index": 123,
+      "source_id": "FH-4683",
+      "target_id": "FH-4879",
+      "label": 0,
+      "prompt_chars": 851
+    },
+    "FH_00124": {
+      "project": "FH",
+      "index": 124,
+      "source_id": "FH-4683",
+      "target_id": "FH-4702",
+      "label": 0,
+      "prompt_chars": 588
+    },
+    "FH_00125": {
+      "project": "FH",
+      "index": 125,
+      "source_id": "FH-4683",
+      "target_id": "FH-4510",
+      "label": 0,
+      "prompt_chars": 787
+    },
+    "FH_00126": {
+      "project": "FH",
+      "index": 126,
+      "source_id": "FH-4683",
+      "target_id": "FH-4687",
+      "label": 1,
+      "prompt_chars": 581
+    },
+    "FH_00127": {
+      "project": "FH",
+      "index": 127,
+      "source_id": "FH-4683",
+      "target_id": "FH-3320",
+      "label": 0,
+      "prompt_chars": 639
+    },
+    "FH_00128": {
+      "project": "FH",
+      "index": 128,
+      "source_id": "FH-4683",
+      "target_id": "FH-4943",
+      "label": 0,
+      "prompt_chars": 675
+    },
+    "FH_00129": {
+      "project": "FH",
+      "index": 129,
+      "source_id": "FH-4683",
+      "target_id": "FH-4507",
+      "label": 0,
+      "prompt_chars": 603
+    },
+    "FH_00130": {
+      "project": "FH",
+      "index": 130,
+      "source_id": "FH-4683",
+      "target_id": "FH-4688",
+      "label": 1,
+      "prompt_chars": 617
+    },
+    "FH_00131": {
+      "project": "FH",
+      "index": 131,
+      "source_id": "FH-4683",
+      "target_id": "FH-4506",
+      "label": 0,
+      "prompt_chars": 611
+    },
+    "FH_00132": {
+      "project": "FH",
+      "index": 132,
+      "source_id": "FH-4683",
+      "target_id": "FH-4931",
+      "label": 0,
+      "prompt_chars": 760
+    },
+    "FH_00133": {
+      "project": "FH",
+      "index": 133,
+      "source_id": "FH-4683",
+      "target_id": "FH-3576",
+      "label": 0,
+      "prompt_chars": 615
+    },
+    "FH_00134": {
+      "project": "FH",
+      "index": 134,
+      "source_id": "FH-4683",
+      "target_id": "FH-4689",
+      "label": 1,
+      "prompt_chars": 612
+    },
+    "FH_00135": {
+      "project": "FH",
+      "index": 135,
+      "source_id": "FH-4683",
+      "target_id": "FH-4940",
+      "label": 0,
+      "prompt_chars": 679
+    },
+    "FH_00136": {
+      "project": "FH",
+      "index": 136,
+      "source_id": "FH-4683",
+      "target_id": "FH-4258",
+      "label": 0,
+      "prompt_chars": 1018
+    },
+    "FH_00137": {
+      "project": "FH",
+      "index": 137,
+      "source_id": "FH-4683",
+      "target_id": "FH-4495",
+      "label": 0,
+      "prompt_chars": 580
+    },
+    "FH_00138": {
+      "project": "FH",
+      "index": 138,
+      "source_id": "FH-4683",
+      "target_id": "FH-4690",
+      "label": 1,
+      "prompt_chars": 565
+    },
+    "FH_00139": {
+      "project": "FH",
+      "index": 139,
+      "source_id": "FH-4683",
+      "target_id": "FH-4941",
+      "label": 0,
+      "prompt_chars": 735
+    },
+    "FH_00140": {
+      "project": "FH",
+      "index": 140,
+      "source_id": "FH-4683",
+      "target_id": "FH-4954",
+      "label": 0,
+      "prompt_chars": 633
+    },
+    "FH_00141": {
+      "project": "FH",
+      "index": 141,
+      "source_id": "FH-4683",
+      "target_id": "FH-4496",
+      "label": 0,
+      "prompt_chars": 575
+    },
+    "FH_00142": {
+      "project": "FH",
+      "index": 142,
+      "source_id": "FH-4683",
+      "target_id": "FH-4691",
+      "label": 1,
+      "prompt_chars": 638
+    },
+    "FH_00143": {
+      "project": "FH",
+      "index": 143,
+      "source_id": "FH-4683",
+      "target_id": "FH-4867",
+      "label": 0,
+      "prompt_chars": 582
+    },
+    "FH_00144": {
+      "project": "FH",
+      "index": 144,
+      "source_id": "FH-4683",
+      "target_id": "FH-4498",
+      "label": 0,
+      "prompt_chars": 576
+    },
+    "FH_00145": {
+      "project": "FH",
+      "index": 145,
+      "source_id": "FH-4683",
+      "target_id": "FH-4942",
+      "label": 0,
+      "prompt_chars": 718
+    },
+    "FH_00146": {
+      "project": "FH",
+      "index": 146,
+      "source_id": "FH-4683",
+      "target_id": "FH-4692",
+      "label": 1,
+      "prompt_chars": 585
+    },
+    "FH_00147": {
+      "project": "FH",
+      "index": 147,
+      "source_id": "FH-4683",
+      "target_id": "FH-4497",
+      "label": 0,
+      "prompt_chars": 578
+    },
+    "FH_00148": {
+      "project": "FH",
+      "index": 148,
+      "source_id": "FH-4683",
+      "target_id": "FH-4004",
+      "label": 0,
+      "prompt_chars": 862
+    },
+    "FH_00149": {
+      "project": "FH",
+      "index": 149,
+      "source_id": "FH-4683",
+      "target_id": "FH-2830",
+      "label": 0,
+      "prompt_chars": 994
+    },
+    "FH_00150": {
+      "project": "FH",
+      "index": 150,
+      "source_id": "FH-4683",
+      "target_id": "FH-4802",
+      "label": 1,
+      "prompt_chars": 820
+    },
+    "FH_00151": {
+      "project": "FH",
+      "index": 151,
+      "source_id": "FH-4683",
+      "target_id": "FH-4720",
+      "label": 0,
+      "prompt_chars": 579
+    },
+    "FH_00152": {
+      "project": "FH",
+      "index": 152,
+      "source_id": "FH-4683",
+      "target_id": "FH-4927",
+      "label": 0,
+      "prompt_chars": 740
+    },
+    "FH_00153": {
+      "project": "FH",
+      "index": 153,
+      "source_id": "FH-4683",
+      "target_id": "FH-4124",
+      "label": 0,
+      "prompt_chars": 817
+    },
+    "FH_00154": {
+      "project": "FH",
+      "index": 154,
+      "source_id": "FH-4776",
+      "target_id": "FH-4775",
+      "label": 1,
+      "prompt_chars": 1521
+    },
+    "FH_00155": {
+      "project": "FH",
+      "index": 155,
+      "source_id": "FH-4776",
+      "target_id": "FH-4626",
+      "label": 0,
+      "prompt_chars": 1210
+    },
+    "FH_00156": {
+      "project": "FH",
+      "index": 156,
+      "source_id": "FH-4776",
+      "target_id": "FH-3822",
+      "label": 0,
+      "prompt_chars": 966
+    },
+    "FH_00157": {
+      "project": "FH",
+      "index": 157,
+      "source_id": "FH-4776",
+      "target_id": "FH-4759",
+      "label": 0,
+      "prompt_chars": 1207
+    },
+    "FH_00158": {
+      "project": "FH",
+      "index": 158,
+      "source_id": "FH-4908",
+      "target_id": "FH-4909",
+      "label": 1,
+      "prompt_chars": 678
+    },
+    "FH_00159": {
+      "project": "FH",
+      "index": 159,
+      "source_id": "FH-4908",
+      "target_id": "FH-3356",
+      "label": 0,
+      "prompt_chars": 737
+    },
+    "FH_00160": {
+      "project": "FH",
+      "index": 160,
+      "source_id": "FH-4908",
+      "target_id": "FH-3247",
+      "label": 0,
+      "prompt_chars": 1153
+    },
+    "FH_00161": {
+      "project": "FH",
+      "index": 161,
+      "source_id": "FH-4908",
+      "target_id": "FH-4927",
+      "label": 0,
+      "prompt_chars": 777
+    },
+    "FH_00162": {
+      "project": "FH",
+      "index": 162,
+      "source_id": "FH-4908",
+      "target_id": "FH-4910",
+      "label": 1,
+      "prompt_chars": 804
+    },
+    "FH_00163": {
+      "project": "FH",
+      "index": 163,
+      "source_id": "FH-4908",
+      "target_id": "FH-3319",
+      "label": 0,
+      "prompt_chars": 660
+    },
+    "FH_00164": {
+      "project": "FH",
+      "index": 164,
+      "source_id": "FH-4908",
+      "target_id": "FH-3435",
+      "label": 0,
+      "prompt_chars": 1659
+    },
+    "FH_00165": {
+      "project": "FH",
+      "index": 165,
+      "source_id": "FH-4908",
+      "target_id": "FH-4545",
+      "label": 0,
+      "prompt_chars": 859
+    },
+    "FH_00166": {
+      "project": "FH",
+      "index": 166,
+      "source_id": "FH-4908",
+      "target_id": "FH-4911",
+      "label": 1,
+      "prompt_chars": 846
+    },
+    "FH_00167": {
+      "project": "FH",
+      "index": 167,
+      "source_id": "FH-4908",
+      "target_id": "FH-4501",
+      "label": 0,
+      "prompt_chars": 624
+    },
+    "FH_00168": {
+      "project": "FH",
+      "index": 168,
+      "source_id": "FH-4908",
+      "target_id": "FH-3976",
+      "label": 0,
+      "prompt_chars": 1033
+    },
+    "FH_00169": {
+      "project": "FH",
+      "index": 169,
+      "source_id": "FH-4908",
+      "target_id": "FH-4555",
+      "label": 0,
+      "prompt_chars": 685
+    },
+    "FH_00170": {
+      "project": "FH",
+      "index": 170,
+      "source_id": "FH-4908",
+      "target_id": "FH-4912",
+      "label": 1,
+      "prompt_chars": 847
+    },
+    "FH_00171": {
+      "project": "FH",
+      "index": 171,
+      "source_id": "FH-4908",
+      "target_id": "FH-4938",
+      "label": 0,
+      "prompt_chars": 746
+    },
+    "FH_00172": {
+      "project": "FH",
+      "index": 172,
+      "source_id": "FH-4908",
+      "target_id": "FH-5011",
+      "label": 0,
+      "prompt_chars": 616
+    },
+    "FH_00173": {
+      "project": "FH",
+      "index": 173,
+      "source_id": "FH-4908",
+      "target_id": "FH-4495",
+      "label": 0,
+      "prompt_chars": 617
+    },
+    "FH_00174": {
+      "project": "FH",
+      "index": 174,
+      "source_id": "FH-4908",
+      "target_id": "FH-4913",
+      "label": 1,
+      "prompt_chars": 825
+    },
+    "FH_00175": {
+      "project": "FH",
+      "index": 175,
+      "source_id": "FH-4908",
+      "target_id": "FH-2831",
+      "label": 0,
+      "prompt_chars": 755
+    },
+    "FH_00176": {
+      "project": "FH",
+      "index": 176,
+      "source_id": "FH-4908",
+      "target_id": "FH-2946",
+      "label": 0,
+      "prompt_chars": 1090
+    },
+    "FH_00177": {
+      "project": "FH",
+      "index": 177,
+      "source_id": "FH-4908",
+      "target_id": "FH-4051",
+      "label": 0,
+      "prompt_chars": 1165
+    },
+    "FH_00178": {
+      "project": "FH",
+      "index": 178,
+      "source_id": "FH-4908",
+      "target_id": "FH-4914",
+      "label": 1,
+      "prompt_chars": 624
+    },
+    "FH_00179": {
+      "project": "FH",
+      "index": 179,
+      "source_id": "FH-4908",
+      "target_id": "FH-4546",
+      "label": 0,
+      "prompt_chars": 742
+    },
+    "FH_00180": {
+      "project": "FH",
+      "index": 180,
+      "source_id": "FH-4908",
+      "target_id": "FH-3280",
+      "label": 0,
+      "prompt_chars": 665
+    },
+    "FH_00181": {
+      "project": "FH",
+      "index": 181,
+      "source_id": "FH-4908",
+      "target_id": "FH-3173",
+      "label": 0,
+      "prompt_chars": 1089
+    },
+    "FH_00182": {
+      "project": "FH",
+      "index": 182,
+      "source_id": "FH-4919",
+      "target_id": "FH-4920",
+      "label": 1,
+      "prompt_chars": 1039
+    },
+    "FH_00183": {
+      "project": "FH",
+      "index": 183,
+      "source_id": "FH-4919",
+      "target_id": "FH-4937",
+      "label": 0,
+      "prompt_chars": 1070
+    },
+    "FH_00184": {
+      "project": "FH",
+      "index": 184,
+      "source_id": "FH-4919",
+      "target_id": "FH-4942",
+      "label": 0,
+      "prompt_chars": 844
+    },
+    "FH_00185": {
+      "project": "FH",
+      "index": 185,
+      "source_id": "FH-4919",
+      "target_id": "FH-4941",
+      "label": 0,
+      "prompt_chars": 861
+    },
+    "FH_00186": {
+      "project": "FH",
+      "index": 186,
+      "source_id": "FH-4919",
+      "target_id": "FH-4921",
+      "label": 1,
+      "prompt_chars": 756
+    },
+    "FH_00187": {
+      "project": "FH",
+      "index": 187,
+      "source_id": "FH-4919",
+      "target_id": "FH-4927",
+      "label": 0,
+      "prompt_chars": 866
+    },
+    "FH_00188": {
+      "project": "FH",
+      "index": 188,
+      "source_id": "FH-4919",
+      "target_id": "FH-4940",
+      "label": 0,
+      "prompt_chars": 805
+    },
+    "FH_00189": {
+      "project": "FH",
+      "index": 189,
+      "source_id": "FH-4919",
+      "target_id": "FH-4943",
+      "label": 0,
+      "prompt_chars": 801
+    },
+    "FH_00190": {
+      "project": "FH",
+      "index": 190,
+      "source_id": "FH-4919",
+      "target_id": "FH-4922",
+      "label": 1,
+      "prompt_chars": 765
+    },
+    "FH_00191": {
+      "project": "FH",
+      "index": 191,
+      "source_id": "FH-4919",
+      "target_id": "FH-4934",
+      "label": 0,
+      "prompt_chars": 903
+    },
+    "FH_00192": {
+      "project": "FH",
+      "index": 192,
+      "source_id": "FH-4919",
+      "target_id": "FH-4546",
+      "label": 0,
+      "prompt_chars": 831
+    },
+    "FH_00193": {
+      "project": "FH",
+      "index": 193,
+      "source_id": "FH-4919",
+      "target_id": "FH-4510",
+      "label": 0,
+      "prompt_chars": 913
+    },
+    "FH_00194": {
+      "project": "FH",
+      "index": 194,
+      "source_id": "FH-4919",
+      "target_id": "FH-4923",
+      "label": 1,
+      "prompt_chars": 926
+    },
+    "FH_00195": {
+      "project": "FH",
+      "index": 195,
+      "source_id": "FH-4919",
+      "target_id": "FH-3319",
+      "label": 0,
+      "prompt_chars": 749
+    },
+    "FH_00196": {
+      "project": "FH",
+      "index": 196,
+      "source_id": "FH-4919",
+      "target_id": "FH-3247",
+      "label": 0,
+      "prompt_chars": 1242
+    },
+    "FH_00197": {
+      "project": "FH",
+      "index": 197,
+      "source_id": "FH-4919",
+      "target_id": "FH-4124",
+      "label": 0,
+      "prompt_chars": 943
+    },
+    "FH_00198": {
+      "project": "FH",
+      "index": 198,
+      "source_id": "FH-4919",
+      "target_id": "FH-4924",
+      "label": 1,
+      "prompt_chars": 1125
+    },
+    "FH_00199": {
+      "project": "FH",
+      "index": 199,
+      "source_id": "FH-4919",
+      "target_id": "FH-2943",
+      "label": 0,
+      "prompt_chars": 1475
+    },
+    "FH_00200": {
+      "project": "FH",
+      "index": 200,
+      "source_id": "FH-4919",
+      "target_id": "FH-4931",
+      "label": 0,
+      "prompt_chars": 886
+    },
+    "FH_00201": {
+      "project": "FH",
+      "index": 201,
+      "source_id": "FH-4919",
+      "target_id": "FH-4691",
+      "label": 0,
+      "prompt_chars": 764
+    },
+    "FH_00202": {
+      "project": "FH",
+      "index": 202,
+      "source_id": "FH-4935",
+      "target_id": "FH-4936",
+      "label": 1,
+      "prompt_chars": 749
+    },
+    "FH_00203": {
+      "project": "FH",
+      "index": 203,
+      "source_id": "FH-4935",
+      "target_id": "FH-4927",
+      "label": 0,
+      "prompt_chars": 817
+    },
+    "FH_00204": {
+      "project": "FH",
+      "index": 204,
+      "source_id": "FH-4935",
+      "target_id": "FH-4934",
+      "label": 0,
+      "prompt_chars": 854
+    },
+    "FH_00205": {
+      "project": "FH",
+      "index": 205,
+      "source_id": "FH-4935",
+      "target_id": "FH-4941",
+      "label": 0,
+      "prompt_chars": 812
+    },
+    "FH_00206": {
+      "project": "FH",
+      "index": 206,
+      "source_id": "FH-4935",
+      "target_id": "FH-4937",
+      "label": 1,
+      "prompt_chars": 1021
+    },
+    "FH_00207": {
+      "project": "FH",
+      "index": 207,
+      "source_id": "FH-4935",
+      "target_id": "FH-4942",
+      "label": 0,
+      "prompt_chars": 795
+    },
+    "FH_00208": {
+      "project": "FH",
+      "index": 208,
+      "source_id": "FH-4935",
+      "target_id": "FH-4940",
+      "label": 0,
+      "prompt_chars": 756
+    },
+    "FH_00209": {
+      "project": "FH",
+      "index": 209,
+      "source_id": "FH-4935",
+      "target_id": "FH-4510",
+      "label": 0,
+      "prompt_chars": 864
+    },
+    "FH_00210": {
+      "project": "FH",
+      "index": 210,
+      "source_id": "FH-4935",
+      "target_id": "FH-4938",
+      "label": 1,
+      "prompt_chars": 786
+    },
+    "FH_00211": {
+      "project": "FH",
+      "index": 211,
+      "source_id": "FH-4935",
+      "target_id": "FH-4546",
+      "label": 0,
+      "prompt_chars": 782
+    },
+    "FH_00212": {
+      "project": "FH",
+      "index": 212,
+      "source_id": "FH-4935",
+      "target_id": "FH-3163",
+      "label": 0,
+      "prompt_chars": 680
+    },
+    "FH_00213": {
+      "project": "FH",
+      "index": 213,
+      "source_id": "FH-4935",
+      "target_id": "FH-4932",
+      "label": 0,
+      "prompt_chars": 774
+    },
+    "FH_00214": {
+      "project": "FH",
+      "index": 214,
+      "source_id": "FH-4999",
+      "target_id": "FH-5000",
+      "label": 1,
+      "prompt_chars": 560
+    },
+    "FH_00215": {
+      "project": "FH",
+      "index": 215,
+      "source_id": "FH-4999",
+      "target_id": "FH-4848",
+      "label": 0,
+      "prompt_chars": 524
+    },
+    "FH_00216": {
+      "project": "FH",
+      "index": 216,
+      "source_id": "FH-4999",
+      "target_id": "FH-3319",
+      "label": 0,
+      "prompt_chars": 574
+    },
+    "FH_00217": {
+      "project": "FH",
+      "index": 217,
+      "source_id": "FH-4999",
+      "target_id": "FH-4051",
+      "label": 0,
+      "prompt_chars": 1079
+    },
+    "FH_00218": {
+      "project": "FH",
+      "index": 218,
+      "source_id": "FH-5001",
+      "target_id": "FH-5002",
+      "label": 1,
+      "prompt_chars": 520
+    },
+    "FH_00219": {
+      "project": "FH",
+      "index": 219,
+      "source_id": "FH-5001",
+      "target_id": "FH-3465",
+      "label": 0,
+      "prompt_chars": 529
+    },
+    "FH_00220": {
+      "project": "FH",
+      "index": 220,
+      "source_id": "FH-5001",
+      "target_id": "FH-3315",
+      "label": 0,
+      "prompt_chars": 735
+    },
+    "FH_00221": {
+      "project": "FH",
+      "index": 221,
+      "source_id": "FH-5001",
+      "target_id": "FH-2597",
+      "label": 0,
+      "prompt_chars": 522
+    },
+    "FH_00222": {
+      "project": "FH",
+      "index": 222,
+      "source_id": "FH-5001",
+      "target_id": "FH-5003",
+      "label": 1,
+      "prompt_chars": 493
+    },
+    "FH_00223": {
+      "project": "FH",
+      "index": 223,
+      "source_id": "FH-5001",
+      "target_id": "FH-4708",
+      "label": 0,
+      "prompt_chars": 512
+    },
+    "FH_00224": {
+      "project": "FH",
+      "index": 224,
+      "source_id": "FH-5001",
+      "target_id": "FH-4924",
+      "label": 0,
+      "prompt_chars": 947
+    },
+    "FH_00225": {
+      "project": "FH",
+      "index": 225,
+      "source_id": "FH-5001",
+      "target_id": "FH-4501",
+      "label": 0,
+      "prompt_chars": 535
+    },
+    "FH_00226": {
+      "project": "FH",
+      "index": 226,
+      "source_id": "FH-5001",
+      "target_id": "FH-5004",
+      "label": 1,
+      "prompt_chars": 521
+    },
+    "FH_00227": {
+      "project": "FH",
+      "index": 227,
+      "source_id": "FH-5001",
+      "target_id": "FH-3319",
+      "label": 0,
+      "prompt_chars": 571
+    },
+    "FH_00228": {
+      "project": "FH",
+      "index": 228,
+      "source_id": "FH-5001",
+      "target_id": "FH-3317",
+      "label": 0,
+      "prompt_chars": 538
+    },
+    "FH_00229": {
+      "project": "FH",
+      "index": 229,
+      "source_id": "FH-5001",
+      "target_id": "FH-4927",
+      "label": 0,
+      "prompt_chars": 688
+    },
+    "FH_00230": {
+      "project": "FH",
+      "index": 230,
+      "source_id": "FH-5001",
+      "target_id": "FH-5005",
+      "label": 1,
+      "prompt_chars": 493
+    },
+    "FH_00231": {
+      "project": "FH",
+      "index": 231,
+      "source_id": "FH-5001",
+      "target_id": "FH-4647",
+      "label": 0,
+      "prompt_chars": 555
+    },
+    "FH_00232": {
+      "project": "FH",
+      "index": 232,
+      "source_id": "FH-5001",
+      "target_id": "FH-4848",
+      "label": 0,
+      "prompt_chars": 521
+    },
+    "FH_00233": {
+      "project": "FH",
+      "index": 233,
+      "source_id": "FH-5001",
+      "target_id": "FH-3163",
+      "label": 0,
+      "prompt_chars": 551
+    }
+  },
+  "estimated_prompt_tokens": 60562,
+  "estimated_completion_tokens_upper": 4680,
+  "estimated_batch_cost_usd_upper": 0.1108,
+  "cost_estimate_basis": "tiktoken/o200k_base if available, else char/3.7; max output token cap",
+  "pricing_per_1M_batch": {
+    "input": 1.25,
+    "output": 7.5
+  }
+}

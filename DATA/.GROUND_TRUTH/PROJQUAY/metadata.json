@@ -1,0 +1,92 @@
+{
+  "project": "PROJQUAY",
+  "timestamp": "2026-06-05T10:45:42.519319",
+  "version": "v3_text_clean",
+  "filter_strategy": "both_empty",
+  "num_raw_issues": 1151,
+  "num_loaded_issues": 1151,
+  "num_malformed_issues_skipped": 0,
+  "num_known_type_issues": 1151,
+  "num_text_filtered_known_type_issues": 22,
+  "text_filtered_issue_ids": [
+    "PROJQUAY-1556",
+    "PROJQUAY-171",
+    "PROJQUAY-189",
+    "PROJQUAY-2211",
+    "PROJQUAY-2634",
+    "PROJQUAY-2785",
+    "PROJQUAY-2833",
+    "PROJQUAY-2834",
+    "PROJQUAY-2978",
+    "PROJQUAY-2989",
+    "PROJQUAY-2991",
+    "PROJQUAY-3356",
+    "PROJQUAY-351",
+    "PROJQUAY-503",
+    "PROJQUAY-603",
+    "PROJQUAY-66",
+    "PROJQUAY-688",
+    "PROJQUAY-71",
+    "PROJQUAY-84",
+    "PROJQUAY-849",
+    "PROJQUAY-92",
+    "PROJQUAY-996"
+  ],
+  "num_requirements": 454,
+  "num_raw_links": 741,
+  "num_trace_links": 396,
+  "num_train_links": 267,
+  "num_val_links": 16,
+  "num_test_links": 113,
+  "link_filter_stats": {
+    "non_adjacent_links": 177,
+    "text_filtered_links": 20,
+    "missing_issue_links": 147,
+    "valid_links": 396,
+    "duplicate_raw_links": 1
+  },
+  "definition": "Direct adjacent-level hierarchical links only",
+  "included_links": [
+    "Epic -> Standard (refinement)",
+    "Standard -> Sub-task (subtask)"
+  ],
+  "excluded_links": [
+    "Epic -> Sub-task transitive links",
+    "Same-level links",
+    "Links with unknown issue types",
+    "Links touching text-filtered requirements"
+  ],
+  "split_strategy": "Source-level stratified by dominant ltype",
+  "split_ratios": {
+    "train": 0.7,
+    "val": 0.1,
+    "test": 0.2
+  },
+  "class_distribution": {
+    "overall": {
+      "refinement": 384,
+      "subtask": 12,
+      "refinement_pct": 96.96969696969697,
+      "subtask_pct": 3.0303030303030303
+    },
+    "train": {
+      "refinement": 258,
+      "subtask": 9,
+      "refinement_pct": 96.62921348314607,
+      "subtask_pct": 3.3707865168539324
+    },
+    "val": {
+      "refinement": 16,
+      "subtask": 0,
+      "refinement_pct": 100.0,
+      "subtask_pct": 0.0
+    },
+    "test": {
+      "refinement": 110,
+      "subtask": 3,
+      "refinement_pct": 97.34513274336283,
+      "subtask_pct": 2.6548672566371683
+    }
+  },
+  "random_seed": 42
+}

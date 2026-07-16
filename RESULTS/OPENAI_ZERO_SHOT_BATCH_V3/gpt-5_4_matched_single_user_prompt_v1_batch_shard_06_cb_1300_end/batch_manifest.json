@@ -1,0 +1,3125 @@
+{
+  "created_at": "2026-06-18T09:01:14.430068",
+  "script": "9d_zero_shot_openai_batch_matched.py",
+  "model": "gpt-5.4",
+  "endpoint": "/v1/chat/completions",
+  "prompt_mode": "matched_single_user_prompt_v1_batch",
+  "prompt_template_hash": "209a9beb289a5172",
+  "max_completion_tokens": 20,
+  "temperature": 0.0,
+  "seed": 42,
+  "message_format": "single user-role message; no system prompt; no JSON mode; OpenAI Batch Chat Completions",
+  "negative_protocol": "Qwen3 top-K hard negatives, 1:3 positive:negative test pairs",
+  "projects": [
+    "CB"
+  ],
+  "start_index": 1300,
+  "max_pairs": 500,
+  "run_suffix": "shard_06_cb_1300_end",
+  "requests": {
+    "CB_00000": {
+      "project": "CB",
+      "index": 0,
+      "source_id": "CB-7043",
+      "target_id": "CB-7570",
+      "label": 1,
+      "prompt_chars": 698
+    },
+    "CB_00001": {
+      "project": "CB",
+      "index": 1,
+      "source_id": "CB-7043",
+      "target_id": "CB-1997",
+      "label": 0,
+      "prompt_chars": 726
+    },
+    "CB_00002": {
+      "project": "CB",
+      "index": 2,
+      "source_id": "CB-7043",
+      "target_id": "CB-1720",
+      "label": 0,
+      "prompt_chars": 726
+    },
+    "CB_00003": {
+      "project": "CB",
+      "index": 3,
+      "source_id": "CB-7043",
+      "target_id": "CB-1910",
+      "label": 0,
+      "prompt_chars": 726
+    },
+    "CB_00004": {
+      "project": "CB",
+      "index": 4,
+      "source_id": "CB-7043",
+      "target_id": "CB-7577",
+      "label": 1,
+      "prompt_chars": 1341
+    },
+    "CB_00005": {
+      "project": "CB",
+      "index": 5,
+      "source_id": "CB-7043",
+      "target_id": "CB-1638",
+      "label": 0,
+      "prompt_chars": 726
+    },
+    "CB_00006": {
+      "project": "CB",
+      "index": 6,
+      "source_id": "CB-7043",
+      "target_id": "CB-8485",
+      "label": 0,
+      "prompt_chars": 649
+    },
+    "CB_00007": {
+      "project": "CB",
+      "index": 7,
+      "source_id": "CB-7043",
+      "target_id": "CB-4177",
+      "label": 0,
+      "prompt_chars": 625
+    },
+    "CB_00008": {
+      "project": "CB",
+      "index": 8,
+      "source_id": "CB-7043",
+      "target_id": "CB-7580",
+      "label": 1,
+      "prompt_chars": 767
+    },
+    "CB_00009": {
+      "project": "CB",
+      "index": 9,
+      "source_id": "CB-7043",
+      "target_id": "CB-4165",
+      "label": 0,
+      "prompt_chars": 919
+    },
+    "CB_00010": {
+      "project": "CB",
+      "index": 10,
+      "source_id": "CB-7043",
+      "target_id": "CB-5654",
+      "label": 0,
+      "prompt_chars": 591
+    },
+    "CB_00011": {
+      "project": "CB",
+      "index": 11,
+      "source_id": "CB-7043",
+      "target_id": "CB-4174",
+      "label": 0,
+      "prompt_chars": 620
+    },
+    "CB_00012": {
+      "project": "CB",
+      "index": 12,
+      "source_id": "CB-7043",
+      "target_id": "CB-7596",
+      "label": 1,
+      "prompt_chars": 810
+    },
+    "CB_00013": {
+      "project": "CB",
+      "index": 13,
+      "source_id": "CB-7043",
+      "target_id": "CB-4176",
+      "label": 0,
+      "prompt_chars": 625
+    },
+    "CB_00014": {
+      "project": "CB",
+      "index": 14,
+      "source_id": "CB-7043",
+      "target_id": "CB-3424",
+      "label": 0,
+      "prompt_chars": 574
+    },
+    "CB_00015": {
+      "project": "CB",
+      "index": 15,
+      "source_id": "CB-7043",
+      "target_id": "CB-13086",
+      "label": 0,
+      "prompt_chars": 606
+    },
+    "CB_00016": {
+      "project": "CB",
+      "index": 16,
+      "source_id": "CB-7043",
+      "target_id": "CB-7599",
+      "label": 1,
+      "prompt_chars": 1214
+    },
+    "CB_00017": {
+      "project": "CB",
+      "index": 17,
+      "source_id": "CB-7043",
+      "target_id": "CB-4178",
+      "label": 0,
+      "prompt_chars": 617
+    },
+    "CB_00018": {
+      "project": "CB",
+      "index": 18,
+      "source_id": "CB-7043",
+      "target_id": "CB-1036",
+      "label": 0,
+      "prompt_chars": 640
+    },
+    "CB_00019": {
+      "project": "CB",
+      "index": 19,
+      "source_id": "CB-7043",
+      "target_id": "CB-3843",
+      "label": 0,
+      "prompt_chars": 628
+    },
+    "CB_00020": {
+      "project": "CB",
+      "index": 20,
+      "source_id": "CB-7043",
+      "target_id": "CB-7604",
+      "label": 1,
+      "prompt_chars": 709
+    },
+    "CB_00021": {
+      "project": "CB",
+      "index": 21,
+      "source_id": "CB-7043",
+      "target_id": "CB-2824",
+      "label": 0,
+      "prompt_chars": 635
+    },
+    "CB_00022": {
+      "project": "CB",
+      "index": 22,
+      "source_id": "CB-7043",
+      "target_id": "CB-4172",
+      "label": 0,
+      "prompt_chars": 617
+    },
+    "CB_00023": {
+      "project": "CB",
+      "index": 23,
+      "source_id": "CB-7043",
+      "target_id": "CB-2674",
+      "label": 0,
+      "prompt_chars": 579
+    },
+    "CB_00024": {
+      "project": "CB",
+      "index": 24,
+      "source_id": "CB-7043",
+      "target_id": "CB-7613",
+      "label": 1,
+      "prompt_chars": 1374
+    },
+    "CB_00025": {
+      "project": "CB",
+      "index": 25,
+      "source_id": "CB-7043",
+      "target_id": "CB-3300",
+      "label": 0,
+      "prompt_chars": 682
+    },
+    "CB_00026": {
+      "project": "CB",
+      "index": 26,
+      "source_id": "CB-7043",
+      "target_id": "CB-612",
+      "label": 0,
+      "prompt_chars": 1333
+    },
+    "CB_00027": {
+      "project": "CB",
+      "index": 27,
+      "source_id": "CB-7043",
+      "target_id": "CB-1072",
+      "label": 0,
+      "prompt_chars": 670
+    },
+    "CB_00028": {
+      "project": "CB",
+      "index": 28,
+      "source_id": "CB-7043",
+      "target_id": "CB-7631",
+      "label": 1,
+      "prompt_chars": 625
+    },
+    "CB_00029": {
+      "project": "CB",
+      "index": 29,
+      "source_id": "CB-7043",
+      "target_id": "CB-1775",
+      "label": 0,
+      "prompt_chars": 734
+    },
+    "CB_00030": {
+      "project": "CB",
+      "index": 30,
+      "source_id": "CB-7043",
+      "target_id": "CB-4162",
+      "label": 0,
+      "prompt_chars": 914
+    },
+    "CB_00031": {
+      "project": "CB",
+      "index": 31,
+      "source_id": "CB-7043",
+      "target_id": "CB-3423",
+      "label": 0,
+      "prompt_chars": 574
+    },
+    "CB_00032": {
+      "project": "CB",
+      "index": 32,
+      "source_id": "CB-7043",
+      "target_id": "CB-7632",
+      "label": 1,
+      "prompt_chars": 3725
+    },
+    "CB_00033": {
+      "project": "CB",
+      "index": 33,
+      "source_id": "CB-7043",
+      "target_id": "CB-716",
+      "label": 0,
+      "prompt_chars": 838
+    },
+    "CB_00034": {
+      "project": "CB",
+      "index": 34,
+      "source_id": "CB-7043",
+      "target_id": "CB-4168",
+      "label": 0,
+      "prompt_chars": 914
+    },
+    "CB_00035": {
+      "project": "CB",
+      "index": 35,
+      "source_id": "CB-7043",
+      "target_id": "CB-3422",
+      "label": 0,
+      "prompt_chars": 579
+    },
+    "CB_00036": {
+      "project": "CB",
+      "index": 36,
+      "source_id": "CB-7043",
+      "target_id": "CB-7633",
+      "label": 1,
+      "prompt_chars": 610
+    },
+    "CB_00037": {
+      "project": "CB",
+      "index": 37,
+      "source_id": "CB-7043",
+      "target_id": "CB-3406",
+      "label": 0,
+      "prompt_chars": 598
+    },
+    "CB_00038": {
+      "project": "CB",
+      "index": 38,
+      "source_id": "CB-7043",
+      "target_id": "CB-3405",
+      "label": 0,
+      "prompt_chars": 598
+    },
+    "CB_00039": {
+      "project": "CB",
+      "index": 39,
+      "source_id": "CB-7043",
+      "target_id": "CB-3842",
+      "label": 0,
+      "prompt_chars": 625
+    },
+    "CB_00040": {
+      "project": "CB",
+      "index": 40,
+      "source_id": "CB-7043",
+      "target_id": "CB-7641",
+      "label": 1,
+      "prompt_chars": 1562
+    },
+    "CB_00041": {
+      "project": "CB",
+      "index": 41,
+      "source_id": "CB-7043",
+      "target_id": "CB-4840",
+      "label": 0,
+      "prompt_chars": 638
+    },
+    "CB_00042": {
+      "project": "CB",
+      "index": 42,
+      "source_id": "CB-7043",
+      "target_id": "CB-13023",
+      "label": 0,
+      "prompt_chars": 1741
+    },
+    "CB_00043": {
+      "project": "CB",
+      "index": 43,
+      "source_id": "CB-7043",
+      "target_id": "CB-736",
+      "label": 0,
+      "prompt_chars": 833
+    },
+    "CB_00044": {
+      "project": "CB",
+      "index": 44,
+      "source_id": "CB-7043",
+      "target_id": "CB-7642",
+      "label": 1,
+      "prompt_chars": 1142
+    },
+    "CB_00045": {
+      "project": "CB",
+      "index": 45,
+      "source_id": "CB-7043",
+      "target_id": "CB-3840",
+      "label": 0,
+      "prompt_chars": 620
+    },
+    "CB_00046": {
+      "project": "CB",
+      "index": 46,
+      "source_id": "CB-7043",
+      "target_id": "CB-3585",
+      "label": 0,
+      "prompt_chars": 941
+    },
+    "CB_00047": {
+      "project": "CB",
+      "index": 47,
+      "source_id": "CB-7043",
+      "target_id": "CB-3469",
+      "label": 0,
+      "prompt_chars": 941
+    },
+    "CB_00048": {
+      "project": "CB",
+      "index": 48,
+      "source_id": "CB-7043",
+      "target_id": "CB-7644",
+      "label": 1,
+      "prompt_chars": 1338
+    },
+    "CB_00049": {
+      "project": "CB",
+      "index": 49,
+      "source_id": "CB-7043",
+      "target_id": "CB-4298",
+      "label": 0,
+      "prompt_chars": 941
+    },
+    "CB_00050": {
+      "project": "CB",
+      "index": 50,
+      "source_id": "CB-7043",
+      "target_id": "CB-4212",
+      "label": 0,
+      "prompt_chars": 941
+    },
+    "CB_00051": {
+      "project": "CB",
+      "index": 51,
+      "source_id": "CB-7043",
+      "target_id": "CB-4175",
+      "label": 0,
+      "prompt_chars": 617
+    },
+    "CB_00052": {
+      "project": "CB",
+      "index": 52,
+      "source_id": "CB-7043",
+      "target_id": "CB-7646",
+      "label": 1,
+      "prompt_chars": 598
+    },
+    "CB_00053": {
+      "project": "CB",
+      "index": 53,
+      "source_id": "CB-7043",
+      "target_id": "CB-3910",
+      "label": 0,
+      "prompt_chars": 949
+    },
+    "CB_00054": {
+      "project": "CB",
+      "index": 54,
+      "source_id": "CB-7043",
+      "target_id": "CB-707",
+      "label": 0,
+      "prompt_chars": 838
+    },
+    "CB_00055": {
+      "project": "CB",
+      "index": 55,
+      "source_id": "CB-7043",
+      "target_id": "CB-4164",
+      "label": 0,
+      "prompt_chars": 919
+    },
+    "CB_00056": {
+      "project": "CB",
+      "index": 56,
+      "source_id": "CB-7043",
+      "target_id": "CB-7647",
+      "label": 1,
+      "prompt_chars": 769
+    },
+    "CB_00057": {
+      "project": "CB",
+      "index": 57,
+      "source_id": "CB-7043",
+      "target_id": "CB-13070",
+      "label": 0,
+      "prompt_chars": 603
+    },
+    "CB_00058": {
+      "project": "CB",
+      "index": 58,
+      "source_id": "CB-7043",
+      "target_id": "CB-10481",
+      "label": 0,
+      "prompt_chars": 583
+    },
+    "CB_00059": {
+      "project": "CB",
+      "index": 59,
+      "source_id": "CB-7043",
+      "target_id": "CB-7804",
+      "label": 0,
+      "prompt_chars": 782
+    },
+    "CB_00060": {
+      "project": "CB",
+      "index": 60,
+      "source_id": "CB-7043",
+      "target_id": "CB-7648",
+      "label": 1,
+      "prompt_chars": 631
+    },
+    "CB_00061": {
+      "project": "CB",
+      "index": 61,
+      "source_id": "CB-7043",
+      "target_id": "CB-1442",
+      "label": 0,
+      "prompt_chars": 616
+    },
+    "CB_00062": {
+      "project": "CB",
+      "index": 62,
+      "source_id": "CB-7043",
+      "target_id": "CB-1439",
+      "label": 0,
+      "prompt_chars": 616
+    },
+    "CB_00063": {
+      "project": "CB",
+      "index": 63,
+      "source_id": "CB-7043",
+      "target_id": "CB-1438",
+      "label": 0,
+      "prompt_chars": 616
+    },
+    "CB_00064": {
+      "project": "CB",
+      "index": 64,
+      "source_id": "CB-7043",
+      "target_id": "CB-7649",
+      "label": 1,
+      "prompt_chars": 591
+    },
+    "CB_00065": {
+      "project": "CB",
+      "index": 65,
+      "source_id": "CB-7043",
+      "target_id": "CB-1440",
+      "label": 0,
+      "prompt_chars": 616
+    },
+    "CB_00066": {
+      "project": "CB",
+      "index": 66,
+      "source_id": "CB-7043",
+      "target_id": "CB-1437",
+      "label": 0,
+      "prompt_chars": 616
+    },
+    "CB_00067": {
+      "project": "CB",
+      "index": 67,
+      "source_id": "CB-7043",
+      "target_id": "CB-1441",
+      "label": 0,
+      "prompt_chars": 616
+    },
+    "CB_00068": {
+      "project": "CB",
+      "index": 68,
+      "source_id": "CB-7043",
+      "target_id": "CB-7650",
+      "label": 1,
+      "prompt_chars": 575
+    },
+    "CB_00069": {
+      "project": "CB",
+      "index": 69,
+      "source_id": "CB-7043",
+      "target_id": "CB-1443",
+      "label": 0,
+      "prompt_chars": 616
+    },
+    "CB_00070": {
+      "project": "CB",
+      "index": 70,
+      "source_id": "CB-7043",
+      "target_id": "CB-1444",
+      "label": 0,
+      "prompt_chars": 616
+    },
+    "CB_00071": {
+      "project": "CB",
+      "index": 71,
+      "source_id": "CB-7043",
+      "target_id": "CB-1446",
+      "label": 0,
+      "prompt_chars": 616
+    },
+    "CB_00072": {
+      "project": "CB",
+      "index": 72,
+      "source_id": "CB-7043",
+      "target_id": "CB-7651",
+      "label": 1,
+      "prompt_chars": 815
+    },
+    "CB_00073": {
+      "project": "CB",
+      "index": 73,
+      "source_id": "CB-7043",
+      "target_id": "CB-13078",
+      "label": 0,
+      "prompt_chars": 608
+    },
+    "CB_00074": {
+      "project": "CB",
+      "index": 74,
+      "source_id": "CB-7043",
+      "target_id": "CB-709",
+      "label": 0,
+      "prompt_chars": 838
+    },
+    "CB_00075": {
+      "project": "CB",
+      "index": 75,
+      "source_id": "CB-7043",
+      "target_id": "CB-4170",
+      "label": 0,
+      "prompt_chars": 919
+    },
+    "CB_00076": {
+      "project": "CB",
+      "index": 76,
+      "source_id": "CB-7043",
+      "target_id": "CB-7667",
+      "label": 1,
+      "prompt_chars": 1292
+    },
+    "CB_00077": {
+      "project": "CB",
+      "index": 77,
+      "source_id": "CB-7043",
+      "target_id": "CB-767",
+      "label": 0,
+      "prompt_chars": 1374
+    },
+    "CB_00078": {
+      "project": "CB",
+      "index": 78,
+      "source_id": "CB-7043",
+      "target_id": "CB-713",
+      "label": 0,
+      "prompt_chars": 838
+    },
+    "CB_00079": {
+      "project": "CB",
+      "index": 79,
+      "source_id": "CB-7043",
+      "target_id": "CB-4838",
+      "label": 0,
+      "prompt_chars": 635
+    },
+    "CB_00080": {
+      "project": "CB",
+      "index": 80,
+      "source_id": "CB-7043",
+      "target_id": "CB-7679",
+      "label": 1,
+      "prompt_chars": 1489
+    },
+    "CB_00081": {
+      "project": "CB",
+      "index": 81,
+      "source_id": "CB-7043",
+      "target_id": "CB-4167",
+      "label": 0,
+      "prompt_chars": 908
+    },
+    "CB_00082": {
+      "project": "CB",
+      "index": 82,
+      "source_id": "CB-7043",
+      "target_id": "CB-714",
+      "label": 0,
+      "prompt_chars": 838
+    },
+    "CB_00083": {
+      "project": "CB",
+      "index": 83,
+      "source_id": "CB-7043",
+      "target_id": "CB-13170",
+      "label": 0,
+      "prompt_chars": 945
+    },
+    "CB_00084": {
+      "project": "CB",
+      "index": 84,
+      "source_id": "CB-7043",
+      "target_id": "CB-7682",
+      "label": 1,
+      "prompt_chars": 1104
+    },
+    "CB_00085": {
+      "project": "CB",
+      "index": 85,
+      "source_id": "CB-7043",
+      "target_id": "CB-3583",
+      "label": 0,
+      "prompt_chars": 711
+    },
+    "CB_00086": {
+      "project": "CB",
+      "index": 86,
+      "source_id": "CB-7043",
+      "target_id": "CB-3467",
+      "label": 0,
+      "prompt_chars": 711
+    },
+    "CB_00087": {
+      "project": "CB",
+      "index": 87,
+      "source_id": "CB-7043",
+      "target_id": "CB-727",
+      "label": 0,
+      "prompt_chars": 833
+    },
+    "CB_00088": {
+      "project": "CB",
+      "index": 88,
+      "source_id": "CB-7043",
+      "target_id": "CB-7684",
+      "label": 1,
+      "prompt_chars": 1043
+    },
+    "CB_00089": {
+      "project": "CB",
+      "index": 89,
+      "source_id": "CB-7043",
+      "target_id": "CB-4841",
+      "label": 0,
+      "prompt_chars": 643
+    },
+    "CB_00090": {
+      "project": "CB",
+      "index": 90,
+      "source_id": "CB-7043",
+      "target_id": "CB-13117",
+      "label": 0,
+      "prompt_chars": 603
+    },
+    "CB_00091": {
+      "project": "CB",
+      "index": 91,
+      "source_id": "CB-7043",
+      "target_id": "CB-735",
+      "label": 0,
+      "prompt_chars": 833
+    },
+    "CB_00092": {
+      "project": "CB",
+      "index": 92,
+      "source_id": "CB-7043",
+      "target_id": "CB-7729",
+      "label": 1,
+      "prompt_chars": 578
+    },
+    "CB_00093": {
+      "project": "CB",
+      "index": 93,
+      "source_id": "CB-7043",
+      "target_id": "CB-13067",
+      "label": 0,
+      "prompt_chars": 592
+    },
+    "CB_00094": {
+      "project": "CB",
+      "index": 94,
+      "source_id": "CB-7043",
+      "target_id": "CB-708",
+      "label": 0,
+      "prompt_chars": 838
+    },
+    "CB_00095": {
+      "project": "CB",
+      "index": 95,
+      "source_id": "CB-7043",
+      "target_id": "CB-10482",
+      "label": 0,
+      "prompt_chars": 584
+    },
+    "CB_00096": {
+      "project": "CB",
+      "index": 96,
+      "source_id": "CB-7043",
+      "target_id": "CB-7730",
+      "label": 1,
+      "prompt_chars": 638
+    },
+    "CB_00097": {
+      "project": "CB",
+      "index": 97,
+      "source_id": "CB-7043",
+      "target_id": "CB-710",
+      "label": 0,
+      "prompt_chars": 838
+    },
+    "CB_00098": {
+      "project": "CB",
+      "index": 98,
+      "source_id": "CB-7043",
+      "target_id": "CB-4296",
+      "label": 0,
+      "prompt_chars": 727
+    },
+    "CB_00099": {
+      "project": "CB",
+      "index": 99,
+      "source_id": "CB-7043",
+      "target_id": "CB-1354",
+      "label": 0,
+      "prompt_chars": 620
+    },
+    "CB_00100": {
+      "project": "CB",
+      "index": 100,
+      "source_id": "CB-7043",
+      "target_id": "CB-7832",
+      "label": 1,
+      "prompt_chars": 1231
+    },
+    "CB_00101": {
+      "project": "CB",
+      "index": 101,
+      "source_id": "CB-7043",
+      "target_id": "CB-1351",
+      "label": 0,
+      "prompt_chars": 620
+    },
+    "CB_00102": {
+      "project": "CB",
+      "index": 102,
+      "source_id": "CB-7043",
+      "target_id": "CB-1347",
+      "label": 0,
+      "prompt_chars": 620
+    },
+    "CB_00103": {
+      "project": "CB",
+      "index": 103,
+      "source_id": "CB-7043",
+      "target_id": "CB-1353",
+      "label": 0,
+      "prompt_chars": 620
+    },
+    "CB_00104": {
+      "project": "CB",
+      "index": 104,
+      "source_id": "CB-7043",
+      "target_id": "CB-8035",
+      "label": 1,
+      "prompt_chars": 1570
+    },
+    "CB_00105": {
+      "project": "CB",
+      "index": 105,
+      "source_id": "CB-7043",
+      "target_id": "CB-1348",
+      "label": 0,
+      "prompt_chars": 620
+    },
+    "CB_00106": {
+      "project": "CB",
+      "index": 106,
+      "source_id": "CB-7043",
+      "target_id": "CB-1352",
+      "label": 0,
+      "prompt_chars": 620
+    },
+    "CB_00107": {
+      "project": "CB",
+      "index": 107,
+      "source_id": "CB-7043",
+      "target_id": "CB-1350",
+      "label": 0,
+      "prompt_chars": 620
+    },
+    "CB_00108": {
+      "project": "CB",
+      "index": 108,
+      "source_id": "CB-7383",
+      "target_id": "CB-7384",
+      "label": 1,
+      "prompt_chars": 725
+    },
+    "CB_00109": {
+      "project": "CB",
+      "index": 109,
+      "source_id": "CB-7383",
+      "target_id": "CB-5547",
+      "label": 0,
+      "prompt_chars": 668
+    },
+    "CB_00110": {
+      "project": "CB",
+      "index": 110,
+      "source_id": "CB-7383",
+      "target_id": "CB-6596",
+      "label": 0,
+      "prompt_chars": 668
+    },
+    "CB_00111": {
+      "project": "CB",
+      "index": 111,
+      "source_id": "CB-7383",
+      "target_id": "CB-5864",
+      "label": 0,
+      "prompt_chars": 668
+    },
+    "CB_00112": {
+      "project": "CB",
+      "index": 112,
+      "source_id": "CB-7383",
+      "target_id": "CB-7385",
+      "label": 1,
+      "prompt_chars": 672
+    },
+    "CB_00113": {
+      "project": "CB",
+      "index": 113,
+      "source_id": "CB-7383",
+      "target_id": "CB-4837",
+      "label": 0,
+      "prompt_chars": 668
+    },
+    "CB_00114": {
+      "project": "CB",
+      "index": 114,
+      "source_id": "CB-7383",
+      "target_id": "CB-3842",
+      "label": 0,
+      "prompt_chars": 710
+    },
+    "CB_00115": {
+      "project": "CB",
+      "index": 115,
+      "source_id": "CB-7383",
+      "target_id": "CB-5162",
+      "label": 0,
+      "prompt_chars": 675
+    },
+    "CB_00116": {
+      "project": "CB",
+      "index": 116,
+      "source_id": "CB-7383",
+      "target_id": "CB-7386",
+      "label": 1,
+      "prompt_chars": 668
+    },
+    "CB_00117": {
+      "project": "CB",
+      "index": 117,
+      "source_id": "CB-7383",
+      "target_id": "CB-5158",
+      "label": 0,
+      "prompt_chars": 668
+    },
+    "CB_00118": {
+      "project": "CB",
+      "index": 118,
+      "source_id": "CB-7383",
+      "target_id": "CB-5159",
+      "label": 0,
+      "prompt_chars": 675
+    },
+    "CB_00119": {
+      "project": "CB",
+      "index": 119,
+      "source_id": "CB-7383",
+      "target_id": "CB-5545",
+      "label": 0,
+      "prompt_chars": 675
+    },
+    "CB_00120": {
+      "project": "CB",
+      "index": 120,
+      "source_id": "CB-7383",
+      "target_id": "CB-7387",
+      "label": 1,
+      "prompt_chars": 675
+    },
+    "CB_00121": {
+      "project": "CB",
+      "index": 121,
+      "source_id": "CB-7383",
+      "target_id": "CB-3840",
+      "label": 0,
+      "prompt_chars": 705
+    },
+    "CB_00122": {
+      "project": "CB",
+      "index": 122,
+      "source_id": "CB-7383",
+      "target_id": "CB-5541",
+      "label": 0,
+      "prompt_chars": 668
+    },
+    "CB_00123": {
+      "project": "CB",
+      "index": 123,
+      "source_id": "CB-7383",
+      "target_id": "CB-5157",
+      "label": 0,
+      "prompt_chars": 672
+    },
+    "CB_00124": {
+      "project": "CB",
+      "index": 124,
+      "source_id": "CB-7383",
+      "target_id": "CB-7388",
+      "label": 1,
+      "prompt_chars": 672
+    },
+    "CB_00125": {
+      "project": "CB",
+      "index": 125,
+      "source_id": "CB-7383",
+      "target_id": "CB-6593",
+      "label": 0,
+      "prompt_chars": 675
+    },
+    "CB_00126": {
+      "project": "CB",
+      "index": 126,
+      "source_id": "CB-7383",
+      "target_id": "CB-6589",
+      "label": 0,
+      "prompt_chars": 668
+    },
+    "CB_00127": {
+      "project": "CB",
+      "index": 127,
+      "source_id": "CB-7383",
+      "target_id": "CB-5861",
+      "label": 0,
+      "prompt_chars": 675
+    },
+    "CB_00128": {
+      "project": "CB",
+      "index": 128,
+      "source_id": "CB-7383",
+      "target_id": "CB-7389",
+      "label": 1,
+      "prompt_chars": 684
+    },
+    "CB_00129": {
+      "project": "CB",
+      "index": 129,
+      "source_id": "CB-7383",
+      "target_id": "CB-5546",
+      "label": 0,
+      "prompt_chars": 678
+    },
+    "CB_00130": {
+      "project": "CB",
+      "index": 130,
+      "source_id": "CB-7383",
+      "target_id": "CB-5542",
+      "label": 0,
+      "prompt_chars": 675
+    },
+    "CB_00131": {
+      "project": "CB",
+      "index": 131,
+      "source_id": "CB-7383",
+      "target_id": "CB-5857",
+      "label": 0,
+      "prompt_chars": 668
+    },
+    "CB_00132": {
+      "project": "CB",
+      "index": 132,
+      "source_id": "CB-7383",
+      "target_id": "CB-7390",
+      "label": 1,
+      "prompt_chars": 675
+    },
+    "CB_00133": {
+      "project": "CB",
+      "index": 133,
+      "source_id": "CB-7383",
+      "target_id": "CB-6590",
+      "label": 0,
+      "prompt_chars": 675
+    },
+    "CB_00134": {
+      "project": "CB",
+      "index": 134,
+      "source_id": "CB-7383",
+      "target_id": "CB-5540",
+      "label": 0,
+      "prompt_chars": 672
+    },
+    "CB_00135": {
+      "project": "CB",
+      "index": 135,
+      "source_id": "CB-7383",
+      "target_id": "CB-4834",
+      "label": 0,
+      "prompt_chars": 711
+    },
+    "CB_00136": {
+      "project": "CB",
+      "index": 136,
+      "source_id": "CB-7383",
+      "target_id": "CB-7391",
+      "label": 1,
+      "prompt_chars": 671
+    },
+    "CB_00137": {
+      "project": "CB",
+      "index": 137,
+      "source_id": "CB-7383",
+      "target_id": "CB-6588",
+      "label": 0,
+      "prompt_chars": 672
+    },
+    "CB_00138": {
+      "project": "CB",
+      "index": 138,
+      "source_id": "CB-7383",
+      "target_id": "CB-5858",
+      "label": 0,
+      "prompt_chars": 675
+    },
+    "CB_00139": {
+      "project": "CB",
+      "index": 139,
+      "source_id": "CB-7383",
+      "target_id": "CB-3841",
+      "label": 0,
+      "prompt_chars": 706
+    },
+    "CB_00140": {
+      "project": "CB",
+      "index": 140,
+      "source_id": "CB-7383",
+      "target_id": "CB-7392",
+      "label": 1,
+      "prompt_chars": 679
+    },
+    "CB_00141": {
+      "project": "CB",
+      "index": 141,
+      "source_id": "CB-7383",
+      "target_id": "CB-6595",
+      "label": 0,
+      "prompt_chars": 679
+    },
+    "CB_00142": {
+      "project": "CB",
+      "index": 142,
+      "source_id": "CB-7383",
+      "target_id": "CB-5856",
+      "label": 0,
+      "prompt_chars": 672
+    },
+    "CB_00143": {
+      "project": "CB",
+      "index": 143,
+      "source_id": "CB-7383",
+      "target_id": "CB-5863",
+      "label": 0,
+      "prompt_chars": 679
+    },
+    "CB_00144": {
+      "project": "CB",
+      "index": 144,
+      "source_id": "CB-7383",
+      "target_id": "CB-7393",
+      "label": 1,
+      "prompt_chars": 668
+    },
+    "CB_00145": {
+      "project": "CB",
+      "index": 145,
+      "source_id": "CB-7383",
+      "target_id": "CB-5160",
+      "label": 0,
+      "prompt_chars": 672
+    },
+    "CB_00146": {
+      "project": "CB",
+      "index": 146,
+      "source_id": "CB-7383",
+      "target_id": "CB-5562",
+      "label": 0,
+      "prompt_chars": 671
+    },
+    "CB_00147": {
+      "project": "CB",
+      "index": 147,
+      "source_id": "CB-7383",
+      "target_id": "CB-5543",
+      "label": 0,
+      "prompt_chars": 672
+    },
+    "CB_00148": {
+      "project": "CB",
+      "index": 148,
+      "source_id": "CB-7383",
+      "target_id": "CB-7394",
+      "label": 1,
+      "prompt_chars": 674
+    },
+    "CB_00149": {
+      "project": "CB",
+      "index": 149,
+      "source_id": "CB-7383",
+      "target_id": "CB-6594",
+      "label": 0,
+      "prompt_chars": 671
+    },
+    "CB_00150": {
+      "project": "CB",
+      "index": 150,
+      "source_id": "CB-7383",
+      "target_id": "CB-6591",
+      "label": 0,
+      "prompt_chars": 672
+    },
+    "CB_00151": {
+      "project": "CB",
+      "index": 151,
+      "source_id": "CB-7383",
+      "target_id": "CB-4833",
+      "label": 0,
+      "prompt_chars": 704
+    },
+    "CB_00152": {
+      "project": "CB",
+      "index": 152,
+      "source_id": "CB-7383",
+      "target_id": "CB-7396",
+      "label": 1,
+      "prompt_chars": 665
+    },
+    "CB_00153": {
+      "project": "CB",
+      "index": 153,
+      "source_id": "CB-7383",
+      "target_id": "CB-5862",
+      "label": 0,
+      "prompt_chars": 671
+    },
+    "CB_00154": {
+      "project": "CB",
+      "index": 154,
+      "source_id": "CB-7383",
+      "target_id": "CB-5859",
+      "label": 0,
+      "prompt_chars": 672
+    },
+    "CB_00155": {
+      "project": "CB",
+      "index": 155,
+      "source_id": "CB-7383",
+      "target_id": "CB-3844",
+      "label": 0,
+      "prompt_chars": 706
+    },
+    "CB_00156": {
+      "project": "CB",
+      "index": 156,
+      "source_id": "CB-7383",
+      "target_id": "CB-7397",
+      "label": 1,
+      "prompt_chars": 661
+    },
+    "CB_00157": {
+      "project": "CB",
+      "index": 157,
+      "source_id": "CB-7383",
+      "target_id": "CB-3843",
+      "label": 0,
+      "prompt_chars": 713
+    },
+    "CB_00158": {
+      "project": "CB",
+      "index": 158,
+      "source_id": "CB-7383",
+      "target_id": "CB-4832",
+      "label": 0,
+      "prompt_chars": 708
+    },
+    "CB_00159": {
+      "project": "CB",
+      "index": 159,
+      "source_id": "CB-7383",
+      "target_id": "CB-5557",
+      "label": 0,
+      "prompt_chars": 668
+    },
+    "CB_00160": {
+      "project": "CB",
+      "index": 160,
+      "source_id": "CB-7383",
+      "target_id": "CB-7398",
+      "label": 1,
+      "prompt_chars": 668
+    },
+    "CB_00161": {
+      "project": "CB",
+      "index": 161,
+      "source_id": "CB-7383",
+      "target_id": "CB-4854",
+      "label": 0,
+      "prompt_chars": 658
+    },
+    "CB_00162": {
+      "project": "CB",
+      "index": 162,
+      "source_id": "CB-7383",
+      "target_id": "CB-3845",
+      "label": 0,
+      "prompt_chars": 706
+    },
+    "CB_00163": {
+      "project": "CB",
+      "index": 163,
+      "source_id": "CB-7383",
+      "target_id": "CB-4840",
+      "label": 0,
+      "prompt_chars": 723
+    },
+    "CB_00164": {
+      "project": "CB",
+      "index": 164,
+      "source_id": "CB-7383",
+      "target_id": "CB-7399",
+      "label": 1,
+      "prompt_chars": 665
+    },
+    "CB_00165": {
+      "project": "CB",
+      "index": 165,
+      "source_id": "CB-7383",
+      "target_id": "CB-4843",
+      "label": 0,
+      "prompt_chars": 668
+    },
+    "CB_00166": {
+      "project": "CB",
+      "index": 166,
+      "source_id": "CB-7383",
+      "target_id": "CB-6607",
+      "label": 0,
+      "prompt_chars": 668
+    },
+    "CB_00167": {
+      "project": "CB",
+      "index": 167,
+      "source_id": "CB-7383",
+      "target_id": "CB-5161",
+      "label": 0,
+      "prompt_chars": 684
+    },
+    "CB_00168": {
+      "project": "CB",
+      "index": 168,
+      "source_id": "CB-7383",
+      "target_id": "CB-7400",
+      "label": 1,
+      "prompt_chars": 677
+    },
+    "CB_00169": {
+      "project": "CB",
+      "index": 169,
+      "source_id": "CB-7383",
+      "target_id": "CB-4859",
+      "label": 0,
+      "prompt_chars": 710
+    },
+    "CB_00170": {
+      "project": "CB",
+      "index": 170,
+      "source_id": "CB-7383",
+      "target_id": "CB-4167",
+      "label": 0,
+      "prompt_chars": 993
+    },
+    "CB_00171": {
+      "project": "CB",
+      "index": 171,
+      "source_id": "CB-7383",
+      "target_id": "CB-5544",
+      "label": 0,
+      "prompt_chars": 684
+    },
+    "CB_00172": {
+      "project": "CB",
+      "index": 172,
+      "source_id": "CB-7383",
+      "target_id": "CB-7401",
+      "label": 1,
+      "prompt_chars": 668
+    },
+    "CB_00173": {
+      "project": "CB",
+      "index": 173,
+      "source_id": "CB-7383",
+      "target_id": "CB-5156",
+      "label": 0,
+      "prompt_chars": 725
+    },
+    "CB_00174": {
+      "project": "CB",
+      "index": 174,
+      "source_id": "CB-7383",
+      "target_id": "CB-5875",
+      "label": 0,
+      "prompt_chars": 668
+    },
+    "CB_00175": {
+      "project": "CB",
+      "index": 175,
+      "source_id": "CB-7383",
+      "target_id": "CB-5539",
+      "label": 0,
+      "prompt_chars": 725
+    },
+    "CB_00176": {
+      "project": "CB",
+      "index": 176,
+      "source_id": "CB-7383",
+      "target_id": "CB-7402",
+      "label": 1,
+      "prompt_chars": 664
+    },
+    "CB_00177": {
+      "project": "CB",
+      "index": 177,
+      "source_id": "CB-7383",
+      "target_id": "CB-4839",
+      "label": 0,
+      "prompt_chars": 716
+    },
+    "CB_00178": {
+      "project": "CB",
+      "index": 178,
+      "source_id": "CB-7383",
+      "target_id": "CB-5855",
+      "label": 0,
+      "prompt_chars": 725
+    },
+    "CB_00179": {
+      "project": "CB",
+      "index": 179,
+      "source_id": "CB-7383",
+      "target_id": "CB-4835",
+      "label": 0,
+      "prompt_chars": 716
+    },
+    "CB_00180": {
+      "project": "CB",
+      "index": 180,
+      "source_id": "CB-7383",
+      "target_id": "CB-7403",
+      "label": 1,
+      "prompt_chars": 672
+    },
+    "CB_00181": {
+      "project": "CB",
+      "index": 181,
+      "source_id": "CB-7383",
+      "target_id": "CB-5860",
+      "label": 0,
+      "prompt_chars": 684
+    },
+    "CB_00182": {
+      "project": "CB",
+      "index": 182,
+      "source_id": "CB-7383",
+      "target_id": "CB-6592",
+      "label": 0,
+      "prompt_chars": 684
+    },
+    "CB_00183": {
+      "project": "CB",
+      "index": 183,
+      "source_id": "CB-7383",
+      "target_id": "CB-5549",
+      "label": 0,
+      "prompt_chars": 672
+    },
+    "CB_00184": {
+      "project": "CB",
+      "index": 184,
+      "source_id": "CB-7383",
+      "target_id": "CB-7404",
+      "label": 1,
+      "prompt_chars": 668
+    },
+    "CB_00185": {
+      "project": "CB",
+      "index": 185,
+      "source_id": "CB-7383",
+      "target_id": "CB-4867",
+      "label": 0,
+      "prompt_chars": 716
+    },
+    "CB_00186": {
+      "project": "CB",
+      "index": 186,
+      "source_id": "CB-7383",
+      "target_id": "CB-5176",
+      "label": 0,
+      "prompt_chars": 672
+    },
+    "CB_00187": {
+      "project": "CB",
+      "index": 187,
+      "source_id": "CB-7383",
+      "target_id": "CB-6587",
+      "label": 0,
+      "prompt_chars": 725
+    },
+    "CB_00188": {
+      "project": "CB",
+      "index": 188,
+      "source_id": "CB-7383",
+      "target_id": "CB-7405",
+      "label": 1,
+      "prompt_chars": 686
+    },
+    "CB_00189": {
+      "project": "CB",
+      "index": 189,
+      "source_id": "CB-7383",
+      "target_id": "CB-5170",
+      "label": 0,
+      "prompt_chars": 668
+    },
+    "CB_00190": {
+      "project": "CB",
+      "index": 190,
+      "source_id": "CB-7383",
+      "target_id": "CB-4838",
+      "label": 0,
+      "prompt_chars": 720
+    },
+    "CB_00191": {
+      "project": "CB",
+      "index": 191,
+      "source_id": "CB-7383",
+      "target_id": "CB-5172",
+      "label": 0,
+      "prompt_chars": 674
+    },
+    "CB_00192": {
+      "project": "CB",
+      "index": 192,
+      "source_id": "CB-7383",
+      "target_id": "CB-7406",
+      "label": 1,
+      "prompt_chars": 678
+    },
+    "CB_00193": {
+      "project": "CB",
+      "index": 193,
+      "source_id": "CB-7383",
+      "target_id": "CB-5555",
+      "label": 0,
+      "prompt_chars": 668
+    },
+    "CB_00194": {
+      "project": "CB",
+      "index": 194,
+      "source_id": "CB-7383",
+      "target_id": "CB-4855",
+      "label": 0,
+      "prompt_chars": 667
+    },
+    "CB_00195": {
+      "project": "CB",
+      "index": 195,
+      "source_id": "CB-7383",
+      "target_id": "CB-5167",
+      "label": 0,
+      "prompt_chars": 668
+    },
+    "CB_00196": {
+      "project": "CB",
+      "index": 196,
+      "source_id": "CB-7383",
+      "target_id": "CB-7407",
+      "label": 1,
+      "prompt_chars": 671
+    },
+    "CB_00197": {
+      "project": "CB",
+      "index": 197,
+      "source_id": "CB-7383",
+      "target_id": "CB-5166",
+      "label": 0,
+      "prompt_chars": 661
+    },
+    "CB_00198": {
+      "project": "CB",
+      "index": 198,
+      "source_id": "CB-7383",
+      "target_id": "CB-4168",
+      "label": 0,
+      "prompt_chars": 999
+    },
+    "CB_00199": {
+      "project": "CB",
+      "index": 199,
+      "source_id": "CB-7383",
+      "target_id": "CB-5165",
+      "label": 0,
+      "prompt_chars": 665
+    },
+    "CB_00200": {
+      "project": "CB",
+      "index": 200,
+      "source_id": "CB-7383",
+      "target_id": "CB-7408",
+      "label": 1,
+      "prompt_chars": 653
+    },
+    "CB_00201": {
+      "project": "CB",
+      "index": 201,
+      "source_id": "CB-7383",
+      "target_id": "CB-5558",
+      "label": 0,
+      "prompt_chars": 686
+    },
+    "CB_00202": {
+      "project": "CB",
+      "index": 202,
+      "source_id": "CB-7383",
+      "target_id": "CB-6608",
+      "label": 0,
+      "prompt_chars": 686
+    },
+    "CB_00203": {
+      "project": "CB",
+      "index": 203,
+      "source_id": "CB-7383",
+      "target_id": "CB-5551",
+      "label": 0,
+      "prompt_chars": 661
+    },
+    "CB_00204": {
+      "project": "CB",
+      "index": 204,
+      "source_id": "CB-764",
+      "target_id": "CB-767",
+      "label": 1,
+      "prompt_chars": 1800
+    },
+    "CB_00205": {
+      "project": "CB",
+      "index": 205,
+      "source_id": "CB-764",
+      "target_id": "CB-13023",
+      "label": 0,
+      "prompt_chars": 2167
+    },
+    "CB_00206": {
+      "project": "CB",
+      "index": 206,
+      "source_id": "CB-764",
+      "target_id": "CB-13148",
+      "label": 0,
+      "prompt_chars": 1100
+    },
+    "CB_00207": {
+      "project": "CB",
+      "index": 207,
+      "source_id": "CB-764",
+      "target_id": "CB-1400",
+      "label": 0,
+      "prompt_chars": 1259
+    },
+    "CB_00208": {
+      "project": "CB",
+      "index": 208,
+      "source_id": "CB-764",
+      "target_id": "CB-768",
+      "label": 1,
+      "prompt_chars": 1804
+    },
+    "CB_00209": {
+      "project": "CB",
+      "index": 209,
+      "source_id": "CB-764",
+      "target_id": "CB-5326",
+      "label": 0,
+      "prompt_chars": 1033
+    },
+    "CB_00210": {
+      "project": "CB",
+      "index": 210,
+      "source_id": "CB-764",
+      "target_id": "CB-1043",
+      "label": 0,
+      "prompt_chars": 1176
+    },
+    "CB_00211": {
+      "project": "CB",
+      "index": 211,
+      "source_id": "CB-764",
+      "target_id": "CB-1073",
+      "label": 0,
+      "prompt_chars": 1094
+    },
+    "CB_00212": {
+      "project": "CB",
+      "index": 212,
+      "source_id": "CB-764",
+      "target_id": "CB-769",
+      "label": 1,
+      "prompt_chars": 1807
+    },
+    "CB_00213": {
+      "project": "CB",
+      "index": 213,
+      "source_id": "CB-764",
+      "target_id": "CB-3541",
+      "label": 0,
+      "prompt_chars": 1009
+    },
+    "CB_00214": {
+      "project": "CB",
+      "index": 214,
+      "source_id": "CB-764",
+      "target_id": "CB-13074",
+      "label": 0,
+      "prompt_chars": 1028
+    },
+    "CB_00215": {
+      "project": "CB",
+      "index": 215,
+      "source_id": "CB-764",
+      "target_id": "CB-5141",
+      "label": 0,
+      "prompt_chars": 1430
+    },
+    "CB_00216": {
+      "project": "CB",
+      "index": 216,
+      "source_id": "CB-764",
+      "target_id": "CB-770",
+      "label": 1,
+      "prompt_chars": 1801
+    },
+    "CB_00217": {
+      "project": "CB",
+      "index": 217,
+      "source_id": "CB-764",
+      "target_id": "CB-13087",
+      "label": 0,
+      "prompt_chars": 1029
+    },
+    "CB_00218": {
+      "project": "CB",
+      "index": 218,
+      "source_id": "CB-764",
+      "target_id": "CB-13090",
+      "label": 0,
+      "prompt_chars": 1031
+    },
+    "CB_00219": {
+      "project": "CB",
+      "index": 219,
+      "source_id": "CB-764",
+      "target_id": "CB-3224",
+      "label": 0,
+      "prompt_chars": 1198
+    },
+    "CB_00220": {
+      "project": "CB",
+      "index": 220,
+      "source_id": "CB-764",
+      "target_id": "CB-771",
+      "label": 1,
+      "prompt_chars": 1802
+    },
+    "CB_00221": {
+      "project": "CB",
+      "index": 221,
+      "source_id": "CB-764",
+      "target_id": "CB-1071",
+      "label": 0,
+      "prompt_chars": 1110
+    },
+    "CB_00222": {
+      "project": "CB",
+      "index": 222,
+      "source_id": "CB-764",
+      "target_id": "CB-1401",
+      "label": 0,
+      "prompt_chars": 1213
+    },
+    "CB_00223": {
+      "project": "CB",
+      "index": 223,
+      "source_id": "CB-764",
+      "target_id": "CB-13082",
+      "label": 0,
+      "prompt_chars": 1033
+    },
+    "CB_00224": {
+      "project": "CB",
+      "index": 224,
+      "source_id": "CB-764",
+      "target_id": "CB-772",
+      "label": 1,
+      "prompt_chars": 1800
+    },
+    "CB_00225": {
+      "project": "CB",
+      "index": 225,
+      "source_id": "CB-764",
+      "target_id": "CB-5654",
+      "label": 0,
+      "prompt_chars": 1017
+    },
+    "CB_00226": {
+      "project": "CB",
+      "index": 226,
+      "source_id": "CB-764",
+      "target_id": "CB-4651",
+      "label": 0,
+      "prompt_chars": 1906
+    },
+    "CB_00227": {
+      "project": "CB",
+      "index": 227,
+      "source_id": "CB-764",
+      "target_id": "CB-7955",
+      "label": 0,
+      "prompt_chars": 1015
+    },
+    "CB_00228": {
+      "project": "CB",
+      "index": 228,
+      "source_id": "CB-790",
+      "target_id": "CB-792",
+      "label": 1,
+      "prompt_chars": 921
+    },
+    "CB_00229": {
+      "project": "CB",
+      "index": 229,
+      "source_id": "CB-790",
+      "target_id": "CB-2337",
+      "label": 0,
+      "prompt_chars": 927
+    },
+    "CB_00230": {
+      "project": "CB",
+      "index": 230,
+      "source_id": "CB-790",
+      "target_id": "CB-2335",
+      "label": 0,
+      "prompt_chars": 921
+    },
+    "CB_00231": {
+      "project": "CB",
+      "index": 231,
+      "source_id": "CB-790",
+      "target_id": "CB-2336",
+      "label": 0,
+      "prompt_chars": 927
+    },
+    "CB_00232": {
+      "project": "CB",
+      "index": 232,
+      "source_id": "CB-790",
+      "target_id": "CB-793",
+      "label": 1,
+      "prompt_chars": 924
+    },
+    "CB_00233": {
+      "project": "CB",
+      "index": 233,
+      "source_id": "CB-790",
+      "target_id": "CB-2333",
+      "label": 0,
+      "prompt_chars": 919
+    },
+    "CB_00234": {
+      "project": "CB",
+      "index": 234,
+      "source_id": "CB-790",
+      "target_id": "CB-2334",
+      "label": 0,
+      "prompt_chars": 915
+    },
+    "CB_00235": {
+      "project": "CB",
+      "index": 235,
+      "source_id": "CB-790",
+      "target_id": "CB-2338",
+      "label": 0,
+      "prompt_chars": 916
+    },
+    "CB_00236": {
+      "project": "CB",
+      "index": 236,
+      "source_id": "CB-790",
+      "target_id": "CB-794",
+      "label": 1,
+      "prompt_chars": 917
+    },
+    "CB_00237": {
+      "project": "CB",
+      "index": 237,
+      "source_id": "CB-790",
+      "target_id": "CB-2340",
+      "label": 0,
+      "prompt_chars": 922
+    },
+    "CB_00238": {
+      "project": "CB",
+      "index": 238,
+      "source_id": "CB-790",
+      "target_id": "CB-2331",
+      "label": 0,
+      "prompt_chars": 914
+    },
+    "CB_00239": {
+      "project": "CB",
+      "index": 239,
+      "source_id": "CB-790",
+      "target_id": "CB-7613",
+      "label": 0,
+      "prompt_chars": 1701
+    },
+    "CB_00240": {
+      "project": "CB",
+      "index": 240,
+      "source_id": "CB-790",
+      "target_id": "CB-795",
+      "label": 1,
+      "prompt_chars": 917
+    },
+    "CB_00241": {
+      "project": "CB",
+      "index": 241,
+      "source_id": "CB-790",
+      "target_id": "CB-2664",
+      "label": 0,
+      "prompt_chars": 920
+    },
+    "CB_00242": {
+      "project": "CB",
+      "index": 242,
+      "source_id": "CB-790",
+      "target_id": "CB-13053",
+      "label": 0,
+      "prompt_chars": 1338
+    },
+    "CB_00243": {
+      "project": "CB",
+      "index": 243,
+      "source_id": "CB-790",
+      "target_id": "CB-2662",
+      "label": 0,
+      "prompt_chars": 925
+    },
+    "CB_00244": {
+      "project": "CB",
+      "index": 244,
+      "source_id": "CB-790",
+      "target_id": "CB-798",
+      "label": 1,
+      "prompt_chars": 906
+    },
+    "CB_00245": {
+      "project": "CB",
+      "index": 245,
+      "source_id": "CB-790",
+      "target_id": "CB-2687",
+      "label": 0,
+      "prompt_chars": 999
+    },
+    "CB_00246": {
+      "project": "CB",
+      "index": 246,
+      "source_id": "CB-790",
+      "target_id": "CB-2663",
+      "label": 0,
+      "prompt_chars": 926
+    },
+    "CB_00247": {
+      "project": "CB",
+      "index": 247,
+      "source_id": "CB-790",
+      "target_id": "CB-13117",
+      "label": 0,
+      "prompt_chars": 930
+    },
+    "CB_00248": {
+      "project": "CB",
+      "index": 248,
+      "source_id": "CB-8076",
+      "target_id": "CB-7952",
+      "label": 1,
+      "prompt_chars": 559
+    },
+    "CB_00249": {
+      "project": "CB",
+      "index": 249,
+      "source_id": "CB-8076",
+      "target_id": "CB-8417",
+      "label": 0,
+      "prompt_chars": 687
+    },
+    "CB_00250": {
+      "project": "CB",
+      "index": 250,
+      "source_id": "CB-8076",
+      "target_id": "CB-245",
+      "label": 0,
+      "prompt_chars": 561
+    },
+    "CB_00251": {
+      "project": "CB",
+      "index": 251,
+      "source_id": "CB-8076",
+      "target_id": "CB-2777",
+      "label": 0,
+      "prompt_chars": 565
+    },
+    "CB_00252": {
+      "project": "CB",
+      "index": 252,
+      "source_id": "CB-8076",
+      "target_id": "CB-7953",
+      "label": 1,
+      "prompt_chars": 566
+    },
+    "CB_00253": {
+      "project": "CB",
+      "index": 253,
+      "source_id": "CB-8076",
+      "target_id": "CB-1736",
+      "label": 0,
+      "prompt_chars": 565
+    },
+    "CB_00254": {
+      "project": "CB",
+      "index": 254,
+      "source_id": "CB-8076",
+      "target_id": "CB-3113",
+      "label": 0,
+      "prompt_chars": 565
+    },
+    "CB_00255": {
+      "project": "CB",
+      "index": 255,
+      "source_id": "CB-8076",
+      "target_id": "CB-2892",
+      "label": 0,
+      "prompt_chars": 565
+    },
+    "CB_00256": {
+      "project": "CB",
+      "index": 256,
+      "source_id": "CB-8076",
+      "target_id": "CB-7954",
+      "label": 1,
+      "prompt_chars": 560
+    },
+    "CB_00257": {
+      "project": "CB",
+      "index": 257,
+      "source_id": "CB-8076",
+      "target_id": "CB-3276",
+      "label": 0,
+      "prompt_chars": 565
+    },
+    "CB_00258": {
+      "project": "CB",
+      "index": 258,
+      "source_id": "CB-8076",
+      "target_id": "CB-1791",
+      "label": 0,
+      "prompt_chars": 565
+    },
+    "CB_00259": {
+      "project": "CB",
+      "index": 259,
+      "source_id": "CB-8076",
+      "target_id": "CB-1926",
+      "label": 0,
+      "prompt_chars": 565
+    },
+    "CB_00260": {
+      "project": "CB",
+      "index": 260,
+      "source_id": "CB-8076",
+      "target_id": "CB-7955",
+      "label": 1,
+      "prompt_chars": 559
+    },
+    "CB_00261": {
+      "project": "CB",
+      "index": 261,
+      "source_id": "CB-8076",
+      "target_id": "CB-1356",
+      "label": 0,
+      "prompt_chars": 565
+    },
+    "CB_00262": {
+      "project": "CB",
+      "index": 262,
+      "source_id": "CB-8076",
+      "target_id": "CB-1656",
+      "label": 0,
+      "prompt_chars": 565
+    },
+    "CB_00263": {
+      "project": "CB",
+      "index": 263,
+      "source_id": "CB-8076",
+      "target_id": "CB-1448",
+      "label": 0,
+      "prompt_chars": 565
+    },
+    "CB_00264": {
+      "project": "CB",
+      "index": 264,
+      "source_id": "CB-8076",
+      "target_id": "CB-7956",
+      "label": 1,
+      "prompt_chars": 556
+    },
+    "CB_00265": {
+      "project": "CB",
+      "index": 265,
+      "source_id": "CB-8076",
+      "target_id": "CB-2488",
+      "label": 0,
+      "prompt_chars": 565
+    },
+    "CB_00266": {
+      "project": "CB",
+      "index": 266,
+      "source_id": "CB-8076",
+      "target_id": "CB-2375",
+      "label": 0,
+      "prompt_chars": 565
+    },
+    "CB_00267": {
+      "project": "CB",
+      "index": 267,
+      "source_id": "CB-8076",
+      "target_id": "CB-2585",
+      "label": 0,
+      "prompt_chars": 565
+    },
+    "CB_00268": {
+      "project": "CB",
+      "index": 268,
+      "source_id": "CB-8076",
+      "target_id": "CB-7957",
+      "label": 1,
+      "prompt_chars": 565
+    },
+    "CB_00269": {
+      "project": "CB",
+      "index": 269,
+      "source_id": "CB-8076",
+      "target_id": "CB-2013",
+      "label": 0,
+      "prompt_chars": 565
+    },
+    "CB_00270": {
+      "project": "CB",
+      "index": 270,
+      "source_id": "CB-8076",
+      "target_id": "CB-2267",
+      "label": 0,
+      "prompt_chars": 565
+    },
+    "CB_00271": {
+      "project": "CB",
+      "index": 271,
+      "source_id": "CB-8076",
+      "target_id": "CB-2152",
+      "label": 0,
+      "prompt_chars": 565
+    },
+    "CB_00272": {
+      "project": "CB",
+      "index": 272,
+      "source_id": "CB-8076",
+      "target_id": "CB-7960",
+      "label": 1,
+      "prompt_chars": 565
+    },
+    "CB_00273": {
+      "project": "CB",
+      "index": 273,
+      "source_id": "CB-8076",
+      "target_id": "CB-12181",
+      "label": 0,
+      "prompt_chars": 573
+    },
+    "CB_00274": {
+      "project": "CB",
+      "index": 274,
+      "source_id": "CB-8076",
+      "target_id": "CB-7897",
+      "label": 0,
+      "prompt_chars": 1054
+    },
+    "CB_00275": {
+      "project": "CB",
+      "index": 275,
+      "source_id": "CB-8076",
+      "target_id": "CB-9395",
+      "label": 0,
+      "prompt_chars": 1152
+    },
+    "CB_00276": {
+      "project": "CB",
+      "index": 276,
+      "source_id": "CB-8076",
+      "target_id": "CB-7961",
+      "label": 1,
+      "prompt_chars": 564
+    },
+    "CB_00277": {
+      "project": "CB",
+      "index": 277,
+      "source_id": "CB-8076",
+      "target_id": "CB-1038",
+      "label": 0,
+      "prompt_chars": 747
+    },
+    "CB_00278": {
+      "project": "CB",
+      "index": 278,
+      "source_id": "CB-8076",
+      "target_id": "CB-1035",
+      "label": 0,
+      "prompt_chars": 604
+    },
+    "CB_00279": {
+      "project": "CB",
+      "index": 279,
+      "source_id": "CB-8076",
+      "target_id": "CB-6865",
+      "label": 0,
+      "prompt_chars": 609
+    },
+    "CB_00280": {
+      "project": "CB",
+      "index": 280,
+      "source_id": "CB-8076",
+      "target_id": "CB-7962",
+      "label": 1,
+      "prompt_chars": 557
+    },
+    "CB_00281": {
+      "project": "CB",
+      "index": 281,
+      "source_id": "CB-8076",
+      "target_id": "CB-9036",
+      "label": 0,
+      "prompt_chars": 1070
+    },
+    "CB_00282": {
+      "project": "CB",
+      "index": 282,
+      "source_id": "CB-8076",
+      "target_id": "CB-9535",
+      "label": 0,
+      "prompt_chars": 536
+    },
+    "CB_00283": {
+      "project": "CB",
+      "index": 283,
+      "source_id": "CB-8076",
+      "target_id": "CB-631",
+      "label": 0,
+      "prompt_chars": 724
+    },
+    "CB_00284": {
+      "project": "CB",
+      "index": 284,
+      "source_id": "CB-8076",
+      "target_id": "CB-7963",
+      "label": 1,
+      "prompt_chars": 565
+    },
+    "CB_00285": {
+      "project": "CB",
+      "index": 285,
+      "source_id": "CB-8076",
+      "target_id": "CB-666",
+      "label": 0,
+      "prompt_chars": 724
+    },
+    "CB_00286": {
+      "project": "CB",
+      "index": 286,
+      "source_id": "CB-8076",
+      "target_id": "CB-667",
+      "label": 0,
+      "prompt_chars": 724
+    },
+    "CB_00287": {
+      "project": "CB",
+      "index": 287,
+      "source_id": "CB-8076",
+      "target_id": "CB-664",
+      "label": 0,
+      "prompt_chars": 724
+    },
+    "CB_00288": {
+      "project": "CB",
+      "index": 288,
+      "source_id": "CB-8076",
+      "target_id": "CB-7964",
+      "label": 1,
+      "prompt_chars": 564
+    },
+    "CB_00289": {
+      "project": "CB",
+      "index": 289,
+      "source_id": "CB-8076",
+      "target_id": "CB-8441",
+      "label": 0,
+      "prompt_chars": 857
+    },
+    "CB_00290": {
+      "project": "CB",
+      "index": 290,
+      "source_id": "CB-8076",
+      "target_id": "CB-6281",
+      "label": 0,
+      "prompt_chars": 553
+    },
+    "CB_00291": {
+      "project": "CB",
+      "index": 291,
+      "source_id": "CB-8076",
+      "target_id": "CB-13090",
+      "label": 0,
+      "prompt_chars": 575
+    },
+    "CB_00292": {
+      "project": "CB",
+      "index": 292,
+      "source_id": "CB-8076",
+      "target_id": "CB-7965",
+      "label": 1,
+      "prompt_chars": 561
+    },
+    "CB_00293": {
+      "project": "CB",
+      "index": 293,
+      "source_id": "CB-8076",
+      "target_id": "CB-8746",
+      "label": 0,
+      "prompt_chars": 613
+    },
+    "CB_00294": {
+      "project": "CB",
+      "index": 294,
+      "source_id": "CB-8076",
+      "target_id": "CB-13074",
+      "label": 0,
+      "prompt_chars": 572
+    },
+    "CB_00295": {
+      "project": "CB",
+      "index": 295,
+      "source_id": "CB-8076",
+      "target_id": "CB-7913",
+      "label": 0,
+      "prompt_chars": 868
+    },
+    "CB_00296": {
+      "project": "CB",
+      "index": 296,
+      "source_id": "CB-8076",
+      "target_id": "CB-7966",
+      "label": 1,
+      "prompt_chars": 561
+    },
+    "CB_00297": {
+      "project": "CB",
+      "index": 297,
+      "source_id": "CB-8076",
+      "target_id": "CB-6990",
+      "label": 0,
+      "prompt_chars": 795
+    },
+    "CB_00298": {
+      "project": "CB",
+      "index": 298,
+      "source_id": "CB-8076",
+      "target_id": "CB-1043",
+      "label": 0,
+      "prompt_chars": 720
+    },
+    "CB_00299": {
+      "project": "CB",
+      "index": 299,
+      "source_id": "CB-8076",
+      "target_id": "CB-1202",
+      "label": 0,
+      "prompt_chars": 551
+    },
+    "CB_00300": {
+      "project": "CB",
+      "index": 300,
+      "source_id": "CB-852",
+      "target_id": "CB-2230",
+      "label": 1,
+      "prompt_chars": 666
+    },
+    "CB_00301": {
+      "project": "CB",
+      "index": 301,
+      "source_id": "CB-852",
+      "target_id": "CB-13053",
+      "label": 0,
+      "prompt_chars": 975
+    },
+    "CB_00302": {
+      "project": "CB",
+      "index": 302,
+      "source_id": "CB-852",
+      "target_id": "CB-13054",
+      "label": 0,
+      "prompt_chars": 630
+    },
+    "CB_00303": {
+      "project": "CB",
+      "index": 303,
+      "source_id": "CB-852",
+      "target_id": "CB-2334",
+      "label": 0,
+      "prompt_chars": 552
+    },
+    "CB_00304": {
+      "project": "CB",
+      "index": 304,
+      "source_id": "CB-8801",
+      "target_id": "CB-6865",
+      "label": 1,
+      "prompt_chars": 622
+    },
+    "CB_00305": {
+      "project": "CB",
+      "index": 305,
+      "source_id": "CB-8801",
+      "target_id": "CB-2775",
+      "label": 0,
+      "prompt_chars": 596
+    },
+    "CB_00306": {
+      "project": "CB",
+      "index": 306,
+      "source_id": "CB-8801",
+      "target_id": "CB-2489",
+      "label": 0,
+      "prompt_chars": 596
+    },
+    "CB_00307": {
+      "project": "CB",
+      "index": 307,
+      "source_id": "CB-8801",
+      "target_id": "CB-3114",
+      "label": 0,
+      "prompt_chars": 596
+    },
+    "CB_00308": {
+      "project": "CB",
+      "index": 308,
+      "source_id": "CB-8801",
+      "target_id": "CB-6990",
+      "label": 1,
+      "prompt_chars": 808
+    },
+    "CB_00309": {
+      "project": "CB",
+      "index": 309,
+      "source_id": "CB-8801",
+      "target_id": "CB-3277",
+      "label": 0,
+      "prompt_chars": 596
+    },
+    "CB_00310": {
+      "project": "CB",
+      "index": 310,
+      "source_id": "CB-8801",
+      "target_id": "CB-2376",
+      "label": 0,
+      "prompt_chars": 596
+    },
+    "CB_00311": {
+      "project": "CB",
+      "index": 311,
+      "source_id": "CB-8801",
+      "target_id": "CB-1449",
+      "label": 0,
+      "prompt_chars": 596
+    },
+    "CB_00312": {
+      "project": "CB",
+      "index": 312,
+      "source_id": "CB-8801",
+      "target_id": "CB-8153",
+      "label": 1,
+      "prompt_chars": 993
+    },
+    "CB_00313": {
+      "project": "CB",
+      "index": 313,
+      "source_id": "CB-8801",
+      "target_id": "CB-2153",
+      "label": 0,
+      "prompt_chars": 596
+    },
+    "CB_00314": {
+      "project": "CB",
+      "index": 314,
+      "source_id": "CB-8801",
+      "target_id": "CB-2268",
+      "label": 0,
+      "prompt_chars": 596
+    },
+    "CB_00315": {
+      "project": "CB",
+      "index": 315,
+      "source_id": "CB-8801",
+      "target_id": "CB-2586",
+      "label": 0,
+      "prompt_chars": 596
+    },
+    "CB_00316": {
+      "project": "CB",
+      "index": 316,
+      "source_id": "CB-8801",
+      "target_id": "CB-8158",
+      "label": 1,
+      "prompt_chars": 987
+    },
+    "CB_00317": {
+      "project": "CB",
+      "index": 317,
+      "source_id": "CB-8801",
+      "target_id": "CB-2891",
+      "label": 0,
+      "prompt_chars": 596
+    },
+    "CB_00318": {
+      "project": "CB",
+      "index": 318,
+      "source_id": "CB-8801",
+      "target_id": "CB-1657",
+      "label": 0,
+      "prompt_chars": 598
+    },
+    "CB_00319": {
+      "project": "CB",
+      "index": 319,
+      "source_id": "CB-8801",
+      "target_id": "CB-2014",
+      "label": 0,
+      "prompt_chars": 598
+    },
+    "CB_00320": {
+      "project": "CB",
+      "index": 320,
+      "source_id": "CB-8801",
+      "target_id": "CB-8183",
+      "label": 1,
+      "prompt_chars": 1021
+    },
+    "CB_00321": {
+      "project": "CB",
+      "index": 321,
+      "source_id": "CB-8801",
+      "target_id": "CB-1927",
+      "label": 0,
+      "prompt_chars": 598
+    },
+    "CB_00322": {
+      "project": "CB",
+      "index": 322,
+      "source_id": "CB-8801",
+      "target_id": "CB-12176",
+      "label": 0,
+      "prompt_chars": 569
+    },
+    "CB_00323": {
+      "project": "CB",
+      "index": 323,
+      "source_id": "CB-8801",
+      "target_id": "CB-13400",
+      "label": 0,
+      "prompt_chars": 892
+    },
+    "CB_00324": {
+      "project": "CB",
+      "index": 324,
+      "source_id": "CB-8801",
+      "target_id": "CB-8417",
+      "label": 1,
+      "prompt_chars": 700
+    },
+    "CB_00325": {
+      "project": "CB",
+      "index": 325,
+      "source_id": "CB-8801",
+      "target_id": "CB-13367",
+      "label": 0,
+      "prompt_chars": 619
+    },
+    "CB_00326": {
+      "project": "CB",
+      "index": 326,
+      "source_id": "CB-8801",
+      "target_id": "CB-13361",
+      "label": 0,
+      "prompt_chars": 582
+    },
+    "CB_00327": {
+      "project": "CB",
+      "index": 327,
+      "source_id": "CB-8801",
+      "target_id": "CB-5558",
+      "label": 0,
+      "prompt_chars": 584
+    },
+    "CB_00328": {
+      "project": "CB",
+      "index": 328,
+      "source_id": "CB-8801",
+      "target_id": "CB-8441",
+      "label": 1,
+      "prompt_chars": 870
+    },
+    "CB_00329": {
+      "project": "CB",
+      "index": 329,
+      "source_id": "CB-8801",
+      "target_id": "CB-6608",
+      "label": 0,
+      "prompt_chars": 584
+    },
+    "CB_00330": {
+      "project": "CB",
+      "index": 330,
+      "source_id": "CB-8801",
+      "target_id": "CB-4307",
+      "label": 0,
+      "prompt_chars": 884
+    },
+    "CB_00331": {
+      "project": "CB",
+      "index": 331,
+      "source_id": "CB-8801",
+      "target_id": "CB-3918",
+      "label": 0,
+      "prompt_chars": 884
+    },
+    "CB_00332": {
+      "project": "CB",
+      "index": 332,
+      "source_id": "CB-8801",
+      "target_id": "CB-8802",
+      "label": 1,
+      "prompt_chars": 656
+    },
+    "CB_00333": {
+      "project": "CB",
+      "index": 333,
+      "source_id": "CB-8801",
+      "target_id": "CB-3477",
+      "label": 0,
+      "prompt_chars": 884
+    },
+    "CB_00334": {
+      "project": "CB",
+      "index": 334,
+      "source_id": "CB-8801",
+      "target_id": "CB-3593",
+      "label": 0,
+      "prompt_chars": 884
+    },
+    "CB_00335": {
+      "project": "CB",
+      "index": 335,
+      "source_id": "CB-8801",
+      "target_id": "CB-4220",
+      "label": 0,
+      "prompt_chars": 884
+    },
+    "CB_00336": {
+      "project": "CB",
+      "index": 336,
+      "source_id": "CB-8801",
+      "target_id": "CB-8965",
+      "label": 1,
+      "prompt_chars": 990
+    },
+    "CB_00337": {
+      "project": "CB",
+      "index": 337,
+      "source_id": "CB-8801",
+      "target_id": "CB-3475",
+      "label": 0,
+      "prompt_chars": 676
+    },
+    "CB_00338": {
+      "project": "CB",
+      "index": 338,
+      "source_id": "CB-8801",
+      "target_id": "CB-3591",
+      "label": 0,
+      "prompt_chars": 676
+    },
+    "CB_00339": {
+      "project": "CB",
+      "index": 339,
+      "source_id": "CB-8801",
+      "target_id": "CB-4218",
+      "label": 0,
+      "prompt_chars": 676
+    },
+    "CB_00340": {
+      "project": "CB",
+      "index": 340,
+      "source_id": "CB-8801",
+      "target_id": "CB-9036",
+      "label": 1,
+      "prompt_chars": 1083
+    },
+    "CB_00341": {
+      "project": "CB",
+      "index": 341,
+      "source_id": "CB-8801",
+      "target_id": "CB-7405",
+      "label": 0,
+      "prompt_chars": 584
+    },
+    "CB_00342": {
+      "project": "CB",
+      "index": 342,
+      "source_id": "CB-8801",
+      "target_id": "CB-5876",
+      "label": 0,
+      "prompt_chars": 584
+    },
+    "CB_00343": {
+      "project": "CB",
+      "index": 343,
+      "source_id": "CB-8801",
+      "target_id": "CB-13354",
+      "label": 0,
+      "prompt_chars": 566
+    },
+    "CB_00344": {
+      "project": "CB",
+      "index": 344,
+      "source_id": "CB-8801",
+      "target_id": "CB-9037",
+      "label": 1,
+      "prompt_chars": 1022
+    },
+    "CB_00345": {
+      "project": "CB",
+      "index": 345,
+      "source_id": "CB-8801",
+      "target_id": "CB-11194",
+      "label": 0,
+      "prompt_chars": 582
+    },
+    "CB_00346": {
+      "project": "CB",
+      "index": 346,
+      "source_id": "CB-8801",
+      "target_id": "CB-13362",
+      "label": 0,
+      "prompt_chars": 549
+    },
+    "CB_00347": {
+      "project": "CB",
+      "index": 347,
+      "source_id": "CB-8801",
+      "target_id": "CB-5178",
+      "label": 0,
+      "prompt_chars": 569
+    },
+    "CB_00348": {
+      "project": "CB",
+      "index": 348,
+      "source_id": "CB-8801",
+      "target_id": "CB-9038",
+      "label": 1,
+      "prompt_chars": 810
+    },
+    "CB_00349": {
+      "project": "CB",
+      "index": 349,
+      "source_id": "CB-8801",
+      "target_id": "CB-5177",
+      "label": 0,
+      "prompt_chars": 572
+    },
+    "CB_00350": {
+      "project": "CB",
+      "index": 350,
+      "source_id": "CB-8801",
+      "target_id": "CB-6597",
+      "label": 0,
+      "prompt_chars": 572
+    },
+    "CB_00351": {
+      "project": "CB",
+      "index": 351,
+      "source_id": "CB-8801",
+      "target_id": "CB-5560",
+      "label": 0,
+      "prompt_chars": 569
+    },
+    "CB_00352": {
+      "project": "CB",
+      "index": 352,
+      "source_id": "CB-8801",
+      "target_id": "CB-9039",
+      "label": 1,
+      "prompt_chars": 1278
+    },
+    "CB_00353": {
+      "project": "CB",
+      "index": 353,
+      "source_id": "CB-8801",
+      "target_id": "CB-6610",
+      "label": 0,
+      "prompt_chars": 569
+    },
+    "CB_00354": {
+      "project": "CB",
+      "index": 354,
+      "source_id": "CB-8801",
+      "target_id": "CB-5878",
+      "label": 0,
+      "prompt_chars": 569
+    },
+    "CB_00355": {
+      "project": "CB",
+      "index": 355,
+      "source_id": "CB-8801",
+      "target_id": "CB-1415",
+      "label": 0,
+      "prompt_chars": 569
+    },
+    "CB_00356": {
+      "project": "CB",
+      "index": 356,
+      "source_id": "CB-8801",
+      "target_id": "CB-9222",
+      "label": 1,
+      "prompt_chars": 1460
+    },
+    "CB_00357": {
+      "project": "CB",
+      "index": 357,
+      "source_id": "CB-8801",
+      "target_id": "CB-5865",
+      "label": 0,
+      "prompt_chars": 572
+    },
+    "CB_00358": {
+      "project": "CB",
+      "index": 358,
+      "source_id": "CB-8801",
+      "target_id": "CB-5548",
+      "label": 0,
+      "prompt_chars": 572
+    },
+    "CB_00359": {
+      "project": "CB",
+      "index": 359,
+      "source_id": "CB-8801",
+      "target_id": "CB-7407",
+      "label": 0,
+      "prompt_chars": 569
+    },
+    "CB_00360": {
+      "project": "CB",
+      "index": 360,
+      "source_id": "CB-8801",
+      "target_id": "CB-9395",
+      "label": 1,
+      "prompt_chars": 1165
+    },
+    "CB_00361": {
+      "project": "CB",
+      "index": 361,
+      "source_id": "CB-8801",
+      "target_id": "CB-7394",
+      "label": 0,
+      "prompt_chars": 572
+    },
+    "CB_00362": {
+      "project": "CB",
+      "index": 362,
+      "source_id": "CB-8801",
+      "target_id": "CB-6937",
+      "label": 0,
+      "prompt_chars": 755
+    },
+    "CB_00363": {
+      "project": "CB",
+      "index": 363,
+      "source_id": "CB-8801",
+      "target_id": "CB-13101",
+      "label": 0,
+      "prompt_chars": 572
+    },
+    "CB_00364": {
+      "project": "CB",
+      "index": 364,
+      "source_id": "CB-8801",
+      "target_id": "CB-9400",
+      "label": 1,
+      "prompt_chars": 559
+    },
+    "CB_00365": {
+      "project": "CB",
+      "index": 365,
+      "source_id": "CB-8801",
+      "target_id": "CB-5176",
+      "label": 0,
+      "prompt_chars": 570
+    },
+    "CB_00366": {
+      "project": "CB",
+      "index": 366,
+      "source_id": "CB-8801",
+      "target_id": "CB-1416",
+      "label": 0,
+      "prompt_chars": 582
+    },
+    "CB_00367": {
+      "project": "CB",
+      "index": 367,
+      "source_id": "CB-8801",
+      "target_id": "CB-5549",
+      "label": 0,
+      "prompt_chars": 570
+    },
+    "CB_00368": {
+      "project": "CB",
+      "index": 368,
+      "source_id": "CB-8820",
+      "target_id": "CB-8821",
+      "label": 1,
+      "prompt_chars": 1096
+    },
+    "CB_00369": {
+      "project": "CB",
+      "index": 369,
+      "source_id": "CB-8820",
+      "target_id": "CB-2778",
+      "label": 0,
+      "prompt_chars": 547
+    },
+    "CB_00370": {
+      "project": "CB",
+      "index": 370,
+      "source_id": "CB-8820",
+      "target_id": "CB-2374",
+      "label": 0,
+      "prompt_chars": 547
+    },
+    "CB_00371": {
+      "project": "CB",
+      "index": 371,
+      "source_id": "CB-8820",
+      "target_id": "CB-3112",
+      "label": 0,
+      "prompt_chars": 547
+    },
+    "CB_00372": {
+      "project": "CB",
+      "index": 372,
+      "source_id": "CB-8820",
+      "target_id": "CB-8822",
+      "label": 1,
+      "prompt_chars": 797
+    },
+    "CB_00373": {
+      "project": "CB",
+      "index": 373,
+      "source_id": "CB-8820",
+      "target_id": "CB-2012",
+      "label": 0,
+      "prompt_chars": 547
+    },
+    "CB_00374": {
+      "project": "CB",
+      "index": 374,
+      "source_id": "CB-8820",
+      "target_id": "CB-2151",
+      "label": 0,
+      "prompt_chars": 547
+    },
+    "CB_00375": {
+      "project": "CB",
+      "index": 375,
+      "source_id": "CB-8820",
+      "target_id": "CB-1735",
+      "label": 0,
+      "prompt_chars": 547
+    },
+    "CB_00376": {
+      "project": "CB",
+      "index": 376,
+      "source_id": "CB-8820",
+      "target_id": "CB-8823",
+      "label": 1,
+      "prompt_chars": 879
+    },
+    "CB_00377": {
+      "project": "CB",
+      "index": 377,
+      "source_id": "CB-8820",
+      "target_id": "CB-1925",
+      "label": 0,
+      "prompt_chars": 547
+    },
+    "CB_00378": {
+      "project": "CB",
+      "index": 378,
+      "source_id": "CB-8820",
+      "target_id": "CB-1790",
+      "label": 0,
+      "prompt_chars": 547
+    },
+    "CB_00379": {
+      "project": "CB",
+      "index": 379,
+      "source_id": "CB-8820",
+      "target_id": "CB-2266",
+      "label": 0,
+      "prompt_chars": 547
+    }
+  },
+  "estimated_prompt_tokens": 84185,
+  "estimated_completion_tokens_upper": 7600,
+  "estimated_batch_cost_usd_upper": 0.1622,
+  "cost_estimate_basis": "tiktoken/o200k_base if available, else char/3.7; max output token cap",
+  "pricing_per_1M_batch": {
+    "input": 1.25,
+    "output": 7.5
+  },
+  "input_file_id": "file-DjvfHiuBwUPdP2VCkqR4on",
+  "input_file": {
+    "id": "file-DjvfHiuBwUPdP2VCkqR4on",
+    "bytes": 385883,
+    "created_at": 1781773275,
+    "filename": "batch_requests.jsonl",
+    "object": "file",
+    "purpose": "batch",
+    "status": "processed",
+    "expires_at": 1784365275,
+    "status_details": null
+  },
+  "batch": {
+    "id": "batch_6a33b3dc79a8819097b61546ec857e09",
+    "completion_window": "24h",
+    "created_at": 1781773276,
+    "endpoint": "/v1/chat/completions",
+    "input_file_id": "file-DjvfHiuBwUPdP2VCkqR4on",
+    "object": "batch",
+    "status": "validating",
+    "cancelled_at": null,
+    "cancelling_at": null,
+    "completed_at": null,
+    "error_file_id": null,
+    "errors": null,
+    "expired_at": null,
+    "expires_at": 1781859676,
+    "failed_at": null,
+    "finalizing_at": null,
+    "in_progress_at": null,
+    "metadata": {
+      "experiment": "thesis_zero_shot_gpt54_matched",
+      "prompt_hash": "209a9beb289a5172",
+      "method": "zero_shot_batch"
+    },
+    "model": null,
+    "output_file_id": null,
+    "request_counts": {
+      "completed": 0,
+      "failed": 0,
+      "total": 0
+    },
+    "usage": {
+      "input_tokens": 0,
+      "input_tokens_details": {
+        "cached_tokens": 0
+      },
+      "output_tokens": 0,
+      "output_tokens_details": {
+        "reasoning_tokens": 0
+      },
+      "total_tokens": 0
+    }
+  },
+  "batch_id": "batch_6a33b3dc79a8819097b61546ec857e09",
+  "submitted_at": "2026-06-18T09:01:17.053555"
+}

@@ -1,0 +1,1066 @@
+[
+  {
+    "source_id": "KOGITO-106",
+    "target_id": "KOGITO-1240",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-106",
+    "target_id": "KOGITO-248",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-106",
+    "target_id": "KOGITO-252",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-106",
+    "target_id": "KOGITO-492",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-106",
+    "target_id": "KOGITO-67",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-106",
+    "target_id": "KOGITO-679",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-106",
+    "target_id": "KOGITO-909",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-106",
+    "target_id": "KOGITO-921",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-1091",
+    "target_id": "KOGITO-4138",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-1091",
+    "target_id": "KOGITO-675",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-1129",
+    "target_id": "KOGITO-3098",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-1129",
+    "target_id": "KOGITO-524",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-1186",
+    "target_id": "KOGITO-1155",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-1186",
+    "target_id": "KOGITO-1156",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-1186",
+    "target_id": "KOGITO-1157",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-1186",
+    "target_id": "KOGITO-1454",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-1186",
+    "target_id": "KOGITO-1752",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-1186",
+    "target_id": "KOGITO-542",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-1186",
+    "target_id": "KOGITO-986",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-1484",
+    "target_id": "KOGITO-1158",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-1484",
+    "target_id": "KOGITO-1204",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-1484",
+    "target_id": "KOGITO-1463",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-1484",
+    "target_id": "KOGITO-1591",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-1484",
+    "target_id": "KOGITO-395",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-1484",
+    "target_id": "KOGITO-652",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-1484",
+    "target_id": "KOGITO-989",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-1484",
+    "target_id": "KOGITO-990",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-1484",
+    "target_id": "KOGITO-991",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-1723",
+    "target_id": "KOGITO-1757",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KOGITO-1723",
+    "target_id": "KOGITO-1758",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KOGITO-1723",
+    "target_id": "KOGITO-1759",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KOGITO-1808",
+    "target_id": "KOGITO-2152",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-1808",
+    "target_id": "KOGITO-2209",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-1808",
+    "target_id": "KOGITO-2210",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-1808",
+    "target_id": "KOGITO-2696",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-1808",
+    "target_id": "KOGITO-2887",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-1808",
+    "target_id": "KOGITO-3096",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-1808",
+    "target_id": "KOGITO-3100",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-1808",
+    "target_id": "KOGITO-3205",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-2223",
+    "target_id": "KOGITO-2086",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-2223",
+    "target_id": "KOGITO-2089",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-2223",
+    "target_id": "KOGITO-2214",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-2223",
+    "target_id": "KOGITO-2315",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-2223",
+    "target_id": "KOGITO-2526",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-2223",
+    "target_id": "KOGITO-2576",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-2223",
+    "target_id": "KOGITO-900",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-2362",
+    "target_id": "KOGITO-1946",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-2362",
+    "target_id": "KOGITO-2005",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-2362",
+    "target_id": "KOGITO-2523",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-2865",
+    "target_id": "KOGITO-2981",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-2865",
+    "target_id": "KOGITO-2982",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-2865",
+    "target_id": "KOGITO-2983",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-3039",
+    "target_id": "KOGITO-3283",
+    "source_type": "Story",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KOGITO-3039",
+    "target_id": "KOGITO-3284",
+    "source_type": "Story",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KOGITO-3039",
+    "target_id": "KOGITO-3285",
+    "source_type": "Story",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KOGITO-3039",
+    "target_id": "KOGITO-3287",
+    "source_type": "Story",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KOGITO-3039",
+    "target_id": "KOGITO-3288",
+    "source_type": "Story",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KOGITO-3039",
+    "target_id": "KOGITO-3289",
+    "source_type": "Story",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KOGITO-3039",
+    "target_id": "KOGITO-3352",
+    "source_type": "Story",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KOGITO-3040",
+    "target_id": "KOGITO-1430",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-3040",
+    "target_id": "KOGITO-1502",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-3040",
+    "target_id": "KOGITO-1817",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-3040",
+    "target_id": "KOGITO-2267",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-3040",
+    "target_id": "KOGITO-2268",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-3040",
+    "target_id": "KOGITO-2819",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-3040",
+    "target_id": "KOGITO-3041",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-3040",
+    "target_id": "KOGITO-3042",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-3040",
+    "target_id": "KOGITO-3247",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-3040",
+    "target_id": "KOGITO-3316",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-3040",
+    "target_id": "KOGITO-3319",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-3040",
+    "target_id": "KOGITO-3348",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-3040",
+    "target_id": "KOGITO-3680",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-3040",
+    "target_id": "KOGITO-3695",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-3040",
+    "target_id": "KOGITO-3709",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-3040",
+    "target_id": "KOGITO-3812",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-3040",
+    "target_id": "KOGITO-4640",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-3040",
+    "target_id": "KOGITO-4656",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-3040",
+    "target_id": "KOGITO-4867",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-3040",
+    "target_id": "KOGITO-4871",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-3040",
+    "target_id": "KOGITO-5026",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-3040",
+    "target_id": "KOGITO-5032",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-3040",
+    "target_id": "KOGITO-5086",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-3040",
+    "target_id": "KOGITO-5442",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-3040",
+    "target_id": "KOGITO-918",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-3076",
+    "target_id": "KOGITO-1046",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-3076",
+    "target_id": "KOGITO-3742",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-3239",
+    "target_id": "KOGITO-3435",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-3239",
+    "target_id": "KOGITO-3513",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-3239",
+    "target_id": "KOGITO-3789",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-324",
+    "target_id": "KOGITO-318",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-324",
+    "target_id": "KOGITO-385",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-324",
+    "target_id": "KOGITO-386",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-324",
+    "target_id": "KOGITO-519",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-324",
+    "target_id": "KOGITO-520",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-324",
+    "target_id": "KOGITO-522",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-324",
+    "target_id": "KOGITO-607",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-324",
+    "target_id": "KOGITO-684",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-324",
+    "target_id": "KOGITO-685",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-4233",
+    "target_id": "KOGITO-4234",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-4233",
+    "target_id": "KOGITO-4235",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-4233",
+    "target_id": "KOGITO-4236",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-4233",
+    "target_id": "KOGITO-4237",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-4233",
+    "target_id": "KOGITO-4238",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-4233",
+    "target_id": "KOGITO-4239",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-5276",
+    "target_id": "KOGITO-3801",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-5276",
+    "target_id": "KOGITO-3825",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-5276",
+    "target_id": "KOGITO-4413",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-5276",
+    "target_id": "KOGITO-4427",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-5276",
+    "target_id": "KOGITO-4562",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-5372",
+    "target_id": "KOGITO-513",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-5372",
+    "target_id": "KOGITO-5395",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-5912",
+    "target_id": "KOGITO-3590",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-5912",
+    "target_id": "KOGITO-3970",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-5912",
+    "target_id": "KOGITO-4308",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-5912",
+    "target_id": "KOGITO-4609",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-5912",
+    "target_id": "KOGITO-5386",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-5912",
+    "target_id": "KOGITO-5475",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-5912",
+    "target_id": "KOGITO-5585",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-5912",
+    "target_id": "KOGITO-5784",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-5912",
+    "target_id": "KOGITO-5913",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-5912",
+    "target_id": "KOGITO-5915",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-5912",
+    "target_id": "KOGITO-5916",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-5912",
+    "target_id": "KOGITO-5917",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-5912",
+    "target_id": "KOGITO-5918",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-5912",
+    "target_id": "KOGITO-5923",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-5912",
+    "target_id": "KOGITO-6273",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-5912",
+    "target_id": "KOGITO-6541",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-5912",
+    "target_id": "KOGITO-6586",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-5912",
+    "target_id": "KOGITO-6599",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-5912",
+    "target_id": "KOGITO-6720",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-6138",
+    "target_id": "KOGITO-6294",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KOGITO-6138",
+    "target_id": "KOGITO-6295",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KOGITO-6138",
+    "target_id": "KOGITO-6296",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KOGITO-6138",
+    "target_id": "KOGITO-6297",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KOGITO-6138",
+    "target_id": "KOGITO-6794",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KOGITO-6138",
+    "target_id": "KOGITO-6812",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KOGITO-6776",
+    "target_id": "KOGITO-3655",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-6776",
+    "target_id": "KOGITO-6608",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-6776",
+    "target_id": "KOGITO-6698",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-6776",
+    "target_id": "KOGITO-6777",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-6811",
+    "target_id": "KOGITO-6549",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-6811",
+    "target_id": "KOGITO-6705",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-6811",
+    "target_id": "KOGITO-6752",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-6811",
+    "target_id": "KOGITO-6804",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-767",
+    "target_id": "KOGITO-1236",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-767",
+    "target_id": "KOGITO-1667",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-767",
+    "target_id": "KOGITO-768",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-767",
+    "target_id": "KOGITO-922",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-767",
+    "target_id": "KOGITO-968",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-767",
+    "target_id": "KOGITO-969",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-767",
+    "target_id": "KOGITO-970",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KOGITO-767",
+    "target_id": "KOGITO-971",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  }
+]

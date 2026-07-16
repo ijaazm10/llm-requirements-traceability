@@ -1,0 +1,8192 @@
+[
+  {
+    "source_id": "KEYCLOAK-10187",
+    "target_id": "KEYCLOAK-10167",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-10237",
+    "target_id": "KEYCLOAK-10167",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-10287",
+    "target_id": "KEYCLOAK-10291",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-10287",
+    "target_id": "KEYCLOAK-10292",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-10287",
+    "target_id": "KEYCLOAK-10294",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-10287",
+    "target_id": "KEYCLOAK-10295",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-10287",
+    "target_id": "KEYCLOAK-10296",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-10287",
+    "target_id": "KEYCLOAK-10297",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-10287",
+    "target_id": "KEYCLOAK-10298",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-10287",
+    "target_id": "KEYCLOAK-10299",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-10301",
+    "target_id": "KEYCLOAK-10500",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-10319",
+    "target_id": "KEYCLOAK-12270",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-10319",
+    "target_id": "KEYCLOAK-12271",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-10319",
+    "target_id": "KEYCLOAK-12397",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-10319",
+    "target_id": "KEYCLOAK-12409",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-10319",
+    "target_id": "KEYCLOAK-12679",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-10319",
+    "target_id": "KEYCLOAK-12766",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-10319",
+    "target_id": "KEYCLOAK-12841",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-10331",
+    "target_id": "KEYCLOAK-10332",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-10331",
+    "target_id": "KEYCLOAK-10333",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-10394",
+    "target_id": "KEYCLOAK-10395",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-10394",
+    "target_id": "KEYCLOAK-10396",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-10394",
+    "target_id": "KEYCLOAK-10397",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-10398",
+    "target_id": "KEYCLOAK-10396",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-10399",
+    "target_id": "KEYCLOAK-10397",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-10409",
+    "target_id": "KEYCLOAK-10292",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-10462",
+    "target_id": "KEYCLOAK-17491",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-10462",
+    "target_id": "KEYCLOAK-18341",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-10546",
+    "target_id": "KEYCLOAK-10293",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-10546",
+    "target_id": "KEYCLOAK-10501",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-10546",
+    "target_id": "KEYCLOAK-13276",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-10546",
+    "target_id": "KEYCLOAK-8345",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-10546",
+    "target_id": "KEYCLOAK-8350",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-10546",
+    "target_id": "KEYCLOAK-8355",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-10546",
+    "target_id": "KEYCLOAK-8357",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-10546",
+    "target_id": "KEYCLOAK-8372",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-10546",
+    "target_id": "KEYCLOAK-9197",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-10936",
+    "target_id": "KEYCLOAK-11245",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-10936",
+    "target_id": "KEYCLOAK-11246",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-10936",
+    "target_id": "KEYCLOAK-11247",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11019",
+    "target_id": "KEYCLOAK-16844",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11325",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11326",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11327",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11328",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11329",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11330",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11331",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11332",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11333",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11334",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11335",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11336",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11337",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11345",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11346",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11347",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11348",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11349",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11678",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11679",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11692",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11693",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11694",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11695",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11698",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11719",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11784",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11785",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11786",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11787",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11788",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11790",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11830",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-11831",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-12385",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-12414",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-12420",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-12421",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-13108",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-13243",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-14255",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-14256",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-14257",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-14258",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-14260",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-14264",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-14299",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-14308",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-14335",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-14682",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-15631",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-15635",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-15910",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-15924",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-15939",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-15944",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-15974",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-16246",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-16305",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-17604",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-17618",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-17866",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-18104",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-18255",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-18475",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-18958",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11322",
+    "target_id": "KEYCLOAK-19274",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11335",
+    "target_id": "KEYCLOAK-12843",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11468",
+    "target_id": "KEYCLOAK-11422",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11490",
+    "target_id": "KEYCLOAK-11517",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11490",
+    "target_id": "KEYCLOAK-11518",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11490",
+    "target_id": "KEYCLOAK-11520",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11490",
+    "target_id": "KEYCLOAK-11521",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11553",
+    "target_id": "KEYCLOAK-11554",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11553",
+    "target_id": "KEYCLOAK-11555",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11553",
+    "target_id": "KEYCLOAK-11556",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11744",
+    "target_id": "KEYCLOAK-11791",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11744",
+    "target_id": "KEYCLOAK-8217",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11745",
+    "target_id": "KEYCLOAK-11746",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11745",
+    "target_id": "KEYCLOAK-11747",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11745",
+    "target_id": "KEYCLOAK-11749",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11745",
+    "target_id": "KEYCLOAK-11750",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11745",
+    "target_id": "KEYCLOAK-11751",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11745",
+    "target_id": "KEYCLOAK-11752",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11745",
+    "target_id": "KEYCLOAK-11753",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11745",
+    "target_id": "KEYCLOAK-11756",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11745",
+    "target_id": "KEYCLOAK-11757",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11745",
+    "target_id": "KEYCLOAK-11766",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11745",
+    "target_id": "KEYCLOAK-11822",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11745",
+    "target_id": "KEYCLOAK-11853",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11745",
+    "target_id": "KEYCLOAK-11865",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11745",
+    "target_id": "KEYCLOAK-11866",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11745",
+    "target_id": "KEYCLOAK-11867",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11745",
+    "target_id": "KEYCLOAK-11874",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11745",
+    "target_id": "KEYCLOAK-11875",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11745",
+    "target_id": "KEYCLOAK-11890",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11745",
+    "target_id": "KEYCLOAK-11893",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11745",
+    "target_id": "KEYCLOAK-11915",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11745",
+    "target_id": "KEYCLOAK-11926",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11745",
+    "target_id": "KEYCLOAK-11932",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11745",
+    "target_id": "KEYCLOAK-11933",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11745",
+    "target_id": "KEYCLOAK-11970",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11745",
+    "target_id": "KEYCLOAK-11975",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11745",
+    "target_id": "KEYCLOAK-12034",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11764",
+    "target_id": "KEYCLOAK-9940",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11764",
+    "target_id": "KEYCLOAK-9984",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-1183",
+    "target_id": "KEYCLOAK-1301",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-11862",
+    "target_id": "KEYCLOAK-12617",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11862",
+    "target_id": "KEYCLOAK-6804",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11862",
+    "target_id": "KEYCLOAK-8690",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11892",
+    "target_id": "KEYCLOAK-11626",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11892",
+    "target_id": "KEYCLOAK-11677",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11892",
+    "target_id": "KEYCLOAK-12476",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-11907",
+    "target_id": "KEYCLOAK-11753",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-12153",
+    "target_id": "KEYCLOAK-12382",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-12153",
+    "target_id": "KEYCLOAK-12791",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-12153",
+    "target_id": "KEYCLOAK-13010",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-12330",
+    "target_id": "KEYCLOAK-12332",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-12330",
+    "target_id": "KEYCLOAK-12333",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-12338",
+    "target_id": "KEYCLOAK-12249",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-12338",
+    "target_id": "KEYCLOAK-12339",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-12498",
+    "target_id": "KEYCLOAK-10156",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-13120",
+    "target_id": "KEYCLOAK-11201",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13120",
+    "target_id": "KEYCLOAK-11292",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13120",
+    "target_id": "KEYCLOAK-13756",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13120",
+    "target_id": "KEYCLOAK-13979",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13120",
+    "target_id": "KEYCLOAK-14176",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13120",
+    "target_id": "KEYCLOAK-14267",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13120",
+    "target_id": "KEYCLOAK-14490",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13120",
+    "target_id": "KEYCLOAK-14548",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13121",
+    "target_id": "KEYCLOAK-12139",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13123",
+    "target_id": "KEYCLOAK-10462",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13123",
+    "target_id": "KEYCLOAK-14860",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13123",
+    "target_id": "KEYCLOAK-7284",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13124",
+    "target_id": "KEYCLOAK-10715",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13124",
+    "target_id": "KEYCLOAK-10787",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13124",
+    "target_id": "KEYCLOAK-10788",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13125",
+    "target_id": "KEYCLOAK-11270",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13125",
+    "target_id": "KEYCLOAK-11534",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13125",
+    "target_id": "KEYCLOAK-11894",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13125",
+    "target_id": "KEYCLOAK-12959",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13125",
+    "target_id": "KEYCLOAK-14744",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13125",
+    "target_id": "KEYCLOAK-9655",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13131",
+    "target_id": "KEYCLOAK-11614",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13131",
+    "target_id": "KEYCLOAK-11615",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13131",
+    "target_id": "KEYCLOAK-12859",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13131",
+    "target_id": "KEYCLOAK-12903",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13131",
+    "target_id": "KEYCLOAK-13319",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13131",
+    "target_id": "KEYCLOAK-19485",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13131",
+    "target_id": "KEYCLOAK-19486",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13131",
+    "target_id": "KEYCLOAK-19487",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13131",
+    "target_id": "KEYCLOAK-19488",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13131",
+    "target_id": "KEYCLOAK-19489",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13131",
+    "target_id": "KEYCLOAK-19492",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13131",
+    "target_id": "KEYCLOAK-19493",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13131",
+    "target_id": "KEYCLOAK-19892",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13131",
+    "target_id": "KEYCLOAK-9359",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13132",
+    "target_id": "KEYCLOAK-12048",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13132",
+    "target_id": "KEYCLOAK-12818",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13132",
+    "target_id": "KEYCLOAK-12823",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13132",
+    "target_id": "KEYCLOAK-12824",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13132",
+    "target_id": "KEYCLOAK-13199",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13132",
+    "target_id": "KEYCLOAK-13320",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13132",
+    "target_id": "KEYCLOAK-14121",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13132",
+    "target_id": "KEYCLOAK-14136",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13132",
+    "target_id": "KEYCLOAK-1514",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13132",
+    "target_id": "KEYCLOAK-9363",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13132",
+    "target_id": "KEYCLOAK-9367",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13132",
+    "target_id": "KEYCLOAK-9692",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13132",
+    "target_id": "KEYCLOAK-9693",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13133",
+    "target_id": "KEYCLOAK-12187",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13133",
+    "target_id": "KEYCLOAK-9693",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13134",
+    "target_id": "KEYCLOAK-11919",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13134",
+    "target_id": "KEYCLOAK-14640",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13136",
+    "target_id": "KEYCLOAK-9363",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-1344",
+    "target_id": "KEYCLOAK-1345",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-1344",
+    "target_id": "KEYCLOAK-1346",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-1344",
+    "target_id": "KEYCLOAK-1347",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-1344",
+    "target_id": "KEYCLOAK-1348",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-13700",
+    "target_id": "KEYCLOAK-13703",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13700",
+    "target_id": "KEYCLOAK-13704",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13700",
+    "target_id": "KEYCLOAK-13705",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13700",
+    "target_id": "KEYCLOAK-13707",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13700",
+    "target_id": "KEYCLOAK-19311",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13700",
+    "target_id": "KEYCLOAK-19457",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13700",
+    "target_id": "KEYCLOAK-19459",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13700",
+    "target_id": "KEYCLOAK-19460",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13700",
+    "target_id": "KEYCLOAK-19461",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13700",
+    "target_id": "KEYCLOAK-19462",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13700",
+    "target_id": "KEYCLOAK-19463",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13700",
+    "target_id": "KEYCLOAK-19476",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13700",
+    "target_id": "KEYCLOAK-19484",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13700",
+    "target_id": "KEYCLOAK-19547",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-13720",
+    "target_id": "KEYCLOAK-10333",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14011",
+    "target_id": "KEYCLOAK-14220",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14011",
+    "target_id": "KEYCLOAK-14368",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14011",
+    "target_id": "KEYCLOAK-14889",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14011",
+    "target_id": "KEYCLOAK-14901",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14011",
+    "target_id": "KEYCLOAK-15102",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14011",
+    "target_id": "KEYCLOAK-15199",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14011",
+    "target_id": "KEYCLOAK-15200",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14011",
+    "target_id": "KEYCLOAK-15450",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14011",
+    "target_id": "KEYCLOAK-15695",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14011",
+    "target_id": "KEYCLOAK-15889",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14011",
+    "target_id": "KEYCLOAK-15898",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14011",
+    "target_id": "KEYCLOAK-16508",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14102",
+    "target_id": "KEYCLOAK-13695",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14102",
+    "target_id": "KEYCLOAK-14104",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14102",
+    "target_id": "KEYCLOAK-14105",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14102",
+    "target_id": "KEYCLOAK-14233",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14102",
+    "target_id": "KEYCLOAK-14234",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14102",
+    "target_id": "KEYCLOAK-14235",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14102",
+    "target_id": "KEYCLOAK-14236",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14102",
+    "target_id": "KEYCLOAK-14272",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14102",
+    "target_id": "KEYCLOAK-14746",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14102",
+    "target_id": "KEYCLOAK-14825",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14136",
+    "target_id": "KEYCLOAK-14137",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14136",
+    "target_id": "KEYCLOAK-14138",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14136",
+    "target_id": "KEYCLOAK-14139",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14136",
+    "target_id": "KEYCLOAK-14863",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14136",
+    "target_id": "KEYCLOAK-14915",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14136",
+    "target_id": "KEYCLOAK-15386",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14136",
+    "target_id": "KEYCLOAK-15693",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14136",
+    "target_id": "KEYCLOAK-15841",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14136",
+    "target_id": "KEYCLOAK-15846",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14136",
+    "target_id": "KEYCLOAK-15962",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14136",
+    "target_id": "KEYCLOAK-16898",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14229",
+    "target_id": "KEYCLOAK-16142",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14229",
+    "target_id": "KEYCLOAK-16144",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14229",
+    "target_id": "KEYCLOAK-16145",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14229",
+    "target_id": "KEYCLOAK-16146",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14229",
+    "target_id": "KEYCLOAK-16147",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14229",
+    "target_id": "KEYCLOAK-16148",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14229",
+    "target_id": "KEYCLOAK-16149",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14229",
+    "target_id": "KEYCLOAK-16150",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14229",
+    "target_id": "KEYCLOAK-16151",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14229",
+    "target_id": "KEYCLOAK-16152",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14229",
+    "target_id": "KEYCLOAK-16153",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14229",
+    "target_id": "KEYCLOAK-16154",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14229",
+    "target_id": "KEYCLOAK-16155",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14229",
+    "target_id": "KEYCLOAK-16156",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14229",
+    "target_id": "KEYCLOAK-16157",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14229",
+    "target_id": "KEYCLOAK-16158",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14229",
+    "target_id": "KEYCLOAK-16166",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14229",
+    "target_id": "KEYCLOAK-16189",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14229",
+    "target_id": "KEYCLOAK-16217",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14229",
+    "target_id": "KEYCLOAK-16323",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14229",
+    "target_id": "KEYCLOAK-16365",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14229",
+    "target_id": "KEYCLOAK-16366",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-14242",
+    "target_id": "KEYCLOAK-14245",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14429",
+    "target_id": "KEYCLOAK-14431",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14550",
+    "target_id": "KEYCLOAK-14549",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14550",
+    "target_id": "KEYCLOAK-14551",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14550",
+    "target_id": "KEYCLOAK-14556",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14550",
+    "target_id": "KEYCLOAK-15478",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14550",
+    "target_id": "KEYCLOAK-15514",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14550",
+    "target_id": "KEYCLOAK-16378",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14550",
+    "target_id": "KEYCLOAK-16405",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14550",
+    "target_id": "KEYCLOAK-16421",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14550",
+    "target_id": "KEYCLOAK-16489",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14550",
+    "target_id": "KEYCLOAK-16908",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14550",
+    "target_id": "KEYCLOAK-16932",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14550",
+    "target_id": "KEYCLOAK-17501",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14550",
+    "target_id": "KEYCLOAK-17615",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14550",
+    "target_id": "KEYCLOAK-17696",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14550",
+    "target_id": "KEYCLOAK-17698",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14550",
+    "target_id": "KEYCLOAK-17706",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14550",
+    "target_id": "KEYCLOAK-17896",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14550",
+    "target_id": "KEYCLOAK-17991",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14669",
+    "target_id": "KEYCLOAK-17004",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14669",
+    "target_id": "KEYCLOAK-17005",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14669",
+    "target_id": "KEYCLOAK-17006",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14669",
+    "target_id": "KEYCLOAK-17007",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14783",
+    "target_id": "KEYCLOAK-14639",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-14783",
+    "target_id": "KEYCLOAK-14784",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-15137",
+    "target_id": "KEYCLOAK-14863",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-1529",
+    "target_id": "KEYCLOAK-1345",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15301",
+    "target_id": "KEYCLOAK-15302",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15301",
+    "target_id": "KEYCLOAK-15303",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15304",
+    "target_id": "KEYCLOAK-15305",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15304",
+    "target_id": "KEYCLOAK-15308",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15304",
+    "target_id": "KEYCLOAK-15310",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15304",
+    "target_id": "KEYCLOAK-15311",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15324",
+    "target_id": "KEYCLOAK-15325",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15324",
+    "target_id": "KEYCLOAK-15326",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15324",
+    "target_id": "KEYCLOAK-15328",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15324",
+    "target_id": "KEYCLOAK-15329",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15324",
+    "target_id": "KEYCLOAK-15330",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15324",
+    "target_id": "KEYCLOAK-15331",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15334",
+    "target_id": "KEYCLOAK-15335",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15334",
+    "target_id": "KEYCLOAK-15336",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15334",
+    "target_id": "KEYCLOAK-15337",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15334",
+    "target_id": "KEYCLOAK-15338",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15334",
+    "target_id": "KEYCLOAK-15339",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15340",
+    "target_id": "KEYCLOAK-15341",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15340",
+    "target_id": "KEYCLOAK-15342",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15340",
+    "target_id": "KEYCLOAK-15343",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15340",
+    "target_id": "KEYCLOAK-15344",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15340",
+    "target_id": "KEYCLOAK-15345",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15340",
+    "target_id": "KEYCLOAK-15347",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15340",
+    "target_id": "KEYCLOAK-15348",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15340",
+    "target_id": "KEYCLOAK-15349",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15340",
+    "target_id": "KEYCLOAK-15350",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15340",
+    "target_id": "KEYCLOAK-15351",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15352",
+    "target_id": "KEYCLOAK-15354",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15352",
+    "target_id": "KEYCLOAK-15355",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15352",
+    "target_id": "KEYCLOAK-15356",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15352",
+    "target_id": "KEYCLOAK-15357",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15352",
+    "target_id": "KEYCLOAK-15358",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15478",
+    "target_id": "KEYCLOAK-16077",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15493",
+    "target_id": "KEYCLOAK-15852",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-15493",
+    "target_id": "KEYCLOAK-16308",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-15493",
+    "target_id": "KEYCLOAK-16310",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-15493",
+    "target_id": "KEYCLOAK-16311",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-15493",
+    "target_id": "KEYCLOAK-16312",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-15493",
+    "target_id": "KEYCLOAK-19315",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-15559",
+    "target_id": "KEYCLOAK-14205",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15572",
+    "target_id": "KEYCLOAK-18489",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15692",
+    "target_id": "KEYCLOAK-15408",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-15692",
+    "target_id": "KEYCLOAK-15442",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-15692",
+    "target_id": "KEYCLOAK-15474",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-15692",
+    "target_id": "KEYCLOAK-15649",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-15692",
+    "target_id": "KEYCLOAK-15652",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-15692",
+    "target_id": "KEYCLOAK-15780",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-15692",
+    "target_id": "KEYCLOAK-16031",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-15692",
+    "target_id": "KEYCLOAK-16097",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-15692",
+    "target_id": "KEYCLOAK-16098",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-15692",
+    "target_id": "KEYCLOAK-16442",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-15698",
+    "target_id": "KEYCLOAK-15703",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15698",
+    "target_id": "KEYCLOAK-15704",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15698",
+    "target_id": "KEYCLOAK-15705",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15698",
+    "target_id": "KEYCLOAK-15706",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15698",
+    "target_id": "KEYCLOAK-15707",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15698",
+    "target_id": "KEYCLOAK-15708",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15698",
+    "target_id": "KEYCLOAK-15709",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15700",
+    "target_id": "KEYCLOAK-15701",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15744",
+    "target_id": "KEYCLOAK-15745",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15744",
+    "target_id": "KEYCLOAK-15746",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15744",
+    "target_id": "KEYCLOAK-15747",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15744",
+    "target_id": "KEYCLOAK-15748",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15749",
+    "target_id": "KEYCLOAK-15750",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15749",
+    "target_id": "KEYCLOAK-15751",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15749",
+    "target_id": "KEYCLOAK-15752",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15749",
+    "target_id": "KEYCLOAK-15753",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15749",
+    "target_id": "KEYCLOAK-15754",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15749",
+    "target_id": "KEYCLOAK-15755",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15756",
+    "target_id": "KEYCLOAK-15757",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15756",
+    "target_id": "KEYCLOAK-15758",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15756",
+    "target_id": "KEYCLOAK-15759",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15756",
+    "target_id": "KEYCLOAK-15760",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15756",
+    "target_id": "KEYCLOAK-15761",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15756",
+    "target_id": "KEYCLOAK-15762",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15756",
+    "target_id": "KEYCLOAK-15763",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15756",
+    "target_id": "KEYCLOAK-15764",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15756",
+    "target_id": "KEYCLOAK-15765",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15756",
+    "target_id": "KEYCLOAK-15766",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15756",
+    "target_id": "KEYCLOAK-15767",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15756",
+    "target_id": "KEYCLOAK-15768",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15853",
+    "target_id": "KEYCLOAK-13037",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-15853",
+    "target_id": "KEYCLOAK-14782",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-15853",
+    "target_id": "KEYCLOAK-15854",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-15853",
+    "target_id": "KEYCLOAK-16243",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-15933",
+    "target_id": "KEYCLOAK-15934",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15933",
+    "target_id": "KEYCLOAK-16375",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-15980",
+    "target_id": "KEYCLOAK-15981",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-16096",
+    "target_id": "KEYCLOAK-14792",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-16096",
+    "target_id": "KEYCLOAK-15647",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-16096",
+    "target_id": "KEYCLOAK-15650",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-16096",
+    "target_id": "KEYCLOAK-16200",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-16096",
+    "target_id": "KEYCLOAK-19065",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-16114",
+    "target_id": "KEYCLOAK-16115",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-16114",
+    "target_id": "KEYCLOAK-16118",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-16114",
+    "target_id": "KEYCLOAK-16584",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-16137",
+    "target_id": "KEYCLOAK-14209",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-16168",
+    "target_id": "KEYCLOAK-16169",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-16168",
+    "target_id": "KEYCLOAK-16303",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-16168",
+    "target_id": "KEYCLOAK-16306",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-16175",
+    "target_id": "KEYCLOAK-16128",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-16175",
+    "target_id": "KEYCLOAK-16129",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-16175",
+    "target_id": "KEYCLOAK-16130",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-16405",
+    "target_id": "KEYCLOAK-16454",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-16430",
+    "target_id": "KEYCLOAK-17743",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-16594",
+    "target_id": "KEYCLOAK-16755",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-16594",
+    "target_id": "KEYCLOAK-16801",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-16594",
+    "target_id": "KEYCLOAK-16802",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-16723",
+    "target_id": "KEYCLOAK-16724",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-16723",
+    "target_id": "KEYCLOAK-16759",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-16723",
+    "target_id": "KEYCLOAK-16760",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-16723",
+    "target_id": "KEYCLOAK-16822",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-16723",
+    "target_id": "KEYCLOAK-16907",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-16723",
+    "target_id": "KEYCLOAK-17156",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-16723",
+    "target_id": "KEYCLOAK-17158",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-16855",
+    "target_id": "KEYCLOAK-18369",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-16855",
+    "target_id": "KEYCLOAK-18370",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-17083",
+    "target_id": "KEYCLOAK-16482",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17227",
+    "target_id": "KEYCLOAK-17228",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17227",
+    "target_id": "KEYCLOAK-17231",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17227",
+    "target_id": "KEYCLOAK-17315",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17227",
+    "target_id": "KEYCLOAK-17326",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17227",
+    "target_id": "KEYCLOAK-17432",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17227",
+    "target_id": "KEYCLOAK-17433",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17227",
+    "target_id": "KEYCLOAK-17477",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17227",
+    "target_id": "KEYCLOAK-17478",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17227",
+    "target_id": "KEYCLOAK-17479",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17227",
+    "target_id": "KEYCLOAK-17482",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17227",
+    "target_id": "KEYCLOAK-17508",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17227",
+    "target_id": "KEYCLOAK-17583",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17227",
+    "target_id": "KEYCLOAK-17584",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17227",
+    "target_id": "KEYCLOAK-17585",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17227",
+    "target_id": "KEYCLOAK-17818",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17406",
+    "target_id": "KEYCLOAK-12030",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17406",
+    "target_id": "KEYCLOAK-12410",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17406",
+    "target_id": "KEYCLOAK-13267",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17408",
+    "target_id": "KEYCLOAK-17409",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17408",
+    "target_id": "KEYCLOAK-17412",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17408",
+    "target_id": "KEYCLOAK-17630",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17408",
+    "target_id": "KEYCLOAK-17634",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17408",
+    "target_id": "KEYCLOAK-17635",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17408",
+    "target_id": "KEYCLOAK-18731",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17408",
+    "target_id": "KEYCLOAK-18845",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17408",
+    "target_id": "KEYCLOAK-18886",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17408",
+    "target_id": "KEYCLOAK-19748",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17503",
+    "target_id": "KEYCLOAK-11019",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17503",
+    "target_id": "KEYCLOAK-18070",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-14750",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-14938",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-15135",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-15478",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-15517",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-15572",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-15573",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-15574",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-15575",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-15576",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-16190",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-16233",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-16471",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-16555",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-16855",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-16872",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-17523",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-17586",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-17626",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-17737",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-17780",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-17781",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-17783",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-17794",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-17849",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-17876",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-17884",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-18414",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-18589",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-18635",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-18803",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-18815",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-18824",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-19284",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-19475",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-19593",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17629",
+    "target_id": "KEYCLOAK-19697",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-17681",
+    "target_id": "KEYCLOAK-17666",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-17696",
+    "target_id": "KEYCLOAK-17695",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-17875",
+    "target_id": "KEYCLOAK-15299",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18052",
+    "target_id": "KEYCLOAK-14204",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-18109",
+    "target_id": "KEYCLOAK-12690",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-18456",
+    "target_id": "KEYCLOAK-10462",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18456",
+    "target_id": "KEYCLOAK-18353",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18456",
+    "target_id": "KEYCLOAK-18452",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18456",
+    "target_id": "KEYCLOAK-18653",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18456",
+    "target_id": "KEYCLOAK-19539",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18456",
+    "target_id": "KEYCLOAK-19540",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18456",
+    "target_id": "KEYCLOAK-19541",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18456",
+    "target_id": "KEYCLOAK-19597",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18457",
+    "target_id": "KEYCLOAK-10331",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18457",
+    "target_id": "KEYCLOAK-11846",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18457",
+    "target_id": "KEYCLOAK-17936",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18457",
+    "target_id": "KEYCLOAK-17937",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18457",
+    "target_id": "KEYCLOAK-18123",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18457",
+    "target_id": "KEYCLOAK-18502",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18457",
+    "target_id": "KEYCLOAK-18583",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18457",
+    "target_id": "KEYCLOAK-18594",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18457",
+    "target_id": "KEYCLOAK-18654",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18457",
+    "target_id": "KEYCLOAK-18683",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18457",
+    "target_id": "KEYCLOAK-18826",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18457",
+    "target_id": "KEYCLOAK-18827",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18457",
+    "target_id": "KEYCLOAK-18828",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18457",
+    "target_id": "KEYCLOAK-18829",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18457",
+    "target_id": "KEYCLOAK-18830",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18457",
+    "target_id": "KEYCLOAK-18831",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18457",
+    "target_id": "KEYCLOAK-18832",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18457",
+    "target_id": "KEYCLOAK-18833",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18457",
+    "target_id": "KEYCLOAK-18834",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18457",
+    "target_id": "KEYCLOAK-18850",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18457",
+    "target_id": "KEYCLOAK-18863",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18457",
+    "target_id": "KEYCLOAK-18865",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18457",
+    "target_id": "KEYCLOAK-18883",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18457",
+    "target_id": "KEYCLOAK-18901",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18461",
+    "target_id": "KEYCLOAK-14210",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18461",
+    "target_id": "KEYCLOAK-15534",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18461",
+    "target_id": "KEYCLOAK-16806",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18461",
+    "target_id": "KEYCLOAK-16807",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18461",
+    "target_id": "KEYCLOAK-16809",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18461",
+    "target_id": "KEYCLOAK-16810",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18461",
+    "target_id": "KEYCLOAK-16812",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18461",
+    "target_id": "KEYCLOAK-18463",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18462",
+    "target_id": "KEYCLOAK-14071",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18462",
+    "target_id": "KEYCLOAK-14279",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18462",
+    "target_id": "KEYCLOAK-16137",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18462",
+    "target_id": "KEYCLOAK-16138",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18462",
+    "target_id": "KEYCLOAK-16847",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18462",
+    "target_id": "KEYCLOAK-17353",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18462",
+    "target_id": "KEYCLOAK-18089",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18462",
+    "target_id": "KEYCLOAK-19386",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18541",
+    "target_id": "KEYCLOAK-18428",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-18541",
+    "target_id": "KEYCLOAK-18429",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-18562",
+    "target_id": "KEYCLOAK-18711",
+    "source_type": "Story",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-18562",
+    "target_id": "KEYCLOAK-18712",
+    "source_type": "Story",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-18562",
+    "target_id": "KEYCLOAK-18713",
+    "source_type": "Story",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-18562",
+    "target_id": "KEYCLOAK-18715",
+    "source_type": "Story",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-18562",
+    "target_id": "KEYCLOAK-18716",
+    "source_type": "Story",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-18562",
+    "target_id": "KEYCLOAK-18717",
+    "source_type": "Story",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-18629",
+    "target_id": "KEYCLOAK-10331",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18629",
+    "target_id": "KEYCLOAK-18353",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18629",
+    "target_id": "KEYCLOAK-18630",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18629",
+    "target_id": "KEYCLOAK-18632",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18629",
+    "target_id": "KEYCLOAK-18633",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18629",
+    "target_id": "KEYCLOAK-18723",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18629",
+    "target_id": "KEYCLOAK-18729",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18629",
+    "target_id": "KEYCLOAK-18730",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18629",
+    "target_id": "KEYCLOAK-18733",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18629",
+    "target_id": "KEYCLOAK-18741",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18629",
+    "target_id": "KEYCLOAK-18742",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18629",
+    "target_id": "KEYCLOAK-18743",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18629",
+    "target_id": "KEYCLOAK-18819",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18629",
+    "target_id": "KEYCLOAK-18848",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18629",
+    "target_id": "KEYCLOAK-18849",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18629",
+    "target_id": "KEYCLOAK-18857",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18689",
+    "target_id": "KEYCLOAK-18591",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-18820",
+    "target_id": "KEYCLOAK-18631",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18820",
+    "target_id": "KEYCLOAK-18634",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18820",
+    "target_id": "KEYCLOAK-18903",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-18820",
+    "target_id": "KEYCLOAK-18904",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-19748",
+    "target_id": "KEYCLOAK-18854",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-19748",
+    "target_id": "KEYCLOAK-19709",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-19748",
+    "target_id": "KEYCLOAK-19726",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-19748",
+    "target_id": "KEYCLOAK-19749",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-19784",
+    "target_id": "KEYCLOAK-19785",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-19784",
+    "target_id": "KEYCLOAK-19786",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-19784",
+    "target_id": "KEYCLOAK-19787",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-19784",
+    "target_id": "KEYCLOAK-19789",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-19784",
+    "target_id": "KEYCLOAK-19790",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-19784",
+    "target_id": "KEYCLOAK-19792",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-19784",
+    "target_id": "KEYCLOAK-19812",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2261",
+    "target_id": "KEYCLOAK-4276",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2261",
+    "target_id": "KEYCLOAK-4294",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2261",
+    "target_id": "KEYCLOAK-4295",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2261",
+    "target_id": "KEYCLOAK-4296",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2261",
+    "target_id": "KEYCLOAK-4298",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2261",
+    "target_id": "KEYCLOAK-6550",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2316",
+    "target_id": "KEYCLOAK-1966",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2316",
+    "target_id": "KEYCLOAK-1967",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2316",
+    "target_id": "KEYCLOAK-1976",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2316",
+    "target_id": "KEYCLOAK-2481",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2316",
+    "target_id": "KEYCLOAK-2535",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2355",
+    "target_id": "KEYCLOAK-10657",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-2355",
+    "target_id": "KEYCLOAK-10661",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-2355",
+    "target_id": "KEYCLOAK-10697",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-2355",
+    "target_id": "KEYCLOAK-11872",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-2355",
+    "target_id": "KEYCLOAK-4458",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-2355",
+    "target_id": "KEYCLOAK-9764",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-2378",
+    "target_id": "KEYCLOAK-3485",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2658",
+    "target_id": "KEYCLOAK-2693",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2658",
+    "target_id": "KEYCLOAK-2697",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2658",
+    "target_id": "KEYCLOAK-2959",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2860",
+    "target_id": "KEYCLOAK-2861",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2860",
+    "target_id": "KEYCLOAK-2862",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2860",
+    "target_id": "KEYCLOAK-2863",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2860",
+    "target_id": "KEYCLOAK-2864",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2860",
+    "target_id": "KEYCLOAK-2865",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2860",
+    "target_id": "KEYCLOAK-2866",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2860",
+    "target_id": "KEYCLOAK-2867",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2860",
+    "target_id": "KEYCLOAK-2868",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2860",
+    "target_id": "KEYCLOAK-2869",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2860",
+    "target_id": "KEYCLOAK-2870",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2860",
+    "target_id": "KEYCLOAK-2871",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2860",
+    "target_id": "KEYCLOAK-2876",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2860",
+    "target_id": "KEYCLOAK-2878",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2883",
+    "target_id": "KEYCLOAK-2867",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2884",
+    "target_id": "KEYCLOAK-2867",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2904",
+    "target_id": "KEYCLOAK-2909",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-2975",
+    "target_id": "KEYCLOAK-2862",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-3010",
+    "target_id": "KEYCLOAK-3024",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-3196",
+    "target_id": "KEYCLOAK-3459",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-3205",
+    "target_id": "KEYCLOAK-10934",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-3205",
+    "target_id": "KEYCLOAK-10935",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-3205",
+    "target_id": "KEYCLOAK-10936",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-3205",
+    "target_id": "KEYCLOAK-11072",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-3205",
+    "target_id": "KEYCLOAK-11320",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-3205",
+    "target_id": "KEYCLOAK-11324",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-3205",
+    "target_id": "KEYCLOAK-11419",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-3205",
+    "target_id": "KEYCLOAK-11684",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-3205",
+    "target_id": "KEYCLOAK-11803",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-3250",
+    "target_id": "KEYCLOAK-3254",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-3250",
+    "target_id": "KEYCLOAK-3256",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-3250",
+    "target_id": "KEYCLOAK-3258",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-3250",
+    "target_id": "KEYCLOAK-4654",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-3250",
+    "target_id": "KEYCLOAK-4655",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-3250",
+    "target_id": "KEYCLOAK-4656",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-3250",
+    "target_id": "KEYCLOAK-4657",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-3250",
+    "target_id": "KEYCLOAK-4668",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4194",
+    "target_id": "KEYCLOAK-4228",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4265",
+    "target_id": "KEYCLOAK-1676",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4290",
+    "target_id": "KEYCLOAK-3837",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4290",
+    "target_id": "KEYCLOAK-3838",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4297",
+    "target_id": "KEYCLOAK-4300",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4297",
+    "target_id": "KEYCLOAK-4301",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4297",
+    "target_id": "KEYCLOAK-4302",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4297",
+    "target_id": "KEYCLOAK-4303",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4297",
+    "target_id": "KEYCLOAK-4305",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4297",
+    "target_id": "KEYCLOAK-4306",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4297",
+    "target_id": "KEYCLOAK-4307",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4297",
+    "target_id": "KEYCLOAK-4308",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4297",
+    "target_id": "KEYCLOAK-4309",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4297",
+    "target_id": "KEYCLOAK-4310",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4297",
+    "target_id": "KEYCLOAK-4311",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4297",
+    "target_id": "KEYCLOAK-4312",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4297",
+    "target_id": "KEYCLOAK-4313",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4297",
+    "target_id": "KEYCLOAK-4314",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4297",
+    "target_id": "KEYCLOAK-4316",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4297",
+    "target_id": "KEYCLOAK-8158",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4458",
+    "target_id": "KEYCLOAK-1340",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4458",
+    "target_id": "KEYCLOAK-5083",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4458",
+    "target_id": "KEYCLOAK-5689",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4526",
+    "target_id": "KEYCLOAK-4347",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4613",
+    "target_id": "KEYCLOAK-4351",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4616",
+    "target_id": "KEYCLOAK-4617",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4616",
+    "target_id": "KEYCLOAK-4618",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4639",
+    "target_id": "KEYCLOAK-4635",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4670",
+    "target_id": "KEYCLOAK-4626",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4681",
+    "target_id": "KEYCLOAK-6693",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4681",
+    "target_id": "KEYCLOAK-6694",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4681",
+    "target_id": "KEYCLOAK-6711",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-4975",
+    "target_id": "KEYCLOAK-4626",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5006",
+    "target_id": "KEYCLOAK-4187",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5007",
+    "target_id": "KEYCLOAK-4187",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5142",
+    "target_id": "KEYCLOAK-5672",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5142",
+    "target_id": "KEYCLOAK-5673",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5142",
+    "target_id": "KEYCLOAK-5675",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5142",
+    "target_id": "KEYCLOAK-5678",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5168",
+    "target_id": "KEYCLOAK-5182",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5168",
+    "target_id": "KEYCLOAK-5184",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5392",
+    "target_id": "KEYCLOAK-5324",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5522",
+    "target_id": "KEYCLOAK-7091",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-5522",
+    "target_id": "KEYCLOAK-7092",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-5522",
+    "target_id": "KEYCLOAK-7093",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-5522",
+    "target_id": "KEYCLOAK-7400",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-5522",
+    "target_id": "KEYCLOAK-7401",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-5522",
+    "target_id": "KEYCLOAK-7412",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-5522",
+    "target_id": "KEYCLOAK-7413",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-5522",
+    "target_id": "KEYCLOAK-7549",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-5522",
+    "target_id": "KEYCLOAK-7550",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-5522",
+    "target_id": "KEYCLOAK-7678",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-5522",
+    "target_id": "KEYCLOAK-7681",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-5522",
+    "target_id": "KEYCLOAK-7727",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-5522",
+    "target_id": "KEYCLOAK-7876",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-5522",
+    "target_id": "KEYCLOAK-7888",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-5528",
+    "target_id": "KEYCLOAK-5529",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5528",
+    "target_id": "KEYCLOAK-5530",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5528",
+    "target_id": "KEYCLOAK-5531",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5528",
+    "target_id": "KEYCLOAK-5532",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5528",
+    "target_id": "KEYCLOAK-5533",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5528",
+    "target_id": "KEYCLOAK-5534",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5528",
+    "target_id": "KEYCLOAK-5535",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5528",
+    "target_id": "KEYCLOAK-5536",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5528",
+    "target_id": "KEYCLOAK-5537",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5528",
+    "target_id": "KEYCLOAK-5538",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5528",
+    "target_id": "KEYCLOAK-5539",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5528",
+    "target_id": "KEYCLOAK-5540",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5528",
+    "target_id": "KEYCLOAK-5541",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5528",
+    "target_id": "KEYCLOAK-5542",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5528",
+    "target_id": "KEYCLOAK-5543",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5528",
+    "target_id": "KEYCLOAK-5544",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5528",
+    "target_id": "KEYCLOAK-5545",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5528",
+    "target_id": "KEYCLOAK-5546",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5528",
+    "target_id": "KEYCLOAK-5547",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5587",
+    "target_id": "KEYCLOAK-4633",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-5587",
+    "target_id": "KEYCLOAK-4906",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-5587",
+    "target_id": "KEYCLOAK-5006",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-5587",
+    "target_id": "KEYCLOAK-5009",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-5587",
+    "target_id": "KEYCLOAK-5104",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-5587",
+    "target_id": "KEYCLOAK-5449",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-5587",
+    "target_id": "KEYCLOAK-5452",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-5587",
+    "target_id": "KEYCLOAK-6017",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-5587",
+    "target_id": "KEYCLOAK-6021",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-5587",
+    "target_id": "KEYCLOAK-7465",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-5587",
+    "target_id": "KEYCLOAK-7548",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-5587",
+    "target_id": "KEYCLOAK-7626",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-5587",
+    "target_id": "KEYCLOAK-7646",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-5587",
+    "target_id": "KEYCLOAK-8030",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-5587",
+    "target_id": "KEYCLOAK-8904",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-5639",
+    "target_id": "KEYCLOAK-5640",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5639",
+    "target_id": "KEYCLOAK-5641",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5639",
+    "target_id": "KEYCLOAK-5642",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5639",
+    "target_id": "KEYCLOAK-5643",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5639",
+    "target_id": "KEYCLOAK-5758",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5690",
+    "target_id": "KEYCLOAK-5691",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5690",
+    "target_id": "KEYCLOAK-5692",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5690",
+    "target_id": "KEYCLOAK-5693",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5690",
+    "target_id": "KEYCLOAK-5694",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5774",
+    "target_id": "KEYCLOAK-3314",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-5846",
+    "target_id": "KEYCLOAK-5718",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-3169",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-4134",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-4902",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-5457",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-5886",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-6277",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-6279",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-6280",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-6281",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-6282",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-6415",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-6492",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-6529",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-6543",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-6623",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-6628",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-6659",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-6713",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-6794",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-6936",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-6937",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-6956",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-7028",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-7029",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-7082",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-7147",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-7161",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-7162",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-7180",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-7269",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-7337",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-7342",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-7353",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-7354",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-7360",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-7367",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-7543",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-7605",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-7849",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-7885",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-8289",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-8290",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6195",
+    "target_id": "KEYCLOAK-8292",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-10074",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-10193",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-10204",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-10205",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-10304",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-10340",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-10739",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-10962",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-10966",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-11090",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-11164",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-11167",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-11211",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-11271",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-11291",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-11293",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-11423",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-11426",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-11539",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-11550",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-11551",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-11744",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-11859",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-12104",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-12105",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-12106",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-12107",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-12478",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-12526",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-12853",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-12935",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-5392",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-5627",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-565",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-6261",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-6290",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-6445",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-6446",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-6493",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-6494",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-6495",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-6496",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-6502",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-6503",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-6504",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-6506",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-6507",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-6508",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-6966",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-6967",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-6968",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-6969",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-6970",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-6977",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-7012",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-7170",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-7219",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-7247",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-7293",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-7334",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-7392",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-7498",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-7657",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-7662",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-7850",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-7857",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-8057",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-8084",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-8086",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-8091",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-8092",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-8093",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-8108",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-8144",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-8151",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-8181",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-8194",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-8602",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-8603",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-9643",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-9644",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-9656",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-9657",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6197",
+    "target_id": "KEYCLOAK-9659",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6245",
+    "target_id": "KEYCLOAK-6246",
+    "source_type": "Story",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-6255",
+    "target_id": "KEYCLOAK-6717",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-6269",
+    "target_id": "KEYCLOAK-6201",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6269",
+    "target_id": "KEYCLOAK-6482",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6269",
+    "target_id": "KEYCLOAK-6483",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6269",
+    "target_id": "KEYCLOAK-6484",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6269",
+    "target_id": "KEYCLOAK-6485",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6269",
+    "target_id": "KEYCLOAK-6677",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6269",
+    "target_id": "KEYCLOAK-6678",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6269",
+    "target_id": "KEYCLOAK-6679",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6269",
+    "target_id": "KEYCLOAK-6680",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6269",
+    "target_id": "KEYCLOAK-6958",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6269",
+    "target_id": "KEYCLOAK-7407",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6269",
+    "target_id": "KEYCLOAK-7408",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6275",
+    "target_id": "KEYCLOAK-6200",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6275",
+    "target_id": "KEYCLOAK-6537",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6275",
+    "target_id": "KEYCLOAK-6949",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6275",
+    "target_id": "KEYCLOAK-7095",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6275",
+    "target_id": "KEYCLOAK-7405",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6275",
+    "target_id": "KEYCLOAK-7932",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6350",
+    "target_id": "KEYCLOAK-6470",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-6350",
+    "target_id": "KEYCLOAK-6471",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-6350",
+    "target_id": "KEYCLOAK-6472",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-6350",
+    "target_id": "KEYCLOAK-6473",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-6391",
+    "target_id": "KEYCLOAK-1267",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6391",
+    "target_id": "KEYCLOAK-2975",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6391",
+    "target_id": "KEYCLOAK-3043",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6391",
+    "target_id": "KEYCLOAK-3581",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6391",
+    "target_id": "KEYCLOAK-3595",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6391",
+    "target_id": "KEYCLOAK-4863",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6391",
+    "target_id": "KEYCLOAK-4948",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6391",
+    "target_id": "KEYCLOAK-5094",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6558",
+    "target_id": "KEYCLOAK-6294",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-6299",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-6714",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-6715",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-6716",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-6855",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-6888",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-6889",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-6890",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-6891",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-6892",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-6893",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-6894",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-6895",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-6896",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-6897",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-6898",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-6900",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-6901",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-6902",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-6904",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-6905",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-6906",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-6908",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-6909",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-6911",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-6912",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-6913",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-6916",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-6918",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-6920",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-7080",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-7257",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-7454",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6712",
+    "target_id": "KEYCLOAK-7733",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6715",
+    "target_id": "KEYCLOAK-6828",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-6759",
+    "target_id": "KEYCLOAK-4798",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-6759",
+    "target_id": "KEYCLOAK-6535",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-6781",
+    "target_id": "KEYCLOAK-6975",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6781",
+    "target_id": "KEYCLOAK-6976",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6781",
+    "target_id": "KEYCLOAK-7594",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6781",
+    "target_id": "KEYCLOAK-7596",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6781",
+    "target_id": "KEYCLOAK-8127",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6781",
+    "target_id": "KEYCLOAK-8139",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-6797",
+    "target_id": "KEYCLOAK-6694",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-6886",
+    "target_id": "KEYCLOAK-6717",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-7055",
+    "target_id": "KEYCLOAK-8435",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-7129",
+    "target_id": "KEYCLOAK-6570",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-7173",
+    "target_id": "KEYCLOAK-7606",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-720",
+    "target_id": "KEYCLOAK-702",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-720",
+    "target_id": "KEYCLOAK-721",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-720",
+    "target_id": "KEYCLOAK-742",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-720",
+    "target_id": "KEYCLOAK-743",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-720",
+    "target_id": "KEYCLOAK-748",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-720",
+    "target_id": "KEYCLOAK-759",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-720",
+    "target_id": "KEYCLOAK-781",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-4352",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-6541",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-6738",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-6739",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-6741",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-6742",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-6743",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-6744",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-6745",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-6746",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-6747",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-6748",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-6749",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-6750",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-6751",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-7231",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-7236",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-7267",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-7311",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-7312",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-7473",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-7475",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-7510",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-7517",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-7588",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-7589",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-7604",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-7627",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-7628",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-7666",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-7722",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-7746",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-8047",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-8637",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-8699",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7229",
+    "target_id": "KEYCLOAK-9621",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7301",
+    "target_id": "KEYCLOAK-16113",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7301",
+    "target_id": "KEYCLOAK-16114",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7301",
+    "target_id": "KEYCLOAK-6198",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7301",
+    "target_id": "KEYCLOAK-6274",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-731",
+    "target_id": "KEYCLOAK-721",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-7414",
+    "target_id": "KEYCLOAK-9798",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-7414",
+    "target_id": "KEYCLOAK-9800",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-7428",
+    "target_id": "KEYCLOAK-10385",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7428",
+    "target_id": "KEYCLOAK-10713",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7428",
+    "target_id": "KEYCLOAK-10714",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7428",
+    "target_id": "KEYCLOAK-10763",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7428",
+    "target_id": "KEYCLOAK-11532",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7428",
+    "target_id": "KEYCLOAK-11538",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7428",
+    "target_id": "KEYCLOAK-12303",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7428",
+    "target_id": "KEYCLOAK-12683",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7428",
+    "target_id": "KEYCLOAK-5628",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7428",
+    "target_id": "KEYCLOAK-7297",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7428",
+    "target_id": "KEYCLOAK-7416",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7428",
+    "target_id": "KEYCLOAK-7417",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7428",
+    "target_id": "KEYCLOAK-7429",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7428",
+    "target_id": "KEYCLOAK-7686",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7428",
+    "target_id": "KEYCLOAK-8060",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7428",
+    "target_id": "KEYCLOAK-8230",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7428",
+    "target_id": "KEYCLOAK-9344",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7459",
+    "target_id": "KEYCLOAK-7460",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-7486",
+    "target_id": "KEYCLOAK-7488",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7486",
+    "target_id": "KEYCLOAK-7580",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7486",
+    "target_id": "KEYCLOAK-7581",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7486",
+    "target_id": "KEYCLOAK-7582",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7486",
+    "target_id": "KEYCLOAK-7710",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7486",
+    "target_id": "KEYCLOAK-8332",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7526",
+    "target_id": "KEYCLOAK-7819",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7526",
+    "target_id": "KEYCLOAK-8656",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7526",
+    "target_id": "KEYCLOAK-8657",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7573",
+    "target_id": "KEYCLOAK-6542",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7629",
+    "target_id": "KEYCLOAK-7630",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7629",
+    "target_id": "KEYCLOAK-7631",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7629",
+    "target_id": "KEYCLOAK-7632",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7629",
+    "target_id": "KEYCLOAK-7680",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-7896",
+    "target_id": "KEYCLOAK-7927",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-7896",
+    "target_id": "KEYCLOAK-7929",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-7966",
+    "target_id": "KEYCLOAK-11408",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8220",
+    "target_id": "KEYCLOAK-7096",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8220",
+    "target_id": "KEYCLOAK-7565",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8275",
+    "target_id": "KEYCLOAK-8271",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-8276",
+    "target_id": "KEYCLOAK-12788",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8276",
+    "target_id": "KEYCLOAK-6230",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8276",
+    "target_id": "KEYCLOAK-7001",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8276",
+    "target_id": "KEYCLOAK-7031",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8277",
+    "target_id": "KEYCLOAK-11621",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8277",
+    "target_id": "KEYCLOAK-12384",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8277",
+    "target_id": "KEYCLOAK-13342",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8277",
+    "target_id": "KEYCLOAK-18151",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8277",
+    "target_id": "KEYCLOAK-7013",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8277",
+    "target_id": "KEYCLOAK-7884",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-828",
+    "target_id": "KEYCLOAK-1066",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-8296",
+    "target_id": "KEYCLOAK-6638",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8296",
+    "target_id": "KEYCLOAK-8272",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8296",
+    "target_id": "KEYCLOAK-8298",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8329",
+    "target_id": "KEYCLOAK-11338",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8348",
+    "target_id": "KEYCLOAK-9536",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-8432",
+    "target_id": "KEYCLOAK-6560",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8432",
+    "target_id": "KEYCLOAK-8394",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8432",
+    "target_id": "KEYCLOAK-8464",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8432",
+    "target_id": "KEYCLOAK-8465",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8432",
+    "target_id": "KEYCLOAK-8466",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8432",
+    "target_id": "KEYCLOAK-8467",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8432",
+    "target_id": "KEYCLOAK-8468",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8432",
+    "target_id": "KEYCLOAK-8469",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8432",
+    "target_id": "KEYCLOAK-8470",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8432",
+    "target_id": "KEYCLOAK-8471",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8432",
+    "target_id": "KEYCLOAK-8576",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8432",
+    "target_id": "KEYCLOAK-9467",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8432",
+    "target_id": "KEYCLOAK-9549",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8432",
+    "target_id": "KEYCLOAK-9550",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8432",
+    "target_id": "KEYCLOAK-9626",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8432",
+    "target_id": "KEYCLOAK-9627",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8432",
+    "target_id": "KEYCLOAK-9640",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8432",
+    "target_id": "KEYCLOAK-9801",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8520",
+    "target_id": "KEYCLOAK-7603",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8520",
+    "target_id": "KEYCLOAK-8471",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8520",
+    "target_id": "KEYCLOAK-8521",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8520",
+    "target_id": "KEYCLOAK-8548",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8520",
+    "target_id": "KEYCLOAK-8557",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8546",
+    "target_id": "KEYCLOAK-8547",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8546",
+    "target_id": "KEYCLOAK-8549",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8546",
+    "target_id": "KEYCLOAK-8550",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8546",
+    "target_id": "KEYCLOAK-8551",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-8589",
+    "target_id": "KEYCLOAK-4798",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-8589",
+    "target_id": "KEYCLOAK-6525",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-8589",
+    "target_id": "KEYCLOAK-6535",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-8589",
+    "target_id": "KEYCLOAK-6552",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-8589",
+    "target_id": "KEYCLOAK-8271",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-8618",
+    "target_id": "KEYCLOAK-8622",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-8618",
+    "target_id": "KEYCLOAK-8623",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-8618",
+    "target_id": "KEYCLOAK-8624",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-9169",
+    "target_id": "KEYCLOAK-9190",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-9169",
+    "target_id": "KEYCLOAK-9191",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-9169",
+    "target_id": "KEYCLOAK-9192",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-9346",
+    "target_id": "KEYCLOAK-11435",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-9346",
+    "target_id": "KEYCLOAK-11436",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-9346",
+    "target_id": "KEYCLOAK-11608",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-9346",
+    "target_id": "KEYCLOAK-11609",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-9346",
+    "target_id": "KEYCLOAK-11616",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-9354",
+    "target_id": "KEYCLOAK-14015",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9354",
+    "target_id": "KEYCLOAK-4593",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9354",
+    "target_id": "KEYCLOAK-8232",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9359",
+    "target_id": "KEYCLOAK-11613",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-9359",
+    "target_id": "KEYCLOAK-12902",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-9365",
+    "target_id": "KEYCLOAK-1514",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9365",
+    "target_id": "KEYCLOAK-9363",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9368",
+    "target_id": "KEYCLOAK-10062",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9368",
+    "target_id": "KEYCLOAK-10076",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9368",
+    "target_id": "KEYCLOAK-10115",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9368",
+    "target_id": "KEYCLOAK-10166",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9368",
+    "target_id": "KEYCLOAK-10216",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9368",
+    "target_id": "KEYCLOAK-10217",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9368",
+    "target_id": "KEYCLOAK-10219",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9368",
+    "target_id": "KEYCLOAK-10220",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9368",
+    "target_id": "KEYCLOAK-10221",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9368",
+    "target_id": "KEYCLOAK-10337",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9368",
+    "target_id": "KEYCLOAK-11287",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9368",
+    "target_id": "KEYCLOAK-8470",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9368",
+    "target_id": "KEYCLOAK-9413",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9368",
+    "target_id": "KEYCLOAK-9414",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9368",
+    "target_id": "KEYCLOAK-9415",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9368",
+    "target_id": "KEYCLOAK-9416",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9368",
+    "target_id": "KEYCLOAK-9502",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9368",
+    "target_id": "KEYCLOAK-9503",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9368",
+    "target_id": "KEYCLOAK-9504",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9368",
+    "target_id": "KEYCLOAK-9505",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9368",
+    "target_id": "KEYCLOAK-9522",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9368",
+    "target_id": "KEYCLOAK-9935",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9368",
+    "target_id": "KEYCLOAK-9977",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9509",
+    "target_id": "KEYCLOAK-9580",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-9509",
+    "target_id": "KEYCLOAK-9581",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-9509",
+    "target_id": "KEYCLOAK-9582",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-9509",
+    "target_id": "KEYCLOAK-9583",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-9509",
+    "target_id": "KEYCLOAK-9584",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-9509",
+    "target_id": "KEYCLOAK-9585",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-9509",
+    "target_id": "KEYCLOAK-9607",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-9519",
+    "target_id": "KEYCLOAK-2073",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-9532",
+    "target_id": "KEYCLOAK-10083",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9532",
+    "target_id": "KEYCLOAK-10084",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9532",
+    "target_id": "KEYCLOAK-10259",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9532",
+    "target_id": "KEYCLOAK-9670",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9532",
+    "target_id": "KEYCLOAK-9671",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9532",
+    "target_id": "KEYCLOAK-9672",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9532",
+    "target_id": "KEYCLOAK-9716",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9532",
+    "target_id": "KEYCLOAK-9717",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9532",
+    "target_id": "KEYCLOAK-9718",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9532",
+    "target_id": "KEYCLOAK-9823",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9532",
+    "target_id": "KEYCLOAK-9824",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9535",
+    "target_id": "KEYCLOAK-9699",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9682",
+    "target_id": "KEYCLOAK-9683",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-9682",
+    "target_id": "KEYCLOAK-9684",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-9682",
+    "target_id": "KEYCLOAK-9685",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-9863",
+    "target_id": "KEYCLOAK-9850",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9919",
+    "target_id": "KEYCLOAK-10126",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-9919",
+    "target_id": "KEYCLOAK-10127",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-9919",
+    "target_id": "KEYCLOAK-10128",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-9919",
+    "target_id": "KEYCLOAK-10167",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-9919",
+    "target_id": "KEYCLOAK-10175",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-9919",
+    "target_id": "KEYCLOAK-9740",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "KEYCLOAK-9986",
+    "target_id": "KEYCLOAK-10727",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "KEYCLOAK-9986",
+    "target_id": "KEYCLOAK-9987",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  }
+]

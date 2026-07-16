@@ -1,0 +1,2228 @@
+[
+  {
+    "source_id": "JBIDE-12007",
+    "target_id": "JBIDE-11636",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-12867",
+    "target_id": "JBIDE-12868",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-12867",
+    "target_id": "JBIDE-12869",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-12867",
+    "target_id": "JBIDE-12871",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-12867",
+    "target_id": "JBIDE-12873",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-12867",
+    "target_id": "JBIDE-12876",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-12867",
+    "target_id": "JBIDE-12879",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-12867",
+    "target_id": "JBIDE-12880",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-12867",
+    "target_id": "JBIDE-12881",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-12867",
+    "target_id": "JBIDE-12883",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-12867",
+    "target_id": "JBIDE-12978",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-150",
+    "target_id": "JBIDE-151",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-15527",
+    "target_id": "JBIDE-15528",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-15527",
+    "target_id": "JBIDE-15529",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-15527",
+    "target_id": "JBIDE-15530",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-15527",
+    "target_id": "JBIDE-15531",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-15527",
+    "target_id": "JBIDE-15532",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-15527",
+    "target_id": "JBIDE-15533",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-15527",
+    "target_id": "JBIDE-15534",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-15527",
+    "target_id": "JBIDE-15535",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-15527",
+    "target_id": "JBIDE-15536",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-15527",
+    "target_id": "JBIDE-15537",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-15527",
+    "target_id": "JBIDE-15538",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-15527",
+    "target_id": "JBIDE-15539",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-15527",
+    "target_id": "JBIDE-15540",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-15527",
+    "target_id": "JBIDE-15541",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-15527",
+    "target_id": "JBIDE-15542",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-15527",
+    "target_id": "JBIDE-15543",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-15527",
+    "target_id": "JBIDE-15544",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-15527",
+    "target_id": "JBIDE-15545",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-15527",
+    "target_id": "JBIDE-15546",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-15527",
+    "target_id": "JBIDE-15547",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-16447",
+    "target_id": "JBIDE-16448",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-16447",
+    "target_id": "JBIDE-16449",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-16447",
+    "target_id": "JBIDE-16450",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-16447",
+    "target_id": "JBIDE-16451",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-16447",
+    "target_id": "JBIDE-16452",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-16447",
+    "target_id": "JBIDE-16453",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-16447",
+    "target_id": "JBIDE-16454",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-16447",
+    "target_id": "JBIDE-16455",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-16447",
+    "target_id": "JBIDE-16456",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-16447",
+    "target_id": "JBIDE-16457",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-16447",
+    "target_id": "JBIDE-16458",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-16447",
+    "target_id": "JBIDE-16459",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-16447",
+    "target_id": "JBIDE-16460",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-16447",
+    "target_id": "JBIDE-16461",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-16447",
+    "target_id": "JBIDE-16462",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-16447",
+    "target_id": "JBIDE-16463",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-16447",
+    "target_id": "JBIDE-16464",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-16447",
+    "target_id": "JBIDE-16465",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-16447",
+    "target_id": "JBIDE-16466",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-16580",
+    "target_id": "JBIDE-16364",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "JBIDE-17265",
+    "target_id": "JBIDE-17280",
+    "source_type": "Epic",
+    "target_type": "Enhancement",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "JBIDE-17265",
+    "target_id": "JBIDE-19778",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "JBIDE-17991",
+    "target_id": "JBIDE-17998",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-17991",
+    "target_id": "JBIDE-18008",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-18010",
+    "target_id": "JBIDE-18011",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-18010",
+    "target_id": "JBIDE-18012",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-18010",
+    "target_id": "JBIDE-18013",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-18010",
+    "target_id": "JBIDE-18014",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-18010",
+    "target_id": "JBIDE-18015",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-18010",
+    "target_id": "JBIDE-18016",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-18010",
+    "target_id": "JBIDE-18017",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-18010",
+    "target_id": "JBIDE-18018",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-18010",
+    "target_id": "JBIDE-18019",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-18010",
+    "target_id": "JBIDE-18020",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-18010",
+    "target_id": "JBIDE-18021",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-18010",
+    "target_id": "JBIDE-18022",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-18010",
+    "target_id": "JBIDE-18023",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-18010",
+    "target_id": "JBIDE-18024",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-18010",
+    "target_id": "JBIDE-18025",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-18010",
+    "target_id": "JBIDE-18026",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-18010",
+    "target_id": "JBIDE-18027",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-18748",
+    "target_id": "JBIDE-18784",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-18748",
+    "target_id": "JBIDE-18785",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-19196",
+    "target_id": "JBIDE-19197",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-19196",
+    "target_id": "JBIDE-19198",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-19196",
+    "target_id": "JBIDE-19199",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-19196",
+    "target_id": "JBIDE-19200",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-19196",
+    "target_id": "JBIDE-19201",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-19196",
+    "target_id": "JBIDE-19202",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-19196",
+    "target_id": "JBIDE-19203",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-19196",
+    "target_id": "JBIDE-19204",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-19196",
+    "target_id": "JBIDE-19205",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-19196",
+    "target_id": "JBIDE-19206",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-19196",
+    "target_id": "JBIDE-19207",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-19196",
+    "target_id": "JBIDE-19208",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-19196",
+    "target_id": "JBIDE-19209",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-19196",
+    "target_id": "JBIDE-19210",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-19196",
+    "target_id": "JBIDE-19211",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-19196",
+    "target_id": "JBIDE-19212",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-19196",
+    "target_id": "JBIDE-19213",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-19196",
+    "target_id": "JBIDE-19214",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-19196",
+    "target_id": "JBIDE-19215",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-19196",
+    "target_id": "JBIDE-19216",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-19741",
+    "target_id": "JBIDE-19762",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-19741",
+    "target_id": "JBIDE-19763",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-19741",
+    "target_id": "JBIDE-19764",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-20637",
+    "target_id": "JBIDE-20638",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-20637",
+    "target_id": "JBIDE-20639",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-20637",
+    "target_id": "JBIDE-20640",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-20637",
+    "target_id": "JBIDE-20641",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-20637",
+    "target_id": "JBIDE-20642",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-20637",
+    "target_id": "JBIDE-20643",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-20637",
+    "target_id": "JBIDE-20644",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-20637",
+    "target_id": "JBIDE-20645",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-20637",
+    "target_id": "JBIDE-20646",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-20637",
+    "target_id": "JBIDE-20647",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-20637",
+    "target_id": "JBIDE-20648",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-20637",
+    "target_id": "JBIDE-20649",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-20637",
+    "target_id": "JBIDE-20650",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-20637",
+    "target_id": "JBIDE-20651",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-20637",
+    "target_id": "JBIDE-20652",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-20637",
+    "target_id": "JBIDE-20653",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-20637",
+    "target_id": "JBIDE-20654",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-20637",
+    "target_id": "JBIDE-20655",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-20637",
+    "target_id": "JBIDE-20656",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-20637",
+    "target_id": "JBIDE-20657",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-20637",
+    "target_id": "JBIDE-20659",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-20637",
+    "target_id": "JBIDE-20735",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-21097",
+    "target_id": "JBIDE-21104",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2117",
+    "target_id": "JBIDE-2122",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2117",
+    "target_id": "JBIDE-2123",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2130",
+    "target_id": "JBIDE-2131",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2130",
+    "target_id": "JBIDE-2132",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2130",
+    "target_id": "JBIDE-2133",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2130",
+    "target_id": "JBIDE-2134",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2130",
+    "target_id": "JBIDE-2135",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2130",
+    "target_id": "JBIDE-2136",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2130",
+    "target_id": "JBIDE-2137",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2130",
+    "target_id": "JBIDE-2138",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2130",
+    "target_id": "JBIDE-2139",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2130",
+    "target_id": "JBIDE-2140",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2130",
+    "target_id": "JBIDE-2142",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2130",
+    "target_id": "JBIDE-2143",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2130",
+    "target_id": "JBIDE-2146",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2130",
+    "target_id": "JBIDE-2147",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2130",
+    "target_id": "JBIDE-2148",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2130",
+    "target_id": "JBIDE-2149",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2130",
+    "target_id": "JBIDE-2150",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2130",
+    "target_id": "JBIDE-2151",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2130",
+    "target_id": "JBIDE-2152",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2130",
+    "target_id": "JBIDE-2153",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2130",
+    "target_id": "JBIDE-2154",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2130",
+    "target_id": "JBIDE-2155",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2130",
+    "target_id": "JBIDE-2156",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2130",
+    "target_id": "JBIDE-2157",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2130",
+    "target_id": "JBIDE-2158",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2130",
+    "target_id": "JBIDE-2159",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2130",
+    "target_id": "JBIDE-2171",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2130",
+    "target_id": "JBIDE-2201",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2130",
+    "target_id": "JBIDE-2253",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-22477",
+    "target_id": "JBIDE-22478",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-22477",
+    "target_id": "JBIDE-22479",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-22477",
+    "target_id": "JBIDE-22480",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-22477",
+    "target_id": "JBIDE-22481",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-22477",
+    "target_id": "JBIDE-22482",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-22477",
+    "target_id": "JBIDE-22483",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-22477",
+    "target_id": "JBIDE-22484",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-22477",
+    "target_id": "JBIDE-22485",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-22477",
+    "target_id": "JBIDE-22486",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-22477",
+    "target_id": "JBIDE-22487",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-22477",
+    "target_id": "JBIDE-22488",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-22477",
+    "target_id": "JBIDE-22489",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-22477",
+    "target_id": "JBIDE-22490",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-22477",
+    "target_id": "JBIDE-22491",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-22477",
+    "target_id": "JBIDE-22492",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-22477",
+    "target_id": "JBIDE-22493",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-22477",
+    "target_id": "JBIDE-22494",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-22477",
+    "target_id": "JBIDE-22495",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-22477",
+    "target_id": "JBIDE-22496",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-22678",
+    "target_id": "JBIDE-22679",
+    "source_type": "Enhancement",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24148",
+    "target_id": "JBIDE-24149",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24148",
+    "target_id": "JBIDE-24150",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24148",
+    "target_id": "JBIDE-24151",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24148",
+    "target_id": "JBIDE-24152",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24148",
+    "target_id": "JBIDE-24153",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24148",
+    "target_id": "JBIDE-24154",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24148",
+    "target_id": "JBIDE-24155",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24148",
+    "target_id": "JBIDE-24156",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24148",
+    "target_id": "JBIDE-24157",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24148",
+    "target_id": "JBIDE-24158",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24148",
+    "target_id": "JBIDE-24159",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24148",
+    "target_id": "JBIDE-24160",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24148",
+    "target_id": "JBIDE-24161",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24148",
+    "target_id": "JBIDE-24162",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24148",
+    "target_id": "JBIDE-24163",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24148",
+    "target_id": "JBIDE-24164",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24148",
+    "target_id": "JBIDE-24165",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24148",
+    "target_id": "JBIDE-24166",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24148",
+    "target_id": "JBIDE-24167",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24148",
+    "target_id": "JBIDE-24168",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24148",
+    "target_id": "JBIDE-24169",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24148",
+    "target_id": "JBIDE-24170",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24148",
+    "target_id": "JBIDE-24171",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24148",
+    "target_id": "JBIDE-24172",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24190",
+    "target_id": "JBIDE-24191",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24190",
+    "target_id": "JBIDE-24192",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24190",
+    "target_id": "JBIDE-24193",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24190",
+    "target_id": "JBIDE-24194",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24190",
+    "target_id": "JBIDE-24195",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24190",
+    "target_id": "JBIDE-24196",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24190",
+    "target_id": "JBIDE-24197",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24190",
+    "target_id": "JBIDE-24198",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24190",
+    "target_id": "JBIDE-24199",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24190",
+    "target_id": "JBIDE-24200",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24190",
+    "target_id": "JBIDE-24201",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24190",
+    "target_id": "JBIDE-24202",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24190",
+    "target_id": "JBIDE-24203",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24190",
+    "target_id": "JBIDE-24204",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24190",
+    "target_id": "JBIDE-24205",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24190",
+    "target_id": "JBIDE-24206",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24190",
+    "target_id": "JBIDE-24207",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24190",
+    "target_id": "JBIDE-24208",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24190",
+    "target_id": "JBIDE-24209",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24190",
+    "target_id": "JBIDE-24210",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24190",
+    "target_id": "JBIDE-24211",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24190",
+    "target_id": "JBIDE-24212",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24190",
+    "target_id": "JBIDE-24213",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-24190",
+    "target_id": "JBIDE-24214",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-2507",
+    "target_id": "JBIDE-2509",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26045",
+    "target_id": "JBIDE-26046",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26045",
+    "target_id": "JBIDE-26047",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26045",
+    "target_id": "JBIDE-26048",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26045",
+    "target_id": "JBIDE-26050",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26045",
+    "target_id": "JBIDE-26051",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26045",
+    "target_id": "JBIDE-26052",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26045",
+    "target_id": "JBIDE-26053",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26045",
+    "target_id": "JBIDE-26054",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26045",
+    "target_id": "JBIDE-26055",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26045",
+    "target_id": "JBIDE-26056",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26045",
+    "target_id": "JBIDE-26057",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26045",
+    "target_id": "JBIDE-26058",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26045",
+    "target_id": "JBIDE-26059",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26045",
+    "target_id": "JBIDE-26060",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26102",
+    "target_id": "JBIDE-26103",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26102",
+    "target_id": "JBIDE-26104",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26102",
+    "target_id": "JBIDE-26105",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26102",
+    "target_id": "JBIDE-26106",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26102",
+    "target_id": "JBIDE-26107",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26102",
+    "target_id": "JBIDE-26108",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26102",
+    "target_id": "JBIDE-26109",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26102",
+    "target_id": "JBIDE-26110",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26102",
+    "target_id": "JBIDE-26111",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26102",
+    "target_id": "JBIDE-26112",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26102",
+    "target_id": "JBIDE-26113",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26102",
+    "target_id": "JBIDE-26114",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26102",
+    "target_id": "JBIDE-26115",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26102",
+    "target_id": "JBIDE-26116",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26583",
+    "target_id": "JBIDE-26584",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26583",
+    "target_id": "JBIDE-26585",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26583",
+    "target_id": "JBIDE-26586",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26583",
+    "target_id": "JBIDE-26587",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26583",
+    "target_id": "JBIDE-26588",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26583",
+    "target_id": "JBIDE-26589",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26583",
+    "target_id": "JBIDE-26590",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26583",
+    "target_id": "JBIDE-26591",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26583",
+    "target_id": "JBIDE-26592",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26583",
+    "target_id": "JBIDE-26593",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26583",
+    "target_id": "JBIDE-26594",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26583",
+    "target_id": "JBIDE-26595",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26583",
+    "target_id": "JBIDE-26596",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26583",
+    "target_id": "JBIDE-26597",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26760",
+    "target_id": "JBIDE-26761",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26760",
+    "target_id": "JBIDE-26762",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26760",
+    "target_id": "JBIDE-26763",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26760",
+    "target_id": "JBIDE-26764",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26760",
+    "target_id": "JBIDE-26765",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26760",
+    "target_id": "JBIDE-26766",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26760",
+    "target_id": "JBIDE-26767",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26760",
+    "target_id": "JBIDE-26768",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26760",
+    "target_id": "JBIDE-26769",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26760",
+    "target_id": "JBIDE-26770",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26760",
+    "target_id": "JBIDE-26771",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26760",
+    "target_id": "JBIDE-26772",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26760",
+    "target_id": "JBIDE-26773",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26760",
+    "target_id": "JBIDE-26774",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26760",
+    "target_id": "JBIDE-26775",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26760",
+    "target_id": "JBIDE-26776",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26760",
+    "target_id": "JBIDE-26777",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26760",
+    "target_id": "JBIDE-26778",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26760",
+    "target_id": "JBIDE-26779",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26760",
+    "target_id": "JBIDE-26780",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26760",
+    "target_id": "JBIDE-26781",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26760",
+    "target_id": "JBIDE-26782",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26760",
+    "target_id": "JBIDE-26783",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26760",
+    "target_id": "JBIDE-26784",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26760",
+    "target_id": "JBIDE-26785",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26760",
+    "target_id": "JBIDE-26951",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26760",
+    "target_id": "JBIDE-26952",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-26994",
+    "target_id": "JBIDE-27016",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "JBIDE-28080",
+    "target_id": "JBIDE-28184",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "JBIDE-6211",
+    "target_id": "JBIDE-6212",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-6211",
+    "target_id": "JBIDE-6213",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-6211",
+    "target_id": "JBIDE-6225",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-6211",
+    "target_id": "JBIDE-6266",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-8637",
+    "target_id": "JBIDE-8649",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-8637",
+    "target_id": "JBIDE-8664",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-8637",
+    "target_id": "JBIDE-8675",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-8637",
+    "target_id": "JBIDE-8686",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-8637",
+    "target_id": "JBIDE-8691",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-9402",
+    "target_id": "JBIDE-9389",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-9954",
+    "target_id": "JBIDE-10011",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-9954",
+    "target_id": "JBIDE-9955",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-9954",
+    "target_id": "JBIDE-9956",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-9954",
+    "target_id": "JBIDE-9957",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-9954",
+    "target_id": "JBIDE-9959",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-9954",
+    "target_id": "JBIDE-9960",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-9954",
+    "target_id": "JBIDE-9961",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-9954",
+    "target_id": "JBIDE-9962",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-9954",
+    "target_id": "JBIDE-9963",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-9954",
+    "target_id": "JBIDE-9966",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-9954",
+    "target_id": "JBIDE-9967",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-9954",
+    "target_id": "JBIDE-9968",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-9954",
+    "target_id": "JBIDE-9969",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-9954",
+    "target_id": "JBIDE-9970",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-9954",
+    "target_id": "JBIDE-9971",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "JBIDE-9954",
+    "target_id": "JBIDE-9972",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  }
+]

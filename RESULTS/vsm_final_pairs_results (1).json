@@ -1,0 +1,90 @@
+{
+  "experiment_info": {
+    "model": "VSM (TF-IDF + Cosine Similarity)",
+    "evaluation_strategy": "fixed_1_to_3_pairs",
+    "vectorizer": "TfidfVectorizer(stop_words='english')",
+    "threshold_tuning": "validation_f2",
+    "note": "Same fixed pairs as BERT/RAG/LoRA"
+  },
+  "results": [
+    {
+      "project": "AAH",
+      "best_threshold": 0.05,
+      "precision": 0.3489583333333333,
+      "recall": 0.7790697674418605,
+      "f1": 0.48201438848920863,
+      "f2": 0.625,
+      "time_seconds": 0.7651498317718506
+    },
+    {
+      "project": "BEAM",
+      "best_threshold": 0.05,
+      "precision": 0.3439153439153439,
+      "recall": 0.8280254777070064,
+      "f1": 0.48598130841121495,
+      "f2": 0.6461232604373758,
+      "time_seconds": 2.626061201095581
+    },
+    {
+      "project": "CB",
+      "best_threshold": 0.05,
+      "precision": 0.2252336448598131,
+      "recall": 0.5738095238095238,
+      "f1": 0.32348993288590605,
+      "f2": 0.4381818181818182,
+      "time_seconds": 4.373817205429077
+    },
+    {
+      "project": "FH",
+      "best_threshold": 0.05,
+      "precision": 0.31568228105906315,
+      "recall": 0.7013574660633484,
+      "f1": 0.4353932584269663,
+      "f2": 0.5636363636363636,
+      "time_seconds": 2.843015193939209
+    },
+    {
+      "project": "JBIDE",
+      "best_threshold": 0.05,
+      "precision": 0.25864223240316536,
+      "recall": 0.9324324324324325,
+      "f1": 0.40495598304532116,
+      "f2": 0.6130306021717671,
+      "time_seconds": 8.386868715286255
+    },
+    {
+      "project": "KEYCLOAK",
+      "best_threshold": 0.05,
+      "precision": 0.319567354965585,
+      "recall": 0.6701030927835051,
+      "f1": 0.43275632490013316,
+      "f2": 0.5495434562056138,
+      "time_seconds": 4.448251962661743
+    },
+    {
+      "project": "KOGITO",
+      "best_threshold": 0.05,
+      "precision": 0.26038781163434904,
+      "recall": 0.5193370165745856,
+      "f1": 0.34686346863468637,
+      "f2": 0.43317972350230416,
+      "time_seconds": 4.079026222229004
+    },
+    {
+      "project": "PROJQUAY",
+      "best_threshold": 0.05,
+      "precision": 0.3147208121827411,
+      "recall": 0.5486725663716814,
+      "f1": 0.4,
+      "f2": 0.4776579352850539,
+      "time_seconds": 0.5952179431915283
+    }
+  ],
+  "summary": {
+    "avg_precision": 0.29838847679417424,
+    "avg_recall": 0.6941009178979929,
+    "avg_f1": 0.4139318330991796,
+    "avg_f2": 0.5432941449275371,
+    "num_projects": 8
+  }
+}

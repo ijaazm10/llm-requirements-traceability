@@ -1,0 +1,1069 @@
+{
+  "timestamp": "2026-06-30 10:13:51",
+  "evaluation_type": "final_negative_pairs",
+  "pair_source": "final_pairs_val.json",
+  "prompt": "clean_champion_no_jira",
+  "config": {
+    "selection_projects": [
+      "CB",
+      "KEYCLOAK",
+      "JBIDE"
+    ],
+    "models_tested": [
+      "llama3.1:8b",
+      "qwen3:8b",
+      "gemma3:12b",
+      "phi4:14b",
+      "qwen2.5-coder:14b",
+      "ministral-3:14b",
+      "gemma3:27b",
+      "qwen3-coder:30b",
+      "gemma4:31b"
+    ],
+    "sample_size_per_project": 400,
+    "actual_pairs_per_project": {
+      "CB": 400,
+      "KEYCLOAK": 400,
+      "JBIDE": 400
+    },
+    "seed": 42,
+    "generation": {
+      "temperature": 0.0,
+      "top_p": 1.0,
+      "num_predict": 20,
+      "format": "json",
+      "repeat_penalty": 1.0
+    }
+  },
+  "results": {
+    "llama3.1:8b": {
+      "per_project": [
+        {
+          "project": "CB",
+          "n_pairs": 400,
+          "n_pos": 100,
+          "n_neg": 300,
+          "failed_parses": 0,
+          "failed_pct": 0.0,
+          "time_seconds": 0.0,
+          "time_per_pair": 0.0,
+          "metrics_clean": {
+            "precision": 0.3261,
+            "recall": 0.6,
+            "f1": 0.4225,
+            "f2": 0.5137,
+            "tp": 60,
+            "fp": 124,
+            "fn": 40,
+            "tn": 176
+          },
+          "metrics_all": {
+            "precision": 0.3261,
+            "recall": 0.6,
+            "f1": 0.4225,
+            "f2": 0.5137,
+            "tp": 60,
+            "fp": 124,
+            "fn": 40,
+            "tn": 176
+          }
+        },
+        {
+          "project": "KEYCLOAK",
+          "n_pairs": 400,
+          "n_pos": 100,
+          "n_neg": 300,
+          "failed_parses": 0,
+          "failed_pct": 0.0,
+          "time_seconds": 0.0,
+          "time_per_pair": 0.0,
+          "metrics_clean": {
+            "precision": 0.3094,
+            "recall": 0.69,
+            "f1": 0.4272,
+            "f2": 0.5538,
+            "tp": 69,
+            "fp": 154,
+            "fn": 31,
+            "tn": 146
+          },
+          "metrics_all": {
+            "precision": 0.3094,
+            "recall": 0.69,
+            "f1": 0.4272,
+            "f2": 0.5538,
+            "tp": 69,
+            "fp": 154,
+            "fn": 31,
+            "tn": 146
+          }
+        },
+        {
+          "project": "JBIDE",
+          "n_pairs": 400,
+          "n_pos": 100,
+          "n_neg": 300,
+          "failed_parses": 0,
+          "failed_pct": 0.0,
+          "time_seconds": 0.0,
+          "time_per_pair": 0.0,
+          "metrics_clean": {
+            "precision": 0.4198,
+            "recall": 0.89,
+            "f1": 0.5705,
+            "f2": 0.7271,
+            "tp": 89,
+            "fp": 123,
+            "fn": 11,
+            "tn": 177
+          },
+          "metrics_all": {
+            "precision": 0.4198,
+            "recall": 0.89,
+            "f1": 0.5705,
+            "f2": 0.7271,
+            "tp": 89,
+            "fp": 123,
+            "fn": 11,
+            "tn": 177
+          }
+        }
+      ],
+      "macro_clean": {
+        "precision": 0.3518,
+        "recall": 0.7267,
+        "f1": 0.4734,
+        "f2": 0.5982
+      },
+      "total_failed": 0,
+      "total_failed_pct": 0.0,
+      "total_time": 0.0,
+      "avg_time_per_pair": 0.0
+    },
+    "qwen3:8b": {
+      "per_project": [
+        {
+          "project": "CB",
+          "n_pairs": 400,
+          "n_pos": 100,
+          "n_neg": 300,
+          "failed_parses": 0,
+          "failed_pct": 0.0,
+          "time_seconds": 0.0,
+          "time_per_pair": 0.0,
+          "metrics_clean": {
+            "precision": 0.3904,
+            "recall": 0.57,
+            "f1": 0.4634,
+            "f2": 0.522,
+            "tp": 57,
+            "fp": 89,
+            "fn": 43,
+            "tn": 211
+          },
+          "metrics_all": {
+            "precision": 0.3904,
+            "recall": 0.57,
+            "f1": 0.4634,
+            "f2": 0.522,
+            "tp": 57,
+            "fp": 89,
+            "fn": 43,
+            "tn": 211
+          }
+        },
+        {
+          "project": "KEYCLOAK",
+          "n_pairs": 400,
+          "n_pos": 100,
+          "n_neg": 300,
+          "failed_parses": 0,
+          "failed_pct": 0.0,
+          "time_seconds": 0.0,
+          "time_per_pair": 0.0,
+          "metrics_clean": {
+            "precision": 0.3968,
+            "recall": 0.5,
+            "f1": 0.4425,
+            "f2": 0.4753,
+            "tp": 50,
+            "fp": 76,
+            "fn": 50,
+            "tn": 224
+          },
+          "metrics_all": {
+            "precision": 0.3968,
+            "recall": 0.5,
+            "f1": 0.4425,
+            "f2": 0.4753,
+            "tp": 50,
+            "fp": 76,
+            "fn": 50,
+            "tn": 224
+          }
+        },
+        {
+          "project": "JBIDE",
+          "n_pairs": 400,
+          "n_pos": 100,
+          "n_neg": 300,
+          "failed_parses": 0,
+          "failed_pct": 0.0,
+          "time_seconds": 0.0,
+          "time_per_pair": 0.0,
+          "metrics_clean": {
+            "precision": 0.3925,
+            "recall": 0.84,
+            "f1": 0.535,
+            "f2": 0.684,
+            "tp": 84,
+            "fp": 130,
+            "fn": 16,
+            "tn": 170
+          },
+          "metrics_all": {
+            "precision": 0.3925,
+            "recall": 0.84,
+            "f1": 0.535,
+            "f2": 0.684,
+            "tp": 84,
+            "fp": 130,
+            "fn": 16,
+            "tn": 170
+          }
+        }
+      ],
+      "macro_clean": {
+        "precision": 0.3932,
+        "recall": 0.6367,
+        "f1": 0.4803,
+        "f2": 0.5604
+      },
+      "total_failed": 0,
+      "total_failed_pct": 0.0,
+      "total_time": 0.0,
+      "avg_time_per_pair": 0.0
+    },
+    "gemma3:12b": {
+      "per_project": [
+        {
+          "project": "CB",
+          "n_pairs": 400,
+          "n_pos": 100,
+          "n_neg": 300,
+          "failed_parses": 0,
+          "failed_pct": 0.0,
+          "time_seconds": 0.0,
+          "time_per_pair": 0.0,
+          "metrics_clean": {
+            "precision": 0.2748,
+            "recall": 0.72,
+            "f1": 0.3978,
+            "f2": 0.5438,
+            "tp": 72,
+            "fp": 190,
+            "fn": 28,
+            "tn": 110
+          },
+          "metrics_all": {
+            "precision": 0.2748,
+            "recall": 0.72,
+            "f1": 0.3978,
+            "f2": 0.5438,
+            "tp": 72,
+            "fp": 190,
+            "fn": 28,
+            "tn": 110
+          }
+        },
+        {
+          "project": "KEYCLOAK",
+          "n_pairs": 400,
+          "n_pos": 100,
+          "n_neg": 300,
+          "failed_parses": 0,
+          "failed_pct": 0.0,
+          "time_seconds": 0.0,
+          "time_per_pair": 0.0,
+          "metrics_clean": {
+            "precision": 0.3515,
+            "recall": 0.71,
+            "f1": 0.4702,
+            "f2": 0.5897,
+            "tp": 71,
+            "fp": 131,
+            "fn": 29,
+            "tn": 169
+          },
+          "metrics_all": {
+            "precision": 0.3515,
+            "recall": 0.71,
+            "f1": 0.4702,
+            "f2": 0.5897,
+            "tp": 71,
+            "fp": 131,
+            "fn": 29,
+            "tn": 169
+          }
+        },
+        {
+          "project": "JBIDE",
+          "n_pairs": 400,
+          "n_pos": 100,
+          "n_neg": 300,
+          "failed_parses": 0,
+          "failed_pct": 0.0,
+          "time_seconds": 0.0,
+          "time_per_pair": 0.0,
+          "metrics_clean": {
+            "precision": 0.3982,
+            "recall": 0.88,
+            "f1": 0.5483,
+            "f2": 0.7085,
+            "tp": 88,
+            "fp": 133,
+            "fn": 12,
+            "tn": 167
+          },
+          "metrics_all": {
+            "precision": 0.3982,
+            "recall": 0.88,
+            "f1": 0.5483,
+            "f2": 0.7085,
+            "tp": 88,
+            "fp": 133,
+            "fn": 12,
+            "tn": 167
+          }
+        }
+      ],
+      "macro_clean": {
+        "precision": 0.3415,
+        "recall": 0.77,
+        "f1": 0.4721,
+        "f2": 0.614
+      },
+      "total_failed": 0,
+      "total_failed_pct": 0.0,
+      "total_time": 0.0,
+      "avg_time_per_pair": 0.0
+    },
+    "phi4:14b": {
+      "per_project": [
+        {
+          "project": "CB",
+          "n_pairs": 400,
+          "n_pos": 100,
+          "n_neg": 300,
+          "failed_parses": 0,
+          "failed_pct": 0.0,
+          "time_seconds": 0.0,
+          "time_per_pair": 0.0,
+          "metrics_clean": {
+            "precision": 0.3983,
+            "recall": 0.47,
+            "f1": 0.4312,
+            "f2": 0.4537,
+            "tp": 47,
+            "fp": 71,
+            "fn": 53,
+            "tn": 229
+          },
+          "metrics_all": {
+            "precision": 0.3983,
+            "recall": 0.47,
+            "f1": 0.4312,
+            "f2": 0.4537,
+            "tp": 47,
+            "fp": 71,
+            "fn": 53,
+            "tn": 229
+          }
+        },
+        {
+          "project": "KEYCLOAK",
+          "n_pairs": 400,
+          "n_pos": 100,
+          "n_neg": 300,
+          "failed_parses": 0,
+          "failed_pct": 0.0,
+          "time_seconds": 0.0,
+          "time_per_pair": 0.0,
+          "metrics_clean": {
+            "precision": 0.4078,
+            "recall": 0.42,
+            "f1": 0.4138,
+            "f2": 0.4175,
+            "tp": 42,
+            "fp": 61,
+            "fn": 58,
+            "tn": 239
+          },
+          "metrics_all": {
+            "precision": 0.4078,
+            "recall": 0.42,
+            "f1": 0.4138,
+            "f2": 0.4175,
+            "tp": 42,
+            "fp": 61,
+            "fn": 58,
+            "tn": 239
+          }
+        },
+        {
+          "project": "JBIDE",
+          "n_pairs": 400,
+          "n_pos": 100,
+          "n_neg": 300,
+          "failed_parses": 0,
+          "failed_pct": 0.0,
+          "time_seconds": 0.0,
+          "time_per_pair": 0.0,
+          "metrics_clean": {
+            "precision": 0.4255,
+            "recall": 0.8,
+            "f1": 0.5556,
+            "f2": 0.6803,
+            "tp": 80,
+            "fp": 108,
+            "fn": 20,
+            "tn": 192
+          },
+          "metrics_all": {
+            "precision": 0.4255,
+            "recall": 0.8,
+            "f1": 0.5556,
+            "f2": 0.6803,
+            "tp": 80,
+            "fp": 108,
+            "fn": 20,
+            "tn": 192
+          }
+        }
+      ],
+      "macro_clean": {
+        "precision": 0.4105,
+        "recall": 0.5633,
+        "f1": 0.4669,
+        "f2": 0.5172
+      },
+      "total_failed": 0,
+      "total_failed_pct": 0.0,
+      "total_time": 0.0,
+      "avg_time_per_pair": 0.0
+    },
+    "qwen2.5-coder:14b": {
+      "per_project": [
+        {
+          "project": "CB",
+          "n_pairs": 400,
+          "n_pos": 100,
+          "n_neg": 300,
+          "failed_parses": 0,
+          "failed_pct": 0.0,
+          "time_seconds": 195.4,
+          "time_per_pair": 0.49,
+          "metrics_clean": {
+            "precision": 0.4,
+            "recall": 0.42,
+            "f1": 0.4098,
+            "f2": 0.4158,
+            "tp": 42,
+            "fp": 63,
+            "fn": 58,
+            "tn": 237
+          },
+          "metrics_all": {
+            "precision": 0.4,
+            "recall": 0.42,
+            "f1": 0.4098,
+            "f2": 0.4158,
+            "tp": 42,
+            "fp": 63,
+            "fn": 58,
+            "tn": 237
+          }
+        },
+        {
+          "project": "KEYCLOAK",
+          "n_pairs": 400,
+          "n_pos": 100,
+          "n_neg": 300,
+          "failed_parses": 0,
+          "failed_pct": 0.0,
+          "time_seconds": 194.5,
+          "time_per_pair": 0.49,
+          "metrics_clean": {
+            "precision": 0.3977,
+            "recall": 0.35,
+            "f1": 0.3723,
+            "f2": 0.3586,
+            "tp": 35,
+            "fp": 53,
+            "fn": 65,
+            "tn": 247
+          },
+          "metrics_all": {
+            "precision": 0.3977,
+            "recall": 0.35,
+            "f1": 0.3723,
+            "f2": 0.3586,
+            "tp": 35,
+            "fp": 53,
+            "fn": 65,
+            "tn": 247
+          }
+        },
+        {
+          "project": "JBIDE",
+          "n_pairs": 400,
+          "n_pos": 100,
+          "n_neg": 300,
+          "failed_parses": 0,
+          "failed_pct": 0.0,
+          "time_seconds": 229.7,
+          "time_per_pair": 0.57,
+          "metrics_clean": {
+            "precision": 0.592,
+            "recall": 0.74,
+            "f1": 0.6578,
+            "f2": 0.7048,
+            "tp": 74,
+            "fp": 51,
+            "fn": 26,
+            "tn": 249
+          },
+          "metrics_all": {
+            "precision": 0.592,
+            "recall": 0.74,
+            "f1": 0.6578,
+            "f2": 0.7048,
+            "tp": 74,
+            "fp": 51,
+            "fn": 26,
+            "tn": 249
+          }
+        }
+      ],
+      "macro_clean": {
+        "precision": 0.4632,
+        "recall": 0.5033,
+        "f1": 0.48,
+        "f2": 0.4931
+      },
+      "total_failed": 0,
+      "total_failed_pct": 0.0,
+      "total_time": 619.6,
+      "avg_time_per_pair": 0.52
+    },
+    "ministral-3:14b": {
+      "per_project": [
+        {
+          "project": "CB",
+          "n_pairs": 400,
+          "n_pos": 100,
+          "n_neg": 300,
+          "failed_parses": 0,
+          "failed_pct": 0.0,
+          "time_seconds": 0.0,
+          "time_per_pair": 0.0,
+          "metrics_clean": {
+            "precision": 0.2949,
+            "recall": 0.46,
+            "f1": 0.3594,
+            "f2": 0.4137,
+            "tp": 46,
+            "fp": 110,
+            "fn": 54,
+            "tn": 190
+          },
+          "metrics_all": {
+            "precision": 0.2949,
+            "recall": 0.46,
+            "f1": 0.3594,
+            "f2": 0.4137,
+            "tp": 46,
+            "fp": 110,
+            "fn": 54,
+            "tn": 190
+          }
+        },
+        {
+          "project": "KEYCLOAK",
+          "n_pairs": 400,
+          "n_pos": 100,
+          "n_neg": 300,
+          "failed_parses": 0,
+          "failed_pct": 0.0,
+          "time_seconds": 0.0,
+          "time_per_pair": 0.0,
+          "metrics_clean": {
+            "precision": 0.4091,
+            "recall": 0.45,
+            "f1": 0.4286,
+            "f2": 0.4412,
+            "tp": 45,
+            "fp": 65,
+            "fn": 55,
+            "tn": 235
+          },
+          "metrics_all": {
+            "precision": 0.4091,
+            "recall": 0.45,
+            "f1": 0.4286,
+            "f2": 0.4412,
+            "tp": 45,
+            "fp": 65,
+            "fn": 55,
+            "tn": 235
+          }
+        },
+        {
+          "project": "JBIDE",
+          "n_pairs": 400,
+          "n_pos": 100,
+          "n_neg": 300,
+          "failed_parses": 0,
+          "failed_pct": 0.0,
+          "time_seconds": 0.0,
+          "time_per_pair": 0.0,
+          "metrics_clean": {
+            "precision": 0.6457,
+            "recall": 0.82,
+            "f1": 0.7225,
+            "f2": 0.778,
+            "tp": 82,
+            "fp": 45,
+            "fn": 18,
+            "tn": 255
+          },
+          "metrics_all": {
+            "precision": 0.6457,
+            "recall": 0.82,
+            "f1": 0.7225,
+            "f2": 0.778,
+            "tp": 82,
+            "fp": 45,
+            "fn": 18,
+            "tn": 255
+          }
+        }
+      ],
+      "macro_clean": {
+        "precision": 0.4499,
+        "recall": 0.5767,
+        "f1": 0.5035,
+        "f2": 0.5443
+      },
+      "total_failed": 0,
+      "total_failed_pct": 0.0,
+      "total_time": 0.0,
+      "avg_time_per_pair": 0.0
+    },
+    "gemma3:27b": {
+      "per_project": [
+        {
+          "project": "CB",
+          "n_pairs": 400,
+          "n_pos": 100,
+          "n_neg": 300,
+          "failed_parses": 0,
+          "failed_pct": 0.0,
+          "time_seconds": 0.0,
+          "time_per_pair": 0.0,
+          "metrics_clean": {
+            "precision": 0.3106,
+            "recall": 0.73,
+            "f1": 0.4358,
+            "f2": 0.5748,
+            "tp": 73,
+            "fp": 162,
+            "fn": 27,
+            "tn": 138
+          },
+          "metrics_all": {
+            "precision": 0.3106,
+            "recall": 0.73,
+            "f1": 0.4358,
+            "f2": 0.5748,
+            "tp": 73,
+            "fp": 162,
+            "fn": 27,
+            "tn": 138
+          }
+        },
+        {
+          "project": "KEYCLOAK",
+          "n_pairs": 400,
+          "n_pos": 100,
+          "n_neg": 300,
+          "failed_parses": 0,
+          "failed_pct": 0.0,
+          "time_seconds": 0.0,
+          "time_per_pair": 0.0,
+          "metrics_clean": {
+            "precision": 0.3333,
+            "recall": 0.66,
+            "f1": 0.443,
+            "f2": 0.5518,
+            "tp": 66,
+            "fp": 132,
+            "fn": 34,
+            "tn": 168
+          },
+          "metrics_all": {
+            "precision": 0.3333,
+            "recall": 0.66,
+            "f1": 0.443,
+            "f2": 0.5518,
+            "tp": 66,
+            "fp": 132,
+            "fn": 34,
+            "tn": 168
+          }
+        },
+        {
+          "project": "JBIDE",
+          "n_pairs": 400,
+          "n_pos": 100,
+          "n_neg": 300,
+          "failed_parses": 0,
+          "failed_pct": 0.0,
+          "time_seconds": 0.0,
+          "time_per_pair": 0.0,
+          "metrics_clean": {
+            "precision": 0.2955,
+            "recall": 0.91,
+            "f1": 0.4461,
+            "f2": 0.6427,
+            "tp": 91,
+            "fp": 217,
+            "fn": 9,
+            "tn": 83
+          },
+          "metrics_all": {
+            "precision": 0.2955,
+            "recall": 0.91,
+            "f1": 0.4461,
+            "f2": 0.6427,
+            "tp": 91,
+            "fp": 217,
+            "fn": 9,
+            "tn": 83
+          }
+        }
+      ],
+      "macro_clean": {
+        "precision": 0.3131,
+        "recall": 0.7667,
+        "f1": 0.4416,
+        "f2": 0.5898
+      },
+      "total_failed": 0,
+      "total_failed_pct": 0.0,
+      "total_time": 0.0,
+      "avg_time_per_pair": 0.0
+    },
+    "qwen3-coder:30b": {
+      "per_project": [
+        {
+          "project": "CB",
+          "n_pairs": 400,
+          "n_pos": 100,
+          "n_neg": 300,
+          "failed_parses": 0,
+          "failed_pct": 0.0,
+          "time_seconds": 0.0,
+          "time_per_pair": 0.0,
+          "metrics_clean": {
+            "precision": 0.3176,
+            "recall": 0.47,
+            "f1": 0.379,
+            "f2": 0.4288,
+            "tp": 47,
+            "fp": 101,
+            "fn": 53,
+            "tn": 199
+          },
+          "metrics_all": {
+            "precision": 0.3176,
+            "recall": 0.47,
+            "f1": 0.379,
+            "f2": 0.4288,
+            "tp": 47,
+            "fp": 101,
+            "fn": 53,
+            "tn": 199
+          }
+        },
+        {
+          "project": "KEYCLOAK",
+          "n_pairs": 400,
+          "n_pos": 100,
+          "n_neg": 300,
+          "failed_parses": 0,
+          "failed_pct": 0.0,
+          "time_seconds": 0.0,
+          "time_per_pair": 0.0,
+          "metrics_clean": {
+            "precision": 0.3776,
+            "recall": 0.37,
+            "f1": 0.3737,
+            "f2": 0.3715,
+            "tp": 37,
+            "fp": 61,
+            "fn": 63,
+            "tn": 239
+          },
+          "metrics_all": {
+            "precision": 0.3776,
+            "recall": 0.37,
+            "f1": 0.3737,
+            "f2": 0.3715,
+            "tp": 37,
+            "fp": 61,
+            "fn": 63,
+            "tn": 239
+          }
+        },
+        {
+          "project": "JBIDE",
+          "n_pairs": 400,
+          "n_pos": 100,
+          "n_neg": 300,
+          "failed_parses": 0,
+          "failed_pct": 0.0,
+          "time_seconds": 0.0,
+          "time_per_pair": 0.0,
+          "metrics_clean": {
+            "precision": 0.623,
+            "recall": 0.76,
+            "f1": 0.6847,
+            "f2": 0.728,
+            "tp": 76,
+            "fp": 46,
+            "fn": 24,
+            "tn": 254
+          },
+          "metrics_all": {
+            "precision": 0.623,
+            "recall": 0.76,
+            "f1": 0.6847,
+            "f2": 0.728,
+            "tp": 76,
+            "fp": 46,
+            "fn": 24,
+            "tn": 254
+          }
+        }
+      ],
+      "macro_clean": {
+        "precision": 0.4394,
+        "recall": 0.5333,
+        "f1": 0.4791,
+        "f2": 0.5094
+      },
+      "total_failed": 0,
+      "total_failed_pct": 0.0,
+      "total_time": 0.0,
+      "avg_time_per_pair": 0.0
+    },
+    "gemma4:31b": {
+      "per_project": [
+        {
+          "project": "CB",
+          "n_pairs": 400,
+          "n_pos": 100,
+          "n_neg": 300,
+          "failed_parses": 0,
+          "failed_pct": 0.0,
+          "time_seconds": 0.0,
+          "time_per_pair": 0.0,
+          "metrics_clean": {
+            "precision": 0.4252,
+            "recall": 0.91,
+            "f1": 0.5796,
+            "f2": 0.741,
+            "tp": 91,
+            "fp": 123,
+            "fn": 9,
+            "tn": 177
+          },
+          "metrics_all": {
+            "precision": 0.4252,
+            "recall": 0.91,
+            "f1": 0.5796,
+            "f2": 0.741,
+            "tp": 91,
+            "fp": 123,
+            "fn": 9,
+            "tn": 177
+          }
+        },
+        {
+          "project": "KEYCLOAK",
+          "n_pairs": 400,
+          "n_pos": 100,
+          "n_neg": 300,
+          "failed_parses": 1,
+          "failed_pct": 0.2,
+          "time_seconds": 0.0,
+          "time_per_pair": 0.0,
+          "metrics_clean": {
+            "precision": 0.3931,
+            "recall": 0.57,
+            "f1": 0.4653,
+            "f2": 0.5229,
+            "tp": 57,
+            "fp": 88,
+            "fn": 43,
+            "tn": 211
+          },
+          "metrics_all": {
+            "precision": 0.3931,
+            "recall": 0.57,
+            "f1": 0.4653,
+            "f2": 0.5229,
+            "tp": 57,
+            "fp": 88,
+            "fn": 43,
+            "tn": 212
+          }
+        },
+        {
+          "project": "JBIDE",
+          "n_pairs": 400,
+          "n_pos": 100,
+          "n_neg": 300,
+          "failed_parses": 0,
+          "failed_pct": 0.0,
+          "time_seconds": 0.0,
+          "time_per_pair": 0.0,
+          "metrics_clean": {
+            "precision": 0.6391,
+            "recall": 0.85,
+            "f1": 0.7296,
+            "f2": 0.7974,
+            "tp": 85,
+            "fp": 48,
+            "fn": 15,
+            "tn": 252
+          },
+          "metrics_all": {
+            "precision": 0.6391,
+            "recall": 0.85,
+            "f1": 0.7296,
+            "f2": 0.7974,
+            "tp": 85,
+            "fp": 48,
+            "fn": 15,
+            "tn": 252
+          }
+        }
+      ],
+      "macro_clean": {
+        "precision": 0.4858,
+        "recall": 0.7767,
+        "f1": 0.5915,
+        "f2": 0.6871
+      },
+      "total_failed": 1,
+      "total_failed_pct": 0.1,
+      "total_time": 0.0,
+      "avg_time_per_pair": 0.0
+    }
+  },
+  "ranking": [
+    {
+      "rank": 1,
+      "model": "gemma4:31b",
+      "macro_f2": 0.6871,
+      "macro_f1": 0.5915,
+      "macro_precision": 0.4858,
+      "macro_recall": 0.7767,
+      "failed_pct": 0.1,
+      "avg_time_per_pair": 0.0
+    },
+    {
+      "rank": 2,
+      "model": "gemma3:12b",
+      "macro_f2": 0.614,
+      "macro_f1": 0.4721,
+      "macro_precision": 0.3415,
+      "macro_recall": 0.77,
+      "failed_pct": 0.0,
+      "avg_time_per_pair": 0.0
+    },
+    {
+      "rank": 3,
+      "model": "llama3.1:8b",
+      "macro_f2": 0.5982,
+      "macro_f1": 0.4734,
+      "macro_precision": 0.3518,
+      "macro_recall": 0.7267,
+      "failed_pct": 0.0,
+      "avg_time_per_pair": 0.0
+    },
+    {
+      "rank": 4,
+      "model": "gemma3:27b",
+      "macro_f2": 0.5898,
+      "macro_f1": 0.4416,
+      "macro_precision": 0.3131,
+      "macro_recall": 0.7667,
+      "failed_pct": 0.0,
+      "avg_time_per_pair": 0.0
+    },
+    {
+      "rank": 5,
+      "model": "qwen3:8b",
+      "macro_f2": 0.5604,
+      "macro_f1": 0.4803,
+      "macro_precision": 0.3932,
+      "macro_recall": 0.6367,
+      "failed_pct": 0.0,
+      "avg_time_per_pair": 0.0
+    },
+    {
+      "rank": 6,
+      "model": "ministral-3:14b",
+      "macro_f2": 0.5443,
+      "macro_f1": 0.5035,
+      "macro_precision": 0.4499,
+      "macro_recall": 0.5767,
+      "failed_pct": 0.0,
+      "avg_time_per_pair": 0.0
+    },
+    {
+      "rank": 7,
+      "model": "phi4:14b",
+      "macro_f2": 0.5172,
+      "macro_f1": 0.4669,
+      "macro_precision": 0.4105,
+      "macro_recall": 0.5633,
+      "failed_pct": 0.0,
+      "avg_time_per_pair": 0.0
+    },
+    {
+      "rank": 8,
+      "model": "qwen3-coder:30b",
+      "macro_f2": 0.5094,
+      "macro_f1": 0.4791,
+      "macro_precision": 0.4394,
+      "macro_recall": 0.5333,
+      "failed_pct": 0.0,
+      "avg_time_per_pair": 0.0
+    },
+    {
+      "rank": 9,
+      "model": "qwen2.5-coder:14b",
+      "macro_f2": 0.4931,
+      "macro_f1": 0.48,
+      "macro_precision": 0.4632,
+      "macro_recall": 0.5033,
+      "failed_pct": 0.0,
+      "avg_time_per_pair": 0.52
+    }
+  ],
+  "recommendation": "gemma4:31b"
+}

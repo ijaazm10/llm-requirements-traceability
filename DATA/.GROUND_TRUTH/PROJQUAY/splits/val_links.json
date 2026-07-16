@@ -1,0 +1,114 @@
+[
+  {
+    "source_id": "PROJQUAY-1042",
+    "target_id": "PROJQUAY-1043",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1042",
+    "target_id": "PROJQUAY-1044",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1042",
+    "target_id": "PROJQUAY-1045",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1042",
+    "target_id": "PROJQUAY-1046",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1042",
+    "target_id": "PROJQUAY-1047",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1042",
+    "target_id": "PROJQUAY-1048",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1042",
+    "target_id": "PROJQUAY-1049",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1042",
+    "target_id": "PROJQUAY-1468",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1042",
+    "target_id": "PROJQUAY-1469",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1042",
+    "target_id": "PROJQUAY-1470",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2861",
+    "target_id": "PROJQUAY-507",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-380",
+    "target_id": "PROJQUAY-379",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-543",
+    "target_id": "PROJQUAY-1535",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-543",
+    "target_id": "PROJQUAY-1536",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-868",
+    "target_id": "PROJQUAY-869",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-868",
+    "target_id": "PROJQUAY-870",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  }
+]

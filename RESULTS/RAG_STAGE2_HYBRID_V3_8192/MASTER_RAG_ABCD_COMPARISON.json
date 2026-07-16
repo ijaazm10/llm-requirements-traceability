@@ -1,0 +1,198 @@
+{
+  "timestamp": "2026-06-16 00:28:32",
+  "model": "unsloth/gemma-4-31B-it",
+  "test_set": "final_pairs_test (Qwen3 top-K hard negatives)",
+  "stage1_source": "stage1_master",
+  "stage1_master_path": "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/RESULTS/RAG_STAGE1_V3_8192/MASTER_RAG_COMPARISON.json",
+  "stage2_master_path": "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/RESULTS/RAG_STAGE2_HYBRID_V3_8192/MASTER_RAG_COMPARISON.json",
+  "configs": {
+    "RAG_A": {
+      "label": "RAG-A MPNet 2+2",
+      "config": {
+        "id": "RAG_A",
+        "label": "RAG-A MPNet 2+2",
+        "retriever": "mpnet",
+        "k_pos": 2,
+        "k_neg": 2,
+        "desc": "Dense (MPNet), balanced contrastive."
+      },
+      "macro_clean": {
+        "precision": 0.591,
+        "recall": 0.8602,
+        "f1": 0.6965,
+        "f2": 0.7846,
+        "accuracy": 0.8062
+      },
+      "macro_conservative": {
+        "precision": 0.591,
+        "recall": 0.8532,
+        "f1": 0.6939,
+        "f2": 0.7796,
+        "accuracy": 0.8052
+      },
+      "deployment_rollup": {
+        "avg_time_per_pair_ms": 2047.413,
+        "avg_vram_at_load_gb": 18.22,
+        "avg_vram_peak_inference_gb": 21.492,
+        "avg_vram_growth_gb": 3.272,
+        "avg_input_tokens_per_pair": 1411.275,
+        "avg_gen_tokens_per_pair": 12.075,
+        "avg_tokens_per_second_generated": 5.95,
+        "macro_truncation_rate_pct": 0.883,
+        "macro_format_failure_rate_pct": 0.853,
+        "avg_retrieval_total_ms": 1.039,
+        "avg_dense_search_ms": 0.956,
+        "avg_bm25_search_ms": 0.0,
+        "avg_generation_ms": 2036.085,
+        "total_dense_index_size_mb": 109.69,
+        "total_bm25_index_size_mb_estimate": 0.0,
+        "total_dense_index_build_seconds": 45.74,
+        "total_bm25_index_build_seconds": 0.0,
+        "total_test_query_embed_seconds": 17.95
+      },
+      "n_projects": 8,
+      "total_failed_parses": 157
+    },
+    "RAG_B": {
+      "label": "RAG-B Qwen3 2+2",
+      "config": {
+        "id": "RAG_B",
+        "label": "RAG-B Qwen3 2+2",
+        "retriever": "qwen3",
+        "k_pos": 2,
+        "k_neg": 2,
+        "desc": "Dense (Qwen3), balanced contrastive."
+      },
+      "macro_clean": {
+        "precision": 0.6202,
+        "recall": 0.8491,
+        "f1": 0.7135,
+        "f2": 0.7878,
+        "accuracy": 0.8242
+      },
+      "macro_conservative": {
+        "precision": 0.6202,
+        "recall": 0.8382,
+        "f1": 0.7093,
+        "f2": 0.78,
+        "accuracy": 0.8224
+      },
+      "deployment_rollup": {
+        "avg_time_per_pair_ms": 2058.787,
+        "avg_vram_at_load_gb": 18.22,
+        "avg_vram_peak_inference_gb": 21.157,
+        "avg_vram_growth_gb": 2.938,
+        "avg_input_tokens_per_pair": 1427.062,
+        "avg_gen_tokens_per_pair": 12.088,
+        "avg_tokens_per_second_generated": 5.95,
+        "macro_truncation_rate_pct": 1.214,
+        "macro_format_failure_rate_pct": 1.209,
+        "avg_retrieval_total_ms": 2.964,
+        "avg_dense_search_ms": 2.872,
+        "avg_bm25_search_ms": 0.0,
+        "avg_generation_ms": 2044.85,
+        "total_dense_index_size_mb": 296.37,
+        "total_bm25_index_size_mb_estimate": 0.0,
+        "total_dense_index_build_seconds": 2304.84,
+        "total_bm25_index_build_seconds": 0.0,
+        "total_test_query_embed_seconds": 500.98
+      },
+      "n_projects": 8,
+      "total_failed_parses": 206
+    },
+    "RAG_C": {
+      "label": "RAG-C Qwen3 4+0",
+      "config": {
+        "id": "RAG_C",
+        "label": "RAG-C Qwen3 4+0",
+        "retriever": "qwen3",
+        "k_pos": 4,
+        "k_neg": 0,
+        "desc": "Dense (Qwen3), positive-only, k=4."
+      },
+      "macro_clean": {
+        "precision": 0.5007,
+        "recall": 0.9053,
+        "f1": 0.641,
+        "f2": 0.7751,
+        "accuracy": 0.7416
+      },
+      "macro_conservative": {
+        "precision": 0.5007,
+        "recall": 0.8759,
+        "f1": 0.6303,
+        "f2": 0.7546,
+        "accuracy": 0.7381
+      },
+      "deployment_rollup": {
+        "avg_time_per_pair_ms": 2073.838,
+        "avg_vram_at_load_gb": 18.22,
+        "avg_vram_peak_inference_gb": 21.185,
+        "avg_vram_growth_gb": 2.965,
+        "avg_input_tokens_per_pair": 1354.775,
+        "avg_gen_tokens_per_pair": 12.225,
+        "avg_tokens_per_second_generated": 5.975,
+        "macro_truncation_rate_pct": 2.855,
+        "macro_format_failure_rate_pct": 2.824,
+        "avg_retrieval_total_ms": 1.641,
+        "avg_dense_search_ms": 1.498,
+        "avg_bm25_search_ms": 0.0,
+        "avg_generation_ms": 2060.851,
+        "total_dense_index_size_mb": 296.37,
+        "total_bm25_index_size_mb_estimate": 0.0,
+        "total_dense_index_build_seconds": 2305.85,
+        "total_bm25_index_build_seconds": 0.0,
+        "total_test_query_embed_seconds": 500.99
+      },
+      "n_projects": 8,
+      "total_failed_parses": 377
+    },
+    "RAG_D": {
+      "label": "RAG-D Hybrid 2+2",
+      "config": {
+        "id": "RAG_D",
+        "label": "RAG-D Hybrid 2+2",
+        "retriever": "hybrid",
+        "k_pos": 2,
+        "k_neg": 2,
+        "desc": "Hybrid (Qwen3 + BM25 via RRF), balanced contrastive."
+      },
+      "macro_clean": {
+        "precision": 0.6063,
+        "recall": 0.8241,
+        "f1": 0.6959,
+        "f2": 0.7664,
+        "accuracy": 0.8164
+      },
+      "macro_conservative": {
+        "precision": 0.6063,
+        "recall": 0.8112,
+        "f1": 0.691,
+        "f2": 0.7573,
+        "accuracy": 0.8143
+      },
+      "deployment_rollup": {
+        "avg_time_per_pair_ms": 2185.738,
+        "avg_vram_at_load_gb": 17.78,
+        "avg_vram_peak_inference_gb": 20.664,
+        "avg_vram_growth_gb": 2.884,
+        "avg_input_tokens_per_pair": 1517.575,
+        "avg_gen_tokens_per_pair": 12.137,
+        "avg_tokens_per_second_generated": 6.0,
+        "macro_truncation_rate_pct": 1.562,
+        "macro_format_failure_rate_pct": 1.534,
+        "avg_retrieval_total_ms": 134.113,
+        "avg_dense_search_ms": 2.952,
+        "avg_bm25_search_ms": 130.757,
+        "avg_generation_ms": 2040.012,
+        "total_dense_index_size_mb": 296.37,
+        "total_bm25_index_size_mb_estimate": 18.72,
+        "total_dense_index_build_seconds": 2164.51,
+        "total_bm25_index_build_seconds": 1.05,
+        "total_test_query_embed_seconds": 500.69
+      },
+      "n_projects": 8,
+      "total_failed_parses": 272
+    }
+  }
+}

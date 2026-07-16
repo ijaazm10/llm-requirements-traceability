@@ -1,0 +1,2774 @@
+[
+  {
+    "source_id": "PROJQUAY-1032",
+    "target_id": "PROJQUAY-1417",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1032",
+    "target_id": "PROJQUAY-1552",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1034",
+    "target_id": "PROJQUAY-1036",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1034",
+    "target_id": "PROJQUAY-1037",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1034",
+    "target_id": "PROJQUAY-1038",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1034",
+    "target_id": "PROJQUAY-1039",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1034",
+    "target_id": "PROJQUAY-1040",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1034",
+    "target_id": "PROJQUAY-1041",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1034",
+    "target_id": "PROJQUAY-1452",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1042",
+    "target_id": "PROJQUAY-1043",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1042",
+    "target_id": "PROJQUAY-1044",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1042",
+    "target_id": "PROJQUAY-1045",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1042",
+    "target_id": "PROJQUAY-1046",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1042",
+    "target_id": "PROJQUAY-1047",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1042",
+    "target_id": "PROJQUAY-1048",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1042",
+    "target_id": "PROJQUAY-1049",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1042",
+    "target_id": "PROJQUAY-1468",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1042",
+    "target_id": "PROJQUAY-1469",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1042",
+    "target_id": "PROJQUAY-1470",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1050",
+    "target_id": "PROJQUAY-1051",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1050",
+    "target_id": "PROJQUAY-1052",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1050",
+    "target_id": "PROJQUAY-1053",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1050",
+    "target_id": "PROJQUAY-1054",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-254",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-305",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-313",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-323",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-324",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-70",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1266",
+    "target_id": "PROJQUAY-783",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1294",
+    "target_id": "PROJQUAY-1449",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1294",
+    "target_id": "PROJQUAY-1608",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1294",
+    "target_id": "PROJQUAY-1669",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1294",
+    "target_id": "PROJQUAY-1737",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1294",
+    "target_id": "PROJQUAY-1885",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1340",
+    "target_id": "PROJQUAY-1448",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1340",
+    "target_id": "PROJQUAY-224",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1356",
+    "target_id": "PROJQUAY-1357",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-142",
+    "target_id": "PROJQUAY-221",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-142",
+    "target_id": "PROJQUAY-545",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-142",
+    "target_id": "PROJQUAY-672",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1473",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1474",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1475",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1476",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1477",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1478",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1644",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1645",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1926",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1928",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1929",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-1932",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1454",
+    "target_id": "PROJQUAY-2248",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-1532",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-1533",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-1534",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-1899",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-1914",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2019",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2083",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2084",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2085",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2086",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2371",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2372",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2373",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2374",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2375",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2376",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2377",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2378",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2379",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2380",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2381",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2382",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2383",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1495",
+    "target_id": "PROJQUAY-2707",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1533",
+    "target_id": "PROJQUAY-1611",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "PROJQUAY-1644",
+    "target_id": "PROJQUAY-2826",
+    "source_type": "Story",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "PROJQUAY-1644",
+    "target_id": "PROJQUAY-2827",
+    "source_type": "Story",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "PROJQUAY-1644",
+    "target_id": "PROJQUAY-2828",
+    "source_type": "Story",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "PROJQUAY-1644",
+    "target_id": "PROJQUAY-2829",
+    "source_type": "Story",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "PROJQUAY-1644",
+    "target_id": "PROJQUAY-2830",
+    "source_type": "Story",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "PROJQUAY-1724",
+    "target_id": "PROJQUAY-1618",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1724",
+    "target_id": "PROJQUAY-1846",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1724",
+    "target_id": "PROJQUAY-1847",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1724",
+    "target_id": "PROJQUAY-1848",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1724",
+    "target_id": "PROJQUAY-2177",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-1247",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-1450",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-1451",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-1479",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-1610",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-1827",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-924",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1884",
+    "target_id": "PROJQUAY-925",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1898",
+    "target_id": "PROJQUAY-1902",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "PROJQUAY-1908",
+    "target_id": "PROJQUAY-2831",
+    "source_type": "Story",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "PROJQUAY-1908",
+    "target_id": "PROJQUAY-2832",
+    "source_type": "Story",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "PROJQUAY-1934",
+    "target_id": "PROJQUAY-1917",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1935",
+    "target_id": "PROJQUAY-1878",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-1935",
+    "target_id": "PROJQUAY-788",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2035",
+    "target_id": "PROJQUAY-1090",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2035",
+    "target_id": "PROJQUAY-1569",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2035",
+    "target_id": "PROJQUAY-1609",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2035",
+    "target_id": "PROJQUAY-1767",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2035",
+    "target_id": "PROJQUAY-1883",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2035",
+    "target_id": "PROJQUAY-1886",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2035",
+    "target_id": "PROJQUAY-2046",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2035",
+    "target_id": "PROJQUAY-2048",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2035",
+    "target_id": "PROJQUAY-2050",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2035",
+    "target_id": "PROJQUAY-2100",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2035",
+    "target_id": "PROJQUAY-2237",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2035",
+    "target_id": "PROJQUAY-2286",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2035",
+    "target_id": "PROJQUAY-2636",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2035",
+    "target_id": "PROJQUAY-2718",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2035",
+    "target_id": "PROJQUAY-2719",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2035",
+    "target_id": "PROJQUAY-2739",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2035",
+    "target_id": "PROJQUAY-2745",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2035",
+    "target_id": "PROJQUAY-2763",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2035",
+    "target_id": "PROJQUAY-2877",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2035",
+    "target_id": "PROJQUAY-3054",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-207",
+    "target_id": "PROJQUAY-2093",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-207",
+    "target_id": "PROJQUAY-2094",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-207",
+    "target_id": "PROJQUAY-2207",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-207",
+    "target_id": "PROJQUAY-229",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-207",
+    "target_id": "PROJQUAY-230",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-207",
+    "target_id": "PROJQUAY-231",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2081",
+    "target_id": "PROJQUAY-2082",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2081",
+    "target_id": "PROJQUAY-2133",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2081",
+    "target_id": "PROJQUAY-2134",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2081",
+    "target_id": "PROJQUAY-2137",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2081",
+    "target_id": "PROJQUAY-2257",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2081",
+    "target_id": "PROJQUAY-2272",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2110",
+    "target_id": "PROJQUAY-1696",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2110",
+    "target_id": "PROJQUAY-2363",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2110",
+    "target_id": "PROJQUAY-2502",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2110",
+    "target_id": "PROJQUAY-2503",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2110",
+    "target_id": "PROJQUAY-3254",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-1949",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-3005",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-3079",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-3086",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-3149",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-3216",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2245",
+    "target_id": "PROJQUAY-3261",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-226",
+    "target_id": "PROJQUAY-512",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-1950",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2074",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2075",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2096",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2172",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2217",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2231",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2294",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2295",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2296",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2297",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2349",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2423",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2463",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2464",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2465",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2481",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2523",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2526",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2527",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2528",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2529",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2530",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2567",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2348",
+    "target_id": "PROJQUAY-2597",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-205",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-243",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-330",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-331",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-332",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-334",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-335",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-336",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-348",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-349",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-375",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-242",
+    "target_id": "PROJQUAY-440",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2504",
+    "target_id": "PROJQUAY-1723",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2504",
+    "target_id": "PROJQUAY-3055",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2504",
+    "target_id": "PROJQUAY-3056",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-253",
+    "target_id": "PROJQUAY-285",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-272",
+    "target_id": "PROJQUAY-131",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-280",
+    "target_id": "PROJQUAY-1481",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-280",
+    "target_id": "PROJQUAY-1482",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-280",
+    "target_id": "PROJQUAY-1483",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-280",
+    "target_id": "PROJQUAY-1679",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-2861",
+    "target_id": "PROJQUAY-507",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-287",
+    "target_id": "PROJQUAY-352",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-288",
+    "target_id": "PROJQUAY-1484",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-288",
+    "target_id": "PROJQUAY-1485",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-288",
+    "target_id": "PROJQUAY-1674",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-288",
+    "target_id": "PROJQUAY-217",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-288",
+    "target_id": "PROJQUAY-291",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-290",
+    "target_id": "PROJQUAY-113",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-293",
+    "target_id": "PROJQUAY-339",
+    "source_type": "Task",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "PROJQUAY-294",
+    "target_id": "PROJQUAY-315",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-294",
+    "target_id": "PROJQUAY-316",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-294",
+    "target_id": "PROJQUAY-317",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-295",
+    "target_id": "PROJQUAY-3050",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-295",
+    "target_id": "PROJQUAY-3051",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-295",
+    "target_id": "PROJQUAY-3052",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-295",
+    "target_id": "PROJQUAY-3053",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-295",
+    "target_id": "PROJQUAY-3259",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-295",
+    "target_id": "PROJQUAY-3278",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-302",
+    "target_id": "PROJQUAY-2936",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-302",
+    "target_id": "PROJQUAY-2937",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-302",
+    "target_id": "PROJQUAY-2938",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-303",
+    "target_id": "PROJQUAY-258",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-3163",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-3201",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-3221",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-3222",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-3223",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-3224",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-3225",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-3226",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-3227",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-3229",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-3230",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-3164",
+    "target_id": "PROJQUAY-3319",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-322",
+    "target_id": "PROJQUAY-258",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-380",
+    "target_id": "PROJQUAY-379",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-446",
+    "target_id": "PROJQUAY-475",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-446",
+    "target_id": "PROJQUAY-476",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-446",
+    "target_id": "PROJQUAY-477",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-446",
+    "target_id": "PROJQUAY-478",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-465",
+    "target_id": "PROJQUAY-3029",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-465",
+    "target_id": "PROJQUAY-3030",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-465",
+    "target_id": "PROJQUAY-3033",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-465",
+    "target_id": "PROJQUAY-3034",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-465",
+    "target_id": "PROJQUAY-3063",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-465",
+    "target_id": "PROJQUAY-3302",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-497",
+    "target_id": "PROJQUAY-1195",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-497",
+    "target_id": "PROJQUAY-1353",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-497",
+    "target_id": "PROJQUAY-1365",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-497",
+    "target_id": "PROJQUAY-499",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-497",
+    "target_id": "PROJQUAY-500",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-497",
+    "target_id": "PROJQUAY-501",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-497",
+    "target_id": "PROJQUAY-502",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-497",
+    "target_id": "PROJQUAY-504",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-497",
+    "target_id": "PROJQUAY-505",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-497",
+    "target_id": "PROJQUAY-506",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-497",
+    "target_id": "PROJQUAY-508",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-497",
+    "target_id": "PROJQUAY-563",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-497",
+    "target_id": "PROJQUAY-564",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-497",
+    "target_id": "PROJQUAY-565",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-497",
+    "target_id": "PROJQUAY-901",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-517",
+    "target_id": "PROJQUAY-518",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-517",
+    "target_id": "PROJQUAY-519",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-517",
+    "target_id": "PROJQUAY-520",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-517",
+    "target_id": "PROJQUAY-521",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-517",
+    "target_id": "PROJQUAY-522",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-530",
+    "target_id": "PROJQUAY-531",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-54",
+    "target_id": "PROJQUAY-100",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-54",
+    "target_id": "PROJQUAY-101",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-54",
+    "target_id": "PROJQUAY-102",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-54",
+    "target_id": "PROJQUAY-103",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-54",
+    "target_id": "PROJQUAY-104",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-54",
+    "target_id": "PROJQUAY-105",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-54",
+    "target_id": "PROJQUAY-106",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-54",
+    "target_id": "PROJQUAY-107",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-54",
+    "target_id": "PROJQUAY-108",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-54",
+    "target_id": "PROJQUAY-109",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-54",
+    "target_id": "PROJQUAY-110",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-54",
+    "target_id": "PROJQUAY-111",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-54",
+    "target_id": "PROJQUAY-112",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-54",
+    "target_id": "PROJQUAY-2087",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-54",
+    "target_id": "PROJQUAY-2088",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-54",
+    "target_id": "PROJQUAY-2089",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-54",
+    "target_id": "PROJQUAY-2090",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-54",
+    "target_id": "PROJQUAY-2360",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-54",
+    "target_id": "PROJQUAY-2366",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-54",
+    "target_id": "PROJQUAY-2368",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-54",
+    "target_id": "PROJQUAY-2553",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-54",
+    "target_id": "PROJQUAY-99",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-543",
+    "target_id": "PROJQUAY-1535",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-543",
+    "target_id": "PROJQUAY-1536",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-116",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1168",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1169",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1171",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-123",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-127",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-128",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1295",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-134",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-135",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-137",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-1397",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-143",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-164",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-169",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-183",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-262",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-274",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-41",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-554",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-555",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-556",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-702",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-703",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-704",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-739",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-740",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-744",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-746",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-747",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-771",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-806",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-817",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-834",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-835",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-85",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-96",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-68",
+    "target_id": "PROJQUAY-98",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-69",
+    "target_id": "PROJQUAY-1491",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-69",
+    "target_id": "PROJQUAY-1492",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-69",
+    "target_id": "PROJQUAY-1493",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-69",
+    "target_id": "PROJQUAY-1494",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-69",
+    "target_id": "PROJQUAY-1496",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-72",
+    "target_id": "PROJQUAY-114",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-72",
+    "target_id": "PROJQUAY-177",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-72",
+    "target_id": "PROJQUAY-308",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-72",
+    "target_id": "PROJQUAY-314",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-72",
+    "target_id": "PROJQUAY-338",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-72",
+    "target_id": "PROJQUAY-494",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-72",
+    "target_id": "PROJQUAY-610",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-72",
+    "target_id": "PROJQUAY-625",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-72",
+    "target_id": "PROJQUAY-81",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-72",
+    "target_id": "PROJQUAY-86",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-72",
+    "target_id": "PROJQUAY-88",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-72",
+    "target_id": "PROJQUAY-90",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-72",
+    "target_id": "PROJQUAY-91",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-72",
+    "target_id": "PROJQUAY-93",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-76",
+    "target_id": "PROJQUAY-130",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-76",
+    "target_id": "PROJQUAY-309",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-76",
+    "target_id": "PROJQUAY-754",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-76",
+    "target_id": "PROJQUAY-755",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-76",
+    "target_id": "PROJQUAY-83",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-76",
+    "target_id": "PROJQUAY-94",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-273",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-318",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-319",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-321",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-327",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-328",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-445",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-77",
+    "target_id": "PROJQUAY-661",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-78",
+    "target_id": "PROJQUAY-65",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-1065",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-1143",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-1221",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-1231",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-828",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-829",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-830",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-831",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-832",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-865",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-886",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-908",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-952",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-827",
+    "target_id": "PROJQUAY-954",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-828",
+    "target_id": "PROJQUAY-937",
+    "source_type": "Story",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "PROJQUAY-830",
+    "target_id": "PROJQUAY-932",
+    "source_type": "Story",
+    "target_type": "Sub-task",
+    "ltype": "subtask"
+  },
+  {
+    "source_id": "PROJQUAY-851",
+    "target_id": "PROJQUAY-759",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-851",
+    "target_id": "PROJQUAY-761",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-851",
+    "target_id": "PROJQUAY-775",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-852",
+    "target_id": "PROJQUAY-1058",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-852",
+    "target_id": "PROJQUAY-1060",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-852",
+    "target_id": "PROJQUAY-1091",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-852",
+    "target_id": "PROJQUAY-1239",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-852",
+    "target_id": "PROJQUAY-1240",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-852",
+    "target_id": "PROJQUAY-853",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-852",
+    "target_id": "PROJQUAY-854",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-852",
+    "target_id": "PROJQUAY-855",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-852",
+    "target_id": "PROJQUAY-857",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-852",
+    "target_id": "PROJQUAY-860",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-852",
+    "target_id": "PROJQUAY-882",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-852",
+    "target_id": "PROJQUAY-909",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-868",
+    "target_id": "PROJQUAY-869",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-868",
+    "target_id": "PROJQUAY-870",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-943",
+    "target_id": "PROJQUAY-2104",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-943",
+    "target_id": "PROJQUAY-3007",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-943",
+    "target_id": "PROJQUAY-379",
+    "source_type": "Epic",
+    "target_type": "Task",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-943",
+    "target_id": "PROJQUAY-447",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-968",
+    "target_id": "PROJQUAY-966",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  },
+  {
+    "source_id": "PROJQUAY-968",
+    "target_id": "PROJQUAY-967",
+    "source_type": "Epic",
+    "target_type": "Story",
+    "ltype": "refinement"
+  }
+]

@@ -1,0 +1,1802 @@
+[
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11232",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-5740",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-666",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-13724",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11233",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-13837",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-13427",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-8003",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11234",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-2749",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11561",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-5741",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11235",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-13938",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-276",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-3020",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11236",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-13359",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11559",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-2917",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11237",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-10605",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-13790",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11564",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11238",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-13315",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-13489",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-3220",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11239",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-13395",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-13642",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-13633",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11240",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11562",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-9800",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11554",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11241",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-667",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-13789",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-5739",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11242",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-2919",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-2746",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-6975",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11243",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-13712",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11556",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-13785",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11244",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-13471",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11557",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11553",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11245",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-6199",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-3252",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-5920",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11246",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-2562",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-4082",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-2916",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11247",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-2915",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-275",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-5736",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11248",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11560",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11555",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-2565",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11285",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-4625",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-13713",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-4502",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11286",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-13679",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11563",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-13701",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-11395",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-2613",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-13743",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11225",
+    "target_id": "BEAM-12082",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11550",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-4500",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-4494",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-4501",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11551",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-4495",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-13489",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-5741",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11553",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11232",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11246",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11239",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11554",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-4502",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11286",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11243",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11555",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11240",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11234",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11242",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11556",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11248",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-8003",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11238",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11557",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-4505",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11247",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11244",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11558",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11241",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11236",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-10605",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11559",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11285",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11233",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-5368",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11560",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-4613",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-13938",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11245",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11561",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-3220",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-13712",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11237",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11562",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-4499",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-5739",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11235",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11563",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-3521",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-3252",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-2917",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11564",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-4006",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-5738",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-8339",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11565",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-12082",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-13724",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-3998",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-11568",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-1665",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-13713",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11548",
+    "target_id": "BEAM-13315",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11778",
+    "target_id": "BEAM-10943",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-11778",
+    "target_id": "BEAM-4794",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11778",
+    "target_id": "BEAM-9800",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-11778",
+    "target_id": "BEAM-7334",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-13946",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-10036",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-7333",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-13733",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-13947",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-6756",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-5258",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-11361",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-13948",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-7301",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-7189",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-4078",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-13949",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-6701",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-5282",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-4412",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-13966",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-9035",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-4458",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-6772",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-13967",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-3227",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-4461",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-5030",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-13968",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-6700",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-5731",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-7284",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-14066",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-3577",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-9569",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-12169",
+    "target_id": "BEAM-9331",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-13276",
+    "target_id": "BEAM-13277",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-13276",
+    "target_id": "BEAM-13622",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-13276",
+    "target_id": "BEAM-13280",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-13276",
+    "target_id": "BEAM-4583",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-13584",
+    "target_id": "BEAM-13298",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-13584",
+    "target_id": "BEAM-827",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-13584",
+    "target_id": "BEAM-5159",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-13584",
+    "target_id": "BEAM-3885",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-13925",
+    "target_id": "BEAM-13926",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-13925",
+    "target_id": "BEAM-5756",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-13925",
+    "target_id": "BEAM-5742",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-13925",
+    "target_id": "BEAM-5836",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-13925",
+    "target_id": "BEAM-13927",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-13925",
+    "target_id": "BEAM-5739",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-13925",
+    "target_id": "BEAM-5920",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-13925",
+    "target_id": "BEAM-5740",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-13925",
+    "target_id": "BEAM-13928",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-13925",
+    "target_id": "BEAM-5842",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-13925",
+    "target_id": "BEAM-4445",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-13925",
+    "target_id": "BEAM-5736",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-13925",
+    "target_id": "BEAM-13929",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-13925",
+    "target_id": "BEAM-12006",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-13925",
+    "target_id": "BEAM-6441",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-13925",
+    "target_id": "BEAM-5738",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-13925",
+    "target_id": "BEAM-13940",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-13925",
+    "target_id": "BEAM-11285",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-13925",
+    "target_id": "BEAM-5743",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-13925",
+    "target_id": "BEAM-7714",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-13925",
+    "target_id": "BEAM-14045",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-13925",
+    "target_id": "BEAM-5815",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-13925",
+    "target_id": "BEAM-8079",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-13925",
+    "target_id": "BEAM-6795",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-1799",
+    "target_id": "BEAM-1912",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-1799",
+    "target_id": "BEAM-8281",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-1799",
+    "target_id": "BEAM-4399",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-1799",
+    "target_id": "BEAM-2634",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2202",
+    "target_id": "BEAM-2528",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-2202",
+    "target_id": "BEAM-5282",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2202",
+    "target_id": "BEAM-4794",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2202",
+    "target_id": "BEAM-7174",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2202",
+    "target_id": "BEAM-3175",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-2202",
+    "target_id": "BEAM-4078",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2202",
+    "target_id": "BEAM-4196",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2202",
+    "target_id": "BEAM-13949",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2202",
+    "target_id": "BEAM-3176",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-2202",
+    "target_id": "BEAM-7189",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2202",
+    "target_id": "BEAM-7334",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2202",
+    "target_id": "BEAM-4690",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2875",
+    "target_id": "BEAM-2600",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-2875",
+    "target_id": "BEAM-5089",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2875",
+    "target_id": "BEAM-7474",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2875",
+    "target_id": "BEAM-8106",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2875",
+    "target_id": "BEAM-2876",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-2875",
+    "target_id": "BEAM-3673",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2875",
+    "target_id": "BEAM-3951",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2875",
+    "target_id": "BEAM-3883",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2875",
+    "target_id": "BEAM-2877",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-2875",
+    "target_id": "BEAM-7945",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2875",
+    "target_id": "BEAM-13090",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2875",
+    "target_id": "BEAM-3886",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2888",
+    "target_id": "BEAM-3220",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-2888",
+    "target_id": "BEAM-9775",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2888",
+    "target_id": "BEAM-3577",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2888",
+    "target_id": "BEAM-4078",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2888",
+    "target_id": "BEAM-6975",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-2888",
+    "target_id": "BEAM-7947",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2888",
+    "target_id": "BEAM-3706",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2888",
+    "target_id": "BEAM-9035",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2889",
+    "target_id": "BEAM-2597",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-2889",
+    "target_id": "BEAM-2591",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2889",
+    "target_id": "BEAM-9775",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2889",
+    "target_id": "BEAM-4678",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2889",
+    "target_id": "BEAM-2876",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-2889",
+    "target_id": "BEAM-2598",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2889",
+    "target_id": "BEAM-2918",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2889",
+    "target_id": "BEAM-100",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2889",
+    "target_id": "BEAM-2898",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-2889",
+    "target_id": "BEAM-2599",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2889",
+    "target_id": "BEAM-616",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2889",
+    "target_id": "BEAM-3835",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2889",
+    "target_id": "BEAM-3673",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-2889",
+    "target_id": "BEAM-3127",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2889",
+    "target_id": "BEAM-7947",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2889",
+    "target_id": "BEAM-2930",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2889",
+    "target_id": "BEAM-3675",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-2889",
+    "target_id": "BEAM-6572",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2889",
+    "target_id": "BEAM-3159",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2889",
+    "target_id": "BEAM-3833",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2889",
+    "target_id": "BEAM-3676",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-2889",
+    "target_id": "BEAM-3888",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2889",
+    "target_id": "BEAM-5636",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2889",
+    "target_id": "BEAM-3832",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2899",
+    "target_id": "BEAM-3101",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-2899",
+    "target_id": "BEAM-2600",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2899",
+    "target_id": "BEAM-2598",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2899",
+    "target_id": "BEAM-3673",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2899",
+    "target_id": "BEAM-3102",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-2899",
+    "target_id": "BEAM-7945",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2899",
+    "target_id": "BEAM-8106",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2899",
+    "target_id": "BEAM-9775",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2899",
+    "target_id": "BEAM-3103",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-2899",
+    "target_id": "BEAM-5636",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2899",
+    "target_id": "BEAM-3204",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2899",
+    "target_id": "BEAM-6621",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2899",
+    "target_id": "BEAM-3104",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-2899",
+    "target_id": "BEAM-2590",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2899",
+    "target_id": "BEAM-7861",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2899",
+    "target_id": "BEAM-6624",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2914",
+    "target_id": "BEAM-10119",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-2914",
+    "target_id": "BEAM-7947",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2914",
+    "target_id": "BEAM-11085",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2914",
+    "target_id": "BEAM-11086",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2914",
+    "target_id": "BEAM-5149",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-2914",
+    "target_id": "BEAM-2599",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2914",
+    "target_id": "BEAM-9682",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-2914",
+    "target_id": "BEAM-3741",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-4119",
+    "target_id": "BEAM-3942",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-4119",
+    "target_id": "BEAM-3520",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-4119",
+    "target_id": "BEAM-2622",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-4119",
+    "target_id": "BEAM-4120",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-5815",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-11285",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-11232",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-12006",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-5836",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-10605",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-11286",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-11239",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-5837",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-13940",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-13395",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-11237",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-5838",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-11234",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-10912",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-9906",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-5839",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-11242",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-11246",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-11248",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-5840",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-11243",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-11395",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-11240",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-5841",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-11238",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-13359",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-11236",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-5842",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-11559",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-11244",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-11235",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-5920",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-5741",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-5736",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-11241",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-5923",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-11245",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-5739",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-5835",
+    "target_id": "BEAM-11233",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-6627",
+    "target_id": "BEAM-8281",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-6627",
+    "target_id": "BEAM-1961",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-6627",
+    "target_id": "BEAM-7773",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-6627",
+    "target_id": "BEAM-12620",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-6627",
+    "target_id": "BEAM-8946",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-6627",
+    "target_id": "BEAM-8133",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-6627",
+    "target_id": "BEAM-7774",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-6627",
+    "target_id": "BEAM-8132",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-6627",
+    "target_id": "BEAM-8978",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-6627",
+    "target_id": "BEAM-1617",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-6627",
+    "target_id": "BEAM-2603",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-6627",
+    "target_id": "BEAM-4416",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-6690",
+    "target_id": "BEAM-2590",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-6690",
+    "target_id": "BEAM-10943",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-6690",
+    "target_id": "BEAM-2932",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-6690",
+    "target_id": "BEAM-5102",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-8617",
+    "target_id": "BEAM-8325",
+    "label": 1
+  },
+  {
+    "source_id": "BEAM-8617",
+    "target_id": "BEAM-2598",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-8617",
+    "target_id": "BEAM-2599",
+    "label": 0
+  },
+  {
+    "source_id": "BEAM-8617",
+    "target_id": "BEAM-3834",
+    "label": 0
+  }
+]

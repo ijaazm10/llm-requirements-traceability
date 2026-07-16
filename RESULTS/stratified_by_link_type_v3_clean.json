@@ -1,0 +1,230 @@
+{
+ "Zero-Shot": {
+  "refinement": {
+   "micro_p": 0.3727,
+   "micro_r": 0.75,
+   "micro_f2": 0.6237,
+   "macro_f2": 0.627,
+   "n_projects": 6,
+   "n_pairs": 4598,
+   "n_pos": 1148,
+   "per_project_f2": {
+    "AAH": 0.643,
+    "FH": 0.6366,
+    "JBIDE": 0.5924,
+    "KEYCLOAK": 0.6295,
+    "KOGITO": 0.5935,
+    "PROJQUAY": 0.6667
+   }
+  },
+  "subtask": {
+   "micro_p": 0.5185,
+   "micro_r": 0.8977,
+   "micro_f2": 0.7831,
+   "macro_f2": 0.7823,
+   "n_projects": 8,
+   "n_pairs": 6057,
+   "n_pos": 1515,
+   "per_project_f2": {
+    "AAH": 0.9574,
+    "BEAM": 0.6743,
+    "CB": 0.8365,
+    "FH": 0.8621,
+    "JBIDE": 0.8052,
+    "KEYCLOAK": 0.6988,
+    "KOGITO": 0.7576,
+    "PROJQUAY": 0.6667
+   }
+  }
+ },
+ "RAG-B": {
+  "refinement": {
+   "micro_p": 0.4847,
+   "micro_r": 0.7476,
+   "micro_f2": 0.6744,
+   "macro_f2": 0.6978,
+   "n_projects": 6,
+   "n_pairs": 4582,
+   "n_pos": 1145,
+   "per_project_f2": {
+    "AAH": 0.716,
+    "FH": 0.672,
+    "JBIDE": 0.6818,
+    "KEYCLOAK": 0.6688,
+    "KOGITO": 0.6247,
+    "PROJQUAY": 0.8236
+   }
+  },
+  "subtask": {
+   "micro_p": 0.7803,
+   "micro_r": 0.9499,
+   "micro_f2": 0.9103,
+   "macro_f2": 0.8864,
+   "n_projects": 8,
+   "n_pairs": 5880,
+   "n_pos": 1477,
+   "per_project_f2": {
+    "AAH": 0.9783,
+    "BEAM": 0.8349,
+    "CB": 0.943,
+    "FH": 0.9202,
+    "JBIDE": 0.9453,
+    "KEYCLOAK": 0.8061,
+    "KOGITO": 0.7258,
+    "PROJQUAY": 0.9375
+   }
+  }
+ },
+ "LoRA V4": {
+  "refinement": {
+   "micro_p": 0.5647,
+   "micro_r": 0.6838,
+   "micro_f2": 0.6561,
+   "macro_f2": 0.6433,
+   "n_projects": 6,
+   "n_pairs": 4595,
+   "n_pos": 1148,
+   "per_project_f2": {
+    "AAH": 0.56,
+    "FH": 0.6753,
+    "JBIDE": 0.5938,
+    "KEYCLOAK": 0.6196,
+    "KOGITO": 0.6883,
+    "PROJQUAY": 0.7231
+   }
+  },
+  "subtask": {
+   "micro_p": 0.8366,
+   "micro_r": 0.9186,
+   "micro_f2": 0.9009,
+   "macro_f2": 0.824,
+   "n_projects": 8,
+   "n_pairs": 6046,
+   "n_pos": 1511,
+   "per_project_f2": {
+    "AAH": 0.814,
+    "BEAM": 0.8144,
+    "CB": 0.9388,
+    "FH": 0.8232,
+    "JBIDE": 0.9453,
+    "KEYCLOAK": 0.7851,
+    "KOGITO": 0.8462,
+    "PROJQUAY": 0.625
+   }
+  }
+ },
+ "Combined": {
+  "refinement": {
+   "micro_p": 0.5801,
+   "micro_r": 0.7336,
+   "micro_f2": 0.6967,
+   "macro_f2": 0.705,
+   "n_projects": 6,
+   "n_pairs": 4583,
+   "n_pos": 1145,
+   "per_project_f2": {
+    "AAH": 0.7106,
+    "FH": 0.6922,
+    "JBIDE": 0.6534,
+    "KEYCLOAK": 0.6558,
+    "KOGITO": 0.7088,
+    "PROJQUAY": 0.8094
+   }
+  },
+  "subtask": {
+   "micro_p": 0.8493,
+   "micro_r": 0.9269,
+   "micro_f2": 0.9103,
+   "macro_f2": 0.861,
+   "n_projects": 8,
+   "n_pairs": 5884,
+   "n_pos": 1478,
+   "per_project_f2": {
+    "AAH": 0.814,
+    "BEAM": 0.8381,
+    "CB": 0.9483,
+    "FH": 0.8599,
+    "JBIDE": 0.9496,
+    "KEYCLOAK": 0.7717,
+    "KOGITO": 0.7692,
+    "PROJQUAY": 0.9375
+   }
+  }
+ },
+ "GPT-5.4": {
+  "refinement": {
+   "micro_p": 0.4268,
+   "micro_r": 0.6713,
+   "micro_f2": 0.6023,
+   "macro_f2": 0.6083,
+   "n_projects": 6,
+   "n_pairs": 4600,
+   "n_pos": 1150,
+   "per_project_f2": {
+    "AAH": 0.6404,
+    "FH": 0.6322,
+    "JBIDE": 0.597,
+    "KEYCLOAK": 0.5988,
+    "KOGITO": 0.5815,
+    "PROJQUAY": 0.5997
+   }
+  },
+  "subtask": {
+   "micro_p": 0.6084,
+   "micro_r": 0.9011,
+   "micro_f2": 0.822,
+   "macro_f2": 0.8157,
+   "n_projects": 8,
+   "n_pairs": 6068,
+   "n_pos": 1517,
+   "per_project_f2": {
+    "AAH": 1.0,
+    "BEAM": 0.7703,
+    "CB": 0.8459,
+    "FH": 0.8284,
+    "JBIDE": 0.8448,
+    "KEYCLOAK": 0.7099,
+    "KOGITO": 0.8594,
+    "PROJQUAY": 0.6667
+   }
+  }
+ },
+ "Claude Sonnet 4.6": {
+  "refinement": {
+   "micro_p": 0.4369,
+   "micro_r": 0.8009,
+   "micro_f2": 0.6865,
+   "macro_f2": 0.694,
+   "n_projects": 6,
+   "n_pairs": 4600,
+   "n_pos": 1150,
+   "per_project_f2": {
+    "AAH": 0.7494,
+    "FH": 0.7056,
+    "JBIDE": 0.6313,
+    "KEYCLOAK": 0.6892,
+    "KOGITO": 0.6407,
+    "PROJQUAY": 0.7475
+   }
+  },
+  "subtask": {
+   "micro_p": 0.6604,
+   "micro_r": 0.8833,
+   "micro_f2": 0.8275,
+   "macro_f2": 0.8014,
+   "n_projects": 8,
+   "n_pairs": 6068,
+   "n_pos": 1517,
+   "per_project_f2": {
+    "AAH": 0.9574,
+    "BEAM": 0.7616,
+    "CB": 0.7696,
+    "FH": 0.843,
+    "JBIDE": 0.9117,
+    "KEYCLOAK": 0.744,
+    "KOGITO": 0.7576,
+    "PROJQUAY": 0.6667
+   }
+  }
+ }
+}
