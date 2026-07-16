@@ -1,3 +1,5 @@
+> **SUPERSEDED (historical working notes).** This document describes an intermediate V2->V3 state of the pipeline and contains outdated figures (e.g., 551 both-empty issues, RAG configurations A-F). The authoritative record is the thesis and the current scripts/results in this repository. Kept for provenance only.
+
 # Experiment Report — Requirements Traceability with LLMs
 ## Part 1: Task, Dataset, and Ground Truth Construction
 

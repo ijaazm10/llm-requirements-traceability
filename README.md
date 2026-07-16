@@ -1,8 +1,8 @@
 # LLM Requirements Traceability Benchmark & Pipeline
 
-**Production-Realistic Two-Stage Retrieval-Augmented Generation (RAG) and QLoRA Fine-Tuning for Cross-Level Software Requirements Traceability.**
+**A two-stage (retrieve-then-classify) evaluation pipeline with QLoRA fine-tuning and RAG for cross-level software requirements traceability, benchmarked under a controlled hard-negative protocol.**
 
-This repository contains the official open-source benchmarking pipeline, ground-truth dataset, and evaluation results for evaluating large language models (LLMs) on cross-level traceability link recovery across **8 industrial and open-source software projects** (~10,500+ evaluated pairs).
+This repository contains the official open-source benchmarking pipeline, ground-truth dataset, and evaluation results for evaluating large language models (LLMs) on cross-level traceability link recovery across **8 real-world open-source software projects** (~10,500+ evaluated pairs).
 
 ---
 
@@ -11,7 +11,7 @@ This repository contains the official open-source benchmarking pipeline, ground-
 In modern software engineering, maintaining traceability between **High-Level Requirements (HLRs)** (e.g., Epics, Features, Stories) and **Low-Level Requirements (LLRs)** (e.g., Tasks, Subtasks, Bug fixes) is a labor-intensive, error-prone manual task. While traditional Information Retrieval (IR) methods like Vector Space Models (VSM) and dense sentence embeddings (SBERT) capture basic keyword or semantic overlap, they often fail when judging subtle refinement relationships or processing dense technical descriptions containing stack traces and code snippets.
 
 This project introduces and systematically evaluates a **Two-Stage Retrieve-Then-Classify Architecture**:
-1. **Stage 1 (High-Recall Candidate Filtering):** A dense bi-encoder (`Qwen/Qwen3-Embedding-4B`) embeds all requirements and surfaces a deployment-realistic shortlist of semantically confusable candidate targets (`top-K`).
+1. **Stage 1 (High-Recall Candidate Filtering):** A dense bi-encoder (`Qwen/Qwen3-Embedding-4B`) embeds all requirements and surfaces the semantically confusable candidate targets that make up the hard-negative benchmark (a controlled reader-stage protocol, not a deployment simulation) (`top-K`).
 2. **Stage 2 (High-Precision Pairwise Discrimination):** A heavyweight, open-weight LLM (`unsloth/gemma-4-31B-it`) acts as a reader/classifier, judging whether the candidate LLR genuinely implements, refines, or decomposes the HLR.
 
 We rigorously compare this self-hosted open-weight approach against classic baselines (`VSM`, `SBERT`, `Frozen BERT`), in-context demonstration retrieval (`RAG`), parameter-efficient fine-tuning (`QLoRA`), and commercial cloud endpoints (`Claude Sonnet 4.6`, `OpenAI GPT-5.4`).
@@ -32,7 +32,7 @@ llm-requirements-traceability/
 For deep-dive documentation on each component, consult the specialized READMEs:
 * 📂 **[DATA/README.md](DATA/README.md)** — Ground truth structure, 8-project breakdown, data cleaning (`V3`), and `Qwen3-Embedding-4B` hard-negative candidate mining.
 * 📂 **[SCRIPT/README.md](SCRIPT/README.md)** — Detailed guide to all 19 scripts (`1.VSM.py` through `11_generate_thesis_figures_v2.py`), generation parameters, and exact CLI usage.
-* 📂 **[RESULTS/README.md](RESULTS/README.md)** — Guide to the 205 committed per-pair prediction files, how to verify all benchmark tables with zero GPU requirements, and statistical robustness tests (`McNemar`, `Wilcoxon`, `Bootstrap CI`).
+* 📂 **[RESULTS/README.md](RESULTS/README.md)** — Guide to the 205 committed per-pair prediction files, how to verify all benchmark tables with zero GPU requirements, and statistical robustness tests (`sign test`, `Wilcoxon`, `Bootstrap CI`).
 
 ---
 
@@ -40,26 +40,31 @@ For deep-dive documentation on each component, consult the specialized READMEs:
 
 All models are evaluated on the exact same 1:3 test pairs (`splits/final_pairs_test.json`) using clean and conservative Macro $F_2$ (recall-weighted classification score) and single-stream H100 inference latency:
 
-| Method | Precision ($P$) | Recall ($R$) | Macro $F_1$ | **Macro $F_2$ (Champion Metric)** | Accuracy | Mean Latency (ms/pair) | P95 Tail Latency (ms/pair) |
+| Method | Precision ($P$) | Recall ($R$) | Macro $F_1$ | **Macro $F_2$ (Primary Metric)** | Accuracy | Mean Latency (ms/pair) | P95 Tail Latency (ms/pair) |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **VSM (TF-IDF Baseline)** | 0.4012 | 0.5120 | 0.4499 | **0.4851** | 0.6841 | — | — |
-| **SBERT (`all-mpnet-base-v2`)** | 0.4533 | 0.6210 | 0.5240 | **0.5781** | 0.7210 | — | — |
-| **Gemma 4 31B (Zero-Shot)** | 0.5348 | 0.7725 | 0.6135 | **0.6938** | 0.7633 | 1,021.8 ms | 1,236.3 ms |
-| **OpenAI GPT-5.4 (Zero-Shot Cloud)** | 0.5157 | 0.7704 | 0.6157 | **0.6991** | 0.7575 | *Async Batch* | *Async Batch* |
-| **Claude Sonnet 4.6 (Zero-Shot Cloud)** | **0.5255** | **0.8498** | **0.6443** | **0.7511** | **0.7585** | *Async Batch* | *Async Batch* |
-| **Gemma 4 31B (`QLoRA V4 Champion`)** | 0.6089 | 0.8142 | 0.6967 | **0.7537** | 0.8164 | **1,551.9 ms** | **1,628.2 ms** |
-| **Gemma 4 31B (`RAG-B Stage 1+2`)** | 0.5782 | 0.8651 | 0.6930 | **0.7878** | 0.8031 | 2,096.2 ms | 3,304.9 ms |
-| **Gemma 4 31B (`Combined LoRA + RAG`)** | **0.6186** | **0.8643** | **0.7161** | ***0.7954*** | **0.8253** | 1,810.3 ms | 2,996.8 ms |
+| All-positive sanity check | 0.2500 | 1.0000 | 0.4000 | **0.6250** | 0.2500 | — | — |
+| **VSM (TF-IDF Baseline)** | 0.2984 | 0.6941 | 0.4139 | **0.5433** | — | — | — |
+| **SBERT (`all-mpnet-base-v2`)** | 0.2528 | 0.9663 | 0.4006 | **0.6174** | — | — | — |
+| **Frozen BERT + MLP** | 0.2758 | 0.9304 | 0.4219 | **0.6238** | — | — | — |
+| **Gemma 4 31B (Zero-Shot)** | 0.4399 | 0.8148 | 0.5693 | **0.6938** | 0.6888 | 1,021.8 | 1,236.3 |
+| **OpenAI GPT-5.4 (Zero-Shot Cloud)** | 0.5157 | 0.7704 | 0.6157 | **0.6991** | 0.7575 | *async batch* | *async batch* |
+| **Claude Sonnet 4.6 (Zero-Shot Cloud)** | 0.5255 | 0.8498 | 0.6443 | **0.7511** | 0.7585 | *async batch* | *async batch* |
+| **Gemma 4 31B (QLoRA V4)** | 0.6872 | 0.7757 | 0.7253 | **0.7537** | 0.8514 | 1,551.9 | 1,628.2 |
+| **Gemma 4 31B (RAG-B, Qwen3 2+2)** | 0.6202 | 0.8491 | 0.7135 | **0.7878** | 0.8242 | 2,096.2 | 3,304.9 |
+| **Gemma 4 31B (Combined LoRA + RAG)** | **0.7170** | 0.8212 | **0.7612** | **0.7947** | **0.8670** | 1,810.3 | 2,996.8 |
 
-### Main Takeaways for AI & Product Engineering:
-1. **Open-Weights vs. Proprietary Cloud APIs:** Out of the box, local zero-shot `Gemma 4 31B` ($F_2 = 0.6938$) matches `OpenAI GPT-5.4` ($F_2 = 0.6991$). Crucially, once adapted via `QLoRA` ($F_2 = 0.7537$) or `RAG` ($F_2 = 0.7878$), self-hosted open-weights models **significantly outperform even state-of-the-art commercial cloud APIs (`Claude Sonnet 4.6` at $F_2 = 0.7511$)** while ensuring 100% data sovereignty and zero per-token API inference costs.
-2. **The Latency vs. Context Trade-off (`P95 Tail Latency`):** While `RAG-B` and `Combined LoRA+RAG` achieve the highest absolute $F_2$ scores, retrieving long documentation triples the average prompt length (`1,488 tokens` vs `360 tokens`), causing 95th percentile tail latency (`P95`) to spike to ~3.3 seconds per pair. In contrast, **`LoRA V4`** embeds domain vocabulary directly into the weights, processing requests in a tight **1.6 seconds P95**—making it the ideal deployment choice for latency-sensitive industrial applications.
+All values are macro-averaged over the 8 projects (clean scoring) and reproduce exactly from the committed prediction files.
+
+### Main Takeaways:
+1. **Open-weight vs. proprietary cloud (zero-shot, like-for-like):** local zero-shot Gemma 4 31B ($F_2 = 0.6938$) performs at the level of OpenAI GPT-5.4 ($F_2 = 0.6991$); Claude Sonnet 4.6 is the strongest zero-shot model ($F_2 = 0.7511$). The cloud models were evaluated **zero-shot only** — the adapted local results below are *not* a ranking against them, since applying the same adaptation to cloud models could be expected to improve them as well. The open-weight model is used for the adaptation study because it offers weight access for fine-tuning, no per-request cost at experiment scale, and full data locality.
+2. **Adaptation pays:** RAG with balanced retrieved demonstrations lifts the open-weight model to $F_2 = 0.7878$ and the combined LoRA+RAG configuration to $F_2 = 0.7947$ — although the combined method's advantage over RAG alone is **not statistically robust** across the 8 projects (Wilcoxon $p = 1.0$).
+3. **Latency vs. context trade-off:** RAG roughly doubles prompt length (~373 → ~1,488 tokens) and pushes P95 latency to ~3.3 s/pair, while LoRA V4 keeps a tight 1.6 s P95 with the strongest precision (0.687) — the better fit when review effort and latency dominate.
 
 ---
 
 ## ⚡ Zero-GPU Reproducibility
 
-Because running 31B parameter LLM inference and QLoRA fine-tuning across 10,500+ pairs requires an **NVIDIA H100 (80GB VRAM)** or equivalent multi-GPU setup, **we have committed the exact prediction outputs for all 205 experimental runs inside [`RESULTS/`](RESULTS/)**.
+Because running 31B parameter LLM inference and QLoRA fine-tuning across 10,500+ pairs requires an **NVIDIA H100 (80GB VRAM)** or equivalent multi-GPU setup, **we have committed the exact prediction outputs for all 178 committed per-pair prediction files (the model-selection checkpoint predictions are excluded with the checkpoints directory) inside [`RESULTS/`](RESULTS/)**.
 
 You can re-run all evaluation metrics, statistical significance tests (`Wilcoxon`, `Bootstrap CI`), link-type stratification breakdowns, and LaTeX/PDF chart generation on any standard laptop with zero GPU requirements:
 

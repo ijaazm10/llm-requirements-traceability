@@ -42,7 +42,7 @@ Each prediction record contains the complete verification trace:
 }
 ```
 
-By retaining all 205 prediction logs across all methods (`~150 MB total uncompressed`), any researcher or examiner can immediately verify every cell in the thesis results tables, recompute clean vs. conservative scoring penalties, or run custom statistical analyses on standard consumer hardware.
+By retaining all 178 committed prediction logs across all methods (`~150 MB total uncompressed`), any researcher or examiner can immediately verify every cell in the thesis results tables, recompute clean vs. conservative scoring penalties, or run custom statistical analyses on standard consumer hardware.
 
 ---
 
