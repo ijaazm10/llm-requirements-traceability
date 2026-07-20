@@ -32,8 +32,9 @@ from datetime import datetime
 from pathlib import Path
 
 
-ROOT = Path(r"C:\Thesis\Thesis_Work\Experiment Run\ground_truth_v3_clean_pipeline\.GROUND_TRUTH")
-OUT = Path(r"C:\Thesis\Thesis_Work\FINAL\GROUND_TRUTH_V3_AUDIT_REPORT.json")
+REPO_ROOT = Path(__file__).resolve().parents[1]
+ROOT = REPO_ROOT / "DATA" / ".GROUND_TRUTH"
+OUT = REPO_ROOT / "DATA" / "GROUND_TRUTH_V3_AUDIT_REPORT.json"
 PROJECTS = ["AAH", "BEAM", "CB", "FH", "JBIDE", "KEYCLOAK", "KOGITO", "PROJQUAY"]
 SPLITS = ["train", "val", "test"]
 NEG_PER_POS = 3

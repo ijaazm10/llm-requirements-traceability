@@ -42,12 +42,14 @@ import random
 import re
 import os
 import sys
+from pathlib import Path
 from datetime import datetime
 
 # ==================== CONFIG ====================
 OLLAMA_URL = "https://ymir-api.ifak.eu"
-DATA_DIR = "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/DATA/GROUND_TRUTH"
-OUTPUT_DIR = "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/RESULTS"
+ROOT = Path(__file__).resolve().parents[1]
+DATA_DIR = str(ROOT / "DATA" / ".GROUND_TRUTH")
+OUTPUT_DIR = str(ROOT / "RESULTS")
 
 SELECTION_PROJECTS = ["BEAM", "KEYCLOAK", "JBIDE"]
 

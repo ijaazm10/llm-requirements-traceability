@@ -418,7 +418,7 @@ def fig6_significance():
 def fig7_similarity_inversion():
     # Try local path first, fall back to Thesis Work path
     local_mine = Path("DATA/.GROUND_TRUTH/hard_negative_mining_metadata_v3.json")
-    thesis_mine = Path(r"C:\Thesis\Thesis_Work\Experiment Run\ground_truth_v3_clean_pipeline\DATA\.GROUND_TRUTH\hard_negative_mining_metadata_v3.json")
+    thesis_mine = Path("DATA/.GROUND_TRUTH/hard_negative_mining_metadata_v3.json")
     mine_path = local_mine if local_mine.exists() else thesis_mine
     mine = load(mine_path)
 

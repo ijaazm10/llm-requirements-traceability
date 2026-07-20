@@ -24,13 +24,15 @@ import os
 import sys
 import time
 import gc
+from pathlib import Path
 import torch
 import numpy as np
 from datetime import datetime
 
 # ==================== CONFIG ====================
-DATA_DIR = "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/DATA/GROUND_TRUTH"
-OUTPUT_DIR = "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/RESULTS/ZERO_SHOT_QWEN_HARD"
+ROOT = Path(__file__).resolve().parents[1]
+DATA_DIR = str(ROOT / "DATA" / ".GROUND_TRUTH")
+OUTPUT_DIR = str(ROOT / "RESULTS" / "ZERO_SHOT_QWEN_HARD")
 
 BASE_MODEL = "unsloth/gemma-4-31B-it"
 

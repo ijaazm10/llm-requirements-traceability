@@ -13,10 +13,12 @@ Interpretation note: with only 8 projects, effect sizes and win counts are
 more informative than p-values; these are reported as robustness checks.
 """
 import json, os
+import math
+from pathlib import Path
 import numpy as np
-from scipy.stats import wilcoxon, binomtest
 
-RESULTS = "RESULTS"
+ROOT = Path(__file__).resolve().parents[1]
+RESULTS = str(ROOT / "RESULTS")
 PROJ = ["AAH","BEAM","CB","FH","JBIDE","KEYCLOAK","KOGITO","PROJQUAY"]
 
 METHOD_PATHS = {
@@ -41,6 +43,46 @@ def clean_f2(path):
     p = tp/(tp+fp) if (tp+fp) else 0.0
     r_ = tp/(tp+fn) if (tp+fn) else 0.0
     return (5*p*r_/(4*p+r_)) if (4*p+r_) else 0.0
+
+def binomtest_two_sided(k, n, p=0.5):
+    """Exact two-sided binomial test for the small project count used here."""
+    if n <= 0:
+        return float("nan")
+    probs = [math.comb(n, i) * (p ** i) * ((1 - p) ** (n - i)) for i in range(n + 1)]
+    observed = probs[k]
+    return float(sum(prob for prob in probs if prob <= observed + 1e-15))
+
+def _average_abs_ranks(values):
+    pairs = sorted((abs(v), i) for i, v in enumerate(values))
+    ranks = [0.0] * len(values)
+    pos = 0
+    while pos < len(pairs):
+        end = pos + 1
+        while end < len(pairs) and abs(pairs[end][0] - pairs[pos][0]) <= 1e-15:
+            end += 1
+        avg_rank = (pos + 1 + end) / 2.0
+        for j in range(pos, end):
+            ranks[pairs[j][1]] = avg_rank
+        pos = end
+    return ranks
+
+def wilcoxon_signed_rank_p(values):
+    """Exact two-sided Wilcoxon signed-rank p-value by enumerating all signs."""
+    nz = [float(v) for v in values if abs(float(v)) > 1e-15]
+    if not nz:
+        return 1.0
+    ranks = _average_abs_ranks(nz)
+    total = sum(ranks)
+    observed_pos = sum(rank for rank, value in zip(ranks, nz) if value > 0)
+    observed_stat = min(observed_pos, total - observed_pos)
+    count = 0
+    total_assignments = 2 ** len(ranks)
+    for mask in range(total_assignments):
+        pos_sum = sum(rank for i, rank in enumerate(ranks) if mask & (1 << i))
+        stat = min(pos_sum, total - pos_sum)
+        if stat <= observed_stat + 1e-15:
+            count += 1
+    return float(count / total_assignments)
 
 # per-project clean F2 for each method
 f2 = {m: np.array([clean_f2(os.path.join(RESULTS, pat.format(p=p))) for p in PROJ])
@@ -71,9 +113,8 @@ for a,b in COMPARISONS:
     mean_d=float(np.mean(d)); med_d=float(np.median(d))
     wins=int(np.sum(d>0)); losses=int(np.sum(d<0)); ties=int(np.sum(d==0))
     ntb=wins+losses
-    signp = binomtest(wins, ntb, 0.5).pvalue if ntb>0 else float('nan')
-    try: wp = wilcoxon(d).pvalue
-    except Exception: wp=float('nan')
+    signp = binomtest_two_sided(wins, ntb, 0.5) if ntb>0 else float('nan')
+    wp = wilcoxon_signed_rank_p(d)
     boot=np.array([np.mean(d[rng.integers(0,8,8)]) for _ in range(B)])
     lo,hi=np.percentile(boot,[2.5,97.5])
     rows.append(dict(comparison=f"{a} vs {b}", mean_diff=round(mean_d,4), median_diff=round(med_d,4),

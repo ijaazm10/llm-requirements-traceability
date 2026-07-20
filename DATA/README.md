@@ -1,63 +1,79 @@
-# Ground Truth & Benchmark Dataset (`DATA/`)
+# Ground Truth and Benchmark Dataset (`DATA/`)
 
-This directory houses the processed requirements data, trace link matrices, multi-stage train/validation/test splits, and candidate mining scripts for the 8 evaluated software projects (`AAH` through `PROJQUAY`).
+This directory contains the processed benchmark used in the thesis: cleaned requirements, positive trace links, fixed train/validation/test splits, and hard-negative pair files for eight Jira projects.
 
----
+The raw Jira exports are not included. They were provided by Tian et al., and redistribution rights for the raw unprocessed dumps were not cleared.
 
-## 📂 Folder Structure
+## Folder Structure
 
 ```text
 DATA/
-├── .GROUND_TRUTH/                    # Processed per-project data and splits
-│   ├── AAH/                          # Project folder (Apache Ambari / Healthcare etc.)
-│   │   ├── requirements.json         # Cleaned HLR and LLR text (ID, summary, description)
-│   │   ├── trace_links.json          # Complete ground-truth positive trace links
-│   │   ├── metadata.json             # Project statistics (counts, link types)
-│   │   └── splits/                   # Fixed evaluation splits
-│   │       ├── final_pairs_train.json# Fixed 1:3 hard-negative training pairs
-│   │       ├── final_pairs_val.json  # Validation pairs for early stopping / threshold tuning
-│   │       └── final_pairs_test.json # Final evaluation benchmark (Qwen3 top-K hard negatives)
-│   ├── BEAM/ ... CB/ ... FH/ ... JBIDE/ ... KEYCLOAK/ ... KOGITO/ ... PROJQUAY/
-│   └── ground_truth_v3_text_clean_metadata.json
-├── 01_construct_ground_truth_v3_text_clean.py # Text cleaning and sanitization pipeline
-├── 02_mine_qwen3_diverse_hard_negatives.py    # Dense retriever hard-negative mining (Stage 1)
-├── audit_ground_truth_v3.py                   # Automated validation script for graph consistency
-└── README.md                                  # This file
+|-- .GROUND_TRUTH/
+|   |-- AAH/
+|   |   |-- requirements.json
+|   |   |-- trace_links.json
+|   |   |-- metadata.json
+|   |   `-- splits/
+|   |       |-- final_pairs_train.json
+|   |       |-- final_pairs_val.json
+|   |       |-- final_pairs_test.json
+|   |       |-- train_links.json
+|   |       |-- val_links.json
+|   |       `-- test_links.json
+|   |-- BEAM/
+|   |-- CB/
+|   |-- FH/
+|   |-- JBIDE/
+|   |-- KEYCLOAK/
+|   |-- KOGITO/
+|   |-- PROJQUAY/
+|   |-- ground_truth_v3_text_clean_metadata.json
+|   `-- hard_negative_mining_metadata_v3.json
+|-- 01_construct_ground_truth_v3_text_clean.py
+|-- 02_mine_qwen3_diverse_hard_negatives.py
+|-- audit_ground_truth_v3.py
+|-- validate_server_gt.py
+`-- README.md
 ```
 
----
+## Project Counts
 
-## 🏢 The 8 Industrial Projects
+These counts are computed from the committed JSON files in `DATA/.GROUND_TRUTH/`.
 
-The benchmark comprises 8 diverse open-source and industrial software systems spanning healthcare, cloud infrastructure, middleware, and development environments:
+| Project | Project family | Requirements | Positive links | Train pairs | Val pairs | Test pairs |
+| :--- | :--- | ---: | ---: | ---: | ---: | ---: |
+| AAH | Apache Ambari / Ambari-related Jira export | 360 | 313 | 804 | 104 | 344 |
+| BEAM | Apache Beam data-processing framework | 1,188 | 1,036 | 2,528 | 360 | 1,256 |
+| CB | Couchbase database platform | 1,664 | 1,541 | 3,936 | 548 | 1,680 |
+| FH | Fuse / Hawkular middleware-related Jira export | 1,037 | 915 | 2,344 | 432 | 884 |
+| JBIDE | JBoss Tools / IDE-related Jira export | 3,235 | 2,954 | 7,880 | 1,272 | 2,664 |
+| KEYCLOAK | Keycloak identity and access management | 1,996 | 1,817 | 4,680 | 648 | 1,940 |
+| KOGITO | Kogito business automation platform | 1,746 | 1,531 | 4,068 | 608 | 1,448 |
+| PROJQUAY | Quay container registry | 454 | 396 | 1,068 | 64 | 452 |
+| Total | - | 11,680 | 10,503 | 27,308 | 4,036 | 10,668 |
 
-| Project | Domain / Type | Requirements Count | Positive Links | Evaluated Test Pairs |
-| :--- | :--- | :---: | :---: | :---: |
-| **AAH** | Healthcare Platform | 1,482 | 412 | 1,648 |
-| **BEAM** | Apache Big Data Processing | 2,891 | 785 | 3,140 |
-| **CB** | Cloud Broker / Infrastructure | 845 | 231 | 924 |
-| **FH** | Healthcare System | 612 | 184 | 736 |
-| **JBIDE** | JBoss IDE / Eclipse Plugins | 3,120 | 892 | 3,568 |
-| **KEYCLOAK** | Identity & Access Management | 1,245 | 345 | 1,380 |
-| **KOGITO** | Cloud-Native Business Automation | 980 | 280 | 1,120 |
-| **PROJQUAY** | Container Registry (Quay) | 510 | 145 | 580 |
-| **Total** | — | **~11,685** | **~3,274** | **~13,096** |
+## Ground-Truth Construction
 
----
+The processed benchmark keeps issue types mapped to the studied Jira hierarchy:
 
-## ⛏️ Stage 1: Hard-Negative Candidate Mining (`02_mine_qwen3_diverse_hard_negatives.py`)
+- Parent level: Epic / Feature
+- Standard level: Story / Task / Bug / Improvement / Enhancement
+- Child level: Sub-task
 
-A critical contribution of this benchmark is moving away from random negative sampling (which creates trivially easy non-links) to **deployment-realistic hard-negative candidate mining**.
+Positive links are retained only when both endpoints exist in the processed issue exports, both endpoints have usable text, and the pair connects adjacent hierarchy levels. The resulting task is therefore a cross-level traceability benchmark over the mapped issue-type subset, not a claim to cover every relation present in the raw Jira instances.
 
-In industrial practice, a Stage 2 LLM classifier is never fed completely random ticket pairs; it evaluates candidates surfaced by an initial retrieval system. To simulate this exact deployment distribution:
-1. **Dense Vector Encoding:** All requirement summaries and descriptions are encoded using `Qwen/Qwen3-Embedding-4B` (`2,560-dimensional` vectors, L2-normalized, truncated to `512 tokens` for high throughput).
-2. **Relative Cosine Similarity Ranking:** For every High-Level Requirement ($HLR$), cosine similarities are computed against all possible Low-Level Requirements ($LLR$s).
-3. **Hard-Negative Selection (1:3 Ratio):** For each true positive link, the top-3 most semantically similar non-linked requirements are selected (`top-K`). These pairs exhibit high lexical and conceptual overlap despite not having an active trace link—forcing the Stage 2 LLM to learn fine-grained logical boundaries rather than superficial keyword matching.
+## Hard-Negative Pair Construction
 
----
+`02_mine_qwen3_diverse_hard_negatives.py` constructs the fixed 1:3 labelled pair files used by the experiments:
 
-## ⚠️ Provenance & Raw Data Policy
+1. Requirements are embedded with Qwen3-Embedding-4B.
+2. Candidate targets are restricted to valid adjacent hierarchy levels.
+3. For each positive link, three semantically similar non-linked candidates are selected from ranked windows.
 
-To ensure strict compliance with academic licensing and data privacy:
-* **Processed Benchmark Data (`DATA/.GROUND_TRUTH/`):** All structured JSON files containing cleaned requirement text and evaluation pairs are committed and publicly accessible to guarantee 100% exact reproducibility of every experimental run.
-* **Raw Jira Exports (`DATA/RAW_DATA/`):** The raw XML/database dumps were kindly provided by *Tian et al.* (DRAFT, 2023). Because private redistribution rights for the raw uncleaned dumps were not explicitly granted, `DATA/RAW_DATA/` is omitted via `.gitignore`. Researchers requiring the raw unstructured Jira dumps may request them directly from the original authors.
+The goal is to evaluate the classifier/reader stage under difficult candidate conditions. The mined negatives are not random non-links; they are intentionally similar candidates that a first-stage retriever could plausibly surface.
+
+## Public Data Policy
+
+- `DATA/.GROUND_TRUTH/` is included so the processed benchmark and fixed pair splits can be inspected.
+- `DATA/RAW_DATA/` is omitted and ignored because the raw Jira exports are not redistributable by this repository.
+- The data-construction scripts are included for transparency and for users who independently obtain the raw exports.

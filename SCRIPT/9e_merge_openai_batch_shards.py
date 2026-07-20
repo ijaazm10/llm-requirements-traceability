@@ -26,9 +26,10 @@ from pathlib import Path
 import numpy as np
 
 
-DATA_DIR = "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/DATA/GROUND_TRUTH"
-SHARD_ROOT = "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/RESULTS/OPENAI_ZERO_SHOT_BATCH_V3"
-OUTPUT_DIR = "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/RESULTS/OPENAI_ZERO_SHOT_BATCH_V3/gpt-5_4_merged_matched_single_user_prompt_v1_batch"
+ROOT = Path(__file__).resolve().parents[1]
+DATA_DIR = str(ROOT / "DATA" / ".GROUND_TRUTH")
+SHARD_ROOT = str(ROOT / "RESULTS" / "OPENAI_ZERO_SHOT_BATCH_V3")
+OUTPUT_DIR = str(ROOT / "RESULTS" / "OPENAI_ZERO_SHOT_BATCH_V3" / "gpt-5_4_merged_matched_single_user_prompt_v1_batch")
 
 MODEL = "gpt-5.4"
 PROMPT_TEMPLATE = """You are analyzing hierarchical software requirements for cross level traceability.

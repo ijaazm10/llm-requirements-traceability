@@ -83,8 +83,9 @@ import numpy as np
 # Configuration
 # ---------------------------------------------------------------------------
 
-DATA_DIR = "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/DATA/GROUND_TRUTH"
-BASE_OUTPUT_DIR = "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/RESULTS/OPENAI_ZERO_SHOT_BATCH_V3"
+ROOT = Path(__file__).resolve().parents[1]
+DATA_DIR = str(ROOT / "DATA" / ".GROUND_TRUTH")
+BASE_OUTPUT_DIR = str(ROOT / "RESULTS" / "OPENAI_ZERO_SHOT_BATCH_V3")
 
 DEFAULT_MODEL = "gpt-5.4"
 DEFAULT_MAX_COMPLETION_TOKENS = 20

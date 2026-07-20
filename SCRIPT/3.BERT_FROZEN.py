@@ -25,6 +25,7 @@ import json
 import os
 import time
 import random
+from pathlib import Path
 import numpy as np
 import torch
 import torch.nn as nn
@@ -34,8 +35,9 @@ from transformers import BertModel, BertTokenizer
 from sklearn.metrics import precision_recall_fscore_support
 
 # ==================== CONFIG ====================
-BASE_DIR    = "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/DATA/GROUND_TRUTH"
-OUTPUT_DIR = "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/RESULTS"
+ROOT = Path(__file__).resolve().parents[1]
+BASE_DIR    = str(ROOT / "DATA" / ".GROUND_TRUTH")
+OUTPUT_DIR = str(ROOT / "RESULTS")
 PROJECTS    = ['AAH', 'BEAM', 'CB', 'FH',
                'JBIDE', 'KEYCLOAK', 'KOGITO', 'PROJQUAY']
 BERT_NAME   = "bert-base-uncased"

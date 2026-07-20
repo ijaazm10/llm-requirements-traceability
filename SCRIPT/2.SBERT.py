@@ -30,14 +30,16 @@ Date: 2026-03
 import json
 import os
 import time
+from pathlib import Path
 import numpy as np
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 from sklearn.metrics import precision_recall_fscore_support, fbeta_score
 
 # ==================== CONFIG ====================
-DATA_DIR = "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/DATA/GROUND_TRUTH"
-OUTPUT_DIR = "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/RESULTS"
+ROOT = Path(__file__).resolve().parents[1]
+DATA_DIR = str(ROOT / "DATA" / ".GROUND_TRUTH")
+OUTPUT_DIR = str(ROOT / "RESULTS")
 
 # Model: best general-purpose sentence-transformer
 # - 768-dimensional embeddings

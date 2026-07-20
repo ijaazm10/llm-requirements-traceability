@@ -80,8 +80,9 @@ import numpy as np
 # Configuration
 # ---------------------------------------------------------------------------
 
-DATA_DIR = "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/DATA/GROUND_TRUTH"
-BASE_OUTPUT_DIR = "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/RESULTS/CLAUDE_ZERO_SHOT_BATCH_V3"
+ROOT = Path(__file__).resolve().parents[1]
+DATA_DIR = str(ROOT / "DATA" / ".GROUND_TRUTH")
+BASE_OUTPUT_DIR = str(ROOT / "RESULTS" / "CLAUDE_ZERO_SHOT_BATCH_V3")
 
 # Anthropic 4.6+ model IDs use the dateless canonical format. Verified against
 # Anthropic model-ID docs on 2026-06-04.

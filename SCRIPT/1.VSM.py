@@ -8,6 +8,7 @@ Evaluates VSM on the same fixed 1:3 pairs used by BERT/RAG/LoRA.
 import json
 import os
 import time
+from pathlib import Path
 import numpy as np
 from collections import defaultdict
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -15,7 +16,9 @@ from sklearn.metrics.pairwise import cosine_similarity as cos_sim
 from sklearn.metrics import precision_recall_fscore_support, fbeta_score
 
 # ==================== CONFIG ====================
-BASE_DIR = "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/DATA/GROUND_TRUTH"
+ROOT = Path(__file__).resolve().parents[1]
+BASE_DIR = str(ROOT / "DATA" / ".GROUND_TRUTH")
+OUTPUT_DIR = str(ROOT / "RESULTS")
 PROJECTS  = ['AAH', 'BEAM', 'CB', 'FH',
              'JBIDE', 'KEYCLOAK', 'KOGITO', 'PROJQUAY']
 
@@ -199,8 +202,8 @@ def main():
     print("=" * 72)
 
     # Save results
-    os.makedirs("/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/RESULTS", exist_ok=True)
-    results_file = os.path.join("/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/RESULTS", "vsm_final_pairs_results.json")
+    os.makedirs(OUTPUT_DIR, exist_ok=True)
+    results_file = os.path.join(OUTPUT_DIR, "vsm_final_pairs_results.json")
     with open(results_file, "w", encoding="utf-8") as f:
         json.dump({
             "experiment_info": {

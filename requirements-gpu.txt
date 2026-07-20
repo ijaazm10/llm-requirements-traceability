@@ -1,0 +1,12 @@
+-r requirements-cpu.txt
+torch
+transformers
+sentence-transformers
+accelerate
+bitsandbytes
+peft
+trl
+unsloth
+faiss-cpu
+rank-bm25
+requests

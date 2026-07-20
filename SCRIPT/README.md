@@ -1,63 +1,77 @@
-# Evaluation Scripts & Execution Pipeline (`SCRIPT/`)
+# Evaluation Scripts and Execution Pipeline (`SCRIPT/`)
 
-This directory contains the complete end-to-end Python pipeline for evaluating classic baselines, local open-weight large language models (`Gemma 4 31B`), retrieval-augmented generation (`RAG`), parameter-efficient fine-tuning (`QLoRA`), and commercial batch APIs (`Claude Sonnet 4.6`, `GPT-5.4`).
+This directory contains the scripts used for baselines, local LLM inference, RAG, QLoRA fine-tuning, cloud batch evaluation, statistical checks, and figure generation.
 
----
+Not every script is expected to run on an ordinary laptop. The CPU verification scripts can be run from the committed prediction files. The local LLM and QLoRA scripts require H100-class hardware or an equivalent multi-GPU environment; the cloud scripts require API access.
 
-## 📜 Script Reference & Pipeline Order
+## Script Reference
 
-The scripts are numbered chronologically by experimental progression (`1` through `11`):
+### Baselines
 
-### 1. Traditional & Neural Baselines
-* **`1.VSM.py`** — Vector Space Model (TF-IDF cosine similarity) baseline. Builds vocabulary from combined summary/description, scores pairs, and tunes decision thresholds on validation $F_2$.
-* **`2.SBERT.py`** — Sentence-Transformer baseline using `all-mpnet-base-v2` (`768-dim`, `384 max tokens`). Evaluates dense bi-encoder classification without LLM reasoning.
-* **`3.BERT_FROZEN.py`** — Reproduction of the DRAFT text-only ablation baseline (*Tian et al. 2023*). Extracts 4 cosine similarity combinations from frozen `bert-base-uncased` (`64 token limit`) and trains a 4-layer MLP (`4 -> 64 -> 32 -> 2`) with weighted cross-entropy.
+- `1.VSM.py`: TF-IDF / cosine-similarity baseline with validation-threshold tuning.
+- `2.SBERT.py`: sentence-transformer baseline using `all-mpnet-base-v2`.
+- `3.BERT_FROZEN.py`: frozen `bert-base-uncased` feature extractor with a small MLP classifier.
 
-### 2. Local Open-Weight LLM Evaluation (`NVIDIA H100 80GB`)
-* **`5.zero_shot_h100.py`** — Zero-Shot evaluation of `unsloth/gemma-4-31B-it` (4-bit NF4 quantized) across all 8 projects (`final_pairs_test.json`). Logs single-stream inference latency (`ms/pair`), token throughput (`tok/s`), VRAM allocation, and truncation counts (`MAX_SEQ_LENGTH = 3072`).
-* **`6.rag_rerun_stage1_8192.py`** — Stage 1 RAG evaluation (`RAG-B`). Uses `Qwen3-Embedding-4B` over local FAISS/BM25 indexes to dynamically retrieve labeled valid/invalid demonstration pairs from training folds. Extends input window to `8,192 tokens` and measures context processing latency (`Prefill ms` vs `Generation ms`).
-* **`6b.rag_stage2_hybrid_8192.py`** — Stage 2 Hybrid RAG ablation (`RAG-C`, `RAG-D`). Evaluates whether combining structural graph diffusion context with flat-text demonstration retrieval improves classification precision.
-* **`7.lora_rerun_unified.py`** — Parameter-Efficient Fine-Tuning (`QLoRA`) across checkpoints `V1` through `V6`. Trains `Gemma 4 31B` using low-rank adapters (`R=32`, `alpha=32`, `LR=1e-4`) on 31,500+ hard-negative samples (`seed 42`). Evaluates champion model `V4_EFFICIENCY`.
-* **`8.combined_RAG&LORA.py`** — Combined Model Evaluation (`LoRA V4 + RAG-B`). Tests whether fine-tuned internal task knowledge and dynamic external demonstration retrieval provide complementary or redundant classification signal.
+### Local Open-Weight LLM Experiments
 
-### 3. Commercial Cloud API Benchmarking
-* **`9c_zero_shot_claude_batch_matched.py`** — Evaluates **`Claude Sonnet 4.6` (`claude-sonnet-4-6`)** using the Anthropic Message Batches API. Enforces character-for-character prompt parity with local `5.zero_shot_h100.py` and deterministic generation (`temperature = 0.0`). Includes automatic budget guards and token counting.
-* **`9d_zero_shot_openai_batch_matched.py`** — Evaluates **`OpenAI GPT-5.4` (`gpt-5.4`)** using the OpenAI Batch API. Enforces matched prompts, generation caps (`max_completion_tokens = 20`), and `temperature = 0.0`.
-* **`9e_merge_openai_batch_shards.py`** — Shard merger and order-validator for OpenAI batch processing. Resolves account-level enqueued-token limits by splitting large project evaluations into chunks and joining them cleanly by `custom_id`.
+- `4.ModelSelection.py`: open-weight model screening.
+- `4.ModelSelection-FINAL.ipynb`: notebook record of the final model-selection rerun.
+- `5.zero_shot_h100.py`: zero-shot Gemma 4 31B evaluation on held-out hard-negative test pairs.
+- `6.rag_rerun_stage1_8192.py`: RAG-A/B/C evaluation with retrieved labelled demonstrations.
+- `6b.rag_stage2_hybrid_8192.py`: additional RAG-D hybrid retrieval evaluation.
+- `7.lora_rerun_unified.py`: QLoRA ablation runs V1-V6. Rank, alpha, learning rate, upsampling, and target modules vary by version; the selected V4 configuration uses rank 32, alpha 64, learning rate 1e-4, 3x positive upsampling, and attention-only LoRA modules.
+- `8.combined_RAG&LORA.py`: combined LoRA V4 + RAG-B inference.
 
-### 4. Analysis, Statistical Testing & Figure Generation
-* **`9.stratified_eval_by_link_type.py`** — Post-hoc stratified evaluation of predictions by Jira issue hierarchy (`Epic -> Standard` refinement links vs `Standard -> Subtask` decomposition links).
-* **`10_significance_tests.py`** — Statistical robustness and significance testing (`clean F2`). Computes Sign tests (`two-sided binomial p`), Paired Wilcoxon signed-rank tests, and 10,000-iteration Bootstrap 95% Confidence Intervals across the 8 project evaluations.
-* **`11_generate_thesis_figures_v2.py`** — Master plotting script. Reads prediction logs and summary JSONs to generate publication-grade vector PDF figures inside `RESULTS/FIGURES_V2/`.
+### Cloud Batch Evaluation
 
----
+- `9c_zero_shot_claude_batch_matched.py`: Claude Sonnet 4.6 zero-shot batch evaluation.
+- `9d_zero_shot_openai_batch_matched.py`: GPT-5.4 zero-shot batch evaluation.
+- `9e_merge_openai_batch_shards.py`: OpenAI shard merger and validation utility.
 
-## 🚀 Execution & Usage Guide
+### Analysis and Figures
 
-### Prerequisites
-* **Python 3.10+** with `torch`, `transformers`, `unsloth`, `sentence_transformers`, `scikit-learn`, `scipy`, `matplotlib`, and `seaborn`.
-* For local 31B LLM inference or fine-tuning (`Scripts 5, 6, 7, 8`), an **NVIDIA H100 (80GB)** or multi-GPU CUDA environment is required.
-* For statistical testing and chart generation (`Scripts 1, 2, 3, 9, 10, 11`), only CPU is required (`< 4GB RAM`).
+- `9.stratified_eval_by_link_type.py`: recomputes clean/conservative performance by hierarchy stratum.
+- `10_significance_tests.py`: recomputes per-project clean F2, sign tests, Wilcoxon tests, and bootstrap confidence intervals.
+- `11_generate_thesis_figures_v2.py`: regenerates the main result figures from saved JSON artifacts.
 
-### Quickstart Example: Offline Statistical & Figure Verification
-Because all prediction JSONs are saved in `RESULTS/`, you can verify all statistical claims immediately without running inference:
+## CPU-Only Verification
+
+Install the CPU verification dependencies:
 
 ```bash
-# 1. Run 10,000-bootstrap significance testing across the 8 projects
+pip install -r requirements-cpu.txt
+```
+
+Then run:
+
+```bash
 python SCRIPT/10_significance_tests.py
-
-# Output preview:
-# Paired comparisons over 8 projects (clean F2, delta = A - B):
-#   RAG-B vs LoRA-V4         +0.0341   +0.0345     6/8   0.2891    0.0781   [-0.0123, +0.0812]
-#   Combined vs RAG-B        +0.0068   +0.0071     5/8   0.7266    0.3828   [-0.0154, +0.0298]
-# Saved -> RESULTS/significance_tests_clean_f2.json
-
-# 2. Re-generate vector PDF plots for RQ1, RQ2, and RQ3
+python SCRIPT/9.stratified_eval_by_link_type.py
 python SCRIPT/11_generate_thesis_figures_v2.py
 ```
 
-### Running Local H100 Inference (Example: Zero-Shot Gemma 4)
+These commands operate on the committed files under `RESULTS/` and do not rerun LLM inference.
+
+## Current Statistical Reference
+
+The current committed `RESULTS/significance_tests_clean_f2.json` reports:
+
+| Comparison | Mean delta | Median delta | Wins | Sign p | Wilcoxon p | Bootstrap 95% CI |
+| :--- | ---: | ---: | :---: | ---: | ---: | :--- |
+| RAG-B vs LoRA-V4 | 0.0341 | 0.0139 | 7/8 | 0.0703 | 0.1094 | [-0.0077, 0.0813] |
+| Combined vs RAG-B | 0.0069 | 0.0037 | 5/8 | 0.7266 | 1.0000 | [-0.0102, 0.0309] |
+| Combined vs LoRA-V4 | 0.0409 | 0.0210 | 8/8 | 0.0078 | 0.0078 | [0.0150, 0.0743] |
+| RAG-B vs ZeroShot | 0.0940 | 0.0883 | 8/8 | 0.0078 | 0.0078 | [0.0595, 0.1289] |
+| LoRA-V4 vs ZeroShot | 0.0600 | 0.0743 | 7/8 | 0.0703 | 0.0547 | [0.0080, 0.1058] |
+
+With only eight projects, these tests should be read as robustness checks. Effect sizes and project-level win counts are at least as important as p-values.
+
+## GPU/API Reruns
+
+Example local zero-shot rerun:
+
 ```bash
-export CUDA_VISIBLE_DEVICES=0
-python -u SCRIPT/5.zero_shot_h100.py --projects AAH BEAM CB FH JBIDE KEYCLOAK KOGITO PROJQUAY
+CUDA_VISIBLE_DEVICES=0 python -u SCRIPT/5.zero_shot_h100.py --projects AAH BEAM CB FH JBIDE KEYCLOAK KOGITO PROJQUAY
 ```
+
+The GPU scripts assume that model weights, CUDA libraries, and any required adapters/indexes are available locally or can be regenerated. They are included primarily for transparency and specialist reruns.

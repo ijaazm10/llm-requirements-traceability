@@ -47,14 +47,16 @@ import re
 import sys
 import time
 from datetime import datetime
+from pathlib import Path
 
 import numpy as np
 import torch
 
 
 # ==================== PATHS ====================
-DATA_DIR = "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/DATA/GROUND_TRUTH"
-RERUN_ROOT = "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/RESULTS/LORA_RERUN_V3"
+ROOT = Path(__file__).resolve().parents[1]
+DATA_DIR = str(ROOT / "DATA" / ".GROUND_TRUTH")
+RERUN_ROOT = str(ROOT / "RESULTS" / "LORA_RERUN_V3")
 
 
 # ==================== MODEL / TASK CONSTANTS ====================

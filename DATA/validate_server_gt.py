@@ -2,8 +2,7 @@ import json
 import os
 from pathlib import Path
 
-# Set to the path on your server
-BASE_DIR = "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/GROUND_TRUTH"
+BASE_DIR = Path(__file__).resolve().parents[1] / "DATA" / ".GROUND_TRUTH"
 PROJECTS = ["AAH", "BEAM", "CB", "FH", "JBIDE", "KEYCLOAK", "KOGITO", "PROJQUAY"]
 
 def load_json(p):

@@ -34,14 +34,16 @@ import sys
 import time
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime
+from pathlib import Path
 
 import numpy as np
 import torch
 
 
 # ==================== PATHS ====================
-DATA_DIR = "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/DATA/GROUND_TRUTH"
-RERUN_ROOT = "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/RESULTS/RAG_STAGE1_V3_8192"
+ROOT = Path(__file__).resolve().parents[1]
+DATA_DIR = str(ROOT / "DATA" / ".GROUND_TRUTH")
+RERUN_ROOT = str(ROOT / "RESULTS" / "RAG_STAGE1_V3_8192")
 INDEXES_ROOT = os.path.join(RERUN_ROOT, "INDEXES")
 
 

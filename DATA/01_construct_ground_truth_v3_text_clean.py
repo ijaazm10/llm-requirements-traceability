@@ -28,8 +28,8 @@ Usage:
   python 01_construct_ground_truth_v3_text_clean.py --dry-run
 
   python 01_construct_ground_truth_v3_text_clean.py ^
-    --raw-data-dir "C:/Thesis/Thesis_Work/data" ^
-    --output-dir "C:/Thesis/Thesis_Work/data/ground_truth_3_text_clean" ^
+    --raw-data-dir "DATA/RAW_DATA" ^
+    --output-dir "DATA/.GROUND_TRUTH" ^
     --filter-strategy both_empty
 
 Author: Thesis Work
@@ -47,6 +47,7 @@ from pathlib import Path
 
 
 PROJECTS = ["AAH", "BEAM", "CB", "FH", "JBIDE", "KEYCLOAK", "KOGITO", "PROJQUAY"]
+ROOT = Path(__file__).resolve().parents[1]
 
 TRAIN_RATIO = 0.70
 VAL_RATIO = 0.10
@@ -435,8 +436,8 @@ def ensure_output_safe(output_dir, overwrite, dry_run):
 
 def parse_args():
     parser = argparse.ArgumentParser(description="Construct text-clean ground_truth_3 dataset.")
-    parser.add_argument("--raw-data-dir", default=r"C:\Thesis\Thesis_Work\Experiment Run\ground_truth_v3_clean_pipeline\.RAW_DATA")
-    parser.add_argument("--output-dir", default=r"C:\Thesis\Thesis_Work\Experiment Run\ground_truth_v3_clean_pipeline\.GROUND_TRUTH")
+    parser.add_argument("--raw-data-dir", default=str(ROOT / "DATA" / "RAW_DATA"))
+    parser.add_argument("--output-dir", default=str(ROOT / "DATA" / ".GROUND_TRUTH"))
     parser.add_argument("--projects", nargs="+", choices=PROJECTS, default=PROJECTS)
     parser.add_argument(
         "--filter-strategy",

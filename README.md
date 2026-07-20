@@ -1,101 +1,101 @@
 # LLM Requirements Traceability Benchmark & Pipeline
 
-**A two-stage (retrieve-then-classify) evaluation pipeline with QLoRA fine-tuning and RAG for cross-level software requirements traceability, benchmarked under a controlled hard-negative protocol.**
+This repository contains the code, processed benchmark data, saved predictions, and analysis artifacts for a master's thesis on large language models for cross-level requirements traceability in Jira issue hierarchies.
 
-This repository contains the official open-source benchmarking pipeline, ground-truth dataset, and evaluation results for evaluating large language models (LLMs) on cross-level traceability link recovery across **8 real-world open-source software projects** (~10,500+ evaluated pairs).
+The study evaluates traceability link recovery as the second stage of a retrieve-then-classify pipeline. Instead of testing on random non-links, each positive hierarchy link is paired with semantically similar hard negatives mined with Qwen3 embeddings. This makes the classification task deliberately difficult: models must distinguish true refinement or decomposition links from issue pairs that look plausible under lexical or embedding similarity.
 
----
+## Repository Scope
 
-## 🎯 Project Overview & Motivation
+This is a transparent research artifact, not a fully raw-data-to-model reproduction package.
 
-In modern software engineering, maintaining traceability between **High-Level Requirements (HLRs)** (e.g., Epics, Features, Stories) and **Low-Level Requirements (LLRs)** (e.g., Tasks, Subtasks, Bug fixes) is a labor-intensive, error-prone manual task. While traditional Information Retrieval (IR) methods like Vector Space Models (VSM) and dense sentence embeddings (SBERT) capture basic keyword or semantic overlap, they often fail when judging subtle refinement relationships or processing dense technical descriptions containing stack traces and code snippets.
+- The raw Jira exports are not redistributed because the original data was provided by Tian et al. and redistribution rights for the raw dumps were not cleared.
+- The processed benchmark under `DATA/.GROUND_TRUTH/` is included.
+- The exact saved predictions under `RESULTS/` are included, so the reported metrics, significance checks, link-type breakdowns, and figures can be recomputed without a GPU.
+- Full LLM inference and QLoRA fine-tuning scripts are included for inspection and reruns, but require suitable hardware/API access.
 
-This project introduces and systematically evaluates a **Two-Stage Retrieve-Then-Classify Architecture**:
-1. **Stage 1 (High-Recall Candidate Filtering):** A dense bi-encoder (`Qwen/Qwen3-Embedding-4B`) embeds all requirements and surfaces the semantically confusable candidate targets that make up the hard-negative benchmark (a controlled reader-stage protocol, not a deployment simulation) (`top-K`).
-2. **Stage 2 (High-Precision Pairwise Discrimination):** A heavyweight, open-weight LLM (`unsloth/gemma-4-31B-it`) acts as a reader/classifier, judging whether the candidate LLR genuinely implements, refines, or decomposes the HLR.
-
-We rigorously compare this self-hosted open-weight approach against classic baselines (`VSM`, `SBERT`, `Frozen BERT`), in-context demonstration retrieval (`RAG`), parameter-efficient fine-tuning (`QLoRA`), and commercial cloud endpoints (`Claude Sonnet 4.6`, `OpenAI GPT-5.4`).
-
----
-
-## 🏗️ Repository Structure
+## Repository Structure
 
 ```text
 llm-requirements-traceability/
-├── DATA/               # 8-Project industrial ground truth, splits, and hard-negative mining
-├── SCRIPT/             # End-to-end evaluation scripts (baselines, local H100 GPU runs, cloud APIs)
-├── RESULTS/            # Per-pair prediction JSONs, statistical significance tests, and charts
-└── README.md           # This master documentation
+|-- DATA/       # Processed benchmark data, split files, and data-construction scripts
+|-- SCRIPT/     # Baselines, LLM/RAG/LoRA evaluation scripts, statistics, and figure generation
+|-- RESULTS/    # Saved predictions, result summaries, significance tests, and generated figures
+|-- docs/       # README figures
+|-- README.md
 ```
 
-### Detailed Sub-Documentation
-For deep-dive documentation on each component, consult the specialized READMEs:
-* 📂 **[DATA/README.md](DATA/README.md)** — Ground truth structure, 8-project breakdown, data cleaning (`V3`), and `Qwen3-Embedding-4B` hard-negative candidate mining.
-* 📂 **[SCRIPT/README.md](SCRIPT/README.md)** — Detailed guide to all 19 scripts (`1.VSM.py` through `11_generate_thesis_figures_v2.py`), generation parameters, and exact CLI usage.
-* 📂 **[RESULTS/README.md](RESULTS/README.md)** — Guide to the 205 committed per-pair prediction files, how to verify all benchmark tables with zero GPU requirements, and statistical robustness tests (`sign test`, `Wilcoxon`, `Bootstrap CI`).
+Detailed documentation:
 
----
+- [DATA/README.md](DATA/README.md): processed benchmark structure, project-level counts, and raw-data policy.
+- [SCRIPT/README.md](SCRIPT/README.md): script order, what is CPU-verifiable, and what requires GPU/API access.
+- [RESULTS/README.md](RESULTS/README.md): saved prediction files, statistical JSONs, and figure artifacts.
 
-## 🏆 Key Empirical Findings (Across 8 Projects)
+## Benchmark Summary
 
-All models are evaluated on the exact same 1:3 test pairs (`splits/final_pairs_test.json`) using clean and conservative Macro $F_2$ (recall-weighted classification score) and single-stream H100 inference latency:
+The committed processed benchmark contains:
 
-| Method | Precision ($P$) | Recall ($R$) | Macro $F_1$ | **Macro $F_2$ (Primary Metric)** | Accuracy | Mean Latency (ms/pair) | P95 Tail Latency (ms/pair) |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| All-positive sanity check | 0.2500 | 1.0000 | 0.4000 | **0.6250** | 0.2500 | — | — |
-| **VSM (TF-IDF Baseline)** | 0.2984 | 0.6941 | 0.4139 | **0.5433** | — | — | — |
-| **SBERT (`all-mpnet-base-v2`)** | 0.2528 | 0.9663 | 0.4006 | **0.6174** | — | — | — |
-| **Frozen BERT + MLP** | 0.2758 | 0.9304 | 0.4219 | **0.6238** | — | — | — |
-| **Gemma 4 31B (Zero-Shot)** | 0.4399 | 0.8148 | 0.5693 | **0.6938** | 0.6888 | 1,021.8 | 1,236.3 |
-| **OpenAI GPT-5.4 (Zero-Shot Cloud)** | 0.5157 | 0.7704 | 0.6157 | **0.6991** | 0.7575 | *async batch* | *async batch* |
-| **Claude Sonnet 4.6 (Zero-Shot Cloud)** | 0.5255 | 0.8498 | 0.6443 | **0.7511** | 0.7585 | *async batch* | *async batch* |
-| **Gemma 4 31B (QLoRA V4)** | 0.6872 | 0.7757 | 0.7253 | **0.7537** | 0.8514 | 1,551.9 | 1,628.2 |
-| **Gemma 4 31B (RAG-B, Qwen3 2+2)** | 0.6202 | 0.8491 | 0.7135 | **0.7878** | 0.8242 | 2,096.2 | 3,304.9 |
-| **Gemma 4 31B (Combined LoRA + RAG)** | **0.7170** | 0.8212 | **0.7612** | **0.7947** | **0.8670** | 1,810.3 | 2,996.8 |
+| Quantity | Count |
+| :--- | ---: |
+| Projects | 8 |
+| Requirements | 11,680 |
+| Positive trace links | 10,503 |
+| Training pairs | 27,308 |
+| Validation pairs | 4,036 |
+| Held-out test pairs | 10,668 |
+| Committed per-pair prediction files | 178 |
 
-All values are macro-averaged over the 8 projects (clean scoring) and reproduce exactly from the committed prediction files.
+## Main Results
+
+All values below are macro-averaged over the eight projects using clean scoring unless noted otherwise.
+
+| Method | Precision | Recall | Macro F1 | Macro F2 | Accuracy | Mean latency (ms/pair) | P95 latency (ms/pair) |
+| :--- | ---: | ---: | ---: | ---: | ---: | ---: | ---: |
+| All-positive sanity check | 0.2500 | 1.0000 | 0.4000 | 0.6250 | 0.2500 | - | - |
+| VSM / TF-IDF | 0.2984 | 0.6941 | 0.4139 | 0.5433 | - | - | - |
+| SBERT / all-mpnet-base-v2 | 0.2528 | 0.9663 | 0.4006 | 0.6174 | - | - | - |
+| Frozen BERT + MLP | 0.2758 | 0.9304 | 0.4219 | 0.6238 | - | - | - |
+| Gemma 4 31B zero-shot | 0.4399 | 0.8148 | 0.5693 | 0.6938 | 0.6888 | 1,021.8 | 1,236.3 |
+| OpenAI GPT-5.4 zero-shot | 0.5157 | 0.7704 | 0.6157 | 0.6991 | 0.7575 | async batch | async batch |
+| Claude Sonnet 4.6 zero-shot | 0.5255 | 0.8498 | 0.6443 | 0.7511 | 0.7585 | async batch | async batch |
+| Gemma 4 31B QLoRA V4 | 0.6872 | 0.7757 | 0.7253 | 0.7537 | 0.8514 | 1,551.9 | 1,628.2 |
+| Gemma 4 31B RAG-B | 0.6202 | 0.8491 | 0.7135 | 0.7878 | 0.8242 | 2,096.2 | 3,304.9 |
+| Gemma 4 31B LoRA + RAG | 0.7170 | 0.8212 | 0.7612 | 0.7947 | 0.8670 | 1,810.3 | 2,996.8 |
 
 <p align="center">
   <img src="docs/figures/pr_scatter_f2_isocurves.png" alt="All evaluated methods in macro precision-recall space with F2 iso-curves" width="640">
 </p>
-<p align="center"><em>All methods in precision&ndash;recall space with F2 iso-curves. The all-positive baseline marks the degenerate corner of the 1:3 protocol; methods on the same curve score the same F2 with different error profiles &mdash; RAG sits on the recall side, LoRA on the precision side, the combined method pushes precision furthest.</em></p>
-
-### Main Takeaways:
-1. **Open-weight vs. proprietary cloud (zero-shot, like-for-like):** local zero-shot Gemma 4 31B ($F_2 = 0.6938$) performs at the level of OpenAI GPT-5.4 ($F_2 = 0.6991$); Claude Sonnet 4.6 is the strongest zero-shot model ($F_2 = 0.7511$). The cloud models were evaluated **zero-shot only** — the adapted local results below are *not* a ranking against them, since applying the same adaptation to cloud models could be expected to improve them as well. The open-weight model is used for the adaptation study because it offers weight access for fine-tuning, no per-request cost at experiment scale, and full data locality.
-2. **Adaptation pays:** RAG with balanced retrieved demonstrations lifts the open-weight model to $F_2 = 0.7878$ and the combined LoRA+RAG configuration to $F_2 = 0.7947$ — although the combined method's advantage over RAG alone is **not statistically robust** across the 8 projects (Wilcoxon $p = 1.0$).
-3. **Latency vs. context trade-off:** RAG roughly doubles prompt length (~373 → ~1,488 tokens) and pushes P95 latency to ~3.3 s/pair, while LoRA V4 keeps a tight 1.6 s P95 with the strongest precision (0.687) — the better fit when review effort and latency dominate.
 
 <p align="center">
   <img src="docs/figures/per_project_f2_heatmap.png" alt="Per-project F2 scores for the main methods" width="720">
 </p>
-<p align="center"><em>Per-project F2 for the main methods: the ordering holds across all eight projects rather than being carried by one repository &mdash; CB and JBIDE are consistently easiest, KEYCLOAK and KOGITO hardest.</em></p>
 
----
+## Main Takeaways
 
-## ⚡ Zero-GPU Reproducibility
+1. Similarity-oriented baselines struggle under the hard-negative protocol. SBERT and Frozen BERT approach the all-positive sanity check but do not provide a strong discriminative signal.
+2. Zero-shot LLMs provide a stronger second-stage traceability signal. Claude Sonnet 4.6 is the strongest zero-shot model among the evaluated cloud/local models.
+3. Project-specific adaptation improves the local open-weight model. RAG-B reaches macro F2 = 0.7878, LoRA V4 reaches macro F2 = 0.7537, and the combined LoRA+RAG configuration reaches macro F2 = 0.7947.
+4. The combined method has the highest absolute macro F2, but its advantage over RAG-B is not statistically robust across the eight projects (Wilcoxon p = 1.0000; bootstrap 95% CI [-0.0102, 0.0309]).
 
-Because running 31B parameter LLM inference and QLoRA fine-tuning across 10,500+ pairs requires an **NVIDIA H100 (80GB VRAM)** or equivalent multi-GPU setup, **we have committed the exact prediction outputs for all 178 committed per-pair prediction files (the model-selection checkpoint predictions are excluded with the checkpoints directory) inside [`RESULTS/`](RESULTS/)**.
+## Zero-GPU Verification
 
-You can re-run all evaluation metrics, statistical significance tests (`Wilcoxon`, `Bootstrap CI`), link-type stratification breakdowns, and LaTeX/PDF chart generation on any standard laptop with zero GPU requirements:
+The expensive model outputs are committed as prediction JSON files. On a standard machine, you can recompute the statistical and figure artifacts without rerunning LLM inference:
 
 ```bash
-# Clone the repository
-git clone https://github.com/ijaazm10/llm-requirements-traceability.git
-cd llm-requirements-traceability
-
-# Re-run statistical significance testing over clean F2 across all 8 projects
 python SCRIPT/10_significance_tests.py
-
-# Re-run stratified evaluation by Jira issue hierarchy (Epic vs Subtask)
 python SCRIPT/9.stratified_eval_by_link_type.py
-
-# Re-generate all vector PDF figures from saved logs
 python SCRIPT/11_generate_thesis_figures_v2.py
 ```
 
----
+For the CPU-only verification scripts, install:
 
-## 📜 License & Provenance Note
+```bash
+pip install -r requirements-cpu.txt
+```
 
-* **Code, Scripts, and Committed Predictions:** Released under the MIT License.
-* **Raw Jira Issue Dumps (`DATA/RAW_DATA/`):** The underlying raw Jira project exports were originally collected by *Tian et al.* (DRAFT, 2023). To respect data distribution and licensing agreements, raw unstructured XML/JSON dumps are omitted from this public repository (`DATA/RAW_DATA/` is ignored in `.gitignore`). All processed, cleaned requirements (`requirements.json`), trace matrices (`trace_links.json`), and exact experimental pairs (`final_pairs_*.json`) are fully preserved in `DATA/.GROUND_TRUTH/` to ensure 100% pipeline reproducibility.
+Full local LLM inference/fine-tuning requires additional GPU dependencies and an H100-class setup or equivalent multi-GPU environment.
+
+## License and Provenance
+
+- Code, scripts, and committed prediction files are released under the MIT License.
+- The processed benchmark in `DATA/.GROUND_TRUTH/` is derived from Jira exports of public open-source projects originally collected by Tian et al.
+- Raw Jira exports are not included. `DATA/RAW_DATA/` is intentionally ignored.

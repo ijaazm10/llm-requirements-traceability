@@ -21,11 +21,11 @@ records the shortage in metadata. Use --fail-on-shortage to make such cases
 fatal.
 
 Expected input layout:
-  ../ground_truth_3_text_clean/{PROJECT}/requirements.json
-  ../ground_truth_3_text_clean/{PROJECT}/trace_links.json
-  ../ground_truth_3_text_clean/{PROJECT}/splits/train_links.json
-  ../ground_truth_3_text_clean/{PROJECT}/splits/val_links.json
-  ../ground_truth_3_text_clean/{PROJECT}/splits/test_links.json
+  DATA/.GROUND_TRUTH/{PROJECT}/requirements.json
+  DATA/.GROUND_TRUTH/{PROJECT}/trace_links.json
+  DATA/.GROUND_TRUTH/{PROJECT}/splits/train_links.json
+  DATA/.GROUND_TRUTH/{PROJECT}/splits/val_links.json
+  DATA/.GROUND_TRUTH/{PROJECT}/splits/test_links.json
 
 Outputs:
   final_pairs_train.json
@@ -62,7 +62,8 @@ SPLITS = ["train", "val", "test"]
 NEG_PER_POS = 3
 SEED = 42
 
-DEFAULT_BASE_DIR = "/home/jovyan/work/Thesis_Ijaaz/ground_truth_v3_clean_pipeline/GROUND_TRUTH"
+ROOT = Path(__file__).resolve().parents[1]
+DEFAULT_BASE_DIR = str(ROOT / "DATA" / ".GROUND_TRUTH")
 DEFAULT_EMBED_MODEL = "Qwen/Qwen3-Embedding-4B"
 DEFAULT_EMBED_BATCH_SIZE = 64
 DEFAULT_MAX_LENGTH = 512
