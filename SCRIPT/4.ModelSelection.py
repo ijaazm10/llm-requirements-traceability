@@ -9,7 +9,7 @@ Changes from V2:
   - Uses final_pairs_val.json instead of fixed_pairs_val.json
   - 9 models (added gemma4:31b)
   - Clean prompt (no JIRA mention)
-  - Same 3 validation projects, up to 400 pairs each (BEAM has 360)
+  - Same 3 validation projects, up to 400 pairs each
 
 Selection Grid:
   - 9 models across 5 families (Google, Alibaba, Meta, Microsoft, Mistral)
@@ -21,7 +21,7 @@ Selection Grid:
       H4: Generation leap → gemma3:12b vs gemma4:31b
 
 Projects:
-  - BEAM      — smallest viable
+  - CB        — medium-large, strong validation sample
   - KEYCLOAK  — medium, mixed link types
   - JBIDE     — largest
 
@@ -51,7 +51,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = str(ROOT / "DATA" / ".GROUND_TRUTH")
 OUTPUT_DIR = str(ROOT / "RESULTS")
 
-SELECTION_PROJECTS = ["BEAM", "KEYCLOAK", "JBIDE"]
+SELECTION_PROJECTS = ["CB", "KEYCLOAK", "JBIDE"]
 
 MODELS_TO_TEST = [
     # ── Small (7-8B) ──

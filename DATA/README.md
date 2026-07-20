@@ -42,7 +42,7 @@ These counts are computed from the committed JSON files in `DATA/.GROUND_TRUTH/`
 
 | Project | Project family | Requirements | Positive links | Train pairs | Val pairs | Test pairs |
 | :--- | :--- | ---: | ---: | ---: | ---: | ---: |
-| AAH | Apache Ambari / Ambari-related Jira export | 360 | 313 | 804 | 104 | 344 |
+| AAH | Ansible Automation Hub (Red Hat) | 360 | 313 | 804 | 104 | 344 |
 | BEAM | Apache Beam data-processing framework | 1,188 | 1,036 | 2,528 | 360 | 1,256 |
 | CB | Couchbase database platform | 1,664 | 1,541 | 3,936 | 548 | 1,680 |
 | FH | Fuse / Hawkular middleware-related Jira export | 1,037 | 915 | 2,344 | 432 | 884 |
