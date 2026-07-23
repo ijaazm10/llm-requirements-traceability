@@ -1,8 +1,8 @@
 # ============================================================
 # ground_truth_v3_clean_pipeline — .gitignore
 # Public Repository: llm-requirements-traceability
-# Ships: core scripts, 8-project ground truth, and predictions.
-# Excluded: heavy adapters, raw dumps, internal audit reports, presentations.
+# Ships: source exports, core scripts, 8-project ground truth, and predictions.
+# Excluded: heavy adapters, diagnostics, internal reports, and presentations.
 # ============================================================
 
 # --- LoRA adapters & training checkpoints (131 GB, regenerable via 7.lora_rerun_unified.py, seed 42)
@@ -25,8 +25,11 @@ RESULTS/RESULTS.tar.gz
 *.tar
 *.zip
 
-# --- raw Jira dumps: private redistribution NOT cleared with Tian et al.
-DATA/RAW_DATA/
+# --- helper/debug files stored beside the Jira source exports
+DATA/RAW_DATA/*.py
+DATA/RAW_DATA/*.csv
+DATA/RAW_DATA/link_type_breakdown.json
+DATA/RAW_DATA/*/count_*.py
 
 # --- separate git repositories & report templates
 REPORT/

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Authoring Tooling",
+    "description": ""
+  },
+  {
+    "name": "BPMN Editor",
+    "description": "BPMN Client Editor. Used for internal editor specific issues."
+  },
+  {
+    "name": "Build and release",
+    "description": ""
+  },
+  {
+    "name": "Core",
+    "description": ""
+  },
+  {
+    "name": "Data Index",
+    "description": ""
+  },
+  {
+    "name": "DMN Editor",
+    "description": "DMN Client Editor. Used for internal editor specific issues."
+  },
+  {
+    "name": "DMN Engine",
+    "description": ""
+  },
+  {
+    "name": "Documentation",
+    "description": ""
+  },
+  {
+    "name": "Examples",
+    "description": ""
+  },
+  {
+    "name": "Image",
+    "description": ""
+  },
+  {
+    "name": "Job Service",
+    "description": ""
+  },
+  {
+    "name": "Management Console",
+    "description": ""
+  },
+  {
+    "name": "Operator",
+    "description": ""
+  },
+  {
+    "name": "OptaPlanner",
+    "description": ""
+  },
+  {
+    "name": "Runtime Tooling",
+    "description": ""
+  },
+  {
+    "name": "Scenario Simulation",
+    "description": "Scesim client editor. Used for internal editor specific issues."
+  },
+  {
+    "name": "Serverless",
+    "description": ""
+  },
+  {
+    "name": "Task Console",
+    "description": ""
+  }
+]

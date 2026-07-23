@@ -1,0 +1,94 @@
+[
+  {
+    "name": "Android",
+    "description": ""
+  },
+  {
+    "name": "APB",
+    "description": ""
+  },
+  {
+    "name": "Build Farm",
+    "description": ""
+  },
+  {
+    "name": "CI",
+    "description": ""
+  },
+  {
+    "name": "clientsdks",
+    "description": ""
+  },
+  {
+    "name": "Cordova",
+    "description": "Cordova Component"
+  },
+  {
+    "name": "Data Sync",
+    "description": ""
+  },
+  {
+    "name": "Documentation",
+    "description": ""
+  },
+  {
+    "name": "fh-forms",
+    "description": ""
+  },
+  {
+    "name": "fh-ngui",
+    "description": ""
+  },
+  {
+    "name": "fh-supercore",
+    "description": ""
+  },
+  {
+    "name": "fhc",
+    "description": ""
+  },
+  {
+    "name": "iOS",
+    "description": ""
+  },
+  {
+    "name": "JavaScript Client",
+    "description": ""
+  },
+  {
+    "name": "JavaScript Server",
+    "description": "Cloud SDK and Issues related to server side JavaScript"
+  },
+  {
+    "name": "OpenShift",
+    "description": ""
+  },
+  {
+    "name": "Security",
+    "description": "Security related issues, tasks, and plans. "
+  },
+  {
+    "name": "Studio UI",
+    "description": ""
+  },
+  {
+    "name": "Templates",
+    "description": "Collection of Individual sample apps / services / forms "
+  },
+  {
+    "name": "Testing",
+    "description": ""
+  },
+  {
+    "name": "Unified Push",
+    "description": "Issues associated with the unified push integration"
+  },
+  {
+    "name": "Windows Client",
+    "description": ""
+  },
+  {
+    "name": "Xamarin",
+    "description": ""
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "name": "beam-community",
+    "description": "Track community event related activities"
+  },
+  {
+    "name": "beam-model",
+    "description": "Beam Model: general programming model concepts, semantics"
+  },
+  {
+    "name": "beam-playground",
+    "description": ""
+  },
+  {
+    "name": "benchmarking-py",
+    "description": ""
+  },
+  {
+    "name": "build-system",
+    "description": "Build, CI, release systems and processes"
+  },
+  {
+    "name": "community-metrics",
+    "description": "Beam's community metrics dashboard"
+  },
+  {
+    "name": "cross-language",
+    "description": "Everything related to cross language"
+  },
+  {
+    "name": "dependencies",
+    "description": "Component for dependency updates"
+  },
+  {
+    "name": "dsl-dataframe",
+    "description": "Pandas-compatible dataframe API"
+  },
+  {
+    "name": "dsl-euphoria",
+    "description": "DSLs: Euphoria"
+  },
+  {
+    "name": "dsl-sql",
+    "description": "DSLs: SQL"
+  },
+  {
+    "name": "dsl-sql-zetasql",
+    "description": "ZetaSQL-to-Calcite translation layer"
+  },
+  {
+    "name": "examples-java",
+    "description": "Examples: Java examples"
+  },
+  {
+    "name": "examples-python",
+    "description": "Examples: Python examples"
+  },
+  {
+    "name": "extensions-ideas",
+    "description": ""
+  },
+  {
+    "name": "extensions-java-gcp",
+    "description": ""
+  },
+  {
+    "name": "extensions-java-join-library",
+    "description": "Extensions: Java: Join Library"
+  },
+  {
+    "name": "extensions-java-json",
+    "description": "Extensions: Java: Json"
+  },
+  {
+    "name": "extensions-java-kyro",
+    "description": ""
+  },
+  {
+    "name": "extensions-java-protobuf",
+    "description": ""
+  },
+  {
+    "name": "extensions-java-sketching",
+    "description": "Extensions: Java: Sketching library"
+  },
+  {
+    "name": "extensions-java-sorter",
+    "description": "Extensions: Java: Sorter"
+  },
+  {
+    "name": "gcp-quota",
+    "description": "Quota issues with Google Cloud Platform services"
+  },
+  {
+    "name": "io-common",
+    "description": ""
+  },
+  {
+    "name": "io-go-gcp",
+    "description": ""
+  },
+  {
+    "name": "io-ideas",
+    "description": "IO: ideas (proposals for new connectors, new designs, etc)"
+  },
+  {
+    "name": "io-java-amqp",
+    "description": "IO: Java: AMQP"
+  },
+  {
+    "name": "io-java-avro",
+    "description": "IO: Java: Avro"
+  },
+  {
+    "name": "io-java-aws",
+    "description": "IO: Java: Amazon Web Services"
+  },
+  {
+    "name": "io-java-azure",
+    "description": ""
+  },
+  {
+    "name": "io-java-cassandra",
+    "description": "IO: Java: Cassandra"
+  },
+  {
+    "name": "io-java-cdap",
+    "description": "IO: Java: CDAP"
+  },
+  {
+    "name": "io-java-clickhouse",
+    "description": "IO: Java: Clickhouse"
+  },
+  {
+    "name": "io-java-debezium",
+    "description": ""
+  },
+  {
+    "name": "io-java-elasticsearch",
+    "description": "IO: Java: ElasticSearch"
+  },
+  {
+    "name": "io-java-files",
+    "description": "IO: Java: Files"
+  },
+  {
+    "name": "io-java-gcp",
+    "description": "IO: Java: Google Cloud Platform functionality (BigQueryIO, DatastoreIO, etc)"
+  },
+  {
+    "name": "io-java-hadoop-file-system",
+    "description": "IO: Java: Hadoop File System"
+  },
+  {
+    "name": "io-java-hadoop-format",
+    "description": "IO: Java: Hadoop Format"
+  },
+  {
+    "name": "io-java-hbase",
+    "description": "IO: Java: HBase"
+  },
+  {
+    "name": "io-java-hcatalog",
+    "description": "IO: Java: HCatalog"
+  },
+  {
+    "name": "io-java-healthcare",
+    "description": ""
+  },
+  {
+    "name": "io-java-influxdb",
+    "description": "IO: Java: InfluxDB"
+  },
+  {
+    "name": "io-java-jdbc",
+    "description": "IO: Java: JDBC"
+  },
+  {
+    "name": "io-java-jms",
+    "description": "IO: Java: JMS"
+  },
+  {
+    "name": "io-java-kafka",
+    "description": "IO: Java: Kafka"
+  },
+  {
+    "name": "io-java-kinesis",
+    "description": "IO: Java: Kinesis"
+  },
+  {
+    "name": "io-java-kudu",
+    "description": "IO: Java: Kudu"
+  },
+  {
+    "name": "io-java-mongodb",
+    "description": "IO: Java: MongoDB"
+  },
+  {
+    "name": "io-java-mqtt",
+    "description": "IO: Java: Mqtt"
+  },
+  {
+    "name": "io-java-parquet",
+    "description": "IO: Java: Parquet"
+  },
+  {
+    "name": "io-java-rabbitmq",
+    "description": "IO: Java: RabbitMQ"
+  },
+  {
+    "name": "io-java-redis",
+    "description": "IO: Java: Redis"
+  },
+  {
+    "name": "io-java-snowflake",
+    "description": ""
+  },
+  {
+    "name": "io-java-solr",
+    "description": "IO: Java: Solr"
+  },
+  {
+    "name": "io-java-splunk",
+    "description": ""
+  },
+  {
+    "name": "io-java-text",
+    "description": "IO: Java: TextIO"
+  },
+  {
+    "name": "io-java-tfrecord",
+    "description": "IO: Java: TFRecord"
+  },
+  {
+    "name": "io-java-tika",
+    "description": "IO: Java: Tika"
+  },
+  {
+    "name": "io-java-utilities",
+    "description": "IO: Java: Utilities (testing helpers, etc, not meant for pipeline authors)"
+  },
+  {
+    "name": "io-java-xml",
+    "description": "IO: Java: Xml"
+  },
+  {
+    "name": "io-py-avro",
+    "description": ""
+  },
+  {
+    "name": "io-py-aws",
+    "description": ""
+  },
+  {
+    "name": "io-py-common",
+    "description": ""
+  },
+  {
+    "name": "io-py-files",
+    "description": ""
+  },
+  {
+    "name": "io-py-gcp",
+    "description": "IO: Python: Google Cloud Platform"
+  },
+  {
+    "name": "io-py-hadoop",
+    "description": "IO: Python: Hadoop"
+  },
+  {
+    "name": "io-py-ideas",
+    "description": ""
+  },
+  {
+    "name": "io-py-kafka",
+    "description": "IO: Python: Kafka"
+  },
+  {
+    "name": "io-py-mongodb",
+    "description": "IO: Python: MongoDB"
+  },
+  {
+    "name": "io-py-parquet",
+    "description": "IO: Python: Parquet"
+  },
+  {
+    "name": "io-py-tfrecord",
+    "description": "IO: Python: TFRecord"
+  },
+  {
+    "name": "io-py-vcf",
+    "description": "IO: Python: VCF"
+  },
+  {
+    "name": "java-fn-execution",
+    "description": ""
+  },
+  {
+    "name": "jobserver",
+    "description": ""
+  },
+  {
+    "name": "katas",
+    "description": "Beam katas for learning Beam using IntelliJ"
+  },
+  {
+    "name": "project-management",
+    "description": "Project Management: monthly reports, administrative tasks"
+  },
+  {
+    "name": "release",
+    "description": ""
+  },
+  {
+    "name": "runner-apex",
+    "description": "Runners: Apex runner"
+  },
+  {
+    "name": "runner-core",
+    "description": "Runners: shared functionality for all runners"
+  },
+  {
+    "name": "runner-dataflow",
+    "description": "Runners: Google Cloud Dataflow runner"
+  },
+  {
+    "name": "runner-direct",
+    "description": "Runners: Direct runner and ULR for single machine testing and development"
+  },
+  {
+    "name": "runner-extensions-metrics",
+    "description": "Runners: Extensions: Metrics"
+  },
+  {
+    "name": "runner-flink",
+    "description": "Runners: Flink runner"
+  },
+  {
+    "name": "runner-gearpump",
+    "description": "Runners: Gearpump runner"
+  },
+  {
+    "name": "runner-ideas",
+    "description": "Runners: ideas for new Beam runners"
+  },
+  {
+    "name": "runner-jet",
+    "description": ""
+  },
+  {
+    "name": "runner-jstorm",
+    "description": "Runners: JStorm"
+  },
+  {
+    "name": "runner-mapreduce",
+    "description": "Runner: MapReduce"
+  },
+  {
+    "name": "runner-py-direct",
+    "description": ""
+  },
+  {
+    "name": "runner-py-interactive",
+    "description": "Runners: The Python Interactive Runner"
+  },
+  {
+    "name": "runner-samza",
+    "description": "Runners: Samza"
+  },
+  {
+    "name": "runner-spark",
+    "description": "Runners: Spark runner"
+  },
+  {
+    "name": "runner-tez",
+    "description": "Runner: Tez"
+  },
+  {
+    "name": "runner-twister2",
+    "description": ""
+  },
+  {
+    "name": "runner-universal",
+    "description": "The Universal Local Runner which can run any portable pipeline"
+  },
+  {
+    "name": "sdk-go",
+    "description": "SDKs: Go"
+  },
+  {
+    "name": "sdk-ideas",
+    "description": "SDKs: Coordination on new language-specific SDKs"
+  },
+  {
+    "name": "sdk-java-core",
+    "description": "SDKs: Java: pipeline construction, core transformations"
+  },
+  {
+    "name": "sdk-java-harness",
+    "description": "SDKs: Java: harness for executing UDFs over the Fn API"
+  },
+  {
+    "name": "sdk-py-core",
+    "description": "SDKs: Python"
+  },
+  {
+    "name": "sdk-py-harness",
+    "description": "SDKs: Python: harness for executing UDFs over the Fn API"
+  },
+  {
+    "name": "sdk-typescript",
+    "description": ""
+  },
+  {
+    "name": "test-failures",
+    "description": "Automatically filed for test failures"
+  },
+  {
+    "name": "testing",
+    "description": "Testing: general infrastructure"
+  },
+  {
+    "name": "testing-nexmark",
+    "description": "Testing: Nexmark queries"
+  },
+  {
+    "name": "testing-tpcds",
+    "description": ""
+  },
+  {
+    "name": "website",
+    "description": "Website: content and bugs"
+  }
+]

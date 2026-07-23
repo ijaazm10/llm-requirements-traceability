@@ -1,0 +1,362 @@
+[
+  {
+    "name": "aeri",
+    "description": "Automatic Error reporting "
+  },
+  {
+    "name": "aerogear-hybrid",
+    "description": "Deprecated - Tooling to work with Apache Cordova based hybrid mobile projects"
+  },
+  {
+    "name": "archives",
+    "description": "Provides incremental packaging and archiving of files/folders. Provides the \"Project Archives\" View.Can be used without and within Eclipse WTP style projects.QE: ljungman"
+  },
+  {
+    "name": "arquillian",
+    "description": "Removed - Arquillian tooling"
+  },
+  {
+    "name": "base",
+    "description": ""
+  },
+  {
+    "name": "batch",
+    "description": "Java EE 7 Batch Processing  (JSR 352) Tooling"
+  },
+  {
+    "name": "bean-validation",
+    "description": ""
+  },
+  {
+    "name": "birt",
+    "description": ""
+  },
+  {
+    "name": "bpel",
+    "description": "See also https://bugs.eclipse.org/bugs/enter_bug.cgi?product=BPEL"
+  },
+  {
+    "name": "bpm",
+    "description": "Issues related to BPMN and BPEL and Riftsaw"
+  },
+  {
+    "name": "browsersim",
+    "description": "Deprecated - Browser simulator for desktop and mobile devices; also have special support for Cordova/Hybrid html5 API simulation"
+  },
+  {
+    "name": "build",
+    "description": "JBoss Tools build system, Issues related to https://github.com/jbosstools/jbosstools-build, Issues related to https://github.com/jbosstools/jbosstools-build-ci, Issues related to https://github.com/jbosstools/jbosstools-build-sites, Issues related to https://github.com/jbosstools/jbosstools-maven-plugins"
+  },
+  {
+    "name": "cdi",
+    "description": "Tooling for JSR-299 - Context Dependeny Injection.Covers standard CDI tooling and initially also Weld specific features if needed."
+  },
+  {
+    "name": "cdi-extensions",
+    "description": "Issues related to CDI extensions such as Solder, Seam 3 etc."
+  },
+  {
+    "name": "cdk",
+    "description": "Container Development Kit"
+  },
+  {
+    "name": "central",
+    "description": "Red Hat Central. Getting Started Tab - used for showing new projects, quickstarts, news - see https://github.com/jbosstools/jbosstools-central"
+  },
+  {
+    "name": "central-update",
+    "description": "Red Hat Central's Software/Update Tab and Discovery sites - see https://github.com/jbosstools/jbosstools-discovery and https://github.com/jbosstools/jbosstools-central"
+  },
+  {
+    "name": "cleanup",
+    "description": "Component used to tag \"cleanup\" tasks."
+  },
+  {
+    "name": "common",
+    "description": "Issues related to https://github.com/jbosstools/jbosstools-base/tree/master/common. For jst issues, see jst component. For core, see foundation component"
+  },
+  {
+    "name": "cordovasim",
+    "description": "Deprecated - Browser simulator with support for apache Cordova hybrid mobile projects"
+  },
+  {
+    "name": "deltacloud",
+    "description": "Deprecated - Eclipse tooling for http://deltacloud.org"
+  },
+  {
+    "name": "devdoc",
+    "description": "Documentation related to development processes, tools, etc. https://github.com/jbosstools/jbosstools-devdoc. For tooling doc, see https://issues.jboss.org/projects/RHDEVDOCS"
+  },
+  {
+    "name": "docker",
+    "description": "Docker tooling for start/stop/run and basic management of docker image, containers and registries"
+  },
+  {
+    "name": "drools",
+    "description": "Deprecated - use https://issues.jboss.org/browse/DROOLS"
+  },
+  {
+    "name": "easymport",
+    "description": "bugs related to the e4 incubating easy import feature"
+  },
+  {
+    "name": "eclipse-migration",
+    "description": "Issues related to Eclipse migrations (Eclipse 4.3 to Eclipse 4.4 etc.)"
+  },
+  {
+    "name": "ejb3",
+    "description": ""
+  },
+  {
+    "name": "esb",
+    "description": "Tasks related to JBoss ESB"
+  },
+  {
+    "name": "fabric8",
+    "description": "tooling related to fabric8 or analysis"
+  },
+  {
+    "name": "forge",
+    "description": "Integration of Forge into Eclipse"
+  },
+  {
+    "name": "foundation",
+    "description": "Issues related to jhttps://github.com/jbosstools/jbosstools-base/tree/master/foundation (and other branches)"
+  },
+  {
+    "name": "freemarker",
+    "description": "Removed - Freemarker .ftl file editor - see http://freemarker.org/"
+  },
+  {
+    "name": "fusetools",
+    "description": "Tooling for Fuse - see also https://issues.jboss.org/browse/FUSETOOLS"
+  },
+  {
+    "name": "fusetools-extras",
+    "description": "Extra Tooling for Fuse - see also https://issues.jboss.org/browse/FUSETOOLS"
+  },
+  {
+    "name": "gwt",
+    "description": "Deprecated as of JBT 4.2"
+  },
+  {
+    "name": "help",
+    "description": ""
+  },
+  {
+    "name": "hibernate",
+    "description": "Hibernate Tools in Eclipse provides UI and integration with hibernate tools core (HBX) and JPA/Dali.  "
+  },
+  {
+    "name": "infinispan",
+    "description": ""
+  },
+  {
+    "name": "install-tests",
+    "description": "Tests that perform installation to ensure there are no dependency or UI problems, eg using p2 director or install-grinder"
+  },
+  {
+    "name": "integration-platform",
+    "description": "Issues concerning Integration Platform"
+  },
+  {
+    "name": "integration-tests",
+    "description": "Integration tests: https://github.com/jbosstools/jbosstools-integration-tests"
+  },
+  {
+    "name": "javascript",
+    "description": "Issues releated javascript, bower, tern, angularjs etc."
+  },
+  {
+    "name": "jbpm",
+    "description": "Deprecated - use https://issues.jboss.org/browse/DROOLS"
+  },
+  {
+    "name": "jmx",
+    "description": ""
+  },
+  {
+    "name": "jsf",
+    "description": "faces-config.xml, jsf/facelet xhtml editing, etc.Links:JSF2 Implementations - https://javaserverfaces.dev.java.net/download.html"
+  },
+  {
+    "name": "jsp/jsf/xml/html-source-editing",
+    "description": "issues related to codecompletion and editing in xml editor"
+  },
+  {
+    "name": "jst",
+    "description": "Deprecated - Issues related to https://github.com/jbosstools/jbosstools-jst "
+  },
+  {
+    "name": "legal",
+    "description": ""
+  },
+  {
+    "name": "livereload",
+    "description": "Deprecated - Plugin that implements LiveReload functionality for Eclipse"
+  },
+  {
+    "name": "marketplace",
+    "description": "Issues related to Eclipse Marketplace or Red Hat Marketplace"
+  },
+  {
+    "name": "maven",
+    "description": ""
+  },
+  {
+    "name": "modeshape",
+    "description": "Deprecated - use https://issues.jboss.org/browse/MODETOOLS"
+  },
+  {
+    "name": "nodejs",
+    "description": "bower, npm and other nodejs based tools"
+  },
+  {
+    "name": "openshift",
+    "description": "OpenShift Support"
+  },
+  {
+    "name": "pi4soa",
+    "description": "Deprecated - use https://issues.jboss.org/browse/SAVARA"
+  },
+  {
+    "name": "playground",
+    "description": "Removed - Playground for possible extensions/fixes to Eclipse IDE"
+  },
+  {
+    "name": "portal-gatein",
+    "description": "Deprecated - Issues related to JSR-268 portlets, JBoss Portal and GateIn dev"
+  },
+  {
+    "name": "profiler",
+    "description": "integration with JBoss Profiler"
+  },
+  {
+    "name": "project-examples",
+    "description": ""
+  },
+  {
+    "name": "qa",
+    "description": ""
+  },
+  {
+    "name": "quarkus",
+    "description": ""
+  },
+  {
+    "name": "rpm",
+    "description": "Deprecated - Issues related to RPM packaging of devstudio and its upstream components from jbosstools"
+  },
+  {
+    "name": "runtime-detection",
+    "description": "Automatic discovery of runtimes"
+  },
+  {
+    "name": "runtime-server-protocol",
+    "description": "Runtime servers adapter framework related work for VSCode and Eclipse Che"
+  },
+  {
+    "name": "savara",
+    "description": "Deprecated - use https://issues.jboss.org/browse/SAVARA"
+  },
+  {
+    "name": "seam2",
+    "description": "Issues related to Seam 2 (before Seam became CDI dependent)"
+  },
+  {
+    "name": "search",
+    "description": "Hibernate Search, Lucene, etc."
+  },
+  {
+    "name": "server",
+    "description": "WTP based app server adapters and runtime detection"
+  },
+  {
+    "name": "smooks",
+    "description": ""
+  },
+  {
+    "name": "struts/shale",
+    "description": "issues against legacy struts/shale support"
+  },
+  {
+    "name": "switchyard",
+    "description": "Deprecated - use https://issues.jboss.org/browse/SWITCHYARD"
+  },
+  {
+    "name": "target-platform",
+    "description": "Target Platform(s) used to build various pieces of JBT & JBDS"
+  },
+  {
+    "name": "teiid",
+    "description": "Deprecated - use https://issues.jboss.org/browse/TEIIDDES"
+  },
+  {
+    "name": "updatesite",
+    "description": "Issues related to download.jboss.org/jbosstools/*/*/updates/* content"
+  },
+  {
+    "name": "upstream",
+    "description": "Issues related to upstream components. e.g. Eclipse itself."
+  },
+  {
+    "name": "usage",
+    "description": "Usage Statistic Reporting Tool"
+  },
+  {
+    "name": "versionwatch",
+    "description": "Tooling to ensure that each release of JBT/JBDS properly upversions its features & plugins"
+  },
+  {
+    "name": "visual-page-editor-core",
+    "description": "Anything related to Visual Page Editor except Template issues.XULRunner and actual editing functionallity."
+  },
+  {
+    "name": "visual-page-editor-templates",
+    "description": "Templates used to convert xml to html for use with visual page editor"
+  },
+  {
+    "name": "webservices",
+    "description": ""
+  },
+  {
+    "name": "website",
+    "description": "anything related to tools.jboss.org"
+  },
+  {
+    "name": "xml-structured-editor",
+    "description": "Issues related to the form based xml editor"
+  },
+  {
+    "name": "xulrunner",
+    "description": ""
+  },
+  {
+    "name": "z - Legacy - aop",
+    "description": ""
+  },
+  {
+    "name": "z - Legacy - integration",
+    "description": "Issues concerning general integration of plugins with other provided plugins, OS, etc.No longer used - use the label \"integration\" instead."
+  },
+  {
+    "name": "z - Legacy - libmanagement",
+    "description": "issues concerning managing lib dependenciesSince 2011/09/01 no longer a used component - use \"libmanagement\" tag instead. "
+  },
+  {
+    "name": "z - Legacy - Plan",
+    "description": "Since 2011/09/01 no longer used as component"
+  },
+  {
+    "name": "z - Legacy - xdoclet",
+    "description": ""
+  },
+  {
+    "name": "z - Legacy - xforms",
+    "description": "Experimental support for xforms"
+  },
+  {
+    "name": "z - locus",
+    "description": "Replaced by: https://jira.jboss.org/browse/LOCUS JBoss Tools \"Orbit\" with 3rd party dependencies that are not p2/osgi packaged"
+  }
+]

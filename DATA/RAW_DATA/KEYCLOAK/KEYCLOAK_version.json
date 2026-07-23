@@ -1,0 +1,980 @@
+[
+  {
+    "name": "11.0.3",
+    "release_date": "2020-11-05",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.0-alpha-1",
+    "release_date": "2014-01-23",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.0-alpha-2",
+    "release_date": "2014-02-20",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.0-alpha-3",
+    "release_date": "2014-03-12",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.0-alpha-4",
+    "release_date": "2014-03-13",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.0-beta-1",
+    "release_date": "2014-05-29",
+    "released": 1,
+    "description": "Feature freeze"
+  },
+  {
+    "name": "1.0-beta-2",
+    "release_date": "2014-06-02",
+    "released": 1,
+    "description": "emergency bug fix"
+  },
+  {
+    "name": "1.0-beta-3",
+    "release_date": "2014-06-18",
+    "released": 1,
+    "description": "Bug fixes"
+  },
+  {
+    "name": "1.0-beta-4",
+    "release_date": "2014-08-05",
+    "released": 1,
+    "description": "Performance"
+  },
+  {
+    "name": "1.0-rc-1",
+    "release_date": "2014-08-20",
+    "released": 1,
+    "description": "Security"
+  },
+  {
+    "name": "1.0-rc-2",
+    "release_date": "2014-09-01",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.0-final",
+    "release_date": "2014-09-10",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.0.1.Final",
+    "release_date": "2014-09-18",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.0.2.Final",
+    "release_date": "2014-10-08",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.0.3.Final",
+    "release_date": "2014-10-28",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.0.4.Final",
+    "release_date": "2014-10-29",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.0.5.Final",
+    "release_date": "2015-01-22",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.1.0.Beta1",
+    "release_date": "2014-11-05",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.1.0.Beta2",
+    "release_date": "",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.1.0.Final",
+    "release_date": "2015-01-28",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.2.0.Beta1",
+    "release_date": "2015-04-02",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.2.0.CR1",
+    "release_date": "2015-05-05",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.2.0.Final",
+    "release_date": "2015-05-19",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.3.0.Final",
+    "release_date": "2015-06-18",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.3.1.Final",
+    "release_date": "2015-06-18",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.4.0.Final",
+    "release_date": "2015-07-29",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.5.0.Final",
+    "release_date": "2015-09-04",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.5.1.Final",
+    "release_date": "2015-10-13",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.6.0.Final",
+    "release_date": "2015-10-20",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.6.1.Final",
+    "release_date": "2015-10-27",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.7.0.CR1",
+    "release_date": "2015-12-03",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.7.0.Final",
+    "release_date": "2015-12-08",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.8.0.CR1",
+    "release_date": "2016-01-13",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.8.0.CR2",
+    "release_date": "2016-01-20",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.8.0.CR3",
+    "release_date": "2016-01-22",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.8.0.Final",
+    "release_date": "2016-01-29",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.8.1.Final",
+    "release_date": "2016-02-04",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.9.0.CR1",
+    "release_date": "2016-02-04",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.9.0.Final",
+    "release_date": "2016-02-23",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.9.1.Final",
+    "release_date": "2016-03-09",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.9.2.Final",
+    "release_date": "2016-04-14",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.9.3.Final",
+    "release_date": "2016-04-28",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.9.4.Final",
+    "release_date": "2016-05-09",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.9.5.Final",
+    "release_date": "2016-05-26",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.9.7.Final",
+    "release_date": "2016-06-03",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "1.9.8.Final",
+    "release_date": "2016-06-13",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "2.0.0.CR1",
+    "release_date": "2016-06-23",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "2.0.0.Final",
+    "release_date": "2016-06-30",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "2.1.0.CR1",
+    "release_date": "2016-08-03",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "2.1.0.Final",
+    "release_date": "2016-08-10",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "2.2.0.CR1",
+    "release_date": "2016-09-09",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "2.2.0.Final",
+    "release_date": "2016-09-15",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "2.2.1.Final",
+    "release_date": "2016-09-21",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "2.3.0.CR1",
+    "release_date": "2016-10-21",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "2.3.0.Final",
+    "release_date": "2016-10-26",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "2.4.0.CR1",
+    "release_date": "2016-11-21",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "2.4.0.Final",
+    "release_date": "2016-11-23",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "2.5.0.CR1",
+    "release_date": "2016-12-22",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "2.5.0.Final",
+    "release_date": "2017-01-03",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "2.5.1.Final",
+    "release_date": "2017-01-26",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "2.5.2.Final",
+    "release_date": "2017-01-27",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "2.5.3.Final",
+    "release_date": "2017-01-30",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "2.5.4.Final",
+    "release_date": "2017-02-22",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "2.5.5.Final",
+    "release_date": "2017-03-15",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "RH-SSO-7.1.z",
+    "release_date": "2017-03-31",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "3.0.0.CR1",
+    "release_date": "2017-03-16",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "3.0.0.Final",
+    "release_date": "2017-03-22",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "3.1.0.CR1",
+    "release_date": "2017-04-27",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "3.1.0.Final",
+    "release_date": "2017-05-03",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "3.1.1.Final",
+    "release_date": "",
+    "released": 1,
+    "description": "RHSSO tag only"
+  },
+  {
+    "name": "3.2.0.CR1",
+    "release_date": "2017-06-30",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "3.2.0.Final",
+    "release_date": "2017-07-05",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "3.2.1.Final",
+    "release_date": "2017-07-21",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "3.3.0.CR1",
+    "release_date": "2017-08-23",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "3.3.0.CR2",
+    "release_date": "2017-09-13",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "3.3.0.Final",
+    "release_date": "2017-10-27",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "3.4.0.CR1",
+    "release_date": "2017-11-08",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "3.4.0.Final",
+    "release_date": "2017-11-10",
+    "released": 1,
+    "description": "Feature freeze 3.x"
+  },
+  {
+    "name": "3.4.1.CR1",
+    "release_date": "2017-11-30",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "3.4.1.Final",
+    "release_date": "2017-12-08",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "3.4.2.Final",
+    "release_date": "2017-12-21",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "3.4.3.Final",
+    "release_date": "2018-01-04",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "RH-SSO-7.2.z",
+    "release_date": "2018-01-31",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "4.0.0.Beta1",
+    "release_date": "2018-03-22",
+    "released": 1,
+    "description": "Sprint #2"
+  },
+  {
+    "name": "4.0.0.Beta2",
+    "release_date": "2018-05-02",
+    "released": 1,
+    "description": "Sprint #3"
+  },
+  {
+    "name": "4.0.0.Beta3",
+    "release_date": "2018-05-24",
+    "released": 1,
+    "description": "Sprint #4"
+  },
+  {
+    "name": "4.0.0.Final",
+    "release_date": "2018-06-13",
+    "released": 1,
+    "description": "Sprint #7"
+  },
+  {
+    "name": "4.1.0.Final",
+    "release_date": "2018-07-04",
+    "released": 1,
+    "description": "Sprint #8"
+  },
+  {
+    "name": "4.2.0.Final",
+    "release_date": "2018-08-01",
+    "released": 1,
+    "description": "Sprint #9"
+  },
+  {
+    "name": "4.2.1.Final",
+    "release_date": "2018-08-03",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "4.3.0.Final",
+    "release_date": "2018-08-15",
+    "released": 1,
+    "description": "Sprint #10"
+  },
+  {
+    "name": "4.4.0.Final",
+    "release_date": "2018-09-05",
+    "released": 1,
+    "description": "Sprint #11"
+  },
+  {
+    "name": "4.5.0.Final",
+    "release_date": "2018-09-26",
+    "released": 1,
+    "description": "Sprint #12"
+  },
+  {
+    "name": "4.6.0.Final",
+    "release_date": "2018-11-14",
+    "released": 1,
+    "description": "RH-SSO 7.3.0.ER1"
+  },
+  {
+    "name": "4.7.0.Final",
+    "release_date": "2018-12-04",
+    "released": 1,
+    "description": "RH-SSO 7.3.0.ER1"
+  },
+  {
+    "name": "4.8.0.Final",
+    "release_date": "2018-12-17",
+    "released": 1,
+    "description": "RH-SSO 7.3.0.CR1"
+  },
+  {
+    "name": "4.8.1.Final",
+    "release_date": "2018-12-19",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "4.8.2.Final",
+    "release_date": "2019-01-03",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "4.8.3.Final",
+    "release_date": "2019-01-15",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "RH-SSO-7.3.0",
+    "release_date": "2019-01-31",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "4-post-release",
+    "release_date": "",
+    "released": 0,
+    "description": "RH-SSO 7.3.0.GA tasks"
+  },
+  {
+    "name": "5.0.0",
+    "release_date": "2019-03-06",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "6.0.0",
+    "release_date": "2019-04-17",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "6.0.1",
+    "release_date": "2019-04-24",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "RH-SSO-7.2.7",
+    "release_date": "2019-04-23",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "RH-SSO-CD-6",
+    "release_date": "2019-05-15",
+    "released": 1,
+    "description": "Keycloak 6.0.1"
+  },
+  {
+    "name": "RH-SSO-7.3.1",
+    "release_date": "2019-05-09",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "RH-SSO-7.3.2",
+    "release_date": "2019-06-11",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "RH-SSO-7.3.3",
+    "release_date": "2019-08-15",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "7.0.0",
+    "release_date": "2019-08-24",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "RH-SSO-CD-7",
+    "release_date": "2019-08-22",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "RH-SSO-7.3.4",
+    "release_date": "2019-10-15",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "7.0.1",
+    "release_date": "2019-10-16",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "RH-SSO-7.4.0.DR1",
+    "release_date": "",
+    "released": 0,
+    "description": "Based on Keycloak 7 - Internal test build"
+  },
+  {
+    "name": "RH-SSO-7.3.5",
+    "release_date": "2019-12-02",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "8.0.0",
+    "release_date": "2019-11-15",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "8.0.1",
+    "release_date": "2019-12-02",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "RH-SSO-7.3.6",
+    "release_date": "",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "8.0.2",
+    "release_date": "",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "9.0.0",
+    "release_date": "2020-02-17",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "RH-SSO-7.3.7",
+    "release_date": "2020-03-23",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "RH-SSO-7.3.8",
+    "release_date": "2020-05-12",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "9.0.2",
+    "release_date": "2020-03-24",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "9.0.3",
+    "release_date": "2020-04-29",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "RH-SSO-7.4.0",
+    "release_date": "2020-04-09",
+    "released": 1,
+    "description": "Based on Keycloak 8"
+  },
+  {
+    "name": "RH-SSO-7.4.0-IBM-Z",
+    "release_date": "",
+    "released": 1,
+    "description": "Special release of OCP image and operator for IBM s390x arch"
+  },
+  {
+    "name": "RH-SSO-IBM-ARCHS",
+    "release_date": "",
+    "released": 0,
+    "description": "Special release to accommodate tasks for IBM PE"
+  },
+  {
+    "name": "10.0.0",
+    "release_date": "2020-04-29",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "10.0.1",
+    "release_date": "2020-05-08",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "10.0.2",
+    "release_date": "2020-06-02",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "RH-SSO-7.4.1",
+    "release_date": "2020-06-04",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "11.0.0",
+    "release_date": "2020-07-22",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "11.0.1",
+    "release_date": "2020-08-21",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "RH-SSO-7.4.2",
+    "release_date": "2020-08-20",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "RH-SSO-7.4.3",
+    "release_date": "2020-11-04",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "11.0.2",
+    "release_date": "2020-08-31",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "12.0.0",
+    "release_date": "2020-12-16",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "12.0.1",
+    "release_date": "2020-12-18",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "RH-SSO-7.4.4",
+    "release_date": "2020-12-16",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "12.0.2",
+    "release_date": "2021-01-19",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "RH-SSO-7.4.5",
+    "release_date": "2021-01-29",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "12.0.3",
+    "release_date": "2021-02-16",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "12.0.4",
+    "release_date": "2021-03-01",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "13.0.0",
+    "release_date": "2021-05-06",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "RH-SSO-7.4.6",
+    "release_date": "2021-03-23",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "13.0.1",
+    "release_date": "2021-05-25",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "RH-SSO-7.3.9",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "RH-SSO-7.4.7",
+    "release_date": "2021-05-20",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "14.0.0",
+    "release_date": "2021-06-18",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "15.0.0",
+    "release_date": "2021-07-30",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "15.0.0-postrelease",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "RH-SSO-7.5.0",
+    "release_date": "2021-09-20",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "RH-SSO-7.4.8",
+    "release_date": "2021-07-28",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "midstream",
+    "release_date": "",
+    "released": 0,
+    "description": "version to use for midstream releted issue"
+  },
+  {
+    "name": "RH-SSO-7.4.9",
+    "release_date": "2021-09-23",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "RH-SSO-7.5.1",
+    "release_date": "2022-01-17",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "15.1.0",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "16.0.0",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "17.0.0",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "Backlog",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "RH-SSO-7.4.10",
+    "release_date": "2021-12-15",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "15.0.1",
+    "release_date": "2021-08-07",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "15.0.2",
+    "release_date": "2021-08-20",
+    "released": 1,
+    "description": ""
+  }
+]

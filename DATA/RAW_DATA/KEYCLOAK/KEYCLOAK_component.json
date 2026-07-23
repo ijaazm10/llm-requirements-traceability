@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Account - Console",
+    "description": "User self-service console/UI"
+  },
+  {
+    "name": "Account - REST API",
+    "description": "User self-service REST APIs"
+  },
+  {
+    "name": "Adapter - Fuse",
+    "description": "Client libraries for Fuse"
+  },
+  {
+    "name": "Adapter - Java CLI",
+    "description": ""
+  },
+  {
+    "name": "Adapter - JavaScript",
+    "description": "Client libraries for client-side JavaScript (single-page applications)"
+  },
+  {
+    "name": "Adapter - JEE",
+    "description": "Client libraries for JEE (WildFly, Tomcat, Jetty)"
+  },
+  {
+    "name": "Adapter - JEE SAML",
+    "description": "SAML client libraries for JEE (WildFly, Tomcat, Jetty)"
+  },
+  {
+    "name": "Adapter - Node.js",
+    "description": "Client libraries for server-side JavaScript"
+  },
+  {
+    "name": "Adapter - Spring",
+    "description": "Client libraries for Spring Boot and Spring Security"
+  },
+  {
+    "name": "Admin - CLI",
+    "description": "CLI tools for administrative tasks and client registration"
+  },
+  {
+    "name": "Admin - Console",
+    "description": "Administrative console/UI"
+  },
+  {
+    "name": "Admin - Fine Grained Permissions",
+    "description": "Admin permissions leveraging authorization services (preview)"
+  },
+  {
+    "name": "Admin - REST API",
+    "description": "Administration REST APIs"
+  },
+  {
+    "name": "Authentication",
+    "description": "Authentication flows, actions, login pages"
+  },
+  {
+    "name": "Authorization Services",
+    "description": "Centralized authorization service"
+  },
+  {
+    "name": "Automation",
+    "description": "GitHub Actions, Travis, and internal Jenkins"
+  },
+  {
+    "name": "Container",
+    "description": "Container based distributions of Keycloak server"
+  },
+  {
+    "name": "Container - Operator",
+    "description": "Kubernetes Operator"
+  },
+  {
+    "name": "Core",
+    "description": "Keycloak core framework, including SPIs"
+  },
+  {
+    "name": "Dependencies",
+    "description": "Issues in external dependencies"
+  },
+  {
+    "name": "Distribution - Quarkus",
+    "description": "WildFly based distribution of Keycloak server"
+  },
+  {
+    "name": "Distribution - WildFly",
+    "description": "Quarkus based distribution of Keycloak server"
+  },
+  {
+    "name": "Documentation",
+    "description": "Keycloak documentation"
+  },
+  {
+    "name": "Gatekeeper",
+    "description": "Moved to Louketo [EOL 21st November 2020]"
+  },
+  {
+    "name": "Import/Export",
+    "description": "Import and export from storage to JSON"
+  },
+  {
+    "name": "Infinispan",
+    "description": "Clustering, invalidation caches, and replicated caches"
+  },
+  {
+    "name": "LDAP",
+    "description": "User federation from LDAP"
+  },
+  {
+    "name": "OIDC",
+    "description": "OpenID Connect and OAuth 2.0"
+  },
+  {
+    "name": "OpenShift Integration",
+    "description": "Replacing OpenShift's internal IdP with Keycloak"
+  },
+  {
+    "name": "Quickstarts",
+    "description": "Getting started code examples for securing applications"
+  },
+  {
+    "name": "RH-SSO",
+    "description": "Product offering related issues"
+  },
+  {
+    "name": "SAML",
+    "description": "SAML 2.0"
+  },
+  {
+    "name": "Storage",
+    "description": "Persistent storage to database"
+  },
+  {
+    "name": "Testsuite",
+    "description": "Integration testing, including performance testsuite"
+  },
+  {
+    "name": "Token Exchange",
+    "description": "Token exchange service (preview)"
+  },
+  {
+    "name": "Translations",
+    "description": "Community maintained translations for Keycloak UIs"
+  },
+  {
+    "name": "User Profile",
+    "description": ""
+  },
+  {
+    "name": "Website",
+    "description": "keycloak.org website"
+  }
+]

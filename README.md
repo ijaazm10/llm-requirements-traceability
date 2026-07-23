@@ -1,34 +1,45 @@
-# LLM Requirements Traceability Benchmark & Pipeline
+# LLM Requirements Traceability Thesis Artefacts
 
-This repository contains the code, processed benchmark data, saved predictions, and analysis artifacts for a master's thesis on large language models for cross-level requirements traceability in Jira issue hierarchies.
+This repository contains the data, scripts, predictions, result summaries, and figures produced for a master's thesis on large language models for cross-level requirements traceability.
 
 The study evaluates traceability link recovery as the second stage of a retrieve-then-classify pipeline. Instead of testing on random non-links, each positive hierarchy link is paired with semantically similar hard negatives mined with Qwen3 embeddings. This makes the classification task deliberately difficult: models must distinguish true refinement or decomposition links from issue pairs that look plausible under lexical or embedding similarity.
 
 ## Repository Scope
 
-This is a transparent research artifact, not a fully raw-data-to-model reproduction package.
+The repository is an archive of the artefacts used and produced during the thesis. It is intended to make the experimental record inspectable and to connect the reported results to the corresponding data and implementation.
 
-- The raw Jira exports are not redistributed because the original data was provided by Tian et al. and redistribution rights for the raw dumps were not cleared.
-- The processed benchmark under `DATA/.GROUND_TRUTH/` is included.
-- The exact saved predictions under `RESULTS/` are included, so the reported metrics, significance checks, link-type breakdowns, and figures can be recomputed without a GPU.
-- Full LLM inference and QLoRA fine-tuning scripts are included for inspection and reruns, but require suitable hardware/API access.
+It is not currently presented as a self-contained reproduction package. Model weights, trained adapters, retrieval indexes, exact software environments, API access, and compute infrastructure are not packaged. A publication-oriented release may add these elements later.
 
 ## Repository Structure
 
 ```text
 llm-requirements-traceability/
-|-- DATA/       # Processed benchmark data, split files, and data-construction scripts
-|-- SCRIPT/     # Baselines, LLM/RAG/LoRA evaluation scripts, statistics, and figure generation
-|-- RESULTS/    # Saved predictions, result summaries, significance tests, and generated figures
+|-- DATA/
+|   |-- RAW_DATA/       # Source Jira exports
+|   `-- .GROUND_TRUTH/  # Constructed benchmark and fixed pair splits
+|-- SCRIPT/             # Data-analysis and experiment implementations
+|-- RESULTS/            # Predictions, result summaries, tests, and figures
 |-- docs/       # README figures
 |-- README.md
 ```
 
 Detailed documentation:
 
-- [DATA/README.md](DATA/README.md): processed benchmark structure, project-level counts, and raw-data policy.
-- [SCRIPT/README.md](SCRIPT/README.md): script order, what is CPU-verifiable, and what requires GPU/API access.
-- [RESULTS/README.md](RESULTS/README.md): saved prediction files, statistical JSONs, and figure artifacts.
+- [DATA/README.md](DATA/README.md): source exports, benchmark construction, and project-level counts.
+- [SCRIPT/README.md](SCRIPT/README.md): high-level method descriptions and script-to-result mapping.
+- [RESULTS/README.md](RESULTS/README.md): prediction directories, consolidated outputs, and figures.
+
+## Experimental Flow
+
+1. The Jira exports in `DATA/RAW_DATA/` provide issue text, issue types, and recorded links for eight open-source projects.
+2. The two scripts in `DATA/` reconstruct the mapped adjacent-level hierarchy and create the fixed 1:3 hard-negative train, validation, and test pairs in `DATA/.GROUND_TRUTH/`.
+3. Scripts `1`-`3` establish TF-IDF, sentence-embedding, and frozen-BERT baselines.
+4. Script `4` screens open-weight LLMs; script `5` evaluates the selected Gemma 4 31B model without project-specific adaptation.
+5. Scripts `6`-`8` evaluate retrieval-augmented in-context learning, QLoRA fine-tuning, and their combination.
+6. Scripts `9c`-`9e` provide the matched Claude Sonnet 4.6 and GPT-5.4 zero-shot comparisons.
+7. Scripts `9`, `10`, and `11` produce the link-type analysis, project-level statistical checks, and thesis figures.
+
+The exact input and output locations for each script are listed in [SCRIPT/README.md](SCRIPT/README.md).
 
 ## Benchmark Summary
 
@@ -76,26 +87,9 @@ All values below are macro-averaged over the eight projects using clean scoring 
 3. Project-specific adaptation improves the local open-weight model. RAG-B reaches macro F2 = 0.7878, LoRA V4 reaches macro F2 = 0.7537, and the combined LoRA+RAG configuration reaches macro F2 = 0.7947.
 4. The combined method has the highest absolute macro F2, but its advantage over RAG-B is not statistically robust across the eight projects (Wilcoxon p = 1.0000; bootstrap 95% CI [-0.0102, 0.0309]).
 
-## Zero-GPU Verification
-
-The expensive model outputs are committed as prediction JSON files. On a standard machine, you can recompute the statistical and figure artifacts without rerunning LLM inference:
-
-```bash
-python SCRIPT/10_significance_tests.py
-python SCRIPT/9.stratified_eval_by_link_type.py
-python SCRIPT/11_generate_thesis_figures_v2.py
-```
-
-For the CPU-only verification scripts, install:
-
-```bash
-pip install -r requirements-cpu.txt
-```
-
-Full local LLM inference/fine-tuning requires additional GPU dependencies and an H100-class setup or equivalent multi-GPU environment.
-
 ## License and Provenance
 
 - Code, scripts, and committed prediction files are released under the MIT License.
-- The processed benchmark in `DATA/.GROUND_TRUTH/` is derived from Jira exports of public open-source projects originally collected by Tian et al.
-- Raw Jira exports are not included. `DATA/RAW_DATA/` is intentionally ignored.
+- The Jira exports originate from eight public open-source projects and were obtained through the dataset resources supplied by Tian et al.
+- The source exports retain the provenance and terms of their originating projects and are not relicensed under this repository's MIT License.
+- The processed benchmark in `DATA/.GROUND_TRUTH/` was constructed from those exports for this thesis.

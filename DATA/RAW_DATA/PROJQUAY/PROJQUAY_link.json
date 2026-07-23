@@ -1,0 +1,3318 @@
+[
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-3361",
+    "target": "PROJQUAY-3149"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-3361",
+    "target": "PROJQUAY-3216"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-3361",
+    "target": "PROJQUAY-3261"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-3361",
+    "target": "PROJQUAY-3079"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-3361",
+    "target": "PROJQUAY-3086"
+  },
+  {
+    "ltype": "Cloners",
+    "source": "PROJQUAY-3361",
+    "target": "PROJQUAY-2845"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-3356",
+    "target": "PROJQUAY-3335"
+  },
+  {
+    "ltype": "Cloners",
+    "source": "PROJQUAY-3354",
+    "target": "PROJQUAY-3335"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-3335",
+    "target": "PROJQUAY-3337"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-3335",
+    "target": "PROJQUAY-3317"
+  },
+  {
+    "ltype": "Cloners",
+    "source": "PROJQUAY-3335",
+    "target": "PROJQUAY-3028"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-3280",
+    "target": "PROJQUAY-3281"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-3278",
+    "target": "PROJQUAY-3259"
+  },
+  {
+    "ltype": "Duplicate",
+    "source": "PROJQUAY-3277",
+    "target": "PROJQUAY-3080"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-3229",
+    "target": "PROJQUAY-302"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-3227",
+    "target": "PROJQUAY-891"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-3226",
+    "target": "PROJQUAY-2035"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-3225",
+    "target": "PROJQUAY-2110"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-3224",
+    "target": "PROJQUAY-253"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-3223",
+    "target": "PROJQUAY-295"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-3222",
+    "target": "PROJQUAY-465"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-3221",
+    "target": "PROJQUAY-2504"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-3216",
+    "target": "PROJQUAY-2856"
+  },
+  {
+    "ltype": "Cloners",
+    "source": "PROJQUAY-3216",
+    "target": "PROJQUAY-1949"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-3203",
+    "target": "PROJQUAY-943"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-3202",
+    "target": "PROJQUAY-3199"
+  },
+  {
+    "ltype": "is-subtask-of",
+    "source": "PROJQUAY-3201",
+    "target": "PROJQUAY-3199"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-3200",
+    "target": "PROJQUAY-3350"
+  },
+  {
+    "ltype": "is-subtask-of",
+    "source": "PROJQUAY-3200",
+    "target": "PROJQUAY-3199"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-3199",
+    "target": "PROJQUAY-3350"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-3199",
+    "target": "PROJQUAY-3115"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-3183",
+    "target": "PROJQUAY-3005"
+  },
+  [
+    "PROJQUAY-3164",
+    "PROJQUAY-3319"
+  ],
+  [
+    "PROJQUAY-3164",
+    "PROJQUAY-3230"
+  ],
+  [
+    "PROJQUAY-3164",
+    "PROJQUAY-3229"
+  ],
+  [
+    "PROJQUAY-3164",
+    "PROJQUAY-3227"
+  ],
+  [
+    "PROJQUAY-3164",
+    "PROJQUAY-3226"
+  ],
+  [
+    "PROJQUAY-3164",
+    "PROJQUAY-3225"
+  ],
+  [
+    "PROJQUAY-3164",
+    "PROJQUAY-3224"
+  ],
+  [
+    "PROJQUAY-3164",
+    "PROJQUAY-3223"
+  ],
+  [
+    "PROJQUAY-3164",
+    "PROJQUAY-3222"
+  ],
+  [
+    "PROJQUAY-3164",
+    "PROJQUAY-3221"
+  ],
+  [
+    "PROJQUAY-3164",
+    "PROJQUAY-3201"
+  ],
+  [
+    "PROJQUAY-3164",
+    "PROJQUAY-3163"
+  ],
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-3163",
+    "target": "PROJQUAY-2411"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-3162",
+    "target": "PROJQUAY-3028"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-3117",
+    "target": "PROJQUAY-2504"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-3115",
+    "target": "PROJQUAY-3028"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-3108",
+    "target": "PROJQUAY-2242"
+  },
+  {
+    "ltype": "Duplicate",
+    "source": "PROJQUAY-3074",
+    "target": "PROJQUAY-2771"
+  },
+  {
+    "ltype": "Duplicate",
+    "source": "PROJQUAY-3073",
+    "target": "PROJQUAY-2771"
+  },
+  {
+    "ltype": "finish-start [GANTT]",
+    "source": "PROJQUAY-3063",
+    "target": "PROJQUAY-3033"
+  },
+  {
+    "ltype": "Gantt: start-finish",
+    "source": "PROJQUAY-3061",
+    "target": "PROJQUAY-2802"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-3050",
+    "target": "PROJQUAY-295"
+  },
+  {
+    "ltype": "finish-start [GANTT]",
+    "source": "PROJQUAY-3033",
+    "target": "PROJQUAY-3030"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-3032",
+    "target": "PROJQUAY-3031"
+  },
+  {
+    "ltype": "finish-start [GANTT]",
+    "source": "PROJQUAY-3030",
+    "target": "PROJQUAY-3029"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-3028",
+    "target": "PROJQUAY-3119"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-3028",
+    "target": "PROJQUAY-2732"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-3028",
+    "target": "PROJQUAY-1812"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-3028",
+    "target": "PROJQUAY-2335"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-3028",
+    "target": "PROJQUAY-2696"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-3028",
+    "target": "PROJQUAY-2869"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-3028",
+    "target": "PROJQUAY-2941"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-3028",
+    "target": "PROJQUAY-2984"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-3028",
+    "target": "PROJQUAY-3169"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-3028",
+    "target": "PROJQUAY-2049"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-3028",
+    "target": "PROJQUAY-2067"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-3028",
+    "target": "PROJQUAY-1624"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-3028",
+    "target": "PROJQUAY-2898"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-3028",
+    "target": "PROJQUAY-2973"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-3028",
+    "target": "PROJQUAY-2989"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-3028",
+    "target": "PROJQUAY-3239"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-3028",
+    "target": "PROJQUAY-3238"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-3028",
+    "target": "PROJQUAY-2080"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-3028",
+    "target": "PROJQUAY-3179"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2971",
+    "target": "PROJQUAY-2921"
+  },
+  {
+    "ltype": "finish-start [GANTT]",
+    "source": "PROJQUAY-2938",
+    "target": "PROJQUAY-2936"
+  },
+  {
+    "ltype": "finish-start [GANTT]",
+    "source": "PROJQUAY-2937",
+    "target": "PROJQUAY-2936"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2913",
+    "target": "PROJQUAY-2931"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2913",
+    "target": "PROJQUAY-2853"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2877",
+    "target": "PROJQUAY-3060"
+  },
+  [
+    "PROJQUAY-2861",
+    "PROJQUAY-507"
+  ],
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-2856",
+    "target": "PROJQUAY-1949"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-2845",
+    "target": "PROJQUAY-1932"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-2845",
+    "target": "PROJQUAY-1645"
+  },
+  {
+    "ltype": "Account",
+    "source": "PROJQUAY-2837",
+    "target": "PROJQUAY-1193"
+  },
+  {
+    "ltype": "Cloners",
+    "source": "PROJQUAY-2808",
+    "target": "PROJQUAY-302"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2804",
+    "target": "PROJQUAY-2744"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2804",
+    "target": "PROJQUAY-2013"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2804",
+    "target": "PROJQUAY-2771"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2804",
+    "target": "PROJQUAY-2014"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2786",
+    "target": "PROJQUAY-2728"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2785",
+    "target": "PROJQUAY-2596"
+  },
+  {
+    "ltype": "Sequence",
+    "source": "PROJQUAY-2739",
+    "target": "PROJQUAY-2659"
+  },
+  {
+    "ltype": "Cloners",
+    "source": "PROJQUAY-2728",
+    "target": "PROJQUAY-1861"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2724",
+    "target": "PROJQUAY-740"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-2718",
+    "target": "PROJQUAY-2690"
+  },
+  {
+    "ltype": "Cloners",
+    "source": "PROJQUAY-2636",
+    "target": "PROJQUAY-1609"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2636",
+    "target": "PROJQUAY-2438"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2636",
+    "target": "PROJQUAY-2440"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2636",
+    "target": "PROJQUAY-2441"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2636",
+    "target": "PROJQUAY-2442"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2636",
+    "target": "PROJQUAY-2445"
+  },
+  [
+    "PROJQUAY-2633",
+    "PROJQUAY-2634"
+  ],
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2597",
+    "target": "PROJQUAY-2525"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2567",
+    "target": "PROJQUAY-2422"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2567",
+    "target": "PROJQUAY-1926"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2559",
+    "target": "PROJQUAY-2545"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2530",
+    "target": "PROJQUAY-1609"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2529",
+    "target": "PROJQUAY-1449"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2528",
+    "target": "PROJQUAY-1724"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-2504",
+    "target": "PROJQUAY-2110"
+  },
+  [
+    "PROJQUAY-2504",
+    "PROJQUAY-3056"
+  ],
+  [
+    "PROJQUAY-2504",
+    "PROJQUAY-3055"
+  ],
+  [
+    "PROJQUAY-2504",
+    "PROJQUAY-1723"
+  ],
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-2503",
+    "target": "PROJQUAY-1696"
+  },
+  {
+    "ltype": "Cloners",
+    "source": "PROJQUAY-2480",
+    "target": "PROJQUAY-2219"
+  },
+  {
+    "ltype": "Cloners",
+    "source": "PROJQUAY-2479",
+    "target": "PROJQUAY-2219"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2479",
+    "target": "PROJQUAY-2506"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2434",
+    "target": "PROJQUAY-2311"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2423",
+    "target": "PROJQUAY-2615"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2423",
+    "target": "PROJQUAY-2668"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2423",
+    "target": "PROJQUAY-2389"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2423",
+    "target": "PROJQUAY-2499"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2423",
+    "target": "PROJQUAY-2545"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2423",
+    "target": "PROJQUAY-2335"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2423",
+    "target": "PROJQUAY-2334"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-2368",
+    "target": "PROJQUAY-111"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-2360",
+    "target": "PROJQUAY-106"
+  },
+  [
+    "PROJQUAY-2348",
+    "PROJQUAY-2597"
+  ],
+  [
+    "PROJQUAY-2348",
+    "PROJQUAY-2567"
+  ],
+  [
+    "PROJQUAY-2348",
+    "PROJQUAY-2530"
+  ],
+  [
+    "PROJQUAY-2348",
+    "PROJQUAY-2529"
+  ],
+  [
+    "PROJQUAY-2348",
+    "PROJQUAY-2528"
+  ],
+  [
+    "PROJQUAY-2348",
+    "PROJQUAY-2527"
+  ],
+  [
+    "PROJQUAY-2348",
+    "PROJQUAY-2526"
+  ],
+  [
+    "PROJQUAY-2348",
+    "PROJQUAY-2523"
+  ],
+  [
+    "PROJQUAY-2348",
+    "PROJQUAY-2481"
+  ],
+  [
+    "PROJQUAY-2348",
+    "PROJQUAY-2465"
+  ],
+  [
+    "PROJQUAY-2348",
+    "PROJQUAY-2464"
+  ],
+  [
+    "PROJQUAY-2348",
+    "PROJQUAY-2463"
+  ],
+  [
+    "PROJQUAY-2348",
+    "PROJQUAY-2423"
+  ],
+  [
+    "PROJQUAY-2348",
+    "PROJQUAY-2349"
+  ],
+  [
+    "PROJQUAY-2348",
+    "PROJQUAY-2297"
+  ],
+  [
+    "PROJQUAY-2348",
+    "PROJQUAY-2296"
+  ],
+  [
+    "PROJQUAY-2348",
+    "PROJQUAY-2295"
+  ],
+  [
+    "PROJQUAY-2348",
+    "PROJQUAY-2294"
+  ],
+  [
+    "PROJQUAY-2348",
+    "PROJQUAY-2231"
+  ],
+  [
+    "PROJQUAY-2348",
+    "PROJQUAY-2217"
+  ],
+  [
+    "PROJQUAY-2348",
+    "PROJQUAY-2172"
+  ],
+  [
+    "PROJQUAY-2348",
+    "PROJQUAY-2096"
+  ],
+  [
+    "PROJQUAY-2348",
+    "PROJQUAY-2075"
+  ],
+  [
+    "PROJQUAY-2348",
+    "PROJQUAY-2074"
+  ],
+  [
+    "PROJQUAY-2348",
+    "PROJQUAY-1950"
+  ],
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2297",
+    "target": "PROJQUAY-2035"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2296",
+    "target": "PROJQUAY-1932"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2296",
+    "target": "PROJQUAY-1446"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-2295",
+    "target": "PROJQUAY-2427"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2295",
+    "target": "PROJQUAY-1032"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2294",
+    "target": "PROJQUAY-543"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2294",
+    "target": "PROJQUAY-1535"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-2283",
+    "target": "PROJQUAY-2282"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-2282",
+    "target": "PROJQUAY-2281"
+  },
+  {
+    "ltype": "Duplicate",
+    "source": "PROJQUAY-2247",
+    "target": "PROJQUAY-2519"
+  },
+  {
+    "ltype": "Duplicate",
+    "source": "PROJQUAY-2246",
+    "target": "PROJQUAY-2362"
+  },
+  {
+    "ltype": "Sequence",
+    "source": "PROJQUAY-2245",
+    "target": "PROJQUAY-1454"
+  },
+  [
+    "PROJQUAY-2245",
+    "PROJQUAY-3261"
+  ],
+  [
+    "PROJQUAY-2245",
+    "PROJQUAY-3216"
+  ],
+  [
+    "PROJQUAY-2245",
+    "PROJQUAY-3149"
+  ],
+  [
+    "PROJQUAY-2245",
+    "PROJQUAY-3086"
+  ],
+  [
+    "PROJQUAY-2245",
+    "PROJQUAY-3079"
+  ],
+  [
+    "PROJQUAY-2245",
+    "PROJQUAY-3005"
+  ],
+  [
+    "PROJQUAY-2245",
+    "PROJQUAY-1949"
+  ],
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2242",
+    "target": "PROJQUAY-3109"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-2237",
+    "target": "PROJQUAY-2046"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2231",
+    "target": "PROJQUAY-2032"
+  },
+  {
+    "ltype": "Cloners",
+    "source": "PROJQUAY-2203",
+    "target": "PROJQUAY-2202"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2190",
+    "target": "PROJQUAY-2744"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2172",
+    "target": "PROJQUAY-2425"
+  },
+  {
+    "ltype": "Duplicate",
+    "source": "PROJQUAY-2110",
+    "target": "PROJQUAY-2128"
+  },
+  {
+    "ltype": "Sequence",
+    "source": "PROJQUAY-2110",
+    "target": "PROJQUAY-1696"
+  },
+  [
+    "PROJQUAY-2110",
+    "PROJQUAY-3254"
+  ],
+  [
+    "PROJQUAY-2110",
+    "PROJQUAY-2503"
+  ],
+  [
+    "PROJQUAY-2110",
+    "PROJQUAY-2502"
+  ],
+  [
+    "PROJQUAY-2110",
+    "PROJQUAY-2363"
+  ],
+  [
+    "PROJQUAY-2110",
+    "PROJQUAY-1696"
+  ],
+  {
+    "ltype": "Sequence",
+    "source": "PROJQUAY-2098",
+    "target": "PROJQUAY-2092"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-2090",
+    "target": "PROJQUAY-1553"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-2090",
+    "target": "PROJQUAY-1617"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-2088",
+    "target": "PROJQUAY-2087"
+  },
+  {
+    "ltype": "finish-start [GANTT]",
+    "source": "PROJQUAY-2086",
+    "target": "PROJQUAY-2085"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-2085",
+    "target": "PROJQUAY-2083"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-2084",
+    "target": "PROJQUAY-2083"
+  },
+  [
+    "PROJQUAY-2081",
+    "PROJQUAY-2272"
+  ],
+  [
+    "PROJQUAY-2081",
+    "PROJQUAY-2257"
+  ],
+  [
+    "PROJQUAY-2081",
+    "PROJQUAY-2137"
+  ],
+  [
+    "PROJQUAY-2081",
+    "PROJQUAY-2134"
+  ],
+  [
+    "PROJQUAY-2081",
+    "PROJQUAY-2133"
+  ],
+  [
+    "PROJQUAY-2081",
+    "PROJQUAY-2082"
+  ],
+  {
+    "ltype": "Sequence",
+    "source": "PROJQUAY-2050",
+    "target": "PROJQUAY-1709"
+  },
+  {
+    "ltype": "Sequence",
+    "source": "PROJQUAY-2050",
+    "target": "PROJQUAY-1694"
+  },
+  {
+    "ltype": "Superset",
+    "source": "PROJQUAY-2050",
+    "target": "PROJQUAY-1839"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-2046",
+    "target": "PROJQUAY-1449"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-2046",
+    "target": "PROJQUAY-1767"
+  },
+  {
+    "ltype": "Duplicate",
+    "source": "PROJQUAY-2046",
+    "target": "PROJQUAY-1812"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2046",
+    "target": "PROJQUAY-2068"
+  },
+  {
+    "ltype": "Superset",
+    "source": "PROJQUAY-2046",
+    "target": "PROJQUAY-951"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2040",
+    "target": "PROJQUAY-2039"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-2039",
+    "target": "PROJQUAY-2037"
+  },
+  [
+    "PROJQUAY-2035",
+    "PROJQUAY-3054"
+  ],
+  [
+    "PROJQUAY-2035",
+    "PROJQUAY-2877"
+  ],
+  [
+    "PROJQUAY-2035",
+    "PROJQUAY-2763"
+  ],
+  [
+    "PROJQUAY-2035",
+    "PROJQUAY-2745"
+  ],
+  [
+    "PROJQUAY-2035",
+    "PROJQUAY-2739"
+  ],
+  [
+    "PROJQUAY-2035",
+    "PROJQUAY-2719"
+  ],
+  [
+    "PROJQUAY-2035",
+    "PROJQUAY-2718"
+  ],
+  [
+    "PROJQUAY-2035",
+    "PROJQUAY-2636"
+  ],
+  [
+    "PROJQUAY-2035",
+    "PROJQUAY-2286"
+  ],
+  [
+    "PROJQUAY-2035",
+    "PROJQUAY-2237"
+  ],
+  [
+    "PROJQUAY-2035",
+    "PROJQUAY-2100"
+  ],
+  [
+    "PROJQUAY-2035",
+    "PROJQUAY-2050"
+  ],
+  [
+    "PROJQUAY-2035",
+    "PROJQUAY-2048"
+  ],
+  [
+    "PROJQUAY-2035",
+    "PROJQUAY-2046"
+  ],
+  [
+    "PROJQUAY-2035",
+    "PROJQUAY-1886"
+  ],
+  [
+    "PROJQUAY-2035",
+    "PROJQUAY-1883"
+  ],
+  [
+    "PROJQUAY-2035",
+    "PROJQUAY-1767"
+  ],
+  [
+    "PROJQUAY-2035",
+    "PROJQUAY-1609"
+  ],
+  [
+    "PROJQUAY-2035",
+    "PROJQUAY-1569"
+  ],
+  [
+    "PROJQUAY-2035",
+    "PROJQUAY-1090"
+  ],
+  {
+    "ltype": "Causality",
+    "source": "PROJQUAY-2026",
+    "target": "PROJQUAY-1838"
+  },
+  {
+    "ltype": "Cloners",
+    "source": "PROJQUAY-1998",
+    "target": "PROJQUAY-1950"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-1951",
+    "target": "PROJQUAY-1660"
+  },
+  {
+    "ltype": "multi-level hierarchy [GANTT]",
+    "source": "PROJQUAY-1935",
+    "target": "PROJQUAY-1823"
+  },
+  {
+    "ltype": "multi-level hierarchy [GANTT]",
+    "source": "PROJQUAY-1935",
+    "target": "PROJQUAY-1878"
+  },
+  {
+    "ltype": "multi-level hierarchy [GANTT]",
+    "source": "PROJQUAY-1935",
+    "target": "PROJQUAY-788"
+  },
+  {
+    "ltype": "multi-level hierarchy [GANTT]",
+    "source": "PROJQUAY-1934",
+    "target": "PROJQUAY-1917"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-1928",
+    "target": "PROJQUAY-2346"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-1926",
+    "target": "PROJQUAY-2422"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-1926",
+    "target": "PROJQUAY-1446"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-1918",
+    "target": "PROJQUAY-1910"
+  },
+  {
+    "ltype": "finish-start [GANTT]",
+    "source": "PROJQUAY-1914",
+    "target": "PROJQUAY-1899"
+  },
+  {
+    "ltype": "subtask",
+    "source": "PROJQUAY-1908",
+    "target": "PROJQUAY-2831"
+  },
+  {
+    "ltype": "subtask",
+    "source": "PROJQUAY-1908",
+    "target": "PROJQUAY-2832"
+  },
+  {
+    "ltype": "subtask",
+    "source": "PROJQUAY-1908",
+    "target": "PROJQUAY-2833"
+  },
+  {
+    "ltype": "subtask",
+    "source": "PROJQUAY-1908",
+    "target": "PROJQUAY-2834"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-1899",
+    "target": "PROJQUAY-1880"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-1898",
+    "target": "PROJQUAY-788"
+  },
+  {
+    "ltype": "subtask",
+    "source": "PROJQUAY-1898",
+    "target": "PROJQUAY-1902"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-1887",
+    "target": "PROJQUAY-1486"
+  },
+  {
+    "ltype": "Duplicate",
+    "source": "PROJQUAY-1885",
+    "target": "PROJQUAY-1635"
+  },
+  {
+    "ltype": "Cloners",
+    "source": "PROJQUAY-1884",
+    "target": "PROJQUAY-1294"
+  },
+  [
+    "PROJQUAY-1884",
+    "PROJQUAY-1827"
+  ],
+  [
+    "PROJQUAY-1884",
+    "PROJQUAY-1610"
+  ],
+  [
+    "PROJQUAY-1884",
+    "PROJQUAY-1479"
+  ],
+  [
+    "PROJQUAY-1884",
+    "PROJQUAY-1451"
+  ],
+  [
+    "PROJQUAY-1884",
+    "PROJQUAY-1450"
+  ],
+  [
+    "PROJQUAY-1884",
+    "PROJQUAY-1247"
+  ],
+  [
+    "PROJQUAY-1884",
+    "PROJQUAY-925"
+  ],
+  [
+    "PROJQUAY-1884",
+    "PROJQUAY-924"
+  ],
+  {
+    "ltype": "finish-start [GANTT]",
+    "source": "PROJQUAY-1870",
+    "target": "PROJQUAY-1865"
+  },
+  {
+    "ltype": "finish-start [GANTT]",
+    "source": "PROJQUAY-1870",
+    "target": "PROJQUAY-1868"
+  },
+  {
+    "ltype": "finish-start [GANTT]",
+    "source": "PROJQUAY-1870",
+    "target": "PROJQUAY-1869"
+  },
+  {
+    "ltype": "finish-start [GANTT]",
+    "source": "PROJQUAY-1870",
+    "target": "PROJQUAY-1867"
+  },
+  {
+    "ltype": "Documentation",
+    "source": "PROJQUAY-1840",
+    "target": "PROJQUAY-288"
+  },
+  {
+    "ltype": "Causality",
+    "source": "PROJQUAY-1822",
+    "target": "PROJQUAY-1747"
+  },
+  {
+    "ltype": "Cloners",
+    "source": "PROJQUAY-1746",
+    "target": "PROJQUAY-1674"
+  },
+  {
+    "ltype": "Sequence",
+    "source": "PROJQUAY-1746",
+    "target": "PROJQUAY-1705"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-1737",
+    "target": "PROJQUAY-1709"
+  },
+  [
+    "PROJQUAY-1731",
+    "PROJQUAY-503"
+  ],
+  {
+    "ltype": "Duplicate",
+    "source": "PROJQUAY-1724",
+    "target": "PROJQUAY-2014"
+  },
+  {
+    "ltype": "Duplicate",
+    "source": "PROJQUAY-1724",
+    "target": "PROJQUAY-2154"
+  },
+  [
+    "PROJQUAY-1724",
+    "PROJQUAY-2177"
+  ],
+  [
+    "PROJQUAY-1724",
+    "PROJQUAY-1848"
+  ],
+  [
+    "PROJQUAY-1724",
+    "PROJQUAY-1847"
+  ],
+  [
+    "PROJQUAY-1724",
+    "PROJQUAY-1846"
+  ],
+  [
+    "PROJQUAY-1724",
+    "PROJQUAY-1618"
+  ],
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-1690",
+    "target": "PROJQUAY-1688"
+  },
+  {
+    "ltype": "subtask",
+    "source": "PROJQUAY-1644",
+    "target": "PROJQUAY-2826"
+  },
+  {
+    "ltype": "subtask",
+    "source": "PROJQUAY-1644",
+    "target": "PROJQUAY-2827"
+  },
+  {
+    "ltype": "subtask",
+    "source": "PROJQUAY-1644",
+    "target": "PROJQUAY-2828"
+  },
+  {
+    "ltype": "subtask",
+    "source": "PROJQUAY-1644",
+    "target": "PROJQUAY-2829"
+  },
+  {
+    "ltype": "subtask",
+    "source": "PROJQUAY-1644",
+    "target": "PROJQUAY-2830"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-1609",
+    "target": "PROJQUAY-2438"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-1609",
+    "target": "PROJQUAY-2439"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-1609",
+    "target": "PROJQUAY-2440"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-1609",
+    "target": "PROJQUAY-2441"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-1609",
+    "target": "PROJQUAY-2442"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-1609",
+    "target": "PROJQUAY-2445"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-1609",
+    "target": "PROJQUAY-2447"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-1609",
+    "target": "PROJQUAY-1389"
+  },
+  {
+    "ltype": "Duplicate",
+    "source": "PROJQUAY-1601",
+    "target": "PROJQUAY-1591"
+  },
+  {
+    "ltype": "Superset",
+    "source": "PROJQUAY-1546",
+    "target": "PROJQUAY-216"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-1535",
+    "target": "PROJQUAY-2325"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-1534",
+    "target": "PROJQUAY-1532"
+  },
+  {
+    "ltype": "subtask",
+    "source": "PROJQUAY-1533",
+    "target": "PROJQUAY-1611"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-1529",
+    "target": "PROJQUAY-1505"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-1495",
+    "target": "PROJQUAY-54"
+  },
+  [
+    "PROJQUAY-1495",
+    "PROJQUAY-2707"
+  ],
+  [
+    "PROJQUAY-1495",
+    "PROJQUAY-2383"
+  ],
+  [
+    "PROJQUAY-1495",
+    "PROJQUAY-2382"
+  ],
+  [
+    "PROJQUAY-1495",
+    "PROJQUAY-2381"
+  ],
+  [
+    "PROJQUAY-1495",
+    "PROJQUAY-2380"
+  ],
+  [
+    "PROJQUAY-1495",
+    "PROJQUAY-2379"
+  ],
+  [
+    "PROJQUAY-1495",
+    "PROJQUAY-2378"
+  ],
+  [
+    "PROJQUAY-1495",
+    "PROJQUAY-2377"
+  ],
+  [
+    "PROJQUAY-1495",
+    "PROJQUAY-2376"
+  ],
+  [
+    "PROJQUAY-1495",
+    "PROJQUAY-2375"
+  ],
+  [
+    "PROJQUAY-1495",
+    "PROJQUAY-2374"
+  ],
+  [
+    "PROJQUAY-1495",
+    "PROJQUAY-2373"
+  ],
+  [
+    "PROJQUAY-1495",
+    "PROJQUAY-2372"
+  ],
+  [
+    "PROJQUAY-1495",
+    "PROJQUAY-2371"
+  ],
+  [
+    "PROJQUAY-1495",
+    "PROJQUAY-2086"
+  ],
+  [
+    "PROJQUAY-1495",
+    "PROJQUAY-2085"
+  ],
+  [
+    "PROJQUAY-1495",
+    "PROJQUAY-2084"
+  ],
+  [
+    "PROJQUAY-1495",
+    "PROJQUAY-2083"
+  ],
+  [
+    "PROJQUAY-1495",
+    "PROJQUAY-2019"
+  ],
+  [
+    "PROJQUAY-1495",
+    "PROJQUAY-1914"
+  ],
+  [
+    "PROJQUAY-1495",
+    "PROJQUAY-1899"
+  ],
+  [
+    "PROJQUAY-1495",
+    "PROJQUAY-1534"
+  ],
+  [
+    "PROJQUAY-1495",
+    "PROJQUAY-1533"
+  ],
+  [
+    "PROJQUAY-1495",
+    "PROJQUAY-1532"
+  ],
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-1490",
+    "target": "PROJQUAY-1486"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-1489",
+    "target": "PROJQUAY-1486"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-1488",
+    "target": "PROJQUAY-1486"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-1487",
+    "target": "PROJQUAY-1486"
+  },
+  {
+    "ltype": "Sequence",
+    "source": "PROJQUAY-1484",
+    "target": "PROJQUAY-288"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-1480",
+    "target": "PROJQUAY-2024"
+  },
+  {
+    "ltype": "Sequence",
+    "source": "PROJQUAY-1480",
+    "target": "PROJQUAY-1961"
+  },
+  {
+    "ltype": "subtask",
+    "source": "PROJQUAY-1480",
+    "target": "PROJQUAY-1622"
+  },
+  {
+    "ltype": "Superset",
+    "source": "PROJQUAY-1475",
+    "target": "WRKLDS-296"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-1454",
+    "target": "WRKLDS-281"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-1454",
+    "target": "RFE-1726"
+  },
+  [
+    "PROJQUAY-1454",
+    "PROJQUAY-2248"
+  ],
+  [
+    "PROJQUAY-1454",
+    "PROJQUAY-1932"
+  ],
+  [
+    "PROJQUAY-1454",
+    "PROJQUAY-1929"
+  ],
+  [
+    "PROJQUAY-1454",
+    "PROJQUAY-1928"
+  ],
+  [
+    "PROJQUAY-1454",
+    "PROJQUAY-1926"
+  ],
+  [
+    "PROJQUAY-1454",
+    "PROJQUAY-1645"
+  ],
+  [
+    "PROJQUAY-1454",
+    "PROJQUAY-1644"
+  ],
+  [
+    "PROJQUAY-1454",
+    "PROJQUAY-1478"
+  ],
+  [
+    "PROJQUAY-1454",
+    "PROJQUAY-1477"
+  ],
+  [
+    "PROJQUAY-1454",
+    "PROJQUAY-1476"
+  ],
+  [
+    "PROJQUAY-1454",
+    "PROJQUAY-1475"
+  ],
+  [
+    "PROJQUAY-1454",
+    "PROJQUAY-1474"
+  ],
+  [
+    "PROJQUAY-1454",
+    "PROJQUAY-1473"
+  ],
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-1449",
+    "target": "PROJQUAY-1955"
+  },
+  {
+    "ltype": "Sequence",
+    "source": "PROJQUAY-1422",
+    "target": "PROJQUAY-1407"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-1417",
+    "target": "PROJQUAY-2253"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-1417",
+    "target": "PROJQUAY-1032"
+  },
+  {
+    "ltype": "Causality",
+    "source": "PROJQUAY-1402",
+    "target": "PROJQUAY-1392"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-1357",
+    "target": "PROJQUAY-333"
+  },
+  [
+    "PROJQUAY-1356",
+    "PROJQUAY-1357"
+  ],
+  {
+    "ltype": "Sequence",
+    "source": "PROJQUAY-1340",
+    "target": "PROJQUAY-216"
+  },
+  [
+    "PROJQUAY-1340",
+    "PROJQUAY-1448"
+  ],
+  [
+    "PROJQUAY-1340",
+    "PROJQUAY-224"
+  ],
+  {
+    "ltype": "Sequence",
+    "source": "PROJQUAY-1303",
+    "target": "PROJQUAY-1279"
+  },
+  [
+    "PROJQUAY-1294",
+    "PROJQUAY-1885"
+  ],
+  [
+    "PROJQUAY-1294",
+    "PROJQUAY-1737"
+  ],
+  [
+    "PROJQUAY-1294",
+    "PROJQUAY-1669"
+  ],
+  [
+    "PROJQUAY-1294",
+    "PROJQUAY-1608"
+  ],
+  [
+    "PROJQUAY-1294",
+    "PROJQUAY-1449"
+  ],
+  {
+    "ltype": "Duplicate",
+    "source": "PROJQUAY-1266",
+    "target": "PROJQUAY-1537"
+  },
+  [
+    "PROJQUAY-1266",
+    "PROJQUAY-783"
+  ],
+  [
+    "PROJQUAY-1266",
+    "PROJQUAY-324"
+  ],
+  [
+    "PROJQUAY-1266",
+    "PROJQUAY-323"
+  ],
+  [
+    "PROJQUAY-1266",
+    "PROJQUAY-313"
+  ],
+  [
+    "PROJQUAY-1266",
+    "PROJQUAY-305"
+  ],
+  [
+    "PROJQUAY-1266",
+    "PROJQUAY-254"
+  ],
+  [
+    "PROJQUAY-1266",
+    "PROJQUAY-70"
+  ],
+  {
+    "ltype": "Sequence",
+    "source": "PROJQUAY-1253",
+    "target": "PROJQUAY-277"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-1247",
+    "target": "PROJQUAY-1447"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-1245",
+    "target": "PD-1266"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-1239",
+    "target": "PROJQUAY-1235"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-1078",
+    "target": "PROJQUAY-3072"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-1060",
+    "target": "PROJQUAY-954"
+  },
+  [
+    "PROJQUAY-1050",
+    "PROJQUAY-1054"
+  ],
+  [
+    "PROJQUAY-1050",
+    "PROJQUAY-1053"
+  ],
+  [
+    "PROJQUAY-1050",
+    "PROJQUAY-1052"
+  ],
+  [
+    "PROJQUAY-1050",
+    "PROJQUAY-1051"
+  ],
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-1049",
+    "target": "ODC-5615"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-1049",
+    "target": "PD-811"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-1046",
+    "target": "ODC-5615"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-1046",
+    "target": "PD-809"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-1044",
+    "target": "ODC-5615"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-1044",
+    "target": "PD-810"
+  },
+  [
+    "PROJQUAY-1042",
+    "PROJQUAY-1470"
+  ],
+  [
+    "PROJQUAY-1042",
+    "PROJQUAY-1469"
+  ],
+  [
+    "PROJQUAY-1042",
+    "PROJQUAY-1468"
+  ],
+  [
+    "PROJQUAY-1042",
+    "PROJQUAY-1049"
+  ],
+  [
+    "PROJQUAY-1042",
+    "PROJQUAY-1048"
+  ],
+  [
+    "PROJQUAY-1042",
+    "PROJQUAY-1047"
+  ],
+  [
+    "PROJQUAY-1042",
+    "PROJQUAY-1046"
+  ],
+  [
+    "PROJQUAY-1042",
+    "PROJQUAY-1045"
+  ],
+  [
+    "PROJQUAY-1042",
+    "PROJQUAY-1044"
+  ],
+  [
+    "PROJQUAY-1042",
+    "PROJQUAY-1043"
+  ],
+  [
+    "PROJQUAY-1034",
+    "PROJQUAY-1452"
+  ],
+  [
+    "PROJQUAY-1034",
+    "PROJQUAY-1041"
+  ],
+  [
+    "PROJQUAY-1034",
+    "PROJQUAY-1040"
+  ],
+  [
+    "PROJQUAY-1034",
+    "PROJQUAY-1039"
+  ],
+  [
+    "PROJQUAY-1034",
+    "PROJQUAY-1038"
+  ],
+  [
+    "PROJQUAY-1034",
+    "PROJQUAY-1037"
+  ],
+  [
+    "PROJQUAY-1034",
+    "PROJQUAY-1036"
+  ],
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-1032",
+    "target": "PROJQUAY-2271"
+  },
+  [
+    "PROJQUAY-1032",
+    "PROJQUAY-1552"
+  ],
+  [
+    "PROJQUAY-1032",
+    "PROJQUAY-1417"
+  ],
+  [
+    "PROJQUAY-968",
+    "PROJQUAY-967"
+  ],
+  [
+    "PROJQUAY-968",
+    "PROJQUAY-966"
+  ],
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-967",
+    "target": "PROJQUAY-827"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-966",
+    "target": "PROJQUAY-72"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-966",
+    "target": "PROJQUAY-76"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-966",
+    "target": "PROJQUAY-74"
+  },
+  [
+    "PROJQUAY-943",
+    "PROJQUAY-3007"
+  ],
+  [
+    "PROJQUAY-943",
+    "PROJQUAY-2104"
+  ],
+  [
+    "PROJQUAY-943",
+    "PROJQUAY-447"
+  ],
+  [
+    "PROJQUAY-943",
+    "PROJQUAY-379"
+  ],
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-921",
+    "target": "PROJQUAY-563"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-909",
+    "target": "PROJQUAY-1213"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-908",
+    "target": "PROJQUAY-870"
+  },
+  [
+    "PROJQUAY-868",
+    "PROJQUAY-870"
+  ],
+  [
+    "PROJQUAY-868",
+    "PROJQUAY-869"
+  ],
+  [
+    "PROJQUAY-852",
+    "PROJQUAY-1240"
+  ],
+  [
+    "PROJQUAY-852",
+    "PROJQUAY-1239"
+  ],
+  [
+    "PROJQUAY-852",
+    "PROJQUAY-1091"
+  ],
+  [
+    "PROJQUAY-852",
+    "PROJQUAY-1060"
+  ],
+  [
+    "PROJQUAY-852",
+    "PROJQUAY-1058"
+  ],
+  [
+    "PROJQUAY-852",
+    "PROJQUAY-909"
+  ],
+  [
+    "PROJQUAY-852",
+    "PROJQUAY-882"
+  ],
+  [
+    "PROJQUAY-852",
+    "PROJQUAY-860"
+  ],
+  [
+    "PROJQUAY-852",
+    "PROJQUAY-857"
+  ],
+  [
+    "PROJQUAY-852",
+    "PROJQUAY-855"
+  ],
+  [
+    "PROJQUAY-852",
+    "PROJQUAY-854"
+  ],
+  [
+    "PROJQUAY-852",
+    "PROJQUAY-853"
+  ],
+  [
+    "PROJQUAY-851",
+    "PROJQUAY-775"
+  ],
+  [
+    "PROJQUAY-851",
+    "PROJQUAY-761"
+  ],
+  [
+    "PROJQUAY-851",
+    "PROJQUAY-759"
+  ],
+  {
+    "ltype": "Duplicate",
+    "source": "PROJQUAY-839",
+    "target": "PROJQUAY-838"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-835",
+    "target": "PROJQUAY-861"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-835",
+    "target": "PROJQUAY-834"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-835",
+    "target": "PROJQUAY-922"
+  },
+  {
+    "ltype": "subtask",
+    "source": "PROJQUAY-830",
+    "target": "PROJQUAY-932"
+  },
+  {
+    "ltype": "subtask",
+    "source": "PROJQUAY-828",
+    "target": "PROJQUAY-937"
+  },
+  [
+    "PROJQUAY-827",
+    "PROJQUAY-1231"
+  ],
+  [
+    "PROJQUAY-827",
+    "PROJQUAY-1221"
+  ],
+  [
+    "PROJQUAY-827",
+    "PROJQUAY-1143"
+  ],
+  [
+    "PROJQUAY-827",
+    "PROJQUAY-1065"
+  ],
+  [
+    "PROJQUAY-827",
+    "PROJQUAY-954"
+  ],
+  [
+    "PROJQUAY-827",
+    "PROJQUAY-952"
+  ],
+  [
+    "PROJQUAY-827",
+    "PROJQUAY-908"
+  ],
+  [
+    "PROJQUAY-827",
+    "PROJQUAY-886"
+  ],
+  [
+    "PROJQUAY-827",
+    "PROJQUAY-865"
+  ],
+  [
+    "PROJQUAY-827",
+    "PROJQUAY-832"
+  ],
+  [
+    "PROJQUAY-827",
+    "PROJQUAY-831"
+  ],
+  [
+    "PROJQUAY-827",
+    "PROJQUAY-830"
+  ],
+  [
+    "PROJQUAY-827",
+    "PROJQUAY-829"
+  ],
+  [
+    "PROJQUAY-827",
+    "PROJQUAY-828"
+  ],
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-795",
+    "target": "PROJQUAY-729"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-788",
+    "target": "PROJQUAY-1830"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-777",
+    "target": "PROJQUAY-729"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-776",
+    "target": "PROJQUAY-480"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-775",
+    "target": "PROJQUAY-480"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-774",
+    "target": "PROJQUAY-666"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-774",
+    "target": "PROJQUAY-674"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-761",
+    "target": "PROJQUAY-729"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-759",
+    "target": "PROJQUAY-729"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-729",
+    "target": "PROJQUAY-480"
+  },
+  {
+    "ltype": "Superset",
+    "source": "PROJQUAY-709",
+    "target": "PROJQUAY-873"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-704",
+    "target": "PROJQUAY-312"
+  },
+  {
+    "ltype": "Sequence",
+    "source": "PROJQUAY-701",
+    "target": "PROJQUAY-700"
+  },
+  {
+    "ltype": "Sequence",
+    "source": "PROJQUAY-700",
+    "target": "PROJQUAY-696"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-672",
+    "target": "PROJQUAY-2276"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-648",
+    "target": "PROJQUAY-560"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-625",
+    "target": "PROJQUAY-517"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-609",
+    "target": "PROJQUAY-568"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-608",
+    "target": "PROJQUAY-293"
+  },
+  [
+    "PROJQUAY-603",
+    "PROJQUAY-995"
+  ],
+  [
+    "PROJQUAY-603",
+    "PROJQUAY-994"
+  ],
+  [
+    "PROJQUAY-603",
+    "PROJQUAY-993"
+  ],
+  [
+    "PROJQUAY-603",
+    "PROJQUAY-847"
+  ],
+  [
+    "PROJQUAY-603",
+    "PROJQUAY-606"
+  ],
+  [
+    "PROJQUAY-603",
+    "PROJQUAY-605"
+  ],
+  [
+    "PROJQUAY-603",
+    "PROJQUAY-604"
+  ],
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-568",
+    "target": "PROJQUAY-170"
+  },
+  {
+    "ltype": "Duplicate",
+    "source": "PROJQUAY-547",
+    "target": "PROJQUAY-546"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-544",
+    "target": "PROJQUAY-118"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-544",
+    "target": "PROJQUAY-119"
+  },
+  [
+    "PROJQUAY-543",
+    "PROJQUAY-1536"
+  ],
+  [
+    "PROJQUAY-543",
+    "PROJQUAY-1535"
+  ],
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-535",
+    "target": "PROJQUAY-439"
+  },
+  [
+    "PROJQUAY-530",
+    "PROJQUAY-531"
+  ],
+  {
+    "ltype": "Duplicate",
+    "source": "PROJQUAY-527",
+    "target": "PROJQUAY-525"
+  },
+  [
+    "PROJQUAY-517",
+    "PROJQUAY-522"
+  ],
+  [
+    "PROJQUAY-517",
+    "PROJQUAY-521"
+  ],
+  [
+    "PROJQUAY-517",
+    "PROJQUAY-520"
+  ],
+  [
+    "PROJQUAY-517",
+    "PROJQUAY-519"
+  ],
+  [
+    "PROJQUAY-517",
+    "PROJQUAY-518"
+  ],
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-508",
+    "target": "PROJQUAY-288"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-507",
+    "target": "PROJQUAY-506"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-503",
+    "target": "PROJQUAY-490"
+  },
+  [
+    "PROJQUAY-497",
+    "PROJQUAY-1365"
+  ],
+  [
+    "PROJQUAY-497",
+    "PROJQUAY-1353"
+  ],
+  [
+    "PROJQUAY-497",
+    "PROJQUAY-1195"
+  ],
+  [
+    "PROJQUAY-497",
+    "PROJQUAY-901"
+  ],
+  [
+    "PROJQUAY-497",
+    "PROJQUAY-565"
+  ],
+  [
+    "PROJQUAY-497",
+    "PROJQUAY-564"
+  ],
+  [
+    "PROJQUAY-497",
+    "PROJQUAY-563"
+  ],
+  [
+    "PROJQUAY-497",
+    "PROJQUAY-508"
+  ],
+  [
+    "PROJQUAY-497",
+    "PROJQUAY-506"
+  ],
+  [
+    "PROJQUAY-497",
+    "PROJQUAY-505"
+  ],
+  [
+    "PROJQUAY-497",
+    "PROJQUAY-504"
+  ],
+  [
+    "PROJQUAY-497",
+    "PROJQUAY-502"
+  ],
+  [
+    "PROJQUAY-497",
+    "PROJQUAY-501"
+  ],
+  [
+    "PROJQUAY-497",
+    "PROJQUAY-500"
+  ],
+  [
+    "PROJQUAY-497",
+    "PROJQUAY-499"
+  ],
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-489",
+    "target": "PROJQUAY-226"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-488",
+    "target": "PROJQUAY-482"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-487",
+    "target": "PROJQUAY-119"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-486",
+    "target": "PROJQUAY-118"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-485",
+    "target": "PROJQUAY-200"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-484",
+    "target": "PROJQUAY-72"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-484",
+    "target": "PROJQUAY-81"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-483",
+    "target": "PROJQUAY-302"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-465",
+    "target": "PROJQUAY-302"
+  },
+  {
+    "ltype": "Gantt: finish-finish",
+    "source": "PROJQUAY-465",
+    "target": "RFE-1608"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-465",
+    "target": "OCPNODE-521"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-465",
+    "target": "PROJQUAY-2803"
+  },
+  [
+    "PROJQUAY-465",
+    "PROJQUAY-3302"
+  ],
+  [
+    "PROJQUAY-465",
+    "PROJQUAY-3063"
+  ],
+  [
+    "PROJQUAY-465",
+    "PROJQUAY-3034"
+  ],
+  [
+    "PROJQUAY-465",
+    "PROJQUAY-3033"
+  ],
+  [
+    "PROJQUAY-465",
+    "PROJQUAY-3030"
+  ],
+  [
+    "PROJQUAY-465",
+    "PROJQUAY-3029"
+  ],
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-460",
+    "target": "PROJQUAY-70"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-459",
+    "target": "PROJQUAY-136"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-458",
+    "target": "PROJQUAY-222"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-457",
+    "target": "PROJQUAY-142"
+  },
+  [
+    "PROJQUAY-446",
+    "PROJQUAY-478"
+  ],
+  [
+    "PROJQUAY-446",
+    "PROJQUAY-477"
+  ],
+  [
+    "PROJQUAY-446",
+    "PROJQUAY-476"
+  ],
+  [
+    "PROJQUAY-446",
+    "PROJQUAY-475"
+  ],
+  {
+    "ltype": "Duplicate",
+    "source": "PROJQUAY-440",
+    "target": "PROJQUAY-1362"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-440",
+    "target": "PROJQUAY-333"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-405",
+    "target": "PROJQUAY-281"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-400",
+    "target": "PROJQUAY-354"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-394",
+    "target": "PROJQUAY-20"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-390",
+    "target": "PROJQUAY-285"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-389",
+    "target": "PROJQUAY-113"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-388",
+    "target": "PROJQUAY-333"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-387",
+    "target": "PROJQUAY-318"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-386",
+    "target": "PROJQUAY-317"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-385",
+    "target": "PROJQUAY-316"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-384",
+    "target": "PROJQUAY-315"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-383",
+    "target": "PROJQUAY-319"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-382",
+    "target": "PROJQUAY-21"
+  },
+  {
+    "ltype": "Duplicate",
+    "source": "PROJQUAY-380",
+    "target": "PROJQUAY-379"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-341",
+    "target": "PROJQUAY-243"
+  },
+  {
+    "ltype": "Duplicate",
+    "source": "PROJQUAY-336",
+    "target": "PROJQUAY-376"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-335",
+    "target": "PROJQUAY-142"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-334",
+    "target": "PROJQUAY-77"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-333",
+    "target": "PROJQUAY-312"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-333",
+    "target": "PROJQUAY-331"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-332",
+    "target": "PROJQUAY-72"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-332",
+    "target": "PROJQUAY-76"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-331",
+    "target": "PROJQUAY-113"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-330",
+    "target": "PROJQUAY-281"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-330",
+    "target": "PROJQUAY-31"
+  },
+  [
+    "PROJQUAY-322",
+    "PROJQUAY-258"
+  ],
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-319",
+    "target": "PROJQUAY-77"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-318",
+    "target": "PROJQUAY-77"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-314",
+    "target": "PROJQUAY-195"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-314",
+    "target": "PROJQUAY-295"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-305",
+    "target": "PROJQUAY-213"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-303",
+    "target": "PROJQUAY-258"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-302",
+    "target": "PROJQUAY-253"
+  },
+  [
+    "PROJQUAY-302",
+    "PROJQUAY-2938"
+  ],
+  [
+    "PROJQUAY-302",
+    "PROJQUAY-2937"
+  ],
+  [
+    "PROJQUAY-302",
+    "PROJQUAY-2936"
+  ],
+  {
+    "ltype": "Duplicate",
+    "source": "PROJQUAY-295",
+    "target": "PROJQUAY-2546"
+  },
+  [
+    "PROJQUAY-295",
+    "PROJQUAY-3278"
+  ],
+  [
+    "PROJQUAY-295",
+    "PROJQUAY-3259"
+  ],
+  [
+    "PROJQUAY-295",
+    "PROJQUAY-3053"
+  ],
+  [
+    "PROJQUAY-295",
+    "PROJQUAY-3052"
+  ],
+  [
+    "PROJQUAY-295",
+    "PROJQUAY-3051"
+  ],
+  [
+    "PROJQUAY-295",
+    "PROJQUAY-3050"
+  ],
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-294",
+    "target": "PROJQUAY-77"
+  },
+  [
+    "PROJQUAY-294",
+    "PROJQUAY-317"
+  ],
+  [
+    "PROJQUAY-294",
+    "PROJQUAY-316"
+  ],
+  [
+    "PROJQUAY-294",
+    "PROJQUAY-315"
+  ],
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-293",
+    "target": "PROJQUAY-588"
+  },
+  {
+    "ltype": "subtask",
+    "source": "PROJQUAY-293",
+    "target": "PROJQUAY-339"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-292",
+    "target": "PROJQUAY-276"
+  },
+  {
+    "ltype": "Duplicate",
+    "source": "PROJQUAY-290",
+    "target": "PROJQUAY-113"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-288",
+    "target": "PROJQUAY-280"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-288",
+    "target": "PROJQUAY-217"
+  },
+  [
+    "PROJQUAY-288",
+    "PROJQUAY-1674"
+  ],
+  [
+    "PROJQUAY-288",
+    "PROJQUAY-1485"
+  ],
+  [
+    "PROJQUAY-288",
+    "PROJQUAY-1484"
+  ],
+  [
+    "PROJQUAY-288",
+    "PROJQUAY-291"
+  ],
+  [
+    "PROJQUAY-287",
+    "PROJQUAY-352"
+  ],
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-281",
+    "target": "PROJQUAY-31"
+  },
+  {
+    "ltype": "Superset",
+    "source": "PROJQUAY-280",
+    "target": "PROJQUAY-880"
+  },
+  [
+    "PROJQUAY-280",
+    "PROJQUAY-1679"
+  ],
+  [
+    "PROJQUAY-280",
+    "PROJQUAY-1483"
+  ],
+  [
+    "PROJQUAY-280",
+    "PROJQUAY-1482"
+  ],
+  [
+    "PROJQUAY-280",
+    "PROJQUAY-1481"
+  ],
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-272",
+    "target": "PROJQUAY-131"
+  },
+  [
+    "PROJQUAY-253",
+    "PROJQUAY-285"
+  ],
+  [
+    "PROJQUAY-242",
+    "PROJQUAY-440"
+  ],
+  [
+    "PROJQUAY-242",
+    "PROJQUAY-375"
+  ],
+  [
+    "PROJQUAY-242",
+    "PROJQUAY-349"
+  ],
+  [
+    "PROJQUAY-242",
+    "PROJQUAY-348"
+  ],
+  [
+    "PROJQUAY-242",
+    "PROJQUAY-336"
+  ],
+  [
+    "PROJQUAY-242",
+    "PROJQUAY-335"
+  ],
+  [
+    "PROJQUAY-242",
+    "PROJQUAY-334"
+  ],
+  [
+    "PROJQUAY-242",
+    "PROJQUAY-332"
+  ],
+  [
+    "PROJQUAY-242",
+    "PROJQUAY-331"
+  ],
+  [
+    "PROJQUAY-242",
+    "PROJQUAY-330"
+  ],
+  [
+    "PROJQUAY-242",
+    "PROJQUAY-243"
+  ],
+  [
+    "PROJQUAY-242",
+    "PROJQUAY-205"
+  ],
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-240",
+    "target": "PROJQUAY-124"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-230",
+    "target": "PROJQUAY-1325"
+  },
+  {
+    "ltype": "Cloners",
+    "source": "PROJQUAY-226",
+    "target": "PROJQUAY-225"
+  },
+  [
+    "PROJQUAY-226",
+    "PROJQUAY-512"
+  ],
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-224",
+    "target": "PROJQUAY-216"
+  },
+  {
+    "ltype": "Duplicate",
+    "source": "PROJQUAY-222",
+    "target": "PROJQUAY-228"
+  },
+  [
+    "PROJQUAY-207",
+    "PROJQUAY-2207"
+  ],
+  [
+    "PROJQUAY-207",
+    "PROJQUAY-2094"
+  ],
+  [
+    "PROJQUAY-207",
+    "PROJQUAY-2093"
+  ],
+  [
+    "PROJQUAY-207",
+    "PROJQUAY-231"
+  ],
+  [
+    "PROJQUAY-207",
+    "PROJQUAY-230"
+  ],
+  [
+    "PROJQUAY-207",
+    "PROJQUAY-229"
+  ],
+  {
+    "ltype": "subtask",
+    "source": "PROJQUAY-164",
+    "target": "PROJQUAY-171"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-160",
+    "target": "PROJQUAY-401"
+  },
+  [
+    "PROJQUAY-142",
+    "PROJQUAY-672"
+  ],
+  [
+    "PROJQUAY-142",
+    "PROJQUAY-545"
+  ],
+  [
+    "PROJQUAY-142",
+    "PROJQUAY-221"
+  ],
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-116",
+    "target": "PROJQUAY-98"
+  },
+  [
+    "PROJQUAY-78",
+    "PROJQUAY-65"
+  ],
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-77",
+    "target": "PROJQUAY-566"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "PROJQUAY-77",
+    "target": "PROJQUAY-569"
+  },
+  [
+    "PROJQUAY-77",
+    "PROJQUAY-661"
+  ],
+  [
+    "PROJQUAY-77",
+    "PROJQUAY-445"
+  ],
+  [
+    "PROJQUAY-77",
+    "PROJQUAY-328"
+  ],
+  [
+    "PROJQUAY-77",
+    "PROJQUAY-327"
+  ],
+  [
+    "PROJQUAY-77",
+    "PROJQUAY-321"
+  ],
+  [
+    "PROJQUAY-77",
+    "PROJQUAY-319"
+  ],
+  [
+    "PROJQUAY-77",
+    "PROJQUAY-318"
+  ],
+  [
+    "PROJQUAY-77",
+    "PROJQUAY-273"
+  ],
+  [
+    "PROJQUAY-76",
+    "PROJQUAY-755"
+  ],
+  [
+    "PROJQUAY-76",
+    "PROJQUAY-754"
+  ],
+  [
+    "PROJQUAY-76",
+    "PROJQUAY-309"
+  ],
+  [
+    "PROJQUAY-76",
+    "PROJQUAY-130"
+  ],
+  [
+    "PROJQUAY-76",
+    "PROJQUAY-94"
+  ],
+  [
+    "PROJQUAY-76",
+    "PROJQUAY-83"
+  ],
+  [
+    "PROJQUAY-72",
+    "PROJQUAY-625"
+  ],
+  [
+    "PROJQUAY-72",
+    "PROJQUAY-610"
+  ],
+  [
+    "PROJQUAY-72",
+    "PROJQUAY-494"
+  ],
+  [
+    "PROJQUAY-72",
+    "PROJQUAY-338"
+  ],
+  [
+    "PROJQUAY-72",
+    "PROJQUAY-314"
+  ],
+  [
+    "PROJQUAY-72",
+    "PROJQUAY-308"
+  ],
+  [
+    "PROJQUAY-72",
+    "PROJQUAY-177"
+  ],
+  [
+    "PROJQUAY-72",
+    "PROJQUAY-114"
+  ],
+  [
+    "PROJQUAY-72",
+    "PROJQUAY-93"
+  ],
+  [
+    "PROJQUAY-72",
+    "PROJQUAY-91"
+  ],
+  [
+    "PROJQUAY-72",
+    "PROJQUAY-90"
+  ],
+  [
+    "PROJQUAY-72",
+    "PROJQUAY-88"
+  ],
+  [
+    "PROJQUAY-72",
+    "PROJQUAY-86"
+  ],
+  [
+    "PROJQUAY-72",
+    "PROJQUAY-81"
+  ],
+  [
+    "PROJQUAY-71",
+    "PROJQUAY-304"
+  ],
+  [
+    "PROJQUAY-71",
+    "PROJQUAY-284"
+  ],
+  [
+    "PROJQUAY-71",
+    "PROJQUAY-222"
+  ],
+  [
+    "PROJQUAY-69",
+    "PROJQUAY-1496"
+  ],
+  [
+    "PROJQUAY-69",
+    "PROJQUAY-1494"
+  ],
+  [
+    "PROJQUAY-69",
+    "PROJQUAY-1493"
+  ],
+  [
+    "PROJQUAY-69",
+    "PROJQUAY-1492"
+  ],
+  [
+    "PROJQUAY-69",
+    "PROJQUAY-1491"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-1397"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-1295"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-1171"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-1169"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-1168"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-835"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-834"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-817"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-806"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-771"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-747"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-746"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-744"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-740"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-739"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-704"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-703"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-702"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-556"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-555"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-554"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-274"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-262"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-183"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-169"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-164"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-143"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-137"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-135"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-134"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-128"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-127"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-123"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-116"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-98"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-96"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-85"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-84"
+  ],
+  [
+    "PROJQUAY-68",
+    "PROJQUAY-41"
+  ],
+  [
+    "PROJQUAY-54",
+    "PROJQUAY-2553"
+  ],
+  [
+    "PROJQUAY-54",
+    "PROJQUAY-2368"
+  ],
+  [
+    "PROJQUAY-54",
+    "PROJQUAY-2366"
+  ],
+  [
+    "PROJQUAY-54",
+    "PROJQUAY-2360"
+  ],
+  [
+    "PROJQUAY-54",
+    "PROJQUAY-2090"
+  ],
+  [
+    "PROJQUAY-54",
+    "PROJQUAY-2089"
+  ],
+  [
+    "PROJQUAY-54",
+    "PROJQUAY-2088"
+  ],
+  [
+    "PROJQUAY-54",
+    "PROJQUAY-2087"
+  ],
+  [
+    "PROJQUAY-54",
+    "PROJQUAY-112"
+  ],
+  [
+    "PROJQUAY-54",
+    "PROJQUAY-111"
+  ],
+  [
+    "PROJQUAY-54",
+    "PROJQUAY-110"
+  ],
+  [
+    "PROJQUAY-54",
+    "PROJQUAY-109"
+  ],
+  [
+    "PROJQUAY-54",
+    "PROJQUAY-108"
+  ],
+  [
+    "PROJQUAY-54",
+    "PROJQUAY-107"
+  ],
+  [
+    "PROJQUAY-54",
+    "PROJQUAY-106"
+  ],
+  [
+    "PROJQUAY-54",
+    "PROJQUAY-105"
+  ],
+  [
+    "PROJQUAY-54",
+    "PROJQUAY-104"
+  ],
+  [
+    "PROJQUAY-54",
+    "PROJQUAY-103"
+  ],
+  [
+    "PROJQUAY-54",
+    "PROJQUAY-102"
+  ],
+  [
+    "PROJQUAY-54",
+    "PROJQUAY-101"
+  ],
+  [
+    "PROJQUAY-54",
+    "PROJQUAY-100"
+  ],
+  [
+    "PROJQUAY-54",
+    "PROJQUAY-99"
+  ],
+  {
+    "ltype": "Duplicate",
+    "source": "PROJQUAY-50",
+    "target": "PROJQUAY-39"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-44",
+    "target": "PROJQUAY-40"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-41",
+    "target": "PROJQUAY-40"
+  },
+  {
+    "ltype": "Related",
+    "source": "PROJQUAY-21",
+    "target": "PROJQUAY-20"
+  }
+]

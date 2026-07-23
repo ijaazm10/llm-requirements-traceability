@@ -1,0 +1,1234 @@
+[
+    {
+        "ltype": "subtask",
+        "source": "FH-4862",
+        "target": "FH-4863",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4862",
+        "target": "FH-4864",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4862",
+        "target": "FH-4865",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4776",
+        "target": "FH-4775",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4721",
+        "target": "FH-4722",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4721",
+        "target": "FH-4723",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4703",
+        "target": "FH-4704",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4703",
+        "target": "FH-4705",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4703",
+        "target": "FH-4706",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4689",
+        "target": "FH-4697",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4689",
+        "target": "FH-4698",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4689",
+        "target": "FH-4699",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4689",
+        "target": "FH-4700",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4686",
+        "target": "FH-4693",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4686",
+        "target": "FH-4694",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4686",
+        "target": "FH-4695",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4686",
+        "target": "FH-4696",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4678",
+        "target": "FH-4679",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4678",
+        "target": "FH-4680",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4678",
+        "target": "FH-4681",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4678",
+        "target": "FH-4682",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4672",
+        "target": "FH-4673",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4672",
+        "target": "FH-4674",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4639",
+        "target": "FH-4641",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4639",
+        "target": "FH-4642",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4639",
+        "target": "FH-4643",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4493",
+        "target": "FH-4633",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4493",
+        "target": "FH-4634",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4493",
+        "target": "FH-4635",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4493",
+        "target": "FH-4636",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4493",
+        "target": "FH-4637",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4475",
+        "target": "FH-4476",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4475",
+        "target": "FH-4477",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4475",
+        "target": "FH-4478",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4475",
+        "target": "FH-4479",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4447",
+        "target": "FH-4020",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4447",
+        "target": "FH-4021",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4391",
+        "target": "FH-4834",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4391",
+        "target": "FH-4835",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4391",
+        "target": "FH-4836",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4391",
+        "target": "FH-4837",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4391",
+        "target": "FH-4838",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4391",
+        "target": "FH-4839",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4391",
+        "target": "FH-4840",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4030",
+        "target": "FH-4017",
+        "source_type": "Feature Request",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4030",
+        "target": "FH-3900",
+        "source_type": "Feature Request",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4014",
+        "target": "FH-4015",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4014",
+        "target": "FH-4016",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-4014",
+        "target": "FH-4031",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3976",
+        "target": "FH-3977",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3976",
+        "target": "FH-3978",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3976",
+        "target": "FH-3979",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3976",
+        "target": "FH-3980",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3976",
+        "target": "FH-3981",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3976",
+        "target": "FH-3982",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3976",
+        "target": "FH-3983",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3875",
+        "target": "FH-3812",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3875",
+        "target": "FH-4056",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3875",
+        "target": "FH-4057",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3860",
+        "target": "FH-4029",
+        "source_type": "Feature Request",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3842",
+        "target": "FH-3939",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3842",
+        "target": "FH-3940",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3842",
+        "target": "FH-3941",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3842",
+        "target": "FH-3942",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3842",
+        "target": "FH-3943",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3836",
+        "target": "FH-3866",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3836",
+        "target": "FH-3867",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3836",
+        "target": "FH-3868",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3836",
+        "target": "FH-3869",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3836",
+        "target": "FH-3870",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3836",
+        "target": "FH-3871",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3836",
+        "target": "FH-3872",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3820",
+        "target": "FH-3821",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3820",
+        "target": "FH-3822",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3727",
+        "target": "FH-3728",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3727",
+        "target": "FH-3729",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3727",
+        "target": "FH-3730",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "Causality",
+        "source": "FH-3708",
+        "target": "FH-3643",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "Related",
+        "source": "FH-3619",
+        "target": "FH-3607",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3618",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3620",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3621",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3622",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3623",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3624",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3626",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3627",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3630",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3631",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3632",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3633",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3634",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3635",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3636",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3637",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3638",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3639",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3640",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3641",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3642",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3643",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3644",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3645",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3646",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3647",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3648",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3649",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3653",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3654",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3669",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3707",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3745",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3746",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3747",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3748",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3749",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3750",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-3751",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-4116",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3619",
+        "target": "FH-4126",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3611",
+        "target": "FH-3612",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3611",
+        "target": "FH-3613",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3611",
+        "target": "FH-3614",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3611",
+        "target": "FH-3615",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3375",
+        "target": "FH-3376",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3375",
+        "target": "FH-3377",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3375",
+        "target": "FH-3378",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3371",
+        "target": "FH-3372",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3371",
+        "target": "FH-3373",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3250",
+        "target": "FH-3477",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3183",
+        "target": "FH-3184",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3179",
+        "target": "FH-3180",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3179",
+        "target": "FH-3181",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-3179",
+        "target": "FH-3182",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2908",
+        "target": "FH-2970",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2908",
+        "target": "FH-2971",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2908",
+        "target": "FH-2972",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2855",
+        "target": "FH-2903",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2855",
+        "target": "FH-2904",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2855",
+        "target": "FH-2905",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2855",
+        "target": "FH-2906",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2855",
+        "target": "FH-2907",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2851",
+        "target": "FH-2909",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2851",
+        "target": "FH-2911",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2836",
+        "target": "FH-2839",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2836",
+        "target": "FH-2840",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2836",
+        "target": "FH-2841",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2806",
+        "target": "FH-2807",
+        "source_type": "Feature Request",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2806",
+        "target": "FH-2808",
+        "source_type": "Feature Request",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2739",
+        "target": "FH-2842",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2716",
+        "target": "FH-2865",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2716",
+        "target": "FH-2866",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2716",
+        "target": "FH-2867",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2716",
+        "target": "FH-2868",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2715",
+        "target": "FH-2861",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2715",
+        "target": "FH-2862",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2715",
+        "target": "FH-2863",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2715",
+        "target": "FH-2864",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2714",
+        "target": "FH-2857",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2714",
+        "target": "FH-2858",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2714",
+        "target": "FH-2859",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2714",
+        "target": "FH-2860",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2688",
+        "target": "FH-2689",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2688",
+        "target": "FH-2690",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2688",
+        "target": "FH-2691",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2649",
+        "target": "FH-2650",
+        "source_type": "Feature Request",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2646",
+        "target": "FH-2647",
+        "source_type": "Feature Request",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2646",
+        "target": "FH-2648",
+        "source_type": "Feature Request",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2640",
+        "target": "FH-2642",
+        "source_type": "Feature Request",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2615",
+        "target": "FH-2632",
+        "source_type": "Feature Request",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2615",
+        "target": "FH-2633",
+        "source_type": "Feature Request",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2615",
+        "target": "FH-2634",
+        "source_type": "Feature Request",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2571",
+        "target": "FH-2613",
+        "source_type": "Feature Request",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2557",
+        "target": "FH-2672",
+        "source_type": "Feature Request",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2557",
+        "target": "FH-2673",
+        "source_type": "Feature Request",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "FH-2557",
+        "target": "FH-2674",
+        "source_type": "Feature Request",
+        "target_type": "Sub-task"
+    }
+]

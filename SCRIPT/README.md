@@ -2,55 +2,35 @@
 
 This directory contains the scripts used for baselines, local LLM inference, RAG, QLoRA fine-tuning, cloud batch evaluation, statistical checks, and figure generation.
 
-Not every script is expected to run on an ordinary laptop. The CPU verification scripts can be run from the committed prediction files. The local LLM and QLoRA scripts require H100-class hardware or an equivalent multi-GPU environment; the cloud scripts require API access.
+The scripts are retained as implementation artefacts. The current repository does not package the model weights, adapters, retrieval indexes, API credentials, compute environment, or complete dependency lock needed to rerun every experiment.
 
-## Script Reference
+## Script-to-Result Map
 
-### Baselines
+| Script | High-level role | Primary input | Archived output |
+| :--- | :--- | :--- | :--- |
+| `1.VSM.py` | TF-IDF/cosine baseline with a validation-selected threshold | `DATA/.GROUND_TRUTH/*/splits/` | `RESULTS/vsm_final_pairs_results (1).json` |
+| `2.SBERT.py` | `all-mpnet-base-v2` sentence-embedding baseline | `DATA/.GROUND_TRUTH/*/splits/` | `RESULTS/sbert_final_pairs_results (1).json` |
+| `3.BERT_FROZEN.py` | Frozen `bert-base-uncased` representations with a trained MLP classifier | `DATA/.GROUND_TRUTH/*/splits/` | `RESULTS/frozen_bert_final_pairs_results (1).json` |
+| `4.ModelSelection.py` | Initial open-weight model screening | Validation pairs for CB, KEYCLOAK, and JBIDE | `RESULTS/model_selection_v3_hard_results.json` |
+| `4.ModelSelection-FINAL.ipynb` | Final all-4-bit model-selection record | The same three-project validation subset | `RESULTS/model_selection_v3_hard_results_FINAL (1).json` |
+| `5.zero_shot_h100.py` | Gemma 4 31B pair classification without project-specific adaptation | Held-out test pairs | `RESULTS/ZERO_SHOT_QWEN_HARD/` |
+| `6.rag_rerun_stage1_8192.py` | RAG-A/B/C ablation: MPNet or Qwen3 retrieval and balanced or positive-only demonstrations | Training pairs as demonstration pool; test pairs as queries | `RESULTS/RAG_STAGE1_V3_8192/` |
+| `6b.rag_stage2_hybrid_8192.py` | RAG-D hybrid Qwen3+BM25 retrieval with reciprocal-rank fusion | Training and test pairs | `RESULTS/RAG_STAGE2_HYBRID_V3_8192/` |
+| `7.lora_rerun_unified.py` | Project-specific QLoRA V1-V6 ablation | Training, validation, and test pairs | `RESULTS/LORA_RERUN_V3/` |
+| `8.combined_RAG&LORA.py` | LoRA V4 adapter evaluated with RAG-B demonstrations | LoRA V4 artefacts, RAG-B retrieval pool, and test pairs | `RESULTS/COMBINED_RERUN_V3/` |
+| `9c_zero_shot_claude_batch_matched.py` | Matched zero-shot Claude Sonnet 4.6 evaluation | Held-out test pairs | `RESULTS/CLAUDE_ZERO_SHOT_BATCH_V3/` |
+| `9d_zero_shot_openai_batch_matched.py` | Matched zero-shot GPT-5.4 batch submission and collection | Held-out test pairs | Shards under `RESULTS/OPENAI_ZERO_SHOT_BATCH_V3/` |
+| `9e_merge_openai_batch_shards.py` | Merges and validates the GPT-5.4 batch shards | OpenAI shard outputs | `RESULTS/OPENAI_ZERO_SHOT_BATCH_V3/gpt-5_4_merged_matched_single_user_prompt_v1_batch/` |
+| `9.stratified_eval_by_link_type.py` | Separates results into refinement and subtask strata | Saved method predictions | `RESULTS/stratified_by_link_type_v3.json` |
+| `10_significance_tests.py` | Project-level sign tests, Wilcoxon tests, and bootstrap intervals | Saved predictions for the four main local methods | `RESULTS/significance_tests_clean_f2.json` |
+| `11_generate_thesis_figures_v2.py` | Generates the current thesis result figures | Consolidated result and statistical JSON files | `RESULTS/FIGURES_V2/` |
 
-- `1.VSM.py`: TF-IDF / cosine-similarity baseline with validation-threshold tuning.
-- `2.SBERT.py`: sentence-transformer baseline using `all-mpnet-base-v2`.
-- `3.BERT_FROZEN.py`: frozen `bert-base-uncased` feature extractor with a small MLP classifier.
+## Method Configuration Notes
 
-### Local Open-Weight LLM Experiments
-
-- `4.ModelSelection.py`: open-weight model screening.
-- `4.ModelSelection-FINAL.ipynb`: notebook record of the final model-selection rerun.
-- `5.zero_shot_h100.py`: zero-shot Gemma 4 31B evaluation on held-out hard-negative test pairs.
-- `6.rag_rerun_stage1_8192.py`: RAG-A/B/C evaluation with retrieved labelled demonstrations.
-- `6b.rag_stage2_hybrid_8192.py`: additional RAG-D hybrid retrieval evaluation.
-- `7.lora_rerun_unified.py`: QLoRA ablation runs V1-V6. Rank, alpha, learning rate, upsampling, and target modules vary by version; the selected V4 configuration uses rank 32, alpha 64, learning rate 1e-4, 3x positive upsampling, and attention-only LoRA modules.
-- `8.combined_RAG&LORA.py`: combined LoRA V4 + RAG-B inference.
-
-### Cloud Batch Evaluation
-
-- `9c_zero_shot_claude_batch_matched.py`: Claude Sonnet 4.6 zero-shot batch evaluation.
-- `9d_zero_shot_openai_batch_matched.py`: GPT-5.4 zero-shot batch evaluation.
-- `9e_merge_openai_batch_shards.py`: OpenAI shard merger and validation utility.
-
-### Analysis and Figures
-
-- `9.stratified_eval_by_link_type.py`: recomputes clean/conservative performance by hierarchy stratum.
-- `10_significance_tests.py`: recomputes per-project clean F2, sign tests, Wilcoxon tests, and bootstrap confidence intervals.
-- `11_generate_thesis_figures_v2.py`: regenerates the main result figures from saved JSON artifacts.
-
-## CPU-Only Verification
-
-Install the CPU verification dependencies:
-
-```bash
-pip install -r requirements-cpu.txt
-```
-
-Then run:
-
-```bash
-python SCRIPT/10_significance_tests.py
-python SCRIPT/9.stratified_eval_by_link_type.py
-python SCRIPT/11_generate_thesis_figures_v2.py
-```
-
-These commands operate on the committed files under `RESULTS/` and do not rerun LLM inference.
+- **RAG:** RAG-A uses MPNet with balanced demonstrations; RAG-B replaces MPNet with Qwen3 embeddings; RAG-C retrieves positive demonstrations only; RAG-D combines Qwen3 and BM25 rankings through reciprocal-rank fusion.
+- **QLoRA:** V1-V6 vary class balancing, learning rate, LoRA rank/alpha, and target modules. The selected V4 configuration uses rank 32, alpha 64, learning rate `1e-4`, threefold positive upsampling, and attention-only target modules.
+- **Combined:** the selected LoRA V4 adapter supplies supervised adaptation while the selected RAG-B configuration supplies project-specific in-context examples.
+- **Cloud comparison:** GPT-5.4 and Claude Sonnet 4.6 use the same pair-classification task and matched zero-shot prompt contract as the local zero-shot comparison.
 
 ## Current Statistical Reference
 
@@ -64,14 +44,4 @@ The current committed `RESULTS/significance_tests_clean_f2.json` reports:
 | RAG-B vs ZeroShot | 0.0940 | 0.0883 | 8/8 | 0.0078 | 0.0078 | [0.0595, 0.1289] |
 | LoRA-V4 vs ZeroShot | 0.0600 | 0.0743 | 7/8 | 0.0703 | 0.0547 | [0.0080, 0.1058] |
 
-With only eight projects, these tests should be read as robustness checks. Effect sizes and project-level win counts are at least as important as p-values.
-
-## GPU/API Reruns
-
-Example local zero-shot rerun:
-
-```bash
-CUDA_VISIBLE_DEVICES=0 python -u SCRIPT/5.zero_shot_h100.py --projects AAH BEAM CB FH JBIDE KEYCLOAK KOGITO PROJQUAY
-```
-
-The GPU scripts assume that model weights, CUDA libraries, and any required adapters/indexes are available locally or can be regenerated. They are included primarily for transparency and specialist reruns.
+With only eight projects, these tests are reported as project-level robustness checks. Effect sizes and project-level win counts are at least as important as the p-values.

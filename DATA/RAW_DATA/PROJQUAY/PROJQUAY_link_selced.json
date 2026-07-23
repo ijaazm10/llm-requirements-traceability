@@ -1,0 +1,72 @@
+[
+    {
+        "ltype": "Sequence",
+        "source": "PROJQUAY-2110",
+        "target": "PROJQUAY-1696",
+        "source_type": "Epic",
+        "target_type": "Story"
+    },
+    {
+        "ltype": "multi-level hierarchy [GANTT]",
+        "source": "PROJQUAY-1935",
+        "target": "PROJQUAY-1878",
+        "source_type": "Epic",
+        "target_type": "Story"
+    },
+    {
+        "ltype": "multi-level hierarchy [GANTT]",
+        "source": "PROJQUAY-1934",
+        "target": "PROJQUAY-1917",
+        "source_type": "Epic",
+        "target_type": "Story"
+    },
+    {
+        "ltype": "subtask",
+        "source": "PROJQUAY-1898",
+        "target": "PROJQUAY-1902",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "PROJQUAY-1533",
+        "target": "PROJQUAY-1611",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "PROJQUAY-1480",
+        "target": "PROJQUAY-1622",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "PROJQUAY-293",
+        "target": "PROJQUAY-339",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "Duplicate",
+        "source": "PROJQUAY-290",
+        "target": "PROJQUAY-113",
+        "source_type": "Epic",
+        "target_type": "Story"
+    },
+    {
+        "ltype": "Related",
+        "source": "PROJQUAY-272",
+        "target": "PROJQUAY-131",
+        "source_type": "Epic",
+        "target_type": "Story"
+    },
+    {
+        "ltype": "subtask",
+        "source": "PROJQUAY-164",
+        "target": "PROJQUAY-171",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    }
+]

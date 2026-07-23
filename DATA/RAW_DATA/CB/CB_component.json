@@ -1,0 +1,282 @@
+[
+  {
+    "name": "AllComponents",
+    "description": "catch-all for everything"
+  },
+  {
+    "name": "AllPlatforms",
+    "description": "catch-all for all platforms"
+  },
+  {
+    "name": "AllPlugins",
+    "description": "catch-all for all plugins"
+  },
+  {
+    "name": "Appium",
+    "description": "Testing related to Appium"
+  },
+  {
+    "name": "cordova-amazon-fireos (DEPRECATED)",
+    "description": "Cordova Amazon FireOS"
+  },
+  {
+    "name": "cordova-android",
+    "description": "Cordova Android"
+  },
+  {
+    "name": "cordova-app-harness",
+    "description": "Cordova App Harness"
+  },
+  {
+    "name": "cordova-app-hello-world",
+    "description": "Hello World Cordova Application"
+  },
+  {
+    "name": "cordova-bada (DEPRECATED)",
+    "description": "Cordova Bada"
+  },
+  {
+    "name": "cordova-blackberry (DEPRECATED)",
+    "description": "Cordova BlackBerry"
+  },
+  {
+    "name": "cordova-browser",
+    "description": "Cordova Browser"
+  },
+  {
+    "name": "cordova-cli",
+    "description": "Cordova command-line interface"
+  },
+  {
+    "name": "cordova-coho",
+    "description": "Cordova release tool"
+  },
+  {
+    "name": "cordova-common",
+    "description": "Cordova Common"
+  },
+  {
+    "name": "cordova-create",
+    "description": "cordova-create module"
+  },
+  {
+    "name": "cordova-docs",
+    "description": ""
+  },
+  {
+    "name": "cordova-fetch",
+    "description": "Cordova fetch"
+  },
+  {
+    "name": "cordova-firefoxos (DEPRECATED)",
+    "description": "Cordova Firefox OS"
+  },
+  {
+    "name": "cordova-ios",
+    "description": "Cordova iOS"
+  },
+  {
+    "name": "cordova-js",
+    "description": "Cordova JS - unified JavaScript for Cordova platforms"
+  },
+  {
+    "name": "cordova-labs",
+    "description": "cordova-labs"
+  },
+  {
+    "name": "cordova-lib",
+    "description": "Cordova Lib"
+  },
+  {
+    "name": "cordova-medic",
+    "description": "Cordova's CI testing project"
+  },
+  {
+    "name": "cordova-mobile-spec",
+    "description": "Cordova API test suite"
+  },
+  {
+    "name": "cordova-node-xcode",
+    "description": ""
+  },
+  {
+    "name": "cordova-osx",
+    "description": "Cordova OS X"
+  },
+  {
+    "name": "cordova-paramedic",
+    "description": "Cordova Paramedic"
+  },
+  {
+    "name": "cordova-plugin-battery-status",
+    "description": "Cordova Plugin Battery Status"
+  },
+  {
+    "name": "cordova-plugin-camera",
+    "description": "Cordova Plugin Camera"
+  },
+  {
+    "name": "cordova-plugin-compat",
+    "description": "Cordova Plugin Compat(ibility)"
+  },
+  {
+    "name": "cordova-plugin-console (DEPRECATED)",
+    "description": "Cordova Plugin Console"
+  },
+  {
+    "name": "cordova-plugin-contacts (DEPRECATED)",
+    "description": "Cordova Plugin Contacts"
+  },
+  {
+    "name": "cordova-plugin-device",
+    "description": "Cordova Plugin Device"
+  },
+  {
+    "name": "cordova-plugin-device-motion (DEPRECATED)",
+    "description": "Cordova Plugin Device Motion"
+  },
+  {
+    "name": "cordova-plugin-device-orientation (DEPRECATED)",
+    "description": "Cordova Plugin Device Orientation"
+  },
+  {
+    "name": "cordova-plugin-dialogs",
+    "description": "Cordova Plugin Dialogs"
+  },
+  {
+    "name": "cordova-plugin-file",
+    "description": "Cordova Plugin File"
+  },
+  {
+    "name": "cordova-plugin-file-transfer (DEPRECATED)",
+    "description": "Cordova Plugin File Transfer"
+  },
+  {
+    "name": "cordova-plugin-geolocation",
+    "description": "Cordova Plugin Geolocation"
+  },
+  {
+    "name": "cordova-plugin-globalization (DEPRECATED)",
+    "description": "Cordova Plugin Globalization"
+  },
+  {
+    "name": "cordova-plugin-inappbrowser",
+    "description": "Cordova Plugin InAppBrowser"
+  },
+  {
+    "name": "cordova-plugin-keyboard",
+    "description": "Cordova Plugin Keyboard"
+  },
+  {
+    "name": "cordova-plugin-media",
+    "description": "Cordova Plugin Media"
+  },
+  {
+    "name": "cordova-plugin-media-capture",
+    "description": "Cordova Plugin Media Capture"
+  },
+  {
+    "name": "cordova-plugin-network-information",
+    "description": "Cordova Plugin Network Information"
+  },
+  {
+    "name": "cordova-plugin-screen-orientation",
+    "description": "Cordova Plugin Screen Orientation"
+  },
+  {
+    "name": "cordova-plugin-splashscreen",
+    "description": "Cordova Plugin SplashScreen"
+  },
+  {
+    "name": "cordova-plugin-statusbar",
+    "description": "Cordova Plugin Statusbar"
+  },
+  {
+    "name": "cordova-plugin-test-framework",
+    "description": "Cordova Plugin Test Framework"
+  },
+  {
+    "name": "cordova-plugin-vibration",
+    "description": "Cordova Plugin Vibration"
+  },
+  {
+    "name": "cordova-plugin-whitelist",
+    "description": "Cordova Plugin Whitelist"
+  },
+  {
+    "name": "cordova-plugin-wkwebview-engine",
+    "description": "Cordova Plugin WKWebView Engine"
+  },
+  {
+    "name": "cordova-plugins",
+    "description": "cordova-plugins repo. AllPlugins component is for all plugins"
+  },
+  {
+    "name": "cordova-plugman",
+    "description": "Cordova Plugin Manager"
+  },
+  {
+    "name": "cordova-qt (DEPRECATED)",
+    "description": "Cordova QT"
+  },
+  {
+    "name": "cordova-registry",
+    "description": "Plugin Registry"
+  },
+  {
+    "name": "cordova-registry-web (DEPRECATED)",
+    "description": "Plugin Registry website"
+  },
+  {
+    "name": "cordova-serve",
+    "description": "Cordova Serve"
+  },
+  {
+    "name": "cordova-template-reference",
+    "description": "cordova-template-reference"
+  },
+  {
+    "name": "cordova-tizen (DEPRECATED)",
+    "description": "Cordova Tizen"
+  },
+  {
+    "name": "cordova-ubuntu (DEPRECATED)",
+    "description": "Cordova Ubuntu"
+  },
+  {
+    "name": "cordova-webos (DEPRECATED)",
+    "description": "Cordova webOS"
+  },
+  {
+    "name": "cordova-website",
+    "description": "Cordova Website (in SVN)"
+  },
+  {
+    "name": "cordova-weinre (DEPRECATED)",
+    "description": "WEb INspector REmote"
+  },
+  {
+    "name": "cordova-win8 (DEPRECATED)",
+    "description": ""
+  },
+  {
+    "name": "cordova-windows",
+    "description": "Cordova Windows"
+  },
+  {
+    "name": "cordova-wp7 (DEFUNCT)",
+    "description": "Cordova Windows Phone 7"
+  },
+  {
+    "name": "cordova-wp8 (DEPRECATED)",
+    "description": "Cordova Windows Phone 8"
+  },
+  {
+    "name": "Ionic",
+    "description": "Related to Ionic"
+  },
+  {
+    "name": "Translation",
+    "description": "Cordova Translation"
+  }
+]

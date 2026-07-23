@@ -26,7 +26,7 @@ RESULTS/
 
 ## Saved Predictions
 
-The repository tracks 178 per-pair prediction files. These files allow the main reported metrics to be recomputed without rerunning LLM inference or QLoRA training.
+The repository tracks 178 per-pair prediction files. They preserve the model decisions and operational measurements used to calculate the reported results.
 
 Prediction records contain fields such as:
 
@@ -86,12 +86,18 @@ Current `FIGURES_V2` files include:
 
 The older `RESULTS/FIGURES/` directory is retained as an earlier figure export.
 
-## Verification Commands
+## Script Mapping
 
-From the repository root:
+The complete mapping from experiment scripts to these result directories is maintained in [`SCRIPT/README.md`](../SCRIPT/README.md). In summary:
 
-```bash
-python SCRIPT/10_significance_tests.py
-python SCRIPT/9.stratified_eval_by_link_type.py
-python SCRIPT/11_generate_thesis_figures_v2.py
-```
+| Result group | Producing script |
+| :--- | :--- |
+| Classical and neural baselines | `1.VSM.py`, `2.SBERT.py`, `3.BERT_FROZEN.py` |
+| Open-weight model selection | `4.ModelSelection.py`, `4.ModelSelection-FINAL.ipynb` |
+| Gemma zero-shot | `5.zero_shot_h100.py` |
+| RAG-A/B/C and RAG-D | `6.rag_rerun_stage1_8192.py`, `6b.rag_stage2_hybrid_8192.py` |
+| QLoRA V1-V6 | `7.lora_rerun_unified.py` |
+| Combined LoRA+RAG | `8.combined_RAG&LORA.py` |
+| Claude and GPT zero-shot | `9c_zero_shot_claude_batch_matched.py`, `9d_zero_shot_openai_batch_matched.py`, `9e_merge_openai_batch_shards.py` |
+| Stratified analysis and significance tests | `9.stratified_eval_by_link_type.py`, `10_significance_tests.py` |
+| Current thesis figures | `11_generate_thesis_figures_v2.py` |

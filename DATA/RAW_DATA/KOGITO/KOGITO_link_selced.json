@@ -1,0 +1,632 @@
+[
+    {
+        "ltype": "Blocks",
+        "source": "KOGITO-6811",
+        "target": "KOGITO-6549",
+        "source_type": "Epic",
+        "target_type": "Enhancement"
+    },
+    {
+        "ltype": "Sequence",
+        "source": "KOGITO-6509",
+        "target": "KOGITO-3916",
+        "source_type": "Epic",
+        "target_type": "Enhancement"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-6229",
+        "target": "KOGITO-6597",
+        "source_type": "Feature Request",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-6229",
+        "target": "KOGITO-6598",
+        "source_type": "Feature Request",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-6138",
+        "target": "KOGITO-6294",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-6138",
+        "target": "KOGITO-6794",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-6138",
+        "target": "KOGITO-6812",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-6138",
+        "target": "KOGITO-6297",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-6138",
+        "target": "KOGITO-6295",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-6138",
+        "target": "KOGITO-6296",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-6053",
+        "target": "KOGITO-6759",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-6008",
+        "target": "KOGITO-6222",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "Issue split",
+        "source": "KOGITO-6004",
+        "target": "KOGITO-4352",
+        "source_type": "Epic",
+        "target_type": "Feature Request"
+    },
+    {
+        "ltype": "Sequence",
+        "source": "KOGITO-5624",
+        "target": "KOGITO-395",
+        "source_type": "Epic",
+        "target_type": "Enhancement"
+    },
+    {
+        "ltype": "Sequence",
+        "source": "KOGITO-5624",
+        "target": "KOGITO-1204",
+        "source_type": "Epic",
+        "target_type": "Enhancement"
+    },
+    {
+        "ltype": "Cloners",
+        "source": "KOGITO-5563",
+        "target": "KOGITO-5562",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "Sequence",
+        "source": "KOGITO-5372",
+        "target": "KOGITO-513",
+        "source_type": "Epic",
+        "target_type": "Enhancement"
+    },
+    {
+        "ltype": "Superset",
+        "source": "KOGITO-5276",
+        "target": "KOGITO-4560",
+        "source_type": "Epic",
+        "target_type": "Feature Request"
+    },
+    {
+        "ltype": "Superset",
+        "source": "KOGITO-5276",
+        "target": "KOGITO-4427",
+        "source_type": "Epic",
+        "target_type": "Enhancement"
+    },
+    {
+        "ltype": "Superset",
+        "source": "KOGITO-5276",
+        "target": "KOGITO-3801",
+        "source_type": "Epic",
+        "target_type": "Enhancement"
+    },
+    {
+        "ltype": "Superset",
+        "source": "KOGITO-5276",
+        "target": "KOGITO-3825",
+        "source_type": "Epic",
+        "target_type": "Enhancement"
+    },
+    {
+        "ltype": "Superset",
+        "source": "KOGITO-5276",
+        "target": "KOGITO-4562",
+        "source_type": "Epic",
+        "target_type": "Enhancement"
+    },
+    {
+        "ltype": "Superset",
+        "source": "KOGITO-5276",
+        "target": "KOGITO-4413",
+        "source_type": "Epic",
+        "target_type": "Enhancement"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-4493",
+        "target": "KOGITO-4865",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-4493",
+        "target": "KOGITO-4866",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-4140",
+        "target": "KOGITO-4144",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-4140",
+        "target": "KOGITO-4147",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-4069",
+        "target": "KOGITO-4141",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-4064",
+        "target": "KOGITO-4250",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-4064",
+        "target": "KOGITO-4251",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-3970",
+        "target": "KOGITO-4837",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-3970",
+        "target": "KOGITO-4857",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-3970",
+        "target": "KOGITO-5381",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-3970",
+        "target": "KOGITO-5536",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "Sequence",
+        "source": "KOGITO-3720",
+        "target": "KOGITO-3624",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-3712",
+        "target": "KOGITO-3763",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-3712",
+        "target": "KOGITO-3769",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-3585",
+        "target": "KOGITO-3602",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-3585",
+        "target": "KOGITO-3603",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "Superset",
+        "source": "KOGITO-3532",
+        "target": "KOGITO-3403",
+        "source_type": "Epic",
+        "target_type": "Enhancement"
+    },
+    {
+        "ltype": "Superset",
+        "source": "KOGITO-3346",
+        "target": "KOGITO-540",
+        "source_type": "Epic",
+        "target_type": "Enhancement"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-3273",
+        "target": "KOGITO-3481",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-3273",
+        "target": "KOGITO-3482",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-3273",
+        "target": "KOGITO-3485",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-3273",
+        "target": "KOGITO-3486",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-3273",
+        "target": "KOGITO-3487",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-3273",
+        "target": "KOGITO-3488",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-3273",
+        "target": "KOGITO-3489",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-3273",
+        "target": "KOGITO-3491",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-3273",
+        "target": "KOGITO-3490",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-3273",
+        "target": "KOGITO-3484",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-3273",
+        "target": "KOGITO-3483",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-3273",
+        "target": "KOGITO-3606",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-3273",
+        "target": "KOGITO-3688",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "Blocks",
+        "source": "KOGITO-3251",
+        "target": "KOGITO-3174",
+        "source_type": "Feature Request",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-2774",
+        "target": "KOGITO-2775",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-2774",
+        "target": "KOGITO-2776",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-2774",
+        "target": "KOGITO-2777",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-2660",
+        "target": "KOGITO-2750",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-2660",
+        "target": "KOGITO-2751",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-2660",
+        "target": "KOGITO-2913",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "Related",
+        "source": "KOGITO-2335",
+        "target": "KOGITO-2313",
+        "source_type": "Epic",
+        "target_type": "Feature Request"
+    },
+    {
+        "ltype": "Blocks",
+        "source": "KOGITO-2223",
+        "target": "KOGITO-1063",
+        "source_type": "Epic",
+        "target_type": "Feature Request"
+    },
+    {
+        "ltype": "Blocks",
+        "source": "KOGITO-2163",
+        "target": "KOGITO-1309",
+        "source_type": "Epic",
+        "target_type": "Story"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-1723",
+        "target": "KOGITO-1757",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-1723",
+        "target": "KOGITO-1758",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-1723",
+        "target": "KOGITO-1759",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "Sequence",
+        "source": "KOGITO-1664",
+        "target": "KOGITO-1551",
+        "source_type": "Epic",
+        "target_type": "Feature Request"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-1618",
+        "target": "KOGITO-1619",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-1063",
+        "target": "KOGITO-2449",
+        "source_type": "Feature Request",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-1063",
+        "target": "KOGITO-2511",
+        "source_type": "Feature Request",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "Superset",
+        "source": "KOGITO-996",
+        "target": "KOGITO-916",
+        "source_type": "Epic",
+        "target_type": "Enhancement"
+    },
+    {
+        "ltype": "Superset",
+        "source": "KOGITO-818",
+        "target": "KOGITO-686",
+        "source_type": "Epic",
+        "target_type": "Enhancement"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-816",
+        "target": "KOGITO-3726",
+        "source_type": "Feature Request",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-816",
+        "target": "KOGITO-3727",
+        "source_type": "Feature Request",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-816",
+        "target": "KOGITO-3728",
+        "source_type": "Feature Request",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "Sequence",
+        "source": "KOGITO-697",
+        "target": "KOGITO-661",
+        "source_type": "Epic",
+        "target_type": "Feature Request"
+    },
+    {
+        "ltype": "Related",
+        "source": "KOGITO-604",
+        "target": "KOGITO-453",
+        "source_type": "Epic",
+        "target_type": "Feature Request"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-452",
+        "target": "KOGITO-654",
+        "source_type": "Feature Request",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-392",
+        "target": "KOGITO-848",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-392",
+        "target": "KOGITO-849",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-367",
+        "target": "KOGITO-291",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-367",
+        "target": "KOGITO-377",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-367",
+        "target": "KOGITO-383",
+        "source_type": "Epic",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "Related",
+        "source": "KOGITO-106",
+        "target": "KOGITO-67",
+        "source_type": "Epic",
+        "target_type": "Enhancement"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-35",
+        "target": "KOGITO-36",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-35",
+        "target": "KOGITO-37",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-35",
+        "target": "KOGITO-38",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-35",
+        "target": "KOGITO-39",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "KOGITO-24",
+        "target": "KOGITO-293",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    }
+]

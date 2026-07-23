@@ -1,0 +1,37 @@
+[
+    {
+        "ltype": "Related",
+        "source": "AAH-1144",
+        "target": "AAH-683",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "Sequence",
+        "source": "AAH-818",
+        "target": "AAH-817",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "AAH-597",
+        "target": "AAH-816",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "AAH-597",
+        "target": "AAH-817",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    },
+    {
+        "ltype": "subtask",
+        "source": "AAH-205",
+        "target": "AAH-206",
+        "source_type": "Task",
+        "target_type": "Sub-task"
+    }
+]

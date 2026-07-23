@@ -1,0 +1,242 @@
+[
+  {
+    "name": "4.2.0rc2",
+    "release_date": "",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "4.2.0 Cloud Release",
+    "release_date": "2020-11-18",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "4.2.0 GA",
+    "release_date": "2020-11-13",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "Community 3.4.8",
+    "release_date": "2020-11-05",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "4.2.1",
+    "release_date": "2020-12-16",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "4.2.1-b1",
+    "release_date": "2020-12-09",
+    "released": 1,
+    "description": "Phase II of the 4.2.0 cloud release"
+  },
+  {
+    "name": "4.2.1b2",
+    "release_date": "2020-12-16",
+    "released": 1,
+    "description": "Hot fix for /collections 500 error"
+  },
+  {
+    "name": "4.2.2b1",
+    "release_date": "2020-12-18",
+    "released": 1,
+    "description": "Hot fix for artifact file size"
+  },
+  {
+    "name": "4.2.2",
+    "release_date": "2021-03-01",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "4.3.0",
+    "release_date": "2021-06-01",
+    "released": 1,
+    "description": "Pre Platform 2.0 GA"
+  },
+  {
+    "name": "4.2.3",
+    "release_date": "2021-04-23",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "4.3.0b2",
+    "release_date": "2021-03-10",
+    "released": 1,
+    "description": "Cloud-only release, task batching update"
+  },
+  {
+    "name": "4.3.0b3",
+    "release_date": "2021-04-20",
+    "released": 1,
+    "description": "Cloud-only release, post sprint 5"
+  },
+  {
+    "name": "4.2.4",
+    "release_date": "2021-06-28",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "4.4cloud01",
+    "release_date": "2021-05-26",
+    "released": 1,
+    "description": "Cloud release, post sprint 7"
+  },
+  {
+    "name": "4.3.1",
+    "release_date": "2021-06-02",
+    "released": 1,
+    "description": "Platform 2.0 GA"
+  },
+  {
+    "name": "Unspecified",
+    "release_date": "",
+    "released": 0,
+    "description": "Release needed for external team integration"
+  },
+  {
+    "name": "4.4cloud02",
+    "release_date": "2021-07-13",
+    "released": 1,
+    "description": "Cloud release, post sprint 9, plus ansible-core 2.11"
+  },
+  {
+    "name": "4.4cloud04",
+    "release_date": "2021-07-27",
+    "released": 1,
+    "description": "UI only, post sprint 11"
+  },
+  {
+    "name": "4.4cloud03",
+    "release_date": "2021-07-21",
+    "released": 1,
+    "description": "Release to move from cloud.rh.c to console.rh.c"
+  },
+  {
+    "name": "Community 3.4.9",
+    "release_date": "",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "4.3.3",
+    "release_date": "2021-09-23",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "4.2.6",
+    "release_date": "2021-08-27",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "Community 3.4.15",
+    "release_date": "2021-09-23",
+    "released": 1,
+    "description": "Community Galaxy release"
+  },
+  {
+    "name": "Post Summit",
+    "release_date": "",
+    "released": 0,
+    "description": "TBD, placeholder for 'next up' features."
+  },
+  {
+    "name": "4.5.0 Summit",
+    "release_date": "2022-05-31",
+    "released": 0,
+    "description": "AAP 2.2.0; dates TBD; in support of Summit (May/June 2022)"
+  },
+  {
+    "name": "4.4.4",
+    "release_date": "",
+    "released": 0,
+    "description": "AAP 2.1.3, dates TBD"
+  },
+  {
+    "name": "4.2.8",
+    "release_date": "2022-05-03",
+    "released": 0,
+    "description": "AAP 1.2.7; identify issues by 3/21/22; code freeze 4/8/22; Hub rpm builds 4/13/22; Final QE signoff 4/22/22; Productization 4/29/22; Release 5/3/22"
+  },
+  {
+    "name": "4.3.4",
+    "release_date": "2022-04-21",
+    "released": 0,
+    "description": "AAP 2.0.2; see dates https://docs.google.com/spreadsheets/d/1Ft0TiwmGoRCx9NgM5w_WlDiJxYeWg-X3xtJRmdV64oc/edit#gid=1906641149"
+  },
+  {
+    "name": "4.4.3",
+    "release_date": "2022-04-07",
+    "released": 0,
+    "description": "AAP 2.1.2; new version created to resolve platform level bugs AAH-1400 and AAH-1411. hub RPM builds 03/16/22, platform QE signoff 03/29/22, release 04/07/22."
+  },
+  {
+    "name": "4.4.2",
+    "release_date": "2022-03-23",
+    "released": 0,
+    "description": "AAP 2.1.2; may require pulp release (for AAH-1243); Hub RPM builds starts 3/1; Platform QE signoff 3/14; Release 3/23; https://docs.google.com/spreadsheets/d/1Ft0TiwmGoRCx9NgM5w_WlDiJxYeWg-X3xtJRmdV64oc/edit#gid=0; https://github.com/ansible/galaxy_ng/releases/tag/4.4.2"
+  },
+  {
+    "name": "4.4.1",
+    "release_date": "2022-01-20",
+    "released": 1,
+    "description": "AAP 2.1.1; Code Freeze Dec 17th; Hub QE sign off Jan 7th; RPMs week of Jan 10th; Platform QE signoff Jan 14th; Release Jan 17th"
+  },
+  {
+    "name": "4.2.7",
+    "release_date": "2021-12-16",
+    "released": 1,
+    "description": "AAP 1.2.6; issue identification 10/29, code freeze 12/01, QE signoff 12/13, Release 12/16"
+  },
+  {
+    "name": "cloud-2022-01-05",
+    "release_date": "2022-01-05",
+    "released": 1,
+    "description": "Cloud catch up deployment. Everything merged in master. [4.4cloud05 + all in master]"
+  },
+  {
+    "name": "Cloud security + ansible-core dep update",
+    "release_date": "2021-11-30",
+    "released": 1,
+    "description": "AAH-1050 will unblock cloud releases from security updates. Only QE regression required (no new features). Release tagged as: https://github.com/ansible/galaxy_ng/releases/tag/cloud-2021-11-30"
+  },
+  {
+    "name": "4.4.0",
+    "release_date": "2021-11-18",
+    "released": 1,
+    "description": "AAP 2.1.0; 10/27 UPDATE: Test Sign off for Automation Hub and Controller: 11/5 Hub RPM build complete 11/10 Integrated testing signoff: 11/17 Build complete: 11/24 Release: 12/1 Announce: 12/2"
+  },
+  {
+    "name": "cloud-2022-01-13",
+    "release_date": "2022-01-13",
+    "released": 1,
+    "description": "Cloud deploy to turn off deprecation in UI, deployment will be frontend only"
+  },
+  {
+    "name": "cloud-2022-02-16",
+    "release_date": "2022-02-16",
+    "released": 1,
+    "description": "Issues merged since last cloud release (frontend: cloud-2022-01-13, backend: cloud-2022-01-05)"
+  },
+  {
+    "name": "cloud-2022-03-09",
+    "release_date": "2022-03-09",
+    "released": 0,
+    "description": "Issues merged since last cloud release (frontend: cloud-2022-01-13, backend: cloud-2022-02-16)"
+  },
+  {
+    "name": "Cloud merged issues",
+    "release_date": "",
+    "released": 0,
+    "description": "Issues merged since last cloud release (2022-03-09)"
+  }
+]

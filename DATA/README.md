@@ -1,13 +1,20 @@
-# Ground Truth and Benchmark Dataset (`DATA/`)
+# Source Data and Constructed Benchmark (`DATA/`)
 
-This directory contains the processed benchmark used in the thesis: cleaned requirements, positive trace links, fixed train/validation/test splits, and hard-negative pair files for eight Jira projects.
-
-The raw Jira exports are not included. They were provided by Tian et al., and redistribution rights for the raw unprocessed dumps were not cleared.
+This directory contains the Jira source exports used by the thesis and the resulting processed benchmark: retained requirements, positive trace links, fixed train/validation/test splits, and hard-negative pair files for eight projects.
 
 ## Folder Structure
 
 ```text
 DATA/
+|-- RAW_DATA/
+|   |-- AAH/
+|   |-- BEAM/
+|   |-- CB/
+|   |-- FH/
+|   |-- JBIDE/
+|   |-- KEYCLOAK/
+|   |-- KOGITO/
+|   `-- PROJQUAY/
 |-- .GROUND_TRUTH/
 |   |-- AAH/
 |   |   |-- requirements.json
@@ -31,10 +38,19 @@ DATA/
 |   `-- hard_negative_mining_metadata_v3.json
 |-- 01_construct_ground_truth_v3_text_clean.py
 |-- 02_mine_qwen3_diverse_hard_negatives.py
-|-- audit_ground_truth_v3.py
-|-- validate_server_gt.py
 `-- README.md
 ```
+
+## Source Exports
+
+Each project folder under `RAW_DATA/` contains the Jira files supplied with the source dataset. Ground-truth construction uses two files:
+
+- `{PROJECT}_issue_denoised.json`: issue identifiers, types, summaries, and descriptions after the inherited denoising step.
+- `{PROJECT}_link.json`: recorded Jira links used to reconstruct the adjacent-level hierarchy.
+
+The other issue, component, version, and preselected-link exports are retained as source artefacts but are not inputs to the final construction script. The thesis does not independently reproduce the denoising process that produced the denoised issue files.
+
+The exports retain the provenance and terms of their originating public Jira projects; they are not relicensed under the repository's MIT licence.
 
 ## Project Counts
 
@@ -54,6 +70,8 @@ These counts are computed from the committed JSON files in `DATA/.GROUND_TRUTH/`
 
 ## Ground-Truth Construction
 
+`01_construct_ground_truth_v3_text_clean.py` reads the denoised issue and raw link files and writes the requirements, positive links, source-stratified splits, and construction metadata under `.GROUND_TRUTH/`.
+
 The processed benchmark keeps issue types mapped to the studied Jira hierarchy:
 
 - Parent level: Epic / Feature
@@ -72,8 +90,9 @@ Positive links are retained only when both endpoints exist in the processed issu
 
 The goal is to evaluate the classifier/reader stage under difficult candidate conditions. The mined negatives are not random non-links; they are intentionally similar candidates that a first-stage retriever could plausibly surface.
 
-## Public Data Policy
+## Artefact Boundary
 
-- `DATA/.GROUND_TRUTH/` is included so the processed benchmark and fixed pair splits can be inspected.
-- `DATA/RAW_DATA/` is omitted and ignored because the raw Jira exports are not redistributable by this repository.
-- The data-construction scripts are included for transparency and for users who independently obtain the raw exports.
+- `RAW_DATA/` preserves the source exports associated with the study.
+- `.GROUND_TRUTH/` preserves the exact constructed benchmark used by all methods.
+- The two construction scripts document the transformation between these stages.
+- Diagnostic notebooks, one-off validation scripts, and internal audit reports are intentionally excluded from the public artefact archive.

@@ -1,0 +1,404 @@
+[
+  {
+    "name": "clair-4.5.0",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "Alongside OpenShift 4.4",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "Alongside OpenShift 4.5",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "OpenShift 4.7",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "Alongside OpenShift 4.7",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "2020.08.20",
+    "release_date": "2020-08-20",
+    "released": 1,
+    "description": "jira cleanup"
+  },
+  {
+    "name": "quay-v3.2.0",
+    "release_date": "2019-12-18",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.2.1",
+    "release_date": "2020-02-11",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.3.3",
+    "release_date": "2021-01-12",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.3.2",
+    "release_date": "",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.3.1",
+    "release_date": "2020-08-20",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.3.0",
+    "release_date": "2020-04-29",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.2.2",
+    "release_date": "2020-04-27",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.3.4",
+    "release_date": "2021-01-12",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.7.0",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.4.0",
+    "release_date": "2021-02-04",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.4.1",
+    "release_date": "2021-02-18",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.4.2",
+    "release_date": "2021-03-09",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.4.3",
+    "release_date": "2021-03-18",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.4.4",
+    "release_date": "2021-04-20",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.5.0",
+    "release_date": "2021-04-14",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.5.1",
+    "release_date": "2021-04-20",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.5.2",
+    "release_date": "2021-06-10",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "clair-4.1.0",
+    "release_date": "2021-05-13",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.4.5",
+    "release_date": "2021-05-20",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "quay-io",
+    "release_date": "",
+    "released": 0,
+    "description": "Recurring quay.io deployment"
+  },
+  {
+    "name": "z-stream",
+    "release_date": "",
+    "released": 0,
+    "description": "To indicate candidate for z-stream"
+  },
+  {
+    "name": "quay-v3.5.3",
+    "release_date": "2021-07-08",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "2021Q2 Plan",
+    "release_date": "2021-08-14",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "clair-4.2.0",
+    "release_date": "",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.4.6",
+    "release_date": "2021-07-08",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "clair-4.1.1",
+    "release_date": "",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.4.7",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.5.4",
+    "release_date": "2021-07-13",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.5.5",
+    "release_date": "2021-08-03",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.6.1",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.6.0",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.5.6",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "clair-4.1.2",
+    "release_date": "",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "clair-4.2.1",
+    "release_date": "",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "clair-4.1.4",
+    "release_date": "",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "clair-4.1.5",
+    "release_date": "",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "clair-4.2.2",
+    "release_date": "",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.5.7",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "clair-4.3.0",
+    "release_date": "",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.5.8",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.6.2",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "clair-4.3.1",
+    "release_date": "",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "clair-4.3.3",
+    "release_date": "",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "clair-4.4.0",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "clair-4.3.5",
+    "release_date": "2021-11-19",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "clair-2.1.7",
+    "release_date": "",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "clair-4.3.6",
+    "release_date": "2022-01-14",
+    "released": 1,
+    "description": ""
+  },
+  {
+    "name": "omr-v1.0.0",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.6.3",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "omr-v1.1.0",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.7.1",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.8.0",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.9.0",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.7.2",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.6.4",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "clair-4.4.1",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.6.5",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "quay-v3.6.6",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "omr-v1.1.1",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "omr-v1.2.0",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  },
+  {
+    "name": "3.6.4",
+    "release_date": "",
+    "released": 0,
+    "description": ""
+  }
+]

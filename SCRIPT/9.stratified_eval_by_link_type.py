@@ -5,10 +5,9 @@ Splits held-out test predictions into Refinement (Parent->Standard) vs
 Subtask (Standard->Child) strata and computes P, R, F2 independently per
 stratum, per project and macro-averaged.
 
-V3 successor of the V2 stratified analysis (Debug (1).ipynb, "Frank's
-Request"). Same stratum definition: the stratum of a pair is derived from
-the abstraction levels of its endpoints in requirements.json, so mined
-hard negatives inherit the stratum of their (source, candidate) pair.
+The stratum of a pair is derived from the abstraction levels of its
+endpoints in requirements.json, so mined hard negatives inherit the
+stratum of their (source, candidate) pair.
 
 Scoring:
   clean        : parse failures (prediction is None) excluded  [thesis primary]

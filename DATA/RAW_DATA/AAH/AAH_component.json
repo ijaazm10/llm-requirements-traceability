@@ -1,0 +1,58 @@
+[
+  {
+    "name": "API",
+    "description": "Backend API"
+  },
+  {
+    "name": "Community",
+    "description": ""
+  },
+  {
+    "name": "Docs",
+    "description": ""
+  },
+  {
+    "name": "Importer",
+    "description": "Collection import process"
+  },
+  {
+    "name": "Infrastructure",
+    "description": "Infrastructure / SRE"
+  },
+  {
+    "name": "Installer",
+    "description": ""
+  },
+  {
+    "name": "pulp",
+    "description": ""
+  },
+  {
+    "name": "pulp_ansible",
+    "description": ""
+  },
+  {
+    "name": "pulpcore",
+    "description": ""
+  },
+  {
+    "name": "QE",
+    "description": ""
+  },
+  {
+    "name": "Security",
+    "description": ""
+  },
+  {
+    "name": "Sync",
+    "description": ""
+  },
+  {
+    "name": "UI",
+    "description": ""
+  },
+  {
+    "name": "UX",
+    "description": ""
+  }
+]

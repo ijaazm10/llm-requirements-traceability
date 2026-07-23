@@ -1,0 +1,2300 @@
+[
+  {
+    "ltype": "finish-start [GANTT]",
+    "source": "AAH-1428",
+    "target": "AAH-1237"
+  },
+  {
+    "ltype": "Sequence",
+    "source": "AAH-1398",
+    "target": "AAH-525"
+  },
+  [
+    "AAH-1398",
+    "AAH-1020"
+  ],
+  [
+    "AAH-1398",
+    "AAH-980"
+  ],
+  [
+    "AAH-1398",
+    "AAH-805"
+  ],
+  [
+    "AAH-1398",
+    "AAH-770"
+  ],
+  [
+    "AAH-1398",
+    "AAH-769"
+  ],
+  [
+    "AAH-1398",
+    "AAH-768"
+  ],
+  [
+    "AAH-1398",
+    "AAH-767"
+  ],
+  [
+    "AAH-1398",
+    "AAH-766"
+  ],
+  [
+    "AAH-1398",
+    "AAH-764"
+  ],
+  [
+    "AAH-1398",
+    "AAH-763"
+  ],
+  [
+    "AAH-1398",
+    "AAH-762"
+  ],
+  [
+    "AAH-1398",
+    "AAH-761"
+  ],
+  [
+    "AAH-1398",
+    "AAH-760"
+  ],
+  [
+    "AAH-1398",
+    "AAH-759"
+  ],
+  [
+    "AAH-1398",
+    "AAH-758"
+  ],
+  [
+    "AAH-1398",
+    "AAH-757"
+  ],
+  [
+    "AAH-1398",
+    "AAH-756"
+  ],
+  [
+    "AAH-1398",
+    "AAH-755"
+  ],
+  [
+    "AAH-1398",
+    "AAH-754"
+  ],
+  [
+    "AAH-1398",
+    "AAH-656"
+  ],
+  [
+    "AAH-1398",
+    "AAH-340"
+  ],
+  {
+    "ltype": "Related",
+    "source": "AAH-1396",
+    "target": "AAH-876"
+  },
+  {
+    "ltype": "Related",
+    "source": "AAH-1362",
+    "target": "AAH-1194"
+  },
+  {
+    "ltype": "Related",
+    "source": "AAH-1358",
+    "target": "AAH-1246"
+  },
+  {
+    "ltype": "Related",
+    "source": "AAH-1335",
+    "target": "AAH-1130"
+  },
+  {
+    "ltype": "Related",
+    "source": "AAH-1335",
+    "target": "AAH-1131"
+  },
+  {
+    "ltype": "Related",
+    "source": "AAH-1335",
+    "target": "AAH-1129"
+  },
+  [
+    "AAH-1314",
+    "AAH-1313"
+  ],
+  {
+    "ltype": "Related",
+    "source": "AAH-1245",
+    "target": "AAH-1237"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "AAH-1238",
+    "target": "AAH-615"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "AAH-1225",
+    "target": "AAH-1224"
+  },
+  [
+    "AAH-1225",
+    "AAH-1295"
+  ],
+  [
+    "AAH-1225",
+    "AAH-1272"
+  ],
+  [
+    "AAH-1225",
+    "AAH-1231"
+  ],
+  [
+    "AAH-1225",
+    "AAH-1229"
+  ],
+  [
+    "AAH-1225",
+    "AAH-665"
+  ],
+  {
+    "ltype": "Blocks",
+    "source": "AAH-1224",
+    "target": "AAH-1223"
+  },
+  [
+    "AAH-1224",
+    "AAH-1423"
+  ],
+  [
+    "AAH-1224",
+    "AAH-1421"
+  ],
+  [
+    "AAH-1224",
+    "AAH-1361"
+  ],
+  [
+    "AAH-1224",
+    "AAH-1360"
+  ],
+  [
+    "AAH-1224",
+    "AAH-1305"
+  ],
+  [
+    "AAH-1224",
+    "AAH-1304"
+  ],
+  [
+    "AAH-1224",
+    "AAH-1302"
+  ],
+  [
+    "AAH-1224",
+    "AAH-1301"
+  ],
+  [
+    "AAH-1224",
+    "AAH-1300"
+  ],
+  [
+    "AAH-1224",
+    "AAH-1271"
+  ],
+  [
+    "AAH-1224",
+    "AAH-1270"
+  ],
+  [
+    "AAH-1223",
+    "AAH-1303"
+  ],
+  [
+    "AAH-1223",
+    "AAH-1298"
+  ],
+  [
+    "AAH-1223",
+    "AAH-1297"
+  ],
+  [
+    "AAH-1223",
+    "AAH-1296"
+  ],
+  [
+    "AAH-1223",
+    "AAH-1269"
+  ],
+  [
+    "AAH-1223",
+    "AAH-1268"
+  ],
+  [
+    "AAH-1223",
+    "AAH-1267"
+  ],
+  [
+    "AAH-1223",
+    "AAH-1228"
+  ],
+  [
+    "AAH-1223",
+    "AAH-784"
+  ],
+  {
+    "ltype": "Superset",
+    "source": "AAH-1189",
+    "target": "AAH-1069"
+  },
+  {
+    "ltype": "Related",
+    "source": "AAH-1187",
+    "target": "AAH-840"
+  },
+  {
+    "ltype": "Related",
+    "source": "AAH-1186",
+    "target": "AAH-306"
+  },
+  {
+    "ltype": "Cloners",
+    "source": "AAH-1184",
+    "target": "AAH-804"
+  },
+  {
+    "ltype": "Cloners",
+    "source": "AAH-1177",
+    "target": "AAH-1038"
+  },
+  {
+    "ltype": "Related",
+    "source": "AAH-1165",
+    "target": "AAH-1097"
+  },
+  {
+    "ltype": "Related",
+    "source": "AAH-1144",
+    "target": "AAH-683"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "AAH-1140",
+    "target": "AAH-1078"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "AAH-1139",
+    "target": "AAH-1078"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "AAH-1138",
+    "target": "AAH-1078"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "AAH-1137",
+    "target": "AAH-1078"
+  },
+  {
+    "ltype": "Duplicate",
+    "source": "AAH-1122",
+    "target": "AAH-942"
+  },
+  {
+    "ltype": "Duplicate",
+    "source": "AAH-1121",
+    "target": "AAH-943"
+  },
+  {
+    "ltype": "Duplicate",
+    "source": "AAH-1108",
+    "target": "AAH-833"
+  },
+  {
+    "ltype": "Related",
+    "source": "AAH-1099",
+    "target": "AAH-1078"
+  },
+  {
+    "ltype": "Issue split",
+    "source": "AAH-1089",
+    "target": "AAH-1025"
+  },
+  {
+    "ltype": "Issue split",
+    "source": "AAH-1088",
+    "target": "AAH-1025"
+  },
+  {
+    "ltype": "Issue split",
+    "source": "AAH-1087",
+    "target": "AAH-1025"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "AAH-1084",
+    "target": "AAH-1078"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "AAH-1079",
+    "target": "AAH-1078"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "AAH-1079",
+    "target": "AAH-383"
+  },
+  {
+    "ltype": "Related",
+    "source": "AAH-1078",
+    "target": "AAH-1074"
+  },
+  {
+    "ltype": "Related",
+    "source": "AAH-1078",
+    "target": "AAH-898"
+  },
+  {
+    "ltype": "Related",
+    "source": "AAH-1078",
+    "target": "AAH-383"
+  },
+  [
+    "AAH-1078",
+    "AAH-1140"
+  ],
+  [
+    "AAH-1078",
+    "AAH-1099"
+  ],
+  [
+    "AAH-1078",
+    "AAH-1080"
+  ],
+  {
+    "ltype": "Related",
+    "source": "AAH-1077",
+    "target": "AAH-1076"
+  },
+  {
+    "ltype": "Related",
+    "source": "AAH-1074",
+    "target": "AAH-383"
+  },
+  {
+    "ltype": "multi-level hierarchy [GANTT]",
+    "source": "AAH-1074",
+    "target": "AAH-819"
+  },
+  [
+    "AAH-1074",
+    "AAH-1390"
+  ],
+  [
+    "AAH-1074",
+    "AAH-1138"
+  ],
+  [
+    "AAH-1074",
+    "AAH-1084"
+  ],
+  [
+    "AAH-1074",
+    "AAH-1082"
+  ],
+  [
+    "AAH-1074",
+    "AAH-1079"
+  ],
+  [
+    "AAH-1074",
+    "AAH-1077"
+  ],
+  [
+    "AAH-1074",
+    "AAH-1076"
+  ],
+  [
+    "AAH-1074",
+    "AAH-1075"
+  ],
+  [
+    "AAH-1074",
+    "AAH-1045"
+  ],
+  {
+    "ltype": "finish-start [GANTT]",
+    "source": "AAH-1062",
+    "target": "AAH-1056"
+  },
+  {
+    "ltype": "finish-start [GANTT]",
+    "source": "AAH-1061",
+    "target": "AAH-1057"
+  },
+  {
+    "ltype": "finish-start [GANTT]",
+    "source": "AAH-1060",
+    "target": "AAH-1058"
+  },
+  {
+    "ltype": "finish-start [GANTT]",
+    "source": "AAH-1059",
+    "target": "AAH-1057"
+  },
+  {
+    "ltype": "finish-start [GANTT]",
+    "source": "AAH-1056",
+    "target": "AAH-1054"
+  },
+  {
+    "ltype": "finish-start [GANTT]",
+    "source": "AAH-1055",
+    "target": "AAH-1054"
+  },
+  {
+    "ltype": "finish-start [GANTT]",
+    "source": "AAH-1054",
+    "target": "AAH-1053"
+  },
+  {
+    "ltype": "Related",
+    "source": "AAH-1037",
+    "target": "AAH-784"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "AAH-1036",
+    "target": "AAH-585"
+  },
+  [
+    "AAH-1028",
+    "AAH-1034"
+  ],
+  {
+    "ltype": "Gantt: start-finish",
+    "source": "AAH-1020",
+    "target": "AAH-692"
+  },
+  {
+    "ltype": "Sequence",
+    "source": "AAH-1017",
+    "target": "AAH-846"
+  },
+  {
+    "ltype": "Sequence",
+    "source": "AAH-1017",
+    "target": "AAH-863"
+  },
+  {
+    "ltype": "Sequence",
+    "source": "AAH-1017",
+    "target": "AAH-901"
+  },
+  {
+    "ltype": "Sequence",
+    "source": "AAH-1017",
+    "target": "AAH-916"
+  },
+  {
+    "ltype": "Related",
+    "source": "AAH-1012",
+    "target": "AAH-995"
+  },
+  [
+    "AAH-978",
+    "AAH-979"
+  ],
+  [
+    "AAH-963",
+    "AAH-965"
+  ],
+  [
+    "AAH-963",
+    "AAH-964"
+  ],
+  {
+    "ltype": "Documentation",
+    "source": "AAH-961",
+    "target": "AAH-470"
+  },
+  [
+    "AAH-960",
+    "AAH-1181"
+  ],
+  [
+    "AAH-960",
+    "AAH-1102"
+  ],
+  [
+    "AAH-960",
+    "AAH-1100"
+  ],
+  [
+    "AAH-957",
+    "AAH-1409"
+  ],
+  [
+    "AAH-957",
+    "AAH-1388"
+  ],
+  [
+    "AAH-957",
+    "AAH-1335"
+  ],
+  [
+    "AAH-957",
+    "AAH-1244"
+  ],
+  [
+    "AAH-957",
+    "AAH-1131"
+  ],
+  [
+    "AAH-957",
+    "AAH-1130"
+  ],
+  [
+    "AAH-957",
+    "AAH-1129"
+  ],
+  [
+    "AAH-957",
+    "AAH-1128"
+  ],
+  [
+    "AAH-957",
+    "AAH-1101"
+  ],
+  [
+    "AAH-957",
+    "AAH-1093"
+  ],
+  [
+    "AAH-957",
+    "AAH-1092"
+  ],
+  [
+    "AAH-957",
+    "AAH-1090"
+  ],
+  [
+    "AAH-957",
+    "AAH-1083"
+  ],
+  [
+    "AAH-957",
+    "AAH-1071"
+  ],
+  [
+    "AAH-957",
+    "AAH-1041"
+  ],
+  {
+    "ltype": "Blocks",
+    "source": "AAH-946",
+    "target": "AAH-814"
+  },
+  {
+    "ltype": "Account",
+    "source": "AAH-943",
+    "target": "AAH-886"
+  },
+  {
+    "ltype": "Account",
+    "source": "AAH-942",
+    "target": "AAH-886"
+  },
+  {
+    "ltype": "Related",
+    "source": "AAH-932",
+    "target": "AAH-902"
+  },
+  {
+    "ltype": "Documentation",
+    "source": "AAH-920",
+    "target": "AAH-878"
+  },
+  {
+    "ltype": "finish-start [GANTT]",
+    "source": "AAH-905",
+    "target": "AAH-904"
+  },
+  {
+    "ltype": "finish-start [GANTT]",
+    "source": "AAH-904",
+    "target": "AAH-537"
+  },
+  [
+    "AAH-898",
+    "AAH-1433"
+  ],
+  [
+    "AAH-898",
+    "AAH-900"
+  ],
+  [
+    "AAH-898",
+    "AAH-899"
+  ],
+  {
+    "ltype": "Documentation",
+    "source": "AAH-892",
+    "target": "AAH-593"
+  },
+  {
+    "ltype": "Documentation",
+    "source": "AAH-892",
+    "target": "AAH-535"
+  },
+  [
+    "AAH-886",
+    "AAH-1177"
+  ],
+  [
+    "AAH-886",
+    "AAH-1038"
+  ],
+  [
+    "AAH-886",
+    "AAH-887"
+  ],
+  [
+    "AAH-878",
+    "AAH-917"
+  ],
+  [
+    "AAH-878",
+    "AAH-883"
+  ],
+  [
+    "AAH-878",
+    "AAH-882"
+  ],
+  [
+    "AAH-878",
+    "AAH-881"
+  ],
+  [
+    "AAH-878",
+    "AAH-880"
+  ],
+  [
+    "AAH-865",
+    "AAH-889"
+  ],
+  [
+    "AAH-865",
+    "AAH-888"
+  ],
+  {
+    "ltype": "Related",
+    "source": "AAH-818",
+    "target": "AAH-597"
+  },
+  {
+    "ltype": "Sequence",
+    "source": "AAH-818",
+    "target": "AAH-817"
+  },
+  {
+    "ltype": "Sequence",
+    "source": "AAH-817",
+    "target": "AAH-816"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-808",
+    "target": "AAH-809"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-808",
+    "target": "AAH-810"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-808",
+    "target": "AAH-811"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-808",
+    "target": "AAH-812"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "AAH-802",
+    "target": "AAH-801"
+  },
+  [
+    "AAH-799",
+    "AAH-830"
+  ],
+  [
+    "AAH-799",
+    "AAH-803"
+  ],
+  [
+    "AAH-799",
+    "AAH-802"
+  ],
+  [
+    "AAH-799",
+    "AAH-801"
+  ],
+  [
+    "AAH-799",
+    "AAH-800"
+  ],
+  {
+    "ltype": "Account",
+    "source": "AAH-784",
+    "target": "AAH-1309"
+  },
+  {
+    "ltype": "multi-level hierarchy [GANTT]",
+    "source": "AAH-780",
+    "target": "AAH-534"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "AAH-764",
+    "target": "AAH-754"
+  },
+  [
+    "AAH-746",
+    "AAH-748"
+  ],
+  [
+    "AAH-746",
+    "AAH-747"
+  ],
+  {
+    "ltype": "Related",
+    "source": "AAH-733",
+    "target": "AAH-1018"
+  },
+  {
+    "ltype": "Issue split",
+    "source": "AAH-729",
+    "target": "AAH-1018"
+  },
+  [
+    "AAH-729",
+    "AAH-918"
+  ],
+  [
+    "AAH-729",
+    "AAH-750"
+  ],
+  [
+    "AAH-729",
+    "AAH-734"
+  ],
+  [
+    "AAH-729",
+    "AAH-733"
+  ],
+  [
+    "AAH-729",
+    "AAH-730"
+  ],
+  [
+    "AAH-724",
+    "AAH-725"
+  ],
+  {
+    "ltype": "Blocks",
+    "source": "AAH-716",
+    "target": "AAH-712"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "AAH-716",
+    "target": "AAH-713"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "AAH-715",
+    "target": "AAH-710"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "AAH-715",
+    "target": "AAH-711"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "AAH-714",
+    "target": "AAH-709"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "AAH-713",
+    "target": "AAH-707"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "AAH-708",
+    "target": "AAH-706"
+  },
+  [
+    "AAH-699",
+    "AAH-924"
+  ],
+  [
+    "AAH-699",
+    "AAH-923"
+  ],
+  {
+    "ltype": "Blocks",
+    "source": "AAH-672",
+    "target": "AAH-1047"
+  },
+  {
+    "ltype": "multi-level hierarchy [GANTT]",
+    "source": "AAH-660",
+    "target": "AAH-238"
+  },
+  {
+    "ltype": "finish-start [GANTT]",
+    "source": "AAH-658",
+    "target": "AAH-639"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "AAH-640",
+    "target": "AAH-639"
+  },
+  [
+    "AAH-615",
+    "AAH-1437"
+  ],
+  [
+    "AAH-615",
+    "AAH-1193"
+  ],
+  [
+    "AAH-615",
+    "AAH-1192"
+  ],
+  [
+    "AAH-615",
+    "AAH-1191"
+  ],
+  [
+    "AAH-615",
+    "AAH-1190"
+  ],
+  [
+    "AAH-615",
+    "AAH-1189"
+  ],
+  [
+    "AAH-615",
+    "AAH-1011"
+  ],
+  [
+    "AAH-615",
+    "AAH-1010"
+  ],
+  [
+    "AAH-615",
+    "AAH-1009"
+  ],
+  [
+    "AAH-615",
+    "AAH-1008"
+  ],
+  [
+    "AAH-615",
+    "AAH-1007"
+  ],
+  [
+    "AAH-615",
+    "AAH-1006"
+  ],
+  [
+    "AAH-615",
+    "AAH-1005"
+  ],
+  [
+    "AAH-615",
+    "AAH-1004"
+  ],
+  [
+    "AAH-615",
+    "AAH-1003"
+  ],
+  [
+    "AAH-615",
+    "AAH-1002"
+  ],
+  [
+    "AAH-615",
+    "AAH-1001"
+  ],
+  [
+    "AAH-615",
+    "AAH-1000"
+  ],
+  [
+    "AAH-615",
+    "AAH-999"
+  ],
+  [
+    "AAH-615",
+    "AAH-998"
+  ],
+  [
+    "AAH-615",
+    "AAH-997"
+  ],
+  [
+    "AAH-615",
+    "AAH-636"
+  ],
+  [
+    "AAH-615",
+    "AAH-635"
+  ],
+  [
+    "AAH-615",
+    "AAH-634"
+  ],
+  [
+    "AAH-615",
+    "AAH-633"
+  ],
+  [
+    "AAH-615",
+    "AAH-632"
+  ],
+  [
+    "AAH-615",
+    "AAH-631"
+  ],
+  [
+    "AAH-615",
+    "AAH-630"
+  ],
+  [
+    "AAH-615",
+    "AAH-629"
+  ],
+  [
+    "AAH-615",
+    "AAH-628"
+  ],
+  [
+    "AAH-615",
+    "AAH-627"
+  ],
+  [
+    "AAH-615",
+    "AAH-626"
+  ],
+  [
+    "AAH-615",
+    "AAH-625"
+  ],
+  [
+    "AAH-615",
+    "AAH-624"
+  ],
+  [
+    "AAH-615",
+    "AAH-623"
+  ],
+  [
+    "AAH-615",
+    "AAH-622"
+  ],
+  [
+    "AAH-615",
+    "AAH-621"
+  ],
+  [
+    "AAH-615",
+    "AAH-620"
+  ],
+  [
+    "AAH-615",
+    "AAH-619"
+  ],
+  [
+    "AAH-615",
+    "AAH-618"
+  ],
+  [
+    "AAH-615",
+    "AAH-617"
+  ],
+  [
+    "AAH-615",
+    "AAH-616"
+  ],
+  [
+    "AAH-609",
+    "AAH-612"
+  ],
+  [
+    "AAH-608",
+    "AAH-655"
+  ],
+  [
+    "AAH-608",
+    "AAH-611"
+  ],
+  [
+    "AAH-607",
+    "AAH-907"
+  ],
+  [
+    "AAH-607",
+    "AAH-902"
+  ],
+  [
+    "AAH-607",
+    "AAH-752"
+  ],
+  [
+    "AAH-607",
+    "AAH-716"
+  ],
+  [
+    "AAH-607",
+    "AAH-715"
+  ],
+  [
+    "AAH-607",
+    "AAH-714"
+  ],
+  [
+    "AAH-607",
+    "AAH-713"
+  ],
+  [
+    "AAH-607",
+    "AAH-712"
+  ],
+  [
+    "AAH-607",
+    "AAH-711"
+  ],
+  [
+    "AAH-607",
+    "AAH-710"
+  ],
+  [
+    "AAH-607",
+    "AAH-709"
+  ],
+  [
+    "AAH-607",
+    "AAH-708"
+  ],
+  [
+    "AAH-607",
+    "AAH-707"
+  ],
+  [
+    "AAH-607",
+    "AAH-706"
+  ],
+  [
+    "AAH-607",
+    "AAH-610"
+  ],
+  [
+    "AAH-605",
+    "AAH-945"
+  ],
+  [
+    "AAH-605",
+    "AAH-931"
+  ],
+  [
+    "AAH-605",
+    "AAH-897"
+  ],
+  [
+    "AAH-605",
+    "AAH-896"
+  ],
+  [
+    "AAH-605",
+    "AAH-864"
+  ],
+  [
+    "AAH-605",
+    "AAH-438"
+  ],
+  [
+    "AAH-605",
+    "AAH-437"
+  ],
+  [
+    "AAH-605",
+    "AAH-436"
+  ],
+  [
+    "AAH-605",
+    "AAH-435"
+  ],
+  [
+    "AAH-605",
+    "AAH-434"
+  ],
+  {
+    "ltype": "subtask",
+    "source": "AAH-597",
+    "target": "AAH-816"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-597",
+    "target": "AAH-817"
+  },
+  [
+    "AAH-595",
+    "AAH-738"
+  ],
+  [
+    "AAH-595",
+    "AAH-736"
+  ],
+  [
+    "AAH-595",
+    "AAH-735"
+  ],
+  [
+    "AAH-595",
+    "AAH-731"
+  ],
+  [
+    "AAH-595",
+    "AAH-598"
+  ],
+  [
+    "AAH-594",
+    "AAH-184"
+  ],
+  [
+    "AAH-593",
+    "AAH-916"
+  ],
+  [
+    "AAH-593",
+    "AAH-863"
+  ],
+  [
+    "AAH-593",
+    "AAH-846"
+  ],
+  [
+    "AAH-593",
+    "AAH-596"
+  ],
+  [
+    "AAH-592",
+    "AAH-591"
+  ],
+  [
+    "AAH-592",
+    "AAH-590"
+  ],
+  [
+    "AAH-592",
+    "AAH-589"
+  ],
+  {
+    "ltype": "finish-start [GANTT]",
+    "source": "AAH-588",
+    "target": "AAH-559"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "AAH-576",
+    "target": "AAH-584"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-566",
+    "target": "AAH-382"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-566",
+    "target": "AAH-581"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-566",
+    "target": "AAH-582"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-566",
+    "target": "AAH-683"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-565",
+    "target": "AAH-561"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-565",
+    "target": "AAH-567"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-565",
+    "target": "AAH-579"
+  },
+  {
+    "ltype": "finish-start [GANTT]",
+    "source": "AAH-559",
+    "target": "AAH-538"
+  },
+  {
+    "ltype": "multi-level hierarchy [GANTT]",
+    "source": "AAH-545",
+    "target": "AAH-238"
+  },
+  [
+    "AAH-537",
+    "AAH-866"
+  ],
+  [
+    "AAH-537",
+    "AAH-667"
+  ],
+  [
+    "AAH-537",
+    "AAH-559"
+  ],
+  [
+    "AAH-537",
+    "AAH-541"
+  ],
+  [
+    "AAH-537",
+    "AAH-540"
+  ],
+  [
+    "AAH-537",
+    "AAH-539"
+  ],
+  [
+    "AAH-537",
+    "AAH-538"
+  ],
+  {
+    "ltype": "Related",
+    "source": "AAH-534",
+    "target": "AAH-1237"
+  },
+  {
+    "ltype": "Related",
+    "source": "AAH-534",
+    "target": "AAH-306"
+  },
+  [
+    "AAH-534",
+    "AAH-1186"
+  ],
+  [
+    "AAH-534",
+    "AAH-779"
+  ],
+  [
+    "AAH-534",
+    "AAH-606"
+  ],
+  {
+    "ltype": "Blocks",
+    "source": "AAH-533",
+    "target": "AAH-531"
+  },
+  {
+    "ltype": "Related",
+    "source": "AAH-530",
+    "target": "AAH-349"
+  },
+  {
+    "ltype": "Related",
+    "source": "AAH-530",
+    "target": "AAH-238"
+  },
+  [
+    "AAH-530",
+    "AAH-1089"
+  ],
+  [
+    "AAH-530",
+    "AAH-1088"
+  ],
+  [
+    "AAH-530",
+    "AAH-1087"
+  ],
+  [
+    "AAH-530",
+    "AAH-1025"
+  ],
+  [
+    "AAH-530",
+    "AAH-996"
+  ],
+  [
+    "AAH-530",
+    "AAH-533"
+  ],
+  [
+    "AAH-530",
+    "AAH-532"
+  ],
+  [
+    "AAH-530",
+    "AAH-531"
+  ],
+  [
+    "AAH-530",
+    "AAH-518"
+  ],
+  [
+    "AAH-530",
+    "AAH-517"
+  ],
+  [
+    "AAH-526",
+    "AAH-778"
+  ],
+  [
+    "AAH-526",
+    "AAH-723"
+  ],
+  [
+    "AAH-526",
+    "AAH-722"
+  ],
+  [
+    "AAH-526",
+    "AAH-721"
+  ],
+  [
+    "AAH-526",
+    "AAH-720"
+  ],
+  [
+    "AAH-526",
+    "AAH-719"
+  ],
+  [
+    "AAH-526",
+    "AAH-604"
+  ],
+  [
+    "AAH-525",
+    "AAH-1252"
+  ],
+  [
+    "AAH-525",
+    "AAH-1039"
+  ],
+  [
+    "AAH-525",
+    "AAH-765"
+  ],
+  [
+    "AAH-525",
+    "AAH-753"
+  ],
+  [
+    "AAH-525",
+    "AAH-564"
+  ],
+  [
+    "AAH-525",
+    "AAH-259"
+  ],
+  [
+    "AAH-514",
+    "AAH-871"
+  ],
+  [
+    "AAH-514",
+    "AAH-516"
+  ],
+  [
+    "AAH-514",
+    "AAH-515"
+  ],
+  [
+    "AAH-514",
+    "AAH-460"
+  ],
+  {
+    "ltype": "Documentation",
+    "source": "AAH-507",
+    "target": "AAH-500"
+  },
+  [
+    "AAH-491",
+    "AAH-497"
+  ],
+  [
+    "AAH-491",
+    "AAH-496"
+  ],
+  [
+    "AAH-491",
+    "AAH-495"
+  ],
+  [
+    "AAH-491",
+    "AAH-494"
+  ],
+  [
+    "AAH-491",
+    "AAH-493"
+  ],
+  [
+    "AAH-491",
+    "AAH-492"
+  ],
+  {
+    "ltype": "Gantt: start-finish",
+    "source": "AAH-445",
+    "target": "AAH-403"
+  },
+  {
+    "ltype": "Gantt: finish-start",
+    "source": "AAH-411",
+    "target": "AAH-170"
+  },
+  [
+    "AAH-411",
+    "AAH-415"
+  ],
+  [
+    "AAH-411",
+    "AAH-414"
+  ],
+  [
+    "AAH-411",
+    "AAH-413"
+  ],
+  [
+    "AAH-411",
+    "AAH-412"
+  ],
+  [
+    "AAH-411",
+    "AAH-386"
+  ],
+  {
+    "ltype": "Gantt: finish-start",
+    "source": "AAH-410",
+    "target": "AAH-409"
+  },
+  {
+    "ltype": "Duplicate",
+    "source": "AAH-393",
+    "target": "AAH-397"
+  },
+  {
+    "ltype": "Duplicate",
+    "source": "AAH-393",
+    "target": "AAH-395"
+  },
+  [
+    "AAH-383",
+    "AAH-1139"
+  ],
+  [
+    "AAH-383",
+    "AAH-1137"
+  ],
+  [
+    "AAH-379",
+    "AAH-566"
+  ],
+  [
+    "AAH-379",
+    "AAH-565"
+  ],
+  [
+    "AAH-379",
+    "AAH-381"
+  ],
+  {
+    "ltype": "Gantt: finish-start",
+    "source": "AAH-378",
+    "target": "AAH-377"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-375",
+    "target": "AAH-376"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-375",
+    "target": "AAH-377"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-375",
+    "target": "AAH-378"
+  },
+  {
+    "ltype": "Related",
+    "source": "AAH-354",
+    "target": "AAH-350"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-350",
+    "target": "AAH-351"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-350",
+    "target": "AAH-352"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-350",
+    "target": "AAH-353"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-350",
+    "target": "AAH-355"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-350",
+    "target": "AAH-356"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-350",
+    "target": "AAH-357"
+  },
+  {
+    "ltype": "Related",
+    "source": "AAH-349",
+    "target": "AAH-238"
+  },
+  [
+    "AAH-349",
+    "AAH-1119"
+  ],
+  [
+    "AAH-349",
+    "AAH-1117"
+  ],
+  [
+    "AAH-349",
+    "AAH-1116"
+  ],
+  [
+    "AAH-349",
+    "AAH-1115"
+  ],
+  [
+    "AAH-349",
+    "AAH-1114"
+  ],
+  [
+    "AAH-349",
+    "AAH-1113"
+  ],
+  [
+    "AAH-349",
+    "AAH-1112"
+  ],
+  [
+    "AAH-349",
+    "AAH-1111"
+  ],
+  [
+    "AAH-349",
+    "AAH-1110"
+  ],
+  [
+    "AAH-349",
+    "AAH-1109"
+  ],
+  [
+    "AAH-349",
+    "AAH-1108"
+  ],
+  [
+    "AAH-349",
+    "AAH-1107"
+  ],
+  [
+    "AAH-349",
+    "AAH-1104"
+  ],
+  [
+    "AAH-349",
+    "AAH-833"
+  ],
+  [
+    "AAH-349",
+    "AAH-832"
+  ],
+  [
+    "AAH-349",
+    "AAH-829"
+  ],
+  [
+    "AAH-349",
+    "AAH-828"
+  ],
+  [
+    "AAH-349",
+    "AAH-827"
+  ],
+  [
+    "AAH-349",
+    "AAH-826"
+  ],
+  [
+    "AAH-349",
+    "AAH-825"
+  ],
+  [
+    "AAH-349",
+    "AAH-824"
+  ],
+  [
+    "AAH-349",
+    "AAH-823"
+  ],
+  [
+    "AAH-349",
+    "AAH-822"
+  ],
+  [
+    "AAH-349",
+    "AAH-821"
+  ],
+  [
+    "AAH-349",
+    "AAH-820"
+  ],
+  [
+    "AAH-349",
+    "AAH-776"
+  ],
+  [
+    "AAH-349",
+    "AAH-775"
+  ],
+  [
+    "AAH-349",
+    "AAH-364"
+  ],
+  [
+    "AAH-349",
+    "AAH-363"
+  ],
+  [
+    "AAH-349",
+    "AAH-362"
+  ],
+  [
+    "AAH-349",
+    "AAH-361"
+  ],
+  [
+    "AAH-349",
+    "AAH-360"
+  ],
+  [
+    "AAH-349",
+    "AAH-359"
+  ],
+  [
+    "AAH-349",
+    "AAH-358"
+  ],
+  [
+    "AAH-349",
+    "AAH-354"
+  ],
+  [
+    "AAH-349",
+    "AAH-350"
+  ],
+  {
+    "ltype": "Duplicate",
+    "source": "AAH-341",
+    "target": "AAH-49"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "AAH-338",
+    "target": "AAH-481"
+  },
+  {
+    "ltype": "Related",
+    "source": "AAH-335",
+    "target": "AAH-227"
+  },
+  [
+    "AAH-335",
+    "AAH-869"
+  ],
+  [
+    "AAH-335",
+    "AAH-808"
+  ],
+  [
+    "AAH-335",
+    "AAH-674"
+  ],
+  [
+    "AAH-335",
+    "AAH-641"
+  ],
+  [
+    "AAH-335",
+    "AAH-557"
+  ],
+  [
+    "AAH-335",
+    "AAH-556"
+  ],
+  [
+    "AAH-335",
+    "AAH-423"
+  ],
+  [
+    "AAH-335",
+    "AAH-372"
+  ],
+  [
+    "AAH-335",
+    "AAH-371"
+  ],
+  [
+    "AAH-335",
+    "AAH-369"
+  ],
+  [
+    "AAH-335",
+    "AAH-368"
+  ],
+  [
+    "AAH-335",
+    "AAH-367"
+  ],
+  [
+    "AAH-335",
+    "AAH-336"
+  ],
+  {
+    "ltype": "Blocks",
+    "source": "AAH-317",
+    "target": "AAH-479"
+  },
+  [
+    "AAH-314",
+    "AAH-228"
+  ],
+  {
+    "ltype": "Blocks",
+    "source": "AAH-312",
+    "target": "AAH-223"
+  },
+  [
+    "AAH-312",
+    "AAH-1438"
+  ],
+  [
+    "AAH-312",
+    "AAH-1353"
+  ],
+  [
+    "AAH-312",
+    "AAH-1352"
+  ],
+  [
+    "AAH-312",
+    "AAH-1339"
+  ],
+  [
+    "AAH-312",
+    "AAH-1333"
+  ],
+  [
+    "AAH-312",
+    "AAH-1264"
+  ],
+  [
+    "AAH-312",
+    "AAH-1261"
+  ],
+  [
+    "AAH-312",
+    "AAH-1260"
+  ],
+  [
+    "AAH-312",
+    "AAH-1259"
+  ],
+  [
+    "AAH-312",
+    "AAH-1251"
+  ],
+  [
+    "AAH-312",
+    "AAH-1064"
+  ],
+  [
+    "AAH-312",
+    "AAH-1062"
+  ],
+  [
+    "AAH-312",
+    "AAH-1061"
+  ],
+  [
+    "AAH-312",
+    "AAH-1060"
+  ],
+  [
+    "AAH-312",
+    "AAH-1059"
+  ],
+  [
+    "AAH-312",
+    "AAH-1058"
+  ],
+  [
+    "AAH-312",
+    "AAH-1057"
+  ],
+  [
+    "AAH-312",
+    "AAH-1056"
+  ],
+  [
+    "AAH-312",
+    "AAH-1055"
+  ],
+  [
+    "AAH-312",
+    "AAH-1054"
+  ],
+  [
+    "AAH-312",
+    "AAH-1053"
+  ],
+  [
+    "AAH-306",
+    "AAH-1013"
+  ],
+  [
+    "AAH-306",
+    "AAH-224"
+  ],
+  [
+    "AAH-304",
+    "AAH-316"
+  ],
+  [
+    "AAH-304",
+    "AAH-315"
+  ],
+  [
+    "AAH-304",
+    "AAH-227"
+  ],
+  [
+    "AAH-304",
+    "AAH-226"
+  ],
+  [
+    "AAH-304",
+    "AAH-225"
+  ],
+  [
+    "AAH-301",
+    "AAH-222"
+  ],
+  [
+    "AAH-288",
+    "AAH-375"
+  ],
+  [
+    "AAH-288",
+    "AAH-290"
+  ],
+  [
+    "AAH-288",
+    "AAH-289"
+  ],
+  [
+    "AAH-288",
+    "AAH-23"
+  ],
+  {
+    "ltype": "Sequence",
+    "source": "AAH-284",
+    "target": "AAH-283"
+  },
+  {
+    "ltype": "Sequence",
+    "source": "AAH-283",
+    "target": "AAH-71"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "AAH-278",
+    "target": "AAH-253"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "AAH-277",
+    "target": "AAH-480"
+  },
+  {
+    "ltype": "Gantt: start-finish",
+    "source": "AAH-263",
+    "target": "AAH-52"
+  },
+  {
+    "ltype": "Gantt: finish-start",
+    "source": "AAH-262",
+    "target": "AAH-23"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "AAH-254",
+    "target": "AAH-253"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "AAH-253",
+    "target": "AAH-251"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "AAH-250",
+    "target": "AAH-366"
+  },
+  {
+    "ltype": "Causality",
+    "source": "AAH-247",
+    "target": "AAH-220"
+  },
+  [
+    "AAH-238",
+    "AAH-575"
+  ],
+  [
+    "AAH-238",
+    "AAH-555"
+  ],
+  [
+    "AAH-238",
+    "AAH-554"
+  ],
+  [
+    "AAH-238",
+    "AAH-553"
+  ],
+  [
+    "AAH-238",
+    "AAH-552"
+  ],
+  [
+    "AAH-238",
+    "AAH-551"
+  ],
+  [
+    "AAH-238",
+    "AAH-550"
+  ],
+  [
+    "AAH-238",
+    "AAH-549"
+  ],
+  [
+    "AAH-238",
+    "AAH-548"
+  ],
+  [
+    "AAH-238",
+    "AAH-547"
+  ],
+  [
+    "AAH-238",
+    "AAH-546"
+  ],
+  [
+    "AAH-238",
+    "AAH-544"
+  ],
+  [
+    "AAH-238",
+    "AAH-543"
+  ],
+  [
+    "AAH-238",
+    "AAH-542"
+  ],
+  [
+    "AAH-238",
+    "AAH-245"
+  ],
+  [
+    "AAH-238",
+    "AAH-244"
+  ],
+  [
+    "AAH-238",
+    "AAH-243"
+  ],
+  [
+    "AAH-238",
+    "AAH-242"
+  ],
+  [
+    "AAH-238",
+    "AAH-241"
+  ],
+  [
+    "AAH-238",
+    "AAH-240"
+  ],
+  [
+    "AAH-238",
+    "AAH-239"
+  ],
+  {
+    "ltype": "Blocks",
+    "source": "AAH-224",
+    "target": "AAH-928"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "AAH-224",
+    "target": "AAH-949"
+  },
+  [
+    "AAH-221",
+    "AAH-499"
+  ],
+  [
+    "AAH-221",
+    "AAH-467"
+  ],
+  [
+    "AAH-221",
+    "AAH-461"
+  ],
+  [
+    "AAH-221",
+    "AAH-338"
+  ],
+  [
+    "AAH-221",
+    "AAH-317"
+  ],
+  [
+    "AAH-221",
+    "AAH-278"
+  ],
+  [
+    "AAH-221",
+    "AAH-277"
+  ],
+  [
+    "AAH-221",
+    "AAH-276"
+  ],
+  [
+    "AAH-221",
+    "AAH-275"
+  ],
+  [
+    "AAH-221",
+    "AAH-274"
+  ],
+  [
+    "AAH-221",
+    "AAH-256"
+  ],
+  [
+    "AAH-221",
+    "AAH-255"
+  ],
+  [
+    "AAH-221",
+    "AAH-254"
+  ],
+  [
+    "AAH-221",
+    "AAH-251"
+  ],
+  [
+    "AAH-221",
+    "AAH-250"
+  ],
+  [
+    "AAH-221",
+    "AAH-249"
+  ],
+  {
+    "ltype": "Causality",
+    "source": "AAH-220",
+    "target": "AAH-297"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-205",
+    "target": "AAH-206"
+  },
+  {
+    "ltype": "Duplicate",
+    "source": "AAH-140",
+    "target": "AAH-159"
+  },
+  {
+    "ltype": "Issue split",
+    "source": "AAH-97",
+    "target": "AAH-27"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-97",
+    "target": "AAH-96"
+  },
+  {
+    "ltype": "Issue split",
+    "source": "AAH-96",
+    "target": "AAH-27"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "AAH-78",
+    "target": "AAH-29"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-76",
+    "target": "AAH-78"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-76",
+    "target": "AAH-79"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-76",
+    "target": "AAH-81"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-76",
+    "target": "AAH-82"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-76",
+    "target": "AAH-103"
+  },
+  {
+    "ltype": "Duplicate",
+    "source": "AAH-55",
+    "target": "AAH-208"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-25",
+    "target": "AAH-26"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-25",
+    "target": "AAH-27"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-25",
+    "target": "AAH-28"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-25",
+    "target": "AAH-47"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-23",
+    "target": "AAH-373"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-23",
+    "target": "AAH-374"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-20",
+    "target": "AAH-21"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-20",
+    "target": "AAH-22"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "AAH-17",
+    "target": "AAH-35"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-13",
+    "target": "AAH-14"
+  },
+  {
+    "ltype": "subtask",
+    "source": "AAH-13",
+    "target": "AAH-15"
+  },
+  {
+    "ltype": "Blocks",
+    "source": "AAH-9",
+    "target": "AAH-7"
+  },
+  [
+    "AAH-3",
+    "AAH-8"
+  ],
+  [
+    "AAH-3",
+    "AAH-7"
+  ]
+]
