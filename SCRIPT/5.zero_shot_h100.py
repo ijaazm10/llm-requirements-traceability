@@ -39,7 +39,7 @@ BASE_MODEL = "unsloth/gemma-4-31B-it"
 ALL_PROJECTS = ["AAH", "BEAM", "CB", "FH", "JBIDE", "KEYCLOAK", "KOGITO", "PROJQUAY"]
 
 MAX_NEW_TOKENS = 20
-MAX_SEQ_LENGTH = 3072     # Gemma 4 supports 256K, but our prompts are short
+MAX_SEQ_LENGTH = 8192     # Executed zero-shot configuration reflected by saved predictions
 SEED = 42
 # ================================================
 
