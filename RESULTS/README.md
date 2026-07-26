@@ -46,6 +46,19 @@ Prediction records contain fields such as:
 
 The exact schema varies slightly by method because local, RAG, LoRA, and cloud-batch runs log different operational metadata.
 
+## Scoring and Reliability
+
+The headline classification metrics use **clean scoring**, which excludes unparseable generative outputs. **Conservative scoring** treats each unparseable output as a negative prediction. Consequently, a parse failure on a positive pair becomes a false negative, whereas a parse failure on a negative pair becomes a true negative. A truncated input is not penalised separately if the model still produces a parseable decision.
+
+| Local generative method | Clean Macro F2 | Conservative Macro F2 | Parse failures | Input cap hits |
+| :--- | ---: | ---: | ---: | ---: |
+| Gemma 4 31B zero-shot | 0.6938 | 0.6932 | 13 | 13 inferred |
+| Gemma 4 31B QLoRA V4 | 0.7537 | 0.7522 | 27 | 27 |
+| Gemma 4 31B RAG-B | 0.7878 | 0.7800 | 206 | 207 |
+| Gemma 4 31B LoRA + RAG | 0.7947 | 0.7868 | 201 | 207 |
+
+The zero-shot prediction records do not contain an explicit truncation flag. Its 13 reported cap hits are inferred from the 13 inputs that reached the executed 8,192-token limit; all 13 were parse failures. RAG, QLoRA, and combined runs recorded truncation flags directly. These conservative scores describe the effect of the stated parsing convention and should not be read as independently observed production accuracy.
+
 ## Statistical JSONs
 
 ### `significance_tests_clean_f2.json`

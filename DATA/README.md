@@ -52,6 +52,22 @@ The other issue, component, version, and preselected-link exports are retained a
 
 The exports retain the provenance and terms of their originating public Jira projects; they are not relicensed under the repository's MIT licence.
 
+## Construction Funnel
+
+The benchmark is the result of a substantial reduction from heterogeneous Jira exports to a controlled reader-stage classification dataset:
+
+| Stage | Count | Interpretation |
+| :--- | ---: | :--- |
+| Denoised issue records | 42,525 | Issue records available before hierarchy and text filtering |
+| Raw link records | 27,751 | Heterogeneous Jira links before endpoint, type, level, and text filtering |
+| Participating requirements | 11,680 | Retained requirements that occur in at least one final positive link |
+| Retained positive trace links | 10,503 | Adjacent-level links over the mapped issue-type subset |
+| Full hierarchy-valid candidate pairs | 3,342,078 | All adjacent-level pairs among the participating requirements |
+| Candidate non-links | 3,331,575 | Candidate pairs without a retained recorded link |
+| Final controlled benchmark pairs | 42,012 | 10,503 positives paired with 31,509 mined hard negatives |
+
+The full hierarchy-valid candidate space contains approximately 317.2 candidate non-links for every retained positive link. The final 1:3 benchmark is not intended to reproduce this deployment base rate. It controls the evaluation by pairing every positive with three semantically similar, hierarchy-valid non-links that a first-stage retriever could plausibly surface. The 42,012 final pairs are split into 27,308 training, 4,036 validation, and 10,668 test rows.
+
 ## Project Counts
 
 These counts are computed from the committed JSON files in `DATA/.GROUND_TRUTH/`.

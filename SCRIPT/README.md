@@ -25,6 +25,8 @@ The scripts are retained as implementation artefacts. The current repository doe
 | `10_significance_tests.py` | Project-level sign tests, Wilcoxon tests, and bootstrap intervals | Saved predictions for the four main local methods | `RESULTS/significance_tests_clean_f2.json` |
 | `11_generate_thesis_figures_v2.py` | Generates the current thesis result figures | Consolidated result and statistical JSON files | `RESULTS/FIGURES_V2/` |
 
+The shared `9` prefix does not indicate that these files are one combined stage. `9c`--`9e` implement the proprietary zero-shot batch workflow, while `9.stratified_eval_by_link_type.py` is a separate post-hoc analysis over saved predictions.
+
 ## Method Configuration Notes
 
 - **RAG:** RAG-A uses MPNet with balanced demonstrations; RAG-B replaces MPNet with Qwen3 embeddings; RAG-C retrieves positive demonstrations only; RAG-D combines Qwen3 and BM25 rankings through reciprocal-rank fusion.
